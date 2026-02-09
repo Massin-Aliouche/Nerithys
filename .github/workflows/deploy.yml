@@ -10,10 +10,20 @@ permissions:
   contents: read
 
 jobs:
-  build:
+  lint:
+    name: Lint codebase
     runs-on: ubuntu-latest
-    outputs:
-      artifact-path: ${{ steps.upload-artifact.outputs.artifact-path }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run Super-Linter
+        uses: github/super-linter@v5
+        env:
+          VALIDATE_ALL_CODEBASE: true
+          DEFAULT_BRANCH: main
+
+  build:
+    needs: lint
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
