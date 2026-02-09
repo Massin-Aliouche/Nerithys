@@ -25,3 +25,14 @@ body{font-family:'Inter',system-ui,Segoe UI,Roboto,Arial;background:linear-gradi
 .site-footer{padding:1.25rem 0;color:var(--muted);text-align:center;font-size:.9rem}
 .nav-toggle{display:none;background:none;border:0;color:var(--text);font-size:1.25rem}
 @media(max-width:720px){.nav-list{display:none;position:absolute;right:1rem;top:64px;flex-direction:column;background:var(--card);padding:.75rem;border-radius:8px;box-shadow:0 8px 20px rgba(2,6,23,.6)}.nav-toggle{display:inline-block}}
+
+/* Layout for species and articles */
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin:1.25rem 0}
+.species-card{display:block;text-decoration:none;color:inherit;padding:1.25rem;min-height:140px;align-items:center}
+.species-emoji{font-size:2.5rem;margin-bottom:.5rem}
+.content .card{max-width:900px;margin:0 auto}
+.muted{color:var(--muted)}
+
+/* Responsive adjustments */
+@media(max-width:720px){.hero h1{font-size:1.6rem}.species-emoji{font-size:2rem}}
+
