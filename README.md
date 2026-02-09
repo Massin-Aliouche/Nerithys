@@ -6,7 +6,7 @@
 
 Petit prototype d'interface pour commencer le projet. Ouvrez `index.html` dans un navigateur pour voir le rendu.
 
-Site en ligne: [https://Nerithys.com](https://nerithys.com)
+Site en ligne: https://massin-aliouche.github.io/Nerithys/
 
 Instructions rapides :
 
