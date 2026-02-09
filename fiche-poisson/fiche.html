@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Fiche Poisson — Nerithys</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="/">Nerithys</a>
+      <nav class="nav">
+        <ul class="nav-list">
+          <li><a href="/">Accueil</a></li>
+          <li><a href="/fiche-poisson/">Fiche Poisson</a></li>
+          <li><a href="/articles/">Articles</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container content">
+    <div id="species-content"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">© Nerithys</div>
+  </footer>
+
+  <script type="module">
+    import { renderFiche } from '/js/species.js';
+    document.addEventListener('DOMContentLoaded', () => renderFiche('species-content'));
+  </script>
+</body>
+</html>

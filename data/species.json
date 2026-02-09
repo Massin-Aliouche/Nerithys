@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "neon-tetra",
+    "common_name": "Neon Tetra",
+    "scientific_name": "Paracheirodon innesi",
+    "biotope": "Amazonien",
+    "size_cm": 3,
+    "min_volume_l": 60,
+    "temp_c": "22-26",
+    "ph": "5.5-7.0",
+    "gh_kh": "1-10 dGH",
+    "difficulty": "facile",
+    "behavior": "Poisson de banc, paisible",
+    "compatibility": "Compatible avec petites espèces pacifiques",
+    "feeding": "Flocons, microgranulés, nourriture congelée",
+    "reproduction": "Ponte en banc, nécessite eau douce et plantes fines",
+    "maintenance_tips": "Maintenir en banc d'au moins 6 individus; plantes et zones ombrées.",
+    "image": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "slug": "gourami",
+    "common_name": "Gourami",
+    "scientific_name": "Trichogaster spp.",
+    "biotope": "Asiatique",
+    "size_cm": 10,
+    "min_volume_l": 80,
+    "temp_c": "24-28",
+    "ph": "6.0-7.5",
+    "gh_kh": "5-15 dGH",
+    "difficulty": "moyen",
+    "behavior": "Plutôt calme, parfois territorial",
+    "compatibility": "Compatible avec espèces pacifiques de taille rapprochée",
+    "feeding": "Omnivore: flocons, granulés, vivant",
+    "reproduction": "Par construction de nid de bulles pour certaines espèces",
+    "maintenance_tips": "Plantes flottantes et zones calmes; attention aux mâles entre eux.",
+    "image": "https://images.unsplash.com/photo-1516118030478-9f1b6bde1f3a?auto=format&fit=crop&w=800&q=60"
+  }
+]
