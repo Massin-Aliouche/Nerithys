@@ -1,0 +1,31 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  pages: write
+  id-token: write
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      artifact-path: ${{ steps.upload-artifact.outputs.artifact-path }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Upload Pages artifact
+        id: upload-artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: './'
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
