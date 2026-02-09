@@ -57,5 +57,14 @@
   </footer>
 
   <script src="js/main.js"></script>
+  <script type="module">
+    import { renderList } from '/js/species.js';
+    document.addEventListener('DOMContentLoaded', () => {
+      // if on fiche-poisson index, render list
+      if(window.location.pathname.endsWith('/fiche-poisson/') || window.location.pathname.endsWith('/fiche-poisson')){
+        renderList('species-list');
+      }
+    });
+  </script>
 </body>
 </html>

@@ -26,31 +26,16 @@
       <p class="muted">Pages descriptives pour chaque espèce — paramètres, maintenance et conseils.</p>
     </section>
 
-    <section class="grid">
-      <article class="card species-card">
-        <a href="/fiche-poisson/tetra.html">
-          <div class="species-emoji">🐟</div>
-          <h3>Neon Tetra</h3>
-          <p class="muted">Petit, coloré — parfait pour communautaire.</p>
-        </a>
-      </article>
-
-      <article class="card species-card">
-        <a href="#">
-          <div class="species-emoji">🦈</div>
-          <h3>Bala Shark</h3>
-          <p class="muted">Actif, grand — nécessite espace.</p>
-        </a>
-      </article>
-
-      <article class="card species-card">
-        <a href="#">
-          <div class="species-emoji">🐠</div>
-          <h3>Gourami</h3>
-          <p class="muted">Calme, territorial avec ses pairs.</p>
-        </a>
-      </article>
+    <section style="margin:1rem 0;display:flex;gap:1rem;align-items:center;flex-wrap:wrap">
+      <input id="search" placeholder="Rechercher une espèce, biotope..." style="flex:1;min-width:200px;padding:.6rem;border-radius:8px;border:1px solid rgba(255,255,255,0.05);background:rgba(255,255,255,0.02);color:var(--text)">
+      <select id="filter-biotope" style="padding:.5rem;border-radius:8px;background:var(--card);color:var(--text);border:1px solid rgba(255,255,255,0.03)">
+        <option value="all">Tous les biotopes</option>
+        <option>Amazonien</option>
+        <option>Asiatique</option>
+      </select>
     </section>
+
+    <section id="species-list" class="grid"></section>
   </main>
 
   <footer class="site-footer">
