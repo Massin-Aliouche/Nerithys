@@ -1,6 +1,12 @@
+
+
 # Nerithys — Prototype
 
+![GitHub Actions](https://github.com/Massin-Aliouche/Nerithys/actions/workflows/deploy.yml/badge.svg)
+
 Petit prototype d'interface pour commencer le projet. Ouvrez `index.html` dans un navigateur pour voir le rendu.
+
+Site en ligne: [https://Nerithys.com](https://nerithys.com)
 
 Instructions rapides :
 
