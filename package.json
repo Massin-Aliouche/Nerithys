@@ -1,0 +1,12 @@
+{
+  "name": "nerithys-site",
+  "version": "0.1.0",
+  "description": "Nerithys - aquariophilie (static site)",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "add-fiche": "node scripts/add-fiche.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
