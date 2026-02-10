@@ -24,11 +24,11 @@
       "https://www.seriouslyfish.com/species/fundulopanchax-gardneri/"
     ],
     "images": [
-      "/assets/images/fundulopanchax-cover.jpg"
+      "assets/images/fundulopanchax-cover.jpg"
     ],
     "gallery": [
-      "/assets/images/fundulopanchax-1.jpg",
-      "/assets/images/fundulopanchax-2.jpg"
+      "assets/images/fundulopanchax-1.jpg",
+      "assets/images/fundulopanchax-2.jpg"
     ],
     "tags": [
       "killifish",

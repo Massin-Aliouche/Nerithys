@@ -20,7 +20,7 @@
   "breeding": "Ponte sur substrat, parfois utilisation de plantes fines; retirer parents si nécessaire.",
   "notes": "Préférer un bac planté avec feuilles tombées pour simuler le biotope; maintenir une bonne qualité d'eau et des changements réguliers.",
   "sources": ["https://www.seriouslyfish.com/species/fundulopanchax-gardneri/"],
-  "images": ["/assets/images/fundulopanchax-cover.jpg"],
-  "gallery": ["/assets/images/fundulopanchax-1.jpg","/assets/images/fundulopanchax-2.jpg"],
+  "images": ["assets/images/fundulopanchax-cover.jpg"],
+  "gallery": ["assets/images/fundulopanchax-1.jpg","assets/images/fundulopanchax-2.jpg"],
   "tags": ["killifish","petite-taille","afrique"]
 }
