@@ -9,13 +9,20 @@
   <meta property="og:description" content="{{DESCRIPTION}}">
   <meta property="og:image" content="{{OG_IMAGE}}">
   <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/design-tokens.css">
   <script type="application/ld+json">{{JSON_LD}}</script>
 </head>
 <body>
   <header class="site-header"><div class="container"><a class="brand" href="/">Nerithys</a></div></header>
   <main class="container content">
-    {{CONTENT}}
+    <article class="prose-limited">
+      {{CONTENT}}
+    </article>
   </main>
   <footer class="site-footer"><div class="container">© Nerithys</div></footer>
+  <div id="lightbox" class="lightbox" aria-hidden="true">
+    <div class="inner"><img id="lightbox-img" alt="" /></div>
+  </div>
+  <script src="/js/ui.js"></script>
 </body>
 </html>
