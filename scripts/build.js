@@ -93,7 +93,7 @@ async function build(){
   // generate listing page HTML
   const cards = fiches.map(f => {
     const slug = f.slug || slugify(f.name);
-    return `<article class="card"><a href="/fiches/${slug}/"><h3>${f.name}</h3><p class="muted">${f.scientificName} · ${f.biotope}</p></a></article>`;
+    return `<article class="card"><a href="fiches/${slug}/"><h3>${f.name}</h3><p class="muted">${f.scientificName} · ${f.biotope}</p></a></article>`;
   }).join('\n');
 
   const listingHtml = listingTpl.replace(/{{TITLE}}/g, 'Fiches poissons — Nerithys')

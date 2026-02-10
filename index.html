@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <base href="/Nerithys/">
   <title>Nerithys — Prototype</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
@@ -61,7 +62,7 @@
 
   <script src="js/main.js"></script>
   <script type="module">
-    import { renderList } from '/js/species.js';
+    import { renderList } from './js/species.js';
     document.addEventListener('DOMContentLoaded', () => {
       // if on fiche-poisson index, render list
       if(window.location.pathname.endsWith('/fiche-poisson/') || window.location.pathname.endsWith('/fiche-poisson')){
