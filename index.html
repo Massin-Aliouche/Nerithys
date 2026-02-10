@@ -4,22 +4,22 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Nerithys — Prototype</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
   <meta name="description" content="Prototype d'interface moderne pour Nerithys">
 </head>
 <body>
   <header class="site-header">
-    <div class="container">
+    <div class="site-container flex items-center justify-between">
       <a class="brand" href="#">Nerithys</a>
-      <nav class="nav">
-        <button class="nav-toggle" aria-expanded="false">☰</button>
+      <nav>
+        <button class="md:hidden nav-toggle" aria-expanded="false">☰</button>
         <ul class="nav-list">
-          <li><a href="/">Accueil</a></li>
-          <li><a href="/fiche-poisson/">Fiche Poisson</a></li>
-          <li><a href="/articles/">Articles</a></li>
-          <li><a href="#">À propos</a></li>
-          <li><a class="btn" href="#">Contact</a></li>
+          <li><a class="nav-link" href="/">Accueil</a></li>
+          <li><a class="nav-link" href="/fiche-poisson/">Fiches</a></li>
+          <li><a class="nav-link" href="/articles/">Articles</a></li>
+          <li><a class="nav-link" href="#">À propos</a></li>
+          <li><a class="btn-primary" href="#">Contact</a></li>
         </ul>
       </nav>
     </div>
@@ -27,10 +27,13 @@
 
   <main>
     <section class="hero">
-      <div class="container">
-        <h1>Bienvenue sur Nerithys</h1>
-        <p>Prototype d'interface moderne, responsive et facile à personnaliser.</p>
-        <p><a class="cta" href="#">Commencer</a></p>
+      <div class="site-container hero-panel">
+        <h1 class="hero-title">Nerithys — Aquascaping & soins premium</h1>
+        <p class="hero-sub prose-limited mx-auto">Inspirez-vous des meilleures pratiques d'aquascaping et découvrez des fiches d'espèces détaillées, des guides de maintenance, et des inspirations design pour votre aquarium.</p>
+        <div class="mt-8 flex justify-center gap-4">
+          <a class="btn-primary" href="#">Explorer les fiches</a>
+          <a class="inline-flex items-center px-4 py-2 rounded-md bg-muted-surface text-muted" href="#">Voir les articles</a>
+        </div>
       </div>
     </section>
 
