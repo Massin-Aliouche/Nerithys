@@ -7,10 +7,30 @@
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-  <header class="site-header"><div class="container"><a class="brand" href="/">Nerithys</a></div></header>
-  <main class="container content">
-    <section class="hero"><h1>Fiches Poissons</h1></section>
-    <section class="grid">{{CARDS}}</section>
+  <header class="site-header">
+    <div class="site-container">
+      <a class="brand" href="/">Nerithys</a>
+    </div>
+  </header>
+  <main class="site-container content">
+    <section class="hero-panel"><h1 class="hero-title">Fiches Poissons</h1>
+      <p class="hero-sub">Catalogue des espèces — filtres, recherche et fiches détaillées.</p>
+    </section>
+
+    <section class="card-ui" style="display:flex;gap:1rem;align-items:flex-start;flex-wrap:wrap">
+      <div style="flex:1;min-width:220px">
+        <label for="search" class="sr-only">Recherche</label>
+        <input id="search" class="search-input" placeholder="Rechercher par nom, scientifique ou biotope...">
+      </div>
+      <div style="min-width:220px;display:flex;gap:.75rem;align-items:center">
+        <select id="filter-biotope" class="search-input" aria-label="Filtrer par biotope">
+          <option value="all">Tous les biotopes</option>
+        </select>
+        <div id="result-count" class="badge">—</div>
+      </div>
+    </section>
+
+    <section id="species-list" class="grid" style="margin-top:1rem">{{CARDS}}</section>
   </main>
   <footer class="site-footer"><div class="container">© Nerithys</div></footer>
 </body>

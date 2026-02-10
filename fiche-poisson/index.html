@@ -8,34 +8,38 @@
 </head>
 <body>
   <header class="site-header">
-    <div class="container">
+    <div class="site-container">
       <a class="brand" href="/">Nerithys</a>
-      <nav class="nav">
+      <nav>
         <ul class="nav-list">
-          <li><a href="/">Accueil</a></li>
-          <li><a href="/fiche-poisson/">Fiche Poisson</a></li>
-          <li><a href="/articles/">Articles</a></li>
+          <li><a class="nav-link" href="/">Accueil</a></li>
+          <li><a class="nav-link" href="/fiche-poisson/">Fiches</a></li>
+          <li><a class="nav-link" href="/articles/">Articles</a></li>
         </ul>
       </nav>
     </div>
   </header>
 
-  <main class="container">
-    <section class="hero" style="padding:2rem 0">
-      <h1>Fiches Poisson</h1>
-      <p class="muted">Pages descriptives pour chaque espèce — paramètres, maintenance et conseils.</p>
+  <main class="site-container">
+    <section class="hero-panel">
+      <h1 class="hero-title">Fiches Poisson</h1>
+      <p class="hero-sub">Pages descriptives pour chaque espèce — paramètres, maintenance et conseils.</p>
     </section>
 
-    <section style="margin:1rem 0;display:flex;gap:1rem;align-items:center;flex-wrap:wrap">
-      <input id="search" placeholder="Rechercher une espèce, biotope..." style="flex:1;min-width:200px;padding:.6rem;border-radius:8px;border:1px solid rgba(255,255,255,0.05);background:rgba(255,255,255,0.02);color:var(--text)">
-      <select id="filter-biotope" style="padding:.5rem;border-radius:8px;background:var(--card);color:var(--text);border:1px solid rgba(255,255,255,0.03)">
-        <option value="all">Tous les biotopes</option>
-        <option>Amazonien</option>
-        <option>Asiatique</option>
-      </select>
+    <section class="card-ui" style="display:flex;gap:1rem;align-items:flex-start;flex-wrap:wrap;margin-top:1rem">
+      <div style="flex:1;min-width:220px">
+        <label for="search" class="sr-only">Recherche</label>
+        <input id="search" class="search-input" placeholder="Rechercher une espèce, biotope...">
+      </div>
+      <div style="min-width:220px;display:flex;gap:.75rem;align-items:center">
+        <select id="filter-biotope" class="search-input" aria-label="Filtrer par biotope">
+          <option value="all">Tous les biotopes</option>
+        </select>
+        <div id="result-count" class="badge">—</div>
+      </div>
     </section>
 
-    <section id="species-list" class="grid"></section>
+    <section id="species-list" class="grid" style="margin-top:1rem"></section>
   </main>
 
   <footer class="site-footer">

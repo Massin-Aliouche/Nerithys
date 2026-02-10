@@ -5,11 +5,11 @@ async function fetchSpecies(){
 
 function createCard(item){
   const a = document.createElement('a');
-  a.className = 'card species-card';
+  a.className = 'card-ui species-card';
   a.href = `/fiche-poisson/fiche.html?slug=${encodeURIComponent(item.slug)}`;
   a.innerHTML = `
     <div style="display:flex;gap:1rem;align-items:center">
-      <img src="${item.image}" alt="${item.common_name}" style="width:84px;height:64px;object-fit:cover;border-radius:8px;"> 
+      <img src="${item.image}" alt="${item.common_name}" style="width:120px;height:84px;object-fit:cover;border-radius:10px"> 
       <div>
         <h3>${item.common_name}</h3>
         <p class="muted">${item.scientific_name} · ${item.biotope}</p>
@@ -28,7 +28,22 @@ async function renderList(containerId){
   species.forEach(s => list.appendChild(createCard(s)));
   container.innerHTML = '';
   container.appendChild(list);
+  populateFilters(species);
   setupSearch(species, container);
+}
+
+function populateFilters(species){
+  const biotope = document.getElementById('filter-biotope');
+  if(!biotope) return;
+  const set = new Set(species.map(s => s.biotope).filter(Boolean));
+  // clear existing options except 'all'
+  biotope.querySelectorAll('option:not([value="all"])').forEach(o => o.remove());
+  Array.from(set).sort().forEach(b => {
+    const opt = document.createElement('option');
+    opt.value = b;
+    opt.textContent = b;
+    biotope.appendChild(opt);
+  });
 }
 
 function setupSearch(species, container){
@@ -46,7 +61,12 @@ function setupSearch(species, container){
     const list = container.querySelector('.grid');
     list.innerHTML = '';
     filtered.forEach(s => list.appendChild(createCard(s)));
+    const countEl = document.getElementById('result-count');
+    if(countEl) countEl.textContent = `${filtered.length} résultat${filtered.length>1? 's' : ''}`;
   }
+  // initialize counter
+  const initCount = document.getElementById('result-count');
+  if(initCount) initCount.textContent = `${species.length} résultat${species.length>1? 's' : ''}`;
   search.addEventListener('input', doFilter);
   biotope.addEventListener('change', doFilter);
 }
