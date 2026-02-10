@@ -4,7 +4,7 @@
   "description": "Nerithys - aquariophilie (static site)",
   "scripts": {
     "build": "node scripts/build.js",
-    "build:css": "tailwindcss -i ./css/tailwind-input.css -o ./css/style.css --minify",
+    "build:css": "node ./scripts/build-css.js",
     "add-fiche": "node scripts/add-fiche.js"
   },
   "engines": {
