@@ -4,9 +4,15 @@
   "description": "Nerithys - aquariophilie (static site)",
   "scripts": {
     "build": "node scripts/build.js",
+    "build:css": "tailwindcss -i ./css/tailwind-input.css -o ./css/style.css --minify",
     "add-fiche": "node scripts/add-fiche.js"
   },
   "engines": {
     "node": ">=14"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
   }
 }
