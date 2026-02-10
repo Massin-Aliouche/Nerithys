@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const postcss = require('postcss');
-const tailwindcss = require('tailwindcss');
+const tailwindPostcss = require('@tailwindcss/postcss');
 const autoprefixer = require('autoprefixer');
 
 const inputPath = path.resolve(__dirname, '../css/tailwind-input.css');
@@ -10,7 +10,7 @@ const outputPath = path.resolve(__dirname, '../css/style.css');
 async function build() {
   try {
     const css = await fs.promises.readFile(inputPath, 'utf8');
-    const result = await postcss([tailwindcss('./tailwind.config.cjs'), autoprefixer]).process(css, {
+    const result = await postcss([tailwindPostcss(), autoprefixer]).process(css, {
       from: inputPath,
       to: outputPath,
       map: { inline: false }
