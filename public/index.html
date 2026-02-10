@@ -4,52 +4,35 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Nerithys — Prototype</title>
+  <title>Nerithys — Fiches poissons</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
-  <meta name="description" content="Prototype d'interface moderne pour Nerithys">
+  <link rel="stylesheet" href="css/design-tokens.css">
+  <meta name="description" content="Fiches poissons et guides aquariophiles — Nerithys">
 </head>
 <body>
   <header class="site-header">
-    <div class="site-container flex items-center justify-between">
-      <a class="brand" href="#">Nerithys</a>
+    <div class="site-container">
+      <a class="brand" href="./">Nerithys</a>
       <nav>
-        <button class="md:hidden nav-toggle" aria-expanded="false">☰</button>
         <ul class="nav-list">
-          <li><a class="nav-link" href="/">Accueil</a></li>
-          <li><a class="nav-link" href="/fiche-poisson/">Fiches</a></li>
-          <li><a class="nav-link" href="/articles/">Articles</a></li>
-          <li><a class="nav-link" href="#">À propos</a></li>
-          <li><a class="btn-primary" href="#">Contact</a></li>
+          <li><a class="nav-link" href="./">Accueil</a></li>
+          <li><a class="nav-link" href="fiche-poisson/">Fiches</a></li>
+          <li><a class="nav-link" href="articles/">Articles</a></li>
         </ul>
       </nav>
     </div>
   </header>
 
-  <main>
-    <section class="hero">
-      <div class="site-container hero-panel">
-        <h1 class="hero-title">Nerithys — Aquascaping & soins premium</h1>
-        <p class="hero-sub prose-limited mx-auto">Inspirez-vous des meilleures pratiques d'aquascaping et découvrez des fiches d'espèces détaillées, des guides de maintenance, et des inspirations design pour votre aquarium.</p>
-        <div class="mt-8 flex justify-center gap-4">
-          <a class="btn-primary" href="#">Explorer les fiches</a>
-          <a class="inline-flex items-center px-4 py-2 rounded-md bg-muted-surface text-muted" href="#">Voir les articles</a>
-        </div>
-      </div>
+  <main class="site-container">
+    <section class="hero-panel" style="padding-top:2rem;padding-bottom:1rem">
+      <h1 class="hero-title">Fiches poissons — Nerithys</h1>
+      <p class="hero-sub">Pages détaillées pour chaque espèce — paramètres, maintenance et conseils.</p>
     </section>
 
-    <section class="features container">
-      <article class="card">
-        <h3>Design</h3>
-        <p>Interfaces propres et adaptatives.</p>
-      </article>
-      <article class="card">
-        <h3>Rapide</h3>
-        <p>Performances optimisées pour le web moderne.</p>
-      </article>
-      <article class="card">
-        <h3>Facile</h3>
-        <p>Code simple et bien structuré pour démarrer.</p>
-      </article>
+    <section aria-label="Dernières fiches">
+      <h2 style="margin-bottom:0.5rem">Dernières fiches</h2>
+      <div id="species-list" class="grid-cards" style="margin-top:1rem"></div>
     </section>
   </main>
 
@@ -60,14 +43,7 @@
   </footer>
 
   <script src="js/main.js"></script>
-  <script type="module">
-    import { renderList } from '/js/species.js';
-    document.addEventListener('DOMContentLoaded', () => {
-      // if on fiche-poisson index, render list
-      if(window.location.pathname.endsWith('/fiche-poisson/') || window.location.pathname.endsWith('/fiche-poisson')){
-        renderList('species-list');
-      }
-    });
-  </script>
+  <script src="js/species.js"></script>
+  <script src="js/ui.js"></script>
 </body>
 </html>
