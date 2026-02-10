@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Fiches — Nerithys</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/design-tokens.css">
+  
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-container">
+      <h1>Fiches poissons</h1>
+      <p class="prose-limited" style="color:var(--muted)">Toutes les fiches de la base. Utilisez la recherche et les filtres pour affiner votre sélection.</p>
+    </div>
+  </header>
+  <main class="site-container content">
+    <section aria-label="Recherche et filtres">
+      <div class="filters" role="region" aria-labelledby="filters-heading">
+        <div class="field" style="flex:1">
+          <label for="q">Recherche</label>
+          <input id="q" class="input" placeholder="Nom, famille..." />
+        </div>
+        <div class="field">
+          <label for="biotope">Biotope</label>
+          <select id="biotope"><option value="all">Tous</option></select>
+        </div>
+        <div class="field">
+          <label for="difficulty">Difficulté</label>
+          <select id="difficulty"><option value="all">Tous</option><option value="facile">Facile</option><option value="moyen">Moyen</option><option value="difficile">Difficile</option></select>
+        </div>
+        <div class="field">
+          <label for="volumeMin">Volume min. (L)</label>
+          <input id="volumeMin" type="number" min="0" placeholder="0" />
+        </div>
+        <div style="display:flex;align-items:end;gap:0.5rem">
+          <button id="resetFilters" class="btn btn--ghost">Réinitialiser</button>
+        </div>
+      </div>
+    </section>
+
+    <div class="results-row">
+      <div id="resultsCount">Chargement…</div>
+      <div></div>
+    </div>
+
+    <section id="listing" aria-live="polite">
+      <div id="species-list" class="grid-cards"></div>
+    </section>
+  </main>
+
+  <div id="lightbox" class="lightbox" aria-hidden="true">
+    <div class="inner"><img id="lightbox-img" alt="" /></div>
+  </div>
+
+    <script src="../js/species.js"></script>
+    <script src="../js/ui.js"></script>
+</body>
+</html>
+
