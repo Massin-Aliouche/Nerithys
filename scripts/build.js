@@ -22,6 +22,22 @@ async function ensureDir(dir){
 async function build(){
   await ensureDir(OUT);
 
+  // copy top-level content assets (images/icons) into public/content so templates can reference them
+  await ensureDir(path.join(OUT,'content'));
+  try{
+    const rootFiles = await fs.readdir(CONTENT);
+    for(const fn of rootFiles){
+      const full = path.join(CONTENT, fn);
+      const stat = await fs.stat(full);
+      if(stat.isFile()){
+        const lower = fn.toLowerCase();
+        if(lower.endsWith('.png') || lower.endsWith('.jpg') || lower.endsWith('.jpeg') || lower.endsWith('.svg') || lower.endsWith('.ico')){
+          await fs.copyFile(full, path.join(OUT,'content',fn));
+        }
+      }
+    }
+  }catch(e){ /* ignore */ }
+
   // read fiches
   const fichesDir = path.join(CONTENT, 'fiches');
   let fiches = [];
