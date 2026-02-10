@@ -9,12 +9,12 @@
   <meta property="og:title" content="{{TITLE}}">
   <meta property="og:description" content="{{DESCRIPTION}}">
   <meta property="og:image" content="{{OG_IMAGE}}">
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/design-tokens.css">
+  <link rel="stylesheet" href="{{ASSET_PATH}}css/style.css">
+  <link rel="stylesheet" href="{{ASSET_PATH}}css/design-tokens.css">
   <script type="application/ld+json">{{JSON_LD}}</script>
 </head>
 <body>
-  <header class="site-header"><div class="container"><a class="brand" href="/">Nerithys</a></div></header>
+  <header class="site-header"><div class="container"><a class="brand" href="{{ASSET_PATH}}">Nerithys</a></div></header>
   <main class="container content">
     <article class="prose-limited">
       {{CONTENT}}
@@ -24,6 +24,6 @@
   <div id="lightbox" class="lightbox" aria-hidden="true">
     <div class="inner"><img id="lightbox-img" alt="" /></div>
   </div>
-  <script src="/js/ui.js"></script>
+  <script src="{{ASSET_PATH}}js/ui.js"></script>
 </body>
 </html>

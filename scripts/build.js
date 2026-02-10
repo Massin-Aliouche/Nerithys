@@ -76,7 +76,16 @@ async function build(){
       ]
     };
 
-    let outHtml = ficheTpl.replace(/{{TITLE}}/g, title)
+    // compute asset path prefix for this fiche output (relative path from fiche dir to OUT)
+    const outDir = dir; // directory where index.html will be written
+    let relToRoot = path.relative(outDir, OUT);
+    if(relToRoot === '') relToRoot = '.';
+    // convert backslashes to slashes for URLs and ensure trailing slash
+    relToRoot = relToRoot.split(path.sep).join('/');
+    if(!relToRoot.endsWith('/')) relToRoot = relToRoot === '.' ? './' : relToRoot + '/';
+
+    let outHtml = ficheTpl.replace(/{{ASSET_PATH}}/g, relToRoot)
+      .replace(/{{TITLE}}/g, title)
       .replace(/{{DESCRIPTION}}/g, description)
       .replace(/{{OG_IMAGE}}/g, (f.images && f.images[0]) || '')
       .replace(/{{JSON_LD}}/g, JSON.stringify(jsonld))
@@ -93,13 +102,21 @@ async function build(){
   // generate listing page HTML
   const cards = fiches.map(f => {
     const slug = f.slug || slugify(f.name);
-    return `<article class="card"><a href="fiches/${slug}/"><h3>${f.name}</h3><p class="muted">${f.scientificName} · ${f.biotope}</p></a></article>`;
+    return `<article class="card"><a href="${slug}/"><h3>${f.name}</h3><p class="muted">${f.scientificName} · ${f.biotope}</p></a></article>`;
   }).join('\n');
 
-  const listingHtml = listingTpl.replace(/{{TITLE}}/g, 'Fiches poissons — Nerithys')
+  // listing is written to OUT/fiches/index.html, compute ASSET_PATH for that location
+  const listingDir = path.join(OUT,'fiches');
+  let relListing = path.relative(listingDir, OUT);
+  if(relListing === '') relListing = '.';
+  relListing = relListing.split(path.sep).join('/');
+  if(!relListing.endsWith('/')) relListing = relListing === '.' ? './' : relListing + '/';
+
+  const listingHtml = listingTpl.replace(/{{ASSET_PATH}}/g, relListing)
+    .replace(/{{TITLE}}/g, 'Fiches poissons — Nerithys')
     .replace(/{{CARDS}}/g, cards);
-  await ensureDir(path.join(OUT,'fiches'));
-  await fs.writeFile(path.join(OUT,'fiches','index.html'), listingHtml, 'utf8');
+  await ensureDir(listingDir);
+  await fs.writeFile(path.join(listingDir,'index.html'), listingHtml, 'utf8');
 
   // sitemap
   let urls = ['https://massin-aliouche.github.io/Nerithys/','https://massin-aliouche.github.io/Nerithys/fiches/'];
