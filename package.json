@@ -7,6 +7,7 @@
     "build": "node ./scripts/generate-responsive-images.js && node scripts/build.js",
     "build:css": "node ./scripts/build-css.js",
     "lint": "eslint . --ext .js",
+    "deploy": "gh-pages -d public",
     "check": "npm run lint && npm run build:css && npm run build",
     "add-fiche": "node scripts/add-fiche.js"
   },
