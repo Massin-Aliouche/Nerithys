@@ -167,22 +167,25 @@ async function build(){
     const svgScale = `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18M6 6v14M18 6v14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
     const paramsHtml = `<div class="params-grid">
-      <div class="param"><span aria-hidden="true">${svgThermo}</span><div><strong>Température</strong><div>${f.tempMin||'—'}–${f.tempMax||'—'} °C</div></div></div>
-      <div class="param"><span aria-hidden="true">${svgDrop}</span><div><strong>pH</strong><div>${f.phMin||'—'}–${f.phMax||'—'}</div></div></div>
-      <div class="param"><span aria-hidden="true">${svgScale}</span><div><strong>GH</strong><div>${f.ghMin||'—'}–${f.ghMax||'—'}</div></div></div>
-      <div class="param"><span aria-hidden="true">${svgScale}</span><div><strong>KH</strong><div>${f.khMin||'—'}–${f.khMax||'—'}</div></div></div>
+      <div class="param"><span class="icon" aria-hidden="true">${svgThermo}</span><div><strong>Température</strong><div>${f.tempMin||'—'}–${f.tempMax||'—'} °C</div></div></div>
+      <div class="param"><span class="icon" aria-hidden="true">${svgDrop}</span><div><strong>pH</strong><div>${f.phMin||'—'}–${f.phMax||'—'}</div></div></div>
+      <div class="param"><span class="icon" aria-hidden="true">${svgScale}</span><div><strong>GH</strong><div>${f.ghMin||'—'}–${f.ghMax||'—'}</div></div></div>
+      <div class="param"><span class="icon" aria-hidden="true">${svgScale}</span><div><strong>KH</strong><div>${f.khMin||'—'}–${f.khMax||'—'}</div></div></div>
     </div>`;
 
     const takeaway = f.summary || (f.notes ? (f.notes.split('.').filter(Boolean)[0] || '') : '');
     const takeawayHtml = takeaway ? `<div class="takeaway">À retenir: ${takeaway}.</div>` : '';
+    const summaryText = f.summary || (f.notes ? (f.notes.split('.').filter(Boolean)[0] || '') : '');
+    const summaryHtml = summaryText ? `<div class="summary-box">En résumé: ${summaryText}.</div>` : '';
 
     const errorsHtml = `<div class="bg-red-50 border border-red-100 p-3 rounded-md text-sm text-red-800"><strong>Erreurs courantes:</strong><ul class="list-disc pl-5 mt-2"><li>Maintenir en petit bac malgré la taille adulte</li><li>Méconnaître la salinité / paramètres marins</li></ul></div>`;
 
-    // difficulty visual: dots
-    const diffNum = Number(f.difficulty) || 0;
+    // difficulty visual: dots (up to 5)
+    const diffNum = Math.max(0, Math.min(5, Number(f.difficulty) || 0));
     let dots = '';
     for(let i=1;i<=5;i++){
-      dots += `<span class="dot${i<=diffNum?'-filled':''}" aria-hidden="true" style="display:inline-block;width:8px;height:8px;border-radius:999px;margin-right:4px;${i<=diffNum?`background:var(--accent);`:`background:var(--muted-surface);`}"></span>`;
+      const filled = i<=diffNum;
+      dots += `<span class="dot${filled? ' filled':''}" aria-hidden="true"></span>`;
     }
     const badgesHtml = `<div class="flex gap-4 items-center mt-2"><div class="difficulty" aria-hidden="true">${dots}</div><span class="px-2 py-1 text-xs bg-slate-100 rounded">Biotope: ${f.biotope||'—'}</span><span class="px-2 py-1 text-xs bg-slate-100 rounded">Taille: ${f.minLengthCm||'—'} cm</span></div>`;
 
@@ -192,7 +195,7 @@ async function build(){
       .replace(/{{OG_IMAGE}}/g, ogImage)
       .replace(/{{JSON_LD}}/g, JSON.stringify(jsonld))
       .replace(/{{CONTENT}}/g, `<!-- Content generated -->
-    <div class="flex flex-col md:flex-row gap-6">${imageHtml}<div class="flex-1 space-y-4"><header><h1 class="text-2xl font-bold">${f.name} <small class="text-sm text-slate-500">${f.scientificName||''}</small></h1>${badgesHtml}${takeawayHtml}</header>${paramsHtml}<section><h3 class="text-lg font-semibold">Comportement & compatibilité</h3><p>${f.behavior||''}</p></section><section><h3 class="text-lg font-semibold">Alimentation</h3><p>${f.diet||''}</p></section><section><h3 class="text-lg font-semibold">Reproduction</h3><p>${f.breeding||''}</p></section><section><h3 class="text-lg font-semibold">Conseils</h3><p>${f.notes||''}</p></section>${errorsHtml}</div></div>`);
+    <div class="flex flex-col md:flex-row gap-6">${imageHtml}<div class="flex-1 space-y-4"><header><h1 class="text-2xl font-bold">${f.name} <small class="text-sm text-slate-500">${f.scientificName||''}</small></h1>${summaryHtml}${badgesHtml}${takeawayHtml}</header>${paramsHtml}<section><h3 class="text-lg font-semibold">Comportement & compatibilité</h3><p>${f.behavior||''}</p></section><section><h3 class="text-lg font-semibold">Alimentation</h3><p>${f.diet||''}</p></section><section><h3 class="text-lg font-semibold">Reproduction</h3><p>${f.breeding||''}</p></section><section><h3 class="text-lg font-semibold">Conseils</h3><p>${f.notes||''}</p></section>${errorsHtml}</div></div>`);
 
     await fs.writeFile(path.join(dir,'index.html'), outHtml, 'utf8');
   }
