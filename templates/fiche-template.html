@@ -8,67 +8,74 @@
   <meta property="og:title" content="{{TITLE}}">
   <meta property="og:description" content="{{DESCRIPTION}}">
   <meta property="og:image" content="{{OG_IMAGE}}">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ASSET_PATH}}css/style.css">
-  <link rel="stylesheet" href="{{ASSET_PATH}}css/design-tokens.css">
   <link rel="icon" href="{{ASSET_PATH}}content/favicon-64.png">
-  <link rel="manifest" href="{{ASSET_PATH}}manifest.json">
   <script type="application/ld+json">{{JSON_LD}}</script>
 </head>
 <body>
-  <header class="bg-aquamarine-50 border-b border-aquamarine-200">
-    <div class="max-w-5xl mx-auto px-4 py-5 flex items-center justify-between">
-      <a class="flex items-center gap-3" href="{{ASSET_PATH}}">
-        <img src="{{ASSET_PATH}}content/Nerithys%20Logo.png" alt="Nerithys" class="h-9 rounded-full logo-subtle" />
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="inner">
+      <a href="{{ASSET_PATH}}" class="logo">
+        <img src="{{ASSET_PATH}}content/Nerithys%20Logo.png" alt="Nerithys">
         <div>
-          <span class="font-display text-lg text-slate-800">Nerithys</span>
-          <div class="text-xs text-slate-500 logo-baseline">L'élégance du vivant aquatique</div>
+          <div class="logo-text">Nerithys</div>
+          <div class="logo-sub">L'élégance du vivant aquatique</div>
         </div>
       </a>
+      <nav>
+        <a href="{{ASSET_PATH}}">Accueil</a>
+        <a href="{{ASSET_PATH}}fiches/">Fiches</a>
+      </nav>
     </div>
   </header>
 
-  <main class="max-w-5xl mx-auto px-4 py-10">
-    <article class="bg-white rounded-2xl shadow-card p-6 text-slate-800 space-y-6">
-      {{CONTENT}}
-    </article>
+  <!-- Fiche content -->
+  <main class="section">
+    <div class="container" style="max-width:860px">
+      <a href="{{ASSET_PATH}}fiches/" class="btn btn-outline" style="margin-bottom:1.5rem;padding:.35rem .8rem;font-size:.82rem">← Retour aux fiches</a>
+      <article>
+        {{CONTENT}}
+      </article>
+    </div>
   </main>
 
-  <footer class="mt-12 border-t bg-slate-50">
-    <div class="max-w-5xl mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
-      <div>
-        <strong>Nerithys</strong>
-        <p class="mt-2 text-sm text-slate-600">L'élégance du vivant aquatique — guides et fiches pratiques.</p>
-        <p class="mt-3 text-xs text-slate-500">© Nerithys · Conçu avec soin · <a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">Voir le projet</a></p>
-      </div>
-      <div>
-        <h4 class="font-medium">Navigation</h4>
-        <ul class="mt-2 space-y-1">
-          <li><a href="{{ASSET_PATH}}fiches/">Fiches</a></li>
-          <li><a href="{{ASSET_PATH}}articles/">Articles</a></li>
-          <li><a href="{{ASSET_PATH}}contact/">Contact</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4 class="font-medium">Réseaux</h4>
-        <p class="mt-2 text-sm"><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">GitHub</a> · <a href="#">Contact</a></p>
-        <p class="mt-4 text-xs text-slate-500">Mentions légales · Politique de confidentialité</p>
-      </div>
-    </div>
-    <div class="max-w-5xl mx-auto px-4 py-4 text-xs text-slate-400 text-center">Réalisé par Nerithys — Guide et ressources pour les aquariophiles</div>
-  </footer>
+  <!-- Lightbox -->
   <div id="lightbox" class="lightbox" aria-hidden="true">
     <div class="inner">
       <button class="close" aria-label="Fermer">✕</button>
-      <img id="lightbox-img" alt="" />
-      <div class="count" aria-hidden="true"></div>
+      <img id="lightbox-img" alt="">
     </div>
   </div>
-  <script>window.ASSET_PATH = '{{ASSET_PATH}}';</script>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="grid">
+        <div>
+          <strong style="color:#e2e8f0;font-size:1.1rem">Nerithys</strong>
+          <p style="margin-top:.5rem;font-size:.88rem">L'élégance du vivant aquatique — guides et fiches pratiques.</p>
+        </div>
+        <div>
+          <h4>Navigation</h4>
+          <ul>
+            <li><a href="{{ASSET_PATH}}">Accueil</a></li>
+            <li><a href="{{ASSET_PATH}}fiches/">Fiches</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Projet</h4>
+          <p style="font-size:.85rem"><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">GitHub ↗</a></p>
+        </div>
+      </div>
+      <div class="bottom">© Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
+    </div>
+  </footer>
+
+  <script>window.ASSET_PATH='{{ASSET_PATH}}';</script>
+  <script src="{{ASSET_PATH}}js/main.js"></script>
   <script src="{{ASSET_PATH}}js/ui.js"></script>
-  <script>
-    if('serviceWorker' in navigator){
-      try{ navigator.serviceWorker.register('{{ASSET_PATH}}sw.js'); }catch(e){}
-    }
-  </script>
 </body>
 </html>

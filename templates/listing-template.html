@@ -3,114 +3,112 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Fiches — Nerithys</title>
-    <link rel="stylesheet" href="{{ASSET_PATH}}css/style.css">
-    <link rel="stylesheet" href="{{ASSET_PATH}}css/design-tokens.css">
-    <link rel="icon" href="{{ASSET_PATH}}content/favicon-64.png">
-  
+  <title>Fiches espèces — Nerithys</title>
+  <meta name="description" content="Toutes les fiches poissons d'aquarium — Nerithys">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ASSET_PATH}}css/style.css">
+  <link rel="icon" href="{{ASSET_PATH}}content/favicon-64.png">
 </head>
 <body>
-  <header class="bg-aquamarine-50 border-b">
-    <div class="max-w-6xl mx-auto px-4 py-6 flex items-center justify-between">
-      <div class="flex items-center gap-4">
-        <a href="{{ASSET_PATH}}" class="flex items-center gap-3">
-          <img src="{{ASSET_PATH}}content/Nerithys%20Logo.png" alt="Nerithys" class="h-9 rounded-full logo-subtle" />
-          <div>
-            <span class="font-display text-lg text-slate-800">Nerithys</span>
-            <div class="text-xs text-slate-500 logo-baseline">L'élégance du vivant aquatique</div>
-          </div>
-        </a>
-        <h1 class="text-xl font-semibold">Fiches poissons</h1>
-      </div>
-      <p class="text-sm text-slate-600 max-w-md">Toutes les fiches. Utilisez la recherche et les filtres pour affiner votre sélection.</p>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="inner">
+      <a href="{{ASSET_PATH}}" class="logo">
+        <img src="{{ASSET_PATH}}content/Nerithys%20Logo.png" alt="Nerithys">
+        <div>
+          <div class="logo-text">Nerithys</div>
+          <div class="logo-sub">L'élégance du vivant aquatique</div>
+        </div>
+      </a>
+      <nav>
+        <a href="{{ASSET_PATH}}">Accueil</a>
+        <a href="{{ASSET_PATH}}fiches/" class="active">Fiches</a>
+      </nav>
     </div>
   </header>
 
-  <main class="max-w-6xl mx-auto px-4 py-8">
-    <section aria-label="Recherche et filtres" class="mb-6">
-      <div class="grid grid-cols-1 md:grid-cols-4 gap-4 items-end">
-        <div class="md:col-span-2">
-          <label for="q" class="block text-sm font-medium text-slate-700">Recherche</label>
-          <input id="q" class="mt-1 block w-full border rounded-md px-3 py-2" placeholder="Nom, famille..." />
-        </div>
-        <div>
-          <label for="biotope" class="block text-sm font-medium text-slate-700">Biotope</label>
-          <select id="biotope" class="mt-1 block w-full border rounded-md px-3 py-2"><option value="all">Tous</option></select>
-        </div>
-        <div>
-          <label for="difficulty" class="block text-sm font-medium text-slate-700">Difficulté</label>
-          <select id="difficulty" class="mt-1 block w-full border rounded-md px-3 py-2"><option value="all">Tous</option><option value="facile">Facile</option><option value="moyen">Moyen</option><option value="difficile">Difficile</option></select>
-        </div>
-        <div>
-          <label for="volumeMin" class="block text-sm font-medium text-slate-700">Volume min. (L)</label>
-          <input id="volumeMin" type="number" min="0" class="mt-1 block w-full border rounded-md px-3 py-2" placeholder="0" />
-        </div>
-        <div class="md:col-span-4 flex">
-          <button id="resetFilters" class="mt-2 inline-flex items-center px-3 py-2 border rounded-md text-sm text-slate-700">Réinitialiser</button>
-        </div>
-      </div>
-      <div class="mt-4 flex items-center justify-end gap-3">
-        <label for="sortSelect" class="text-sm text-slate-600">Trier :</label>
-        <select id="sortSelect" class="block border rounded-md px-2 py-1 text-sm">
-          <option value="featured">Mise en avant</option>
-          <option value="name">Nom (A→Z)</option>
-          <option value="difficulty">Difficulté</option>
-          <option value="minVolume">Volume min.</option>
-        </select>
-      </div>
-    </section>
-
-    <div class="flex items-center justify-between mb-4">
-      <div id="resultsCount" class="text-sm text-slate-600">Chargement…</div>
-      <div></div>
+  <!-- Page title -->
+  <section class="section" style="padding-bottom:0">
+    <div class="container">
+      <h1 class="section-title font-display" style="font-size:1.8rem">Fiches espèces</h1>
+      <p class="section-sub">Recherchez, filtrez et explorez toutes nos fiches poissons d'aquarium.</p>
     </div>
+  </section>
 
-    <section id="listing" aria-live="polite">
-      <div id="species-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
-    </section>
-  </main>
+  <!-- Filters -->
+  <section style="padding:1.5rem 0">
+    <div class="container">
+      <div class="filters-bar">
+        <div>
+          <label for="q">Recherche</label>
+          <input id="q" type="text" placeholder="Nom, famille…">
+        </div>
+        <div>
+          <label for="biotope">Biotope</label>
+          <select id="biotope">
+            <option value="all">Tous</option>
+          </select>
+        </div>
+        <div>
+          <label for="difficulty">Difficulté</label>
+          <select id="difficulty">
+            <option value="all">Toutes</option>
+            <option value="1">Facile</option>
+            <option value="2">Moyen</option>
+            <option value="3">Difficile</option>
+            <option value="4">Expert</option>
+          </select>
+        </div>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem">
+        <div id="resultsCount" style="font-size:.88rem;color:var(--muted)">Chargement…</div>
+        <button onclick="document.getElementById('q').value='';document.getElementById('biotope').value='all';document.getElementById('difficulty').value='all';document.getElementById('q').dispatchEvent(new Event('input'))" class="btn btn-outline" style="padding:.4rem .8rem;font-size:.8rem">Réinitialiser</button>
+      </div>
+    </div>
+  </section>
 
+  <!-- Listing -->
+  <section class="section" style="padding-top:0">
+    <div class="container">
+      <div id="species-list" class="card-grid"></div>
+    </div>
+  </section>
+
+  <!-- Lightbox -->
   <div id="lightbox" class="lightbox" aria-hidden="true">
     <div class="inner">
       <button class="close" aria-label="Fermer">✕</button>
-      <img id="lightbox-img" alt="" />
-      <div class="count" aria-hidden="true"></div>
+      <img id="lightbox-img" alt="">
     </div>
   </div>
 
-  <footer class="mt-12 border-t bg-slate-50">
+  <!-- Footer -->
+  <footer class="site-footer">
     <div class="container">
-      <div class="max-w-6xl mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
+      <div class="grid">
         <div>
-          <strong>Nerithys</strong>
-          <p class="mt-2 text-sm text-slate-600">L'élégance du vivant aquatique — guides et fiches pratiques.</p>
+          <strong style="color:#e2e8f0;font-size:1.1rem">Nerithys</strong>
+          <p style="margin-top:.5rem;font-size:.88rem">L'élégance du vivant aquatique — guides et fiches pratiques.</p>
         </div>
         <div>
-          <h4 class="font-medium">Navigation</h4>
-          <ul class="mt-2 space-y-1">
+          <h4>Navigation</h4>
+          <ul>
+            <li><a href="{{ASSET_PATH}}">Accueil</a></li>
             <li><a href="{{ASSET_PATH}}fiches/">Fiches</a></li>
-            <li><a href="{{ASSET_PATH}}articles/">Articles</a></li>
-            <li><a href="{{ASSET_PATH}}contact/">Contact</a></li>
           </ul>
         </div>
         <div>
-          <h4 class="font-medium">Liens</h4>
-          <p class="mt-2 text-sm"><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">Voir le code sur GitHub</a></p>
-          <p class="mt-4 text-xs text-slate-500">Mentions légales · Politique de confidentialité</p>
+          <h4>Projet</h4>
+          <p style="font-size:.85rem"><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">GitHub ↗</a></p>
         </div>
       </div>
-      <div class="max-w-6xl mx-auto px-4 py-4 text-xs text-slate-400 text-center">Réalisé par Nerithys — Guide et ressources pour les aquariophiles</div>
+      <div class="bottom">© Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
     </div>
   </footer>
 
-    <script>window.ASSET_PATH = '{{ASSET_PATH}}';</script>
-    <script src="{{ASSET_PATH}}js/species.js"></script>
-    <script src="{{ASSET_PATH}}js/ui.js"></script>
-    <script>
-      if('serviceWorker' in navigator){
-        try{ navigator.serviceWorker.register('{{ASSET_PATH}}sw.js'); }catch(e){}
-      }
-    </script>
+  <script>window.ASSET_PATH='{{ASSET_PATH}}';</script>
+  <script src="{{ASSET_PATH}}js/main.js"></script>
+  <script src="{{ASSET_PATH}}js/ui.js"></script>
 </body>
 </html>
-

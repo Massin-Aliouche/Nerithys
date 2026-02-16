@@ -1,247 +1,209 @@
-// UI helpers: filters for listing and a minimal lightbox
-(function(){
-  const state = {all:[],filtered:[]};
+/* ═══════════════════════════════════════════════════════
+   Nerithys — ui.js  (listing cards, filters, lightbox)
+   ═══════════════════════════════════════════════════════ */
+(function () {
+  'use strict';
 
-  function q(sel){return document.querySelector(sel)}
+  /* ── Helpers ────────────────────────────────────── */
+  var state = { all: [], filtered: [] };
 
-  // Compute a normalized base for asset URLs that works for root, repo subpaths
-  // and relative deployments. If `window.ASSET_PATH` is an empty string we
-  // prefer a relative './' base to avoid resolving to '/' (which caused 404s).
-  function getBase(){
-    if(typeof window.ASSET_PATH === 'undefined' || window.ASSET_PATH === null) return '/';
-    if(window.ASSET_PATH === '') return './';
-    return window.ASSET_PATH.endsWith('/') ? window.ASSET_PATH : window.ASSET_PATH + '/';
+  function qs(sel) { return document.querySelector(sel); }
+  function getBase() {
+    var p = window.ASSET_PATH;
+    if (typeof p === 'undefined' || p === null || p === '') return './';
+    return p.endsWith('/') ? p : p + '/';
   }
-  async function fetchFiches(){
-    const base = getBase();
-    const candidates = [
+
+  /* ── Fetch fiches JSON ──────────────────────────── */
+  function fetchFiches() {
+    var base = getBase();
+    var urls = [
       base + 'content/fiches.json',
-      base + 'data/species.json',
-      base + 'content/fiches/index.json',
-      base + 'public/content/fiches.json',
-      'content/fiches.json',
-      'data/species.json',
-      '/content/fiches.json',
-      '/data/species.json'
+      'content/fiches.json'
     ];
-    for(const path of candidates){
-      try{
-        const res = await fetch(path);
-        if(!res.ok) continue;
-        const json = await res.json();
-        if(Array.isArray(json)) return json;
-        if(json.fiches && Array.isArray(json.fiches)) return json.fiches;
-      }catch(e){/* ignore */}
+    function tryNext(i) {
+      if (i >= urls.length) return Promise.resolve([]);
+      return fetch(urls[i]).then(function (r) {
+        if (!r.ok) return tryNext(i + 1);
+        return r.json().then(function (d) {
+          if (Array.isArray(d)) return d;
+          if (d.fiches && Array.isArray(d.fiches)) return d.fiches;
+          return tryNext(i + 1);
+        });
+      }).catch(function () { return tryNext(i + 1); });
     }
-    return [];
+    return tryNext(0);
   }
 
-  function createCard(item, idx){
-    const el = document.createElement('article');
-    el.className='card-ui transform transition-all';
-    if(typeof idx === 'number') el.style.setProperty('animation-delay', `${idx*60}ms`);
-    const img = document.createElement('img');
-    img.className='card-image rounded-md';
-    img.loading='lazy';
-    img.alt = item.name || '';
-    const realSrc = (item.images && item.images[0]) || item.image || '';
-    // defer actual src to lazy loader; keep full-size URL in data attribute
-    img.dataset.src = realSrc;
-    img.dataset.full = realSrc;
-    img.src = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280"></svg>';
-
-    const wrap = document.createElement('div'); wrap.className = 'img-wrap'; wrap.style.position='relative';
-    const overlay = document.createElement('div'); overlay.className = 'img-overlay';
-    wrap.appendChild(img); wrap.appendChild(overlay);
-
-    const body = document.createElement('div'); body.className='card-body';
-    const title = document.createElement('h3'); title.className='card-title'; title.textContent = item.name || '—';
-    const meta = document.createElement('div'); meta.className='card-meta';
-    meta.textContent = `${item.minVolumeL||item.volumeMin||'—'} L • pH ${item.phMin||item.ph||'—'}`;
-
-    const badges = document.createElement('div'); badges.style.display='flex';badges.style.gap='0.4rem';
-    const b1 = document.createElement('span'); b1.className='badge'; b1.textContent = item.biotope||'—';
-    const b2 = document.createElement('span'); b2.className='badge'; b2.textContent = item.difficulty||'—';
-    badges.appendChild(b1); badges.appendChild(b2);
-
-    body.appendChild(title); body.appendChild(badges); body.appendChild(meta);
-    el.appendChild(wrap); el.appendChild(body);
-    // make whole card clickable on home/listing — build href from site base
-    const link = document.createElement('a');
-    try{
-      const base = getBase();
-      link.href = base + 'fiches/' + encodeURIComponent(item.slug||item.name||'') + '/';
-    }catch(e){
-      link.href = './fiches/' + encodeURIComponent(item.slug||item.name||'') + '/';
+  /* ── Difficulty helpers ─────────────────────────── */
+  function diffBadgeClass(n) {
+    if (n <= 1) return 'badge-green';
+    if (n === 2) return 'badge-teal';
+    if (n === 3) return 'badge-amber';
+    return 'badge-red';
+  }
+  function diffLabel(n) {
+    if (n <= 1) return 'Facile';
+    if (n === 2) return 'Moyen';
+    if (n === 3) return 'Difficile';
+    return 'Expert';
+  }
+  function diffDots(n) {
+    var html = '<div class="diff-dots">';
+    for (var i = 1; i <= 5; i++) {
+      html += '<span class="dot' + (i <= n ? ' filled' : '') + '"></span>';
     }
-    link.className = 'block';
-    link.appendChild(el);
-    return link;
+    return html + '</div>';
   }
 
-  function renderList(list){
-    const container = q('#species-list');
-    container.innerHTML='';
-    if(!list.length){ container.innerHTML='<p>Aucune fiche trouvée.</p>'; return }
-    const frag = document.createDocumentFragment();
-    // if container requests featured N, limit to that (prefer items tagged 'featured')
-    const featuredCount = Number(container.dataset.featured) || 0;
-    // determine sort mode from select if present
-    const sortSelect = document.getElementById('sortSelect');
-    const sortMode = sortSelect ? sortSelect.value : (container.dataset.sort || 'featured');
-    const sorted = sortItems(list, sortMode);
-    let toShow = sorted.slice();
-    if(featuredCount){
-      // try to prioritize items with tag 'featured' or 'highlight'
-      const fav = toShow.filter(i => (i.tags||[]).includes('featured') || (i.tags||[]).includes('highlight'));
-      const remaining = toShow.filter(i => !fav.includes(i));
-      toShow = fav.concat(remaining).slice(0, featuredCount);
-    }
-    toShow.forEach((item,i)=>{ const card=createCard(item,i); card.dataset.slug = item.slug||item.id||''; frag.appendChild(card)});
-    container.appendChild(frag);
-    q('#resultsCount') && (q('#resultsCount').textContent = `${toShow.length} fiches (sur ${state.all.length})`);
-    if(sortSelect && !sortSelect._ui_initialized){
-      sortSelect.addEventListener('change', ()=>{ renderList(state.filtered) });
-      sortSelect._ui_initialized = true;
-    }
+  /* ── Create a card ──────────────────────────────── */
+  function createCard(item) {
+    var base = getBase();
+    var slug = item.slug || '';
+    var href = base + 'fiches/' + encodeURIComponent(slug) + '/';
+    var imgSrc = (item.images && item.images[0]) || '';
+    var diff = Number(item.difficulty) || 0;
+
+    var card = document.createElement('div');
+    card.className = 'card reveal';
+    card.innerHTML =
+      '<a href="' + href + '">' +
+        '<img class="card-img" src="' + imgSrc + '" alt="' + (item.name || '') + '" loading="lazy">' +
+        '<div class="card-body">' +
+          '<div class="card-name">' + (item.name || '—') + '</div>' +
+          '<div class="card-sci">' + (item.scientificName || '') + '</div>' +
+          '<div class="card-badges">' +
+            '<span class="badge badge-slate">' + (item.biotope || '—') + '</span>' +
+            '<span class="badge ' + diffBadgeClass(diff) + '">' + diffLabel(diff) + '</span>' +
+            '<span class="badge badge-slate">' + (item.minVolumeL || '—') + ' L</span>' +
+          '</div>' +
+        '</div>' +
+      '</a>';
+    return card;
   }
 
-  function sortItems(list, mode){
-    if(!mode || mode === 'featured') return list;
-    const copy = list.slice();
-    copy.sort((a,b)=>{
-      const get = (o, keys)=>{ for(const k of keys){ if(o[k]!==undefined) return o[k] } return null };
-      if(mode === 'name'){
-        const an = (get(a,['name','common','common_name'])||'').toString().toLowerCase();
-        const bn = (get(b,['name','common','common_name'])||'').toString().toLowerCase();
-        return an.localeCompare(bn);
-      }
-      if(mode === 'difficulty'){
-        const ad = Number(get(a,['difficulty','level']))||0; const bd = Number(get(b,['difficulty','level']))||0; return ad - bd;
-      }
-      if(mode === 'minVolume'){
-        const av = Number(get(a,['minVolumeL','min_volume_l','min_volume']))||0; const bv = Number(get(b,['minVolumeL','min_volume_l','min_volume']))||0; return av - bv;
-      }
-      return 0;
+  /* ── Render list ────────────────────────────────── */
+  function renderList(list) {
+    var container = qs('#species-list');
+    if (!container) return;
+    container.innerHTML = '';
+    if (!list.length) {
+      container.innerHTML = '<p style="color:var(--muted);text-align:center;grid-column:1/-1">Aucune fiche trouvée.</p>';
+      return;
+    }
+    var featured = Number(container.dataset.featured) || 0;
+    var toShow = featured ? list.slice(0, featured) : list;
+    toShow.forEach(function (item) {
+      container.appendChild(createCard(item));
     });
-    return copy;
+    // trigger reveal for dynamically added cards
+    if ('IntersectionObserver' in window) {
+      var obs = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); }
+        });
+      }, { threshold: 0.1 });
+      container.querySelectorAll('.reveal').forEach(function (el) { obs.observe(el); });
+    } else {
+      container.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('visible'); });
+    }
+    var counter = qs('#resultsCount');
+    if (counter) counter.textContent = toShow.length + ' fiche' + (toShow.length > 1 ? 's' : '') + (featured ? '' : ' (sur ' + state.all.length + ')');
   }
 
-  function populateBiotopeOptions(list){
-    const sel = q('#biotope');
-    const set = new Set(list.map(i=>i.biotope).filter(Boolean));
-    set.forEach(b=>{ const opt=document.createElement('option'); opt.value=b; opt.textContent=b; sel.appendChild(opt) });
-  }
+  /* ── Filters ────────────────────────────────────── */
+  function applyFilters() {
+    var qVal = (qs('#q') ? qs('#q').value : '').trim().toLowerCase();
+    var bio = qs('#biotope') ? qs('#biotope').value : 'all';
+    var diff = qs('#difficulty') ? qs('#difficulty').value : 'all';
 
-  function applyFilters(){
-    const qv = q('#q').value.trim().toLowerCase();
-    const bi = q('#biotope').value;
-    const diff = q('#difficulty').value;
-    const vol = Number(q('#volumeMin').value)||0;
-    state.filtered = state.all.filter(it=>{
-      if(qv){ const hay = [it.name, it.family, it.common].join(' ').toLowerCase(); if(!hay.includes(qv)) return false }
-      if(bi && bi !== 'all' && it.biotope !== bi) return false;
-      if(diff && diff !== 'all' && (it.difficulty||'').toLowerCase() !== diff) return false;
-      if(vol && Number(it.volumeMin||0) < vol) return false;
+    state.filtered = state.all.filter(function (it) {
+      if (qVal) {
+        var hay = [it.name, it.scientificName, it.biotope, it.family].join(' ').toLowerCase();
+        if (hay.indexOf(qVal) === -1) return false;
+      }
+      if (bio !== 'all' && it.biotope !== bio) return false;
+      if (diff !== 'all' && String(it.difficulty) !== diff) return false;
       return true;
     });
     renderList(state.filtered);
   }
 
-  function resetFilters(){
-    q('#q').value=''; q('#biotope').value='all'; q('#difficulty').value='all'; q('#volumeMin').value='';
-    applyFilters();
-  }
-
-  function setupLightbox(){
-    const lb = q('#lightbox');
-    const img = q('#lightbox-img');
-    const closeBtn = lb && lb.querySelector('.close');
-    const countEl = lb && lb.querySelector('.count');
-    document.addEventListener('click', (e)=>{
-      const target = e.target.closest('.card-image');
-      if(target){
-        e.preventDefault();
-            const all = Array.from(document.querySelectorAll('img[data-full]'));
-            const idx = all.indexOf(target);
-            let full = target.dataset.full || target.src;
-            if(full && !/^https?:\/\//.test(full)){
-              const base = getBase();
-              full = base + full.replace(/^\/+/, '');
-            }
-            img.src = full;
-        if(countEl) countEl.textContent = `${(idx>=0?idx+1:1)}/${all.length}`;
-        lb.classList.add('open'); lb.setAttribute('aria-hidden','false');
-      }
-      if(e.target === lb || e.target === closeBtn) closeLB();
+  function populateBiotopes(list) {
+    var sel = qs('#biotope');
+    if (!sel) return;
+    var set = {};
+    list.forEach(function (it) { if (it.biotope) set[it.biotope] = true; });
+    Object.keys(set).sort().forEach(function (b) {
+      var opt = document.createElement('option');
+      opt.value = b; opt.textContent = b;
+      sel.appendChild(opt);
     });
-    document.addEventListener('keydown', (e)=>{ if(e.key==='Escape') closeLB() });
-    function closeLB(){ lb.classList.remove('open'); lb.setAttribute('aria-hidden','true'); img.src=''; if(countEl) countEl.textContent=''; }
   }
 
-  // init
-  async function init(){
-    const data = await fetchFiches();
-    state.all = data || [];
-    // load responsive manifest for client-side srcset handling (if present)
-    try{
-      const r = await fetch(getBase() + 'content/responsive-images.json');
-      if(r.ok) state.responsive = await r.json();
-    }catch(e){ state.responsive = {} }
-    populateBiotopeOptions(state.all);
-    state.filtered = state.all.slice();
-    renderList(state.filtered);
+  /* ── Lightbox ───────────────────────────────────── */
+  function setupLightbox() {
+    var lb = qs('#lightbox');
+    if (!lb) return;
+    var img = qs('#lightbox-img');
+    var closeBtn = lb.querySelector('.close');
 
-    // expose species count to homepage
-    const sc = document.getElementById('speciesCount');
-    if(sc) sc.textContent = `${state.all.length} espèces`;
-
-    // events
-    q('#q').addEventListener('input', ()=>{ applyFilters() });
-    q('#biotope').addEventListener('change', applyFilters);
-    q('#difficulty').addEventListener('change', applyFilters);
-    q('#volumeMin').addEventListener('input', applyFilters);
-    q('#resetFilters').addEventListener('click', (e)=>{ e.preventDefault(); resetFilters() });
-
-    setupLightbox();
-    setupLazy();
+    document.addEventListener('click', function (e) {
+      var target = e.target.closest('.card-img, .fiche-hero-img');
+      if (target) {
+        e.preventDefault();
+        img.src = target.src;
+        lb.classList.add('open');
+        lb.setAttribute('aria-hidden', 'false');
+      }
+      if (e.target === lb || e.target === closeBtn) {
+        lb.classList.remove('open');
+        lb.setAttribute('aria-hidden', 'true');
+        img.src = '';
+      }
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && lb.classList.contains('open')) {
+        lb.classList.remove('open');
+        lb.setAttribute('aria-hidden', 'true');
+        img.src = '';
+      }
+    });
   }
 
-  // lazy-load images via IntersectionObserver
-  function setupLazy(){
-    if(!('IntersectionObserver' in window)){
-      document.querySelectorAll('img[data-src]').forEach(img=>{ img.src = img.dataset.src });
-      return;
+  /* ── Init ───────────────────────────────────────── */
+  function init() {
+    fetchFiches().then(function (data) {
+      state.all = data || [];
+      state.filtered = state.all.slice();
+      populateBiotopes(state.all);
+      renderList(state.filtered);
+
+      // bind filter events
+      var qInput = qs('#q');
+      var bioSelect = qs('#biotope');
+      var diffSelect = qs('#difficulty');
+      if (qInput) qInput.addEventListener('input', applyFilters);
+      if (bioSelect) bioSelect.addEventListener('change', applyFilters);
+      if (diffSelect) diffSelect.addEventListener('change', applyFilters);
+
+      setupLightbox();
+    });
+  }
+
+  // only init if listing container exists
+  if (qs('#species-list')) {
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
     }
-    const io = new IntersectionObserver((entries, obs)=>{
-      entries.forEach(e=>{
-        if(e.isIntersecting){
-          const img = e.target;
-          const candidate = img.dataset.src || img.src;
-          // if candidate is local and manifest contains variants, set srcset
-          try{
-            if(candidate && !/^https?:\/\//.test(candidate) && state.responsive){
-              const key = candidate.split('/').pop();
-              const variants = state.responsive[key];
-              if(Array.isArray(variants) && variants.length){
-                const base = getBase();
-                img.src = base + 'content/' + variants[0].file;
-                img.srcset = variants.map(v=>`${base}content/${v.file} ${v.width}w`).join(', ');
-                img.sizes = '(min-width: 768px) 33vw, 100vw';
-              } else {
-                img.src = candidate;
-              }
-            } else {
-              img.src = candidate;
-            }
-          }catch(err){ img.src = candidate }
-          obs.unobserve(img);
-        }
-      });
-    }, {rootMargin: '200px'});
-    document.querySelectorAll('img[data-src]').forEach(i=>io.observe(i));
+  } else {
+    // fiche page: just setup the lightbox
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', setupLightbox);
+    } else {
+      setupLightbox();
+    }
   }
-
-  // only run if listing exists
-  if(document.querySelector('#species-list')) init();
 })();

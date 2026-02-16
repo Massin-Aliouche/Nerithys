@@ -1,59 +1,30 @@
-document.addEventListener('DOMContentLoaded', function(){
-  const toggle = document.querySelector('.nav-toggle');
-  const list = document.querySelector('.nav-list');
-  if(toggle && list){
-    toggle.addEventListener('click', function(){
-      const expanded = this.getAttribute('aria-expanded') === 'true';
-      this.setAttribute('aria-expanded', String(!expanded));
-      list.style.display = expanded ? '' : 'flex';
-    });
+/* ═══════════════════════════════════════════════════════
+   Nerithys — main.js  (theme toggle + reveal animations)
+   ═══════════════════════════════════════════════════════ */
+(function () {
+  'use strict';
+
+  /* ── Scroll reveal ──────────────────────────────── */
+  function initReveal() {
+    var els = document.querySelectorAll('.reveal');
+    if (!els.length) return;
+    if (!('IntersectionObserver' in window)) {
+      els.forEach(function (el) { el.classList.add('visible'); });
+      return;
+    }
+    var observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.15 });
+    els.forEach(function (el) { observer.observe(el); });
   }
 
-  const cta = document.querySelector('.cta');
-  if(cta){
-    cta.addEventListener('click', function(e){
-      e.preventDefault();
-      const target = document.querySelector('.features');
-      if(target) window.scrollTo({top: target.offsetTop - 20, behavior: 'smooth'});
-    });
-  }
-
-  // theme toggle (dark mode)
-  const themeToggle = document.getElementById('themeToggle');
-  function applyTheme(t){
-    if(t === 'dark') document.documentElement.classList.add('dark'); else document.documentElement.classList.remove('dark');
-    try{ localStorage.setItem('theme', t) }catch(e){ void e; }
-  }
-  const stored = (function(){ try{return localStorage.getItem('theme')}catch(e){return null} })();
-  if(stored) applyTheme(stored);
-  else if(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) applyTheme('dark');
-  if(themeToggle){ themeToggle.addEventListener('click', ()=>{ const next = document.documentElement.classList.contains('dark') ? 'light' : 'dark'; applyTheme(next); }); }
-
-    // reveal on scroll for elements with .reveal
-    try{
-      const reveals = document.querySelectorAll('.reveal');
-      if('IntersectionObserver' in window && reveals.length){
-        const ro = new IntersectionObserver((entries)=>{
-          entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('is-visible'); ro.unobserve(e.target); } });
-        }, { threshold: 0.12 });
-        reveals.forEach(r=>ro.observe(r));
-      } else {
-        reveals.forEach(r=>r.classList.add('is-visible'));
-      }
-    }catch(e){}
-
-    // subtle hero parallax effect: translate hero-bg image slightly on scroll
-    try{
-      const heroImg = document.querySelector('.hero-bg img');
-      if(heroImg){
-        let latest = 0;
-        window.addEventListener('scroll', ()=>{
-          latest = window.scrollY;
-          requestAnimationFrame(()=>{
-            const t = Math.min(60, latest * 0.06);
-            heroImg.style.transform = `translateY(${t}px) scale(1.06)`;
-          });
-        }, { passive: true });
-      }
-    }catch(e){}
-});
+  /* ── Init ───────────────────────────────────────── */
+  document.addEventListener('DOMContentLoaded', function () {
+    initReveal();
+  });
+})();
