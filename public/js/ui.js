@@ -49,9 +49,15 @@
 
     body.appendChild(title); body.appendChild(badges); body.appendChild(meta);
     el.appendChild(wrap); el.appendChild(body);
-    // make whole card clickable on home/listing
+    // make whole card clickable on home/listing — build href from site base
     const link = document.createElement('a');
-    link.href = `/fiches/${encodeURIComponent(item.slug||item.name||'')}/`;
+    try{
+      const base = (window.ASSET_PATH || '/');
+      const normalizedBase = base.endsWith('/') ? base : base + '/';
+      link.href = normalizedBase + 'fiches/' + encodeURIComponent(item.slug||item.name||'') + '/';
+    }catch(e){
+      link.href = '/fiches/' + encodeURIComponent(item.slug||item.name||'') + '/';
+    }
     link.className = 'block';
     link.appendChild(el);
     return link;
@@ -140,9 +146,15 @@
       const target = e.target.closest('.card-image');
       if(target){
         e.preventDefault();
-        const all = Array.from(document.querySelectorAll('img[data-full]'));
-        const idx = all.indexOf(target);
-        img.src = target.dataset.full || target.src;
+            const all = Array.from(document.querySelectorAll('img[data-full]'));
+            const idx = all.indexOf(target);
+            let full = target.dataset.full || target.src;
+            if(full && !/^https?:\/\//.test(full)){
+              const base = (window.ASSET_PATH || '/');
+              const normalized = base.endsWith('/') ? base : base + '/';
+              full = normalized + full.replace(/^\/+/, '');
+            }
+            img.src = full;
         if(countEl) countEl.textContent = `${(idx>=0?idx+1:1)}/${all.length}`;
         lb.classList.add('open'); lb.setAttribute('aria-hidden','false');
       }
@@ -157,7 +169,12 @@
     const data = await fetchFiches();
     state.all = data || [];
     // load responsive manifest for client-side srcset handling (if present)
-    try{ const r = await fetch('/content/responsive-images.json'); if(r.ok) state.responsive = await r.json(); }catch(e){ state.responsive = {} }
+    try{
+      const base = (window.ASSET_PATH || '/');
+      const normalized = base.endsWith('/') ? base : base + '/';
+      const r = await fetch(normalized + 'content/responsive-images.json');
+      if(r.ok) state.responsive = await r.json();
+    }catch(e){ state.responsive = {} }
     populateBiotopeOptions(state.all);
     state.filtered = state.all.slice();
     renderList(state.filtered);
@@ -194,8 +211,10 @@
               const key = candidate.split('/').pop();
               const variants = state.responsive[key];
               if(Array.isArray(variants) && variants.length){
-                img.src = '/' + 'content/' + variants[0].file;
-                img.srcset = variants.map(v=>`/content/${v.file} ${v.width}w`).join(', ');
+                const base = (window.ASSET_PATH || '/');
+                const normalized = base.endsWith('/') ? base : base + '/';
+                img.src = normalized + 'content/' + variants[0].file;
+                img.srcset = variants.map(v=>`${normalized}content/${v.file} ${v.width}w`).join(', ');
                 img.sizes = '(min-width: 768px) 33vw, 100vw';
               } else {
                 img.src = candidate;
