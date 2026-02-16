@@ -35,6 +35,7 @@
 @layer components {
   .site-container { max-width: var(--container); margin: 0 auto; padding: 1rem }
   .brand { font-size: 1.125rem; font-weight: 600; letter-spacing: -0.01em; color: var(--ink) }
+  .logo-baseline { color: var(--muted); font-size:0.78rem; margin-top:2px }
   .site-header { padding: 1.5rem 0; background: transparent }
   .nav-list { display: none; gap: 1rem; align-items: center }
   @media (min-width: 768px) { .nav-list { display: flex } }
@@ -57,9 +58,9 @@
 
 /* Micro animations and hover effects */
 @layer utilities {
-  .card-ui img { transition: transform .28s cubic-bezier(.2,.9,.3,1); }
-  .card-ui:hover img { transform: scale(1.04); }
-  .card-ui:hover { transform: translateY(-6px); transition: transform .22s cubic-bezier(.2,.9,.3,1), box-shadow .22s; box-shadow: 0 14px 40px rgba(2,6,23,0.12) }
+  .card-ui img { transition: transform .32s cubic-bezier(.2,.9,.3,1); will-change: transform; }
+  .card-ui:hover img { transform: scale(1.02); }
+  .card-ui:hover { transform: translateY(-8px); transition: transform .28s cubic-bezier(.2,.9,.3,1), box-shadow .28s; box-shadow: 0 18px 50px rgba(2,6,23,0.14); z-index:5 }
   .card-ui .img-overlay { position:absolute; inset:0; pointer-events:none; background: linear-gradient(180deg, rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.08) 60%); opacity:0; transition:opacity .25s ease }
   .card-ui:hover .img-overlay { opacity:1 }
   .fade-up { animation: fadeUp .5s ease both; }
@@ -72,8 +73,23 @@
 .hero-content { position:relative; z-index:10 }
 .hero-signature { font-family: 'Playfair Display', serif; font-weight:600; color:var(--accent-2); margin-top:0.75rem; font-size:1rem }
 
+/* Subtle aquascape texture & thin wave overlay for premium impact */
+.hero-panel { position: relative; overflow: hidden }
+.hero-panel::before { content:""; position:absolute; inset:0; background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800"><filter id="g"><feTurbulence baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/></filter><rect width="100%" height="100%" filter="url(%23g)" opacity="0.04" fill="white"/></svg>'); opacity:0.65; mix-blend-mode:overlay; pointer-events:none }
+.hero-panel::after { content:""; position:absolute; left:0; right:0; bottom:0; height:36%; background-image: radial-gradient(ellipse at center, rgba(255,255,255,0.04), rgba(255,255,255,0) 60%); pointer-events:none }
+
 /* Alternate section background */
 .section-alt { background: linear-gradient(180deg, rgba(11,18,32,0.02), rgba(255,255,255,0)); }
+
+/* Apply subtle alternation automatically for rhythm: every second section inside main */
+main > section:nth-child(even) { background: rgba(11,18,32,0.02); padding-top: 2rem; padding-bottom:2rem }
+main > section:nth-child(odd) { background: transparent }
+
+/* Stronger params block and a small summary box for fiche */
+.fiche-params { background: rgba(255,255,255,0.85); border:1px solid rgba(2,6,23,0.04); padding:0.85rem; border-radius:12px; box-shadow: 0 8px 30px rgba(11,18,32,0.04) }
+.summary-box { background: linear-gradient(90deg, rgba(43,182,164,0.04), rgba(124,92,255,0.02)); padding:0.9rem 1rem; border-radius:10px; border-left:3px solid var(--accent); font-weight:600; margin-bottom:0.5rem }
+.param { display:flex; gap:0.6rem; align-items:center; background:transparent; padding:0.45rem 0.6rem; border-radius:8px }
+.param .icon { width:20px; height:20px; flex:0 0 20px; display:inline-flex; align-items:center; justify-content:center }
 
 /* reveal on scroll */
 .reveal { opacity:0; transform: translateY(8px); transition: opacity .48s ease, transform .48s cubic-bezier(.2,.9,.3,1) }
@@ -104,6 +120,13 @@
   .badge{ font-size:0.75rem }
   .card-ui { padding:0.9rem }
   .hero-title{ font-size:1.6rem }
+}
+
+/* Additional mobile spacing tweaks */
+@media (max-width:720px){
+  .hero-panel { padding-top:3.25rem; padding-bottom:3.25rem }
+  .card-ui { padding:1.1rem }
+  .btn-primary { padding: 0.6rem 1.05rem }
 }
 
 /* Dark theme overrides */

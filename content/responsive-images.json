@@ -241,6 +241,138 @@
       "file": "responsive/favicon-128-w1600.jpg"
     }
   ],
+  "favicon-16.png": [
+    {
+      "width": 320,
+      "file": "responsive/favicon-16-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/favicon-16-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/favicon-16-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/favicon-16-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/favicon-16-w1600.jpg"
+    }
+  ],
+  "favicon-192.png": [
+    {
+      "width": 320,
+      "file": "responsive/favicon-192-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/favicon-192-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/favicon-192-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/favicon-192-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/favicon-192-w1600.jpg"
+    }
+  ],
+  "favicon-32.png": [
+    {
+      "width": 320,
+      "file": "responsive/favicon-32-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/favicon-32-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/favicon-32-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/favicon-32-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/favicon-32-w1600.jpg"
+    }
+  ],
+  "favicon-48.png": [
+    {
+      "width": 320,
+      "file": "responsive/favicon-48-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/favicon-48-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/favicon-48-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/favicon-48-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/favicon-48-w1600.jpg"
+    }
+  ],
+  "favicon-64.png": [
+    {
+      "width": 320,
+      "file": "responsive/favicon-64-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/favicon-64-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/favicon-64-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/favicon-64-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/favicon-64-w1600.jpg"
+    }
+  ],
+  "favicon-96.png": [
+    {
+      "width": 320,
+      "file": "responsive/favicon-96-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/favicon-96-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/favicon-96-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/favicon-96-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/favicon-96-w1600.jpg"
+    }
+  ],
   "hero-right.jpg": [
     {
       "width": 320,
