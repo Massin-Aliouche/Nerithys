@@ -36,6 +36,15 @@ function rel(p){
 async function generate(){
   await ensureDir(OUT_DIR);
   const imgs = await findImages(CONTENT);
+  // include external images manifest (downloaded previously)
+  try{
+    const raw = await fs.readFile(path.join(CONTENT,'external-images.json'),'utf8');
+    const map = JSON.parse(raw || '{}');
+    for(const k of Object.values(map)){
+      const p = path.join(CONTENT, k);
+      imgs.push(p);
+    }
+  }catch(e){ /* ignore */ }
   const manifest = {};
   for(const img of imgs){
     // skip files that are already in responsive output
