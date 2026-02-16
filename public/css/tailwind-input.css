@@ -72,6 +72,13 @@
 .hero-content { position:relative; z-index:10 }
 .hero-signature { font-family: 'Playfair Display', serif; font-weight:600; color:var(--accent-2); margin-top:0.75rem; font-size:1rem }
 
+/* Alternate section background */
+.section-alt { background: linear-gradient(180deg, rgba(11,18,32,0.02), rgba(255,255,255,0)); }
+
+/* reveal on scroll */
+.reveal { opacity:0; transform: translateY(8px); transition: opacity .48s ease, transform .48s cubic-bezier(.2,.9,.3,1) }
+.reveal.is-visible { opacity:1; transform: translateY(0) }
+
 /* Takeaway box on fiche */
 .takeaway { background: linear-gradient(90deg, rgba(43,182,164,0.06), rgba(124,92,255,0.03)); border-left:4px solid var(--accent); padding:0.85rem; border-radius:10px; font-weight:600 }
 .params-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:0.75rem }
@@ -86,6 +93,12 @@
 .lightbox .close { position:absolute; top:-10px; right:-10px; background:var(--surface); border-radius:8px; padding:6px; box-shadow:var(--shadow-soft); cursor:pointer }
 .lightbox .count { position:absolute; bottom:-28px; right:8px; color:var(--muted); font-size:12px }
 @keyframes zoomIn { from { opacity:0; transform:scale(.96) } to { opacity:1; transform:scale(1) } }
+
+/* Difficulty visual */
+.difficulty { display:flex; gap:0.25rem; align-items:center }
+.difficulty .dot { width:8px; height:8px; border-radius:999px; background:var(--muted-surface); box-shadow: inset 0 -1px 0 rgba(0,0,0,0.04) }
+.difficulty .dot.filled { background:var(--accent) }
+
 
 @media (max-width:720px){
   .badge{ font-size:0.75rem }
