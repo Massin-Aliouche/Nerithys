@@ -4,14 +4,31 @@
 
   function q(sel){return document.querySelector(sel)}
 
+  // Compute a normalized base for asset URLs that works for root, repo subpaths
+  // and relative deployments. If `window.ASSET_PATH` is an empty string we
+  // prefer a relative './' base to avoid resolving to '/' (which caused 404s).
+  function getBase(){
+    if(typeof window.ASSET_PATH === 'undefined' || window.ASSET_PATH === null) return '/';
+    if(window.ASSET_PATH === '') return './';
+    return window.ASSET_PATH.endsWith('/') ? window.ASSET_PATH : window.ASSET_PATH + '/';
+  }
   async function fetchFiches(){
-    const candidates=['/content/fiches.json','/data/species.json','/content/fiches/index.json','/public/content/fiches.json'];
+    const base = getBase();
+    const candidates = [
+      base + 'content/fiches.json',
+      base + 'data/species.json',
+      base + 'content/fiches/index.json',
+      base + 'public/content/fiches.json',
+      'content/fiches.json',
+      'data/species.json',
+      '/content/fiches.json',
+      '/data/species.json'
+    ];
     for(const path of candidates){
       try{
         const res = await fetch(path);
         if(!res.ok) continue;
         const json = await res.json();
-        // normalize: if top-level has 'fiches' or is an array
         if(Array.isArray(json)) return json;
         if(json.fiches && Array.isArray(json.fiches)) return json.fiches;
       }catch(e){/* ignore */}
@@ -52,11 +69,10 @@
     // make whole card clickable on home/listing — build href from site base
     const link = document.createElement('a');
     try{
-      const base = (window.ASSET_PATH || '/');
-      const normalizedBase = base.endsWith('/') ? base : base + '/';
-      link.href = normalizedBase + 'fiches/' + encodeURIComponent(item.slug||item.name||'') + '/';
+      const base = getBase();
+      link.href = base + 'fiches/' + encodeURIComponent(item.slug||item.name||'') + '/';
     }catch(e){
-      link.href = '/fiches/' + encodeURIComponent(item.slug||item.name||'') + '/';
+      link.href = './fiches/' + encodeURIComponent(item.slug||item.name||'') + '/';
     }
     link.className = 'block';
     link.appendChild(el);
@@ -150,9 +166,8 @@
             const idx = all.indexOf(target);
             let full = target.dataset.full || target.src;
             if(full && !/^https?:\/\//.test(full)){
-              const base = (window.ASSET_PATH || '/');
-              const normalized = base.endsWith('/') ? base : base + '/';
-              full = normalized + full.replace(/^\/+/, '');
+              const base = getBase();
+              full = base + full.replace(/^\/+/, '');
             }
             img.src = full;
         if(countEl) countEl.textContent = `${(idx>=0?idx+1:1)}/${all.length}`;
@@ -170,9 +185,7 @@
     state.all = data || [];
     // load responsive manifest for client-side srcset handling (if present)
     try{
-      const base = (window.ASSET_PATH || '/');
-      const normalized = base.endsWith('/') ? base : base + '/';
-      const r = await fetch(normalized + 'content/responsive-images.json');
+      const r = await fetch(getBase() + 'content/responsive-images.json');
       if(r.ok) state.responsive = await r.json();
     }catch(e){ state.responsive = {} }
     populateBiotopeOptions(state.all);
@@ -211,10 +224,9 @@
               const key = candidate.split('/').pop();
               const variants = state.responsive[key];
               if(Array.isArray(variants) && variants.length){
-                const base = (window.ASSET_PATH || '/');
-                const normalized = base.endsWith('/') ? base : base + '/';
-                img.src = normalized + 'content/' + variants[0].file;
-                img.srcset = variants.map(v=>`${normalized}content/${v.file} ${v.width}w`).join(', ');
+                const base = getBase();
+                img.src = base + 'content/' + variants[0].file;
+                img.srcset = variants.map(v=>`${base}content/${v.file} ${v.width}w`).join(', ');
                 img.sizes = '(min-width: 768px) 33vw, 100vw';
               } else {
                 img.src = candidate;
