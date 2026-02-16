@@ -19,8 +19,28 @@ async function ensureDir(dir){
   await fs.mkdir(dir, { recursive: true });
 }
 
+async function copyDir(src, dest){
+  try{
+    const entries = await fs.readdir(src, { withFileTypes: true });
+    await ensureDir(dest);
+    for(const e of entries){
+      const srcPath = path.join(src, e.name);
+      const destPath = path.join(dest, e.name);
+      if(e.isDirectory()){
+        await copyDir(srcPath, destPath);
+      } else if(e.isFile()){
+        await fs.copyFile(srcPath, destPath);
+      }
+    }
+  }catch(e){ /* ignore missing dirs */ }
+}
+
 async function build(){
   await ensureDir(OUT);
+
+  // copy site CSS and JS into public so pages can reference them relatively
+  await copyDir(path.join(ROOT,'css'), path.join(OUT,'css'));
+  await copyDir(path.join(ROOT,'js'), path.join(OUT,'js'));
 
   // copy top-level content assets (images/icons) into public/content so templates can reference them
   await ensureDir(path.join(OUT,'content'));
@@ -100,10 +120,16 @@ async function build(){
     relToRoot = relToRoot.split(path.sep).join('/');
     if(!relToRoot.endsWith('/')) relToRoot = relToRoot === '.' ? './' : relToRoot + '/';
 
+    // determine OG image: if it's an absolute URL, use it as-is, otherwise prefix with the asset path
+    let ogImage = (f.images && f.images[0]) || '';
+    if(ogImage && !/^https?:\/\//.test(ogImage)){
+      ogImage = relToRoot + ogImage;
+    }
+
     let outHtml = ficheTpl.replace(/{{ASSET_PATH}}/g, relToRoot)
       .replace(/{{TITLE}}/g, title)
       .replace(/{{DESCRIPTION}}/g, description)
-      .replace(/{{OG_IMAGE}}/g, (f.images && f.images[0]) || '')
+      .replace(/{{OG_IMAGE}}/g, ogImage)
       .replace(/{{JSON_LD}}/g, JSON.stringify(jsonld))
       .replace(/{{CONTENT}}/g, `<!-- Content generated -->\n<div class="card"><h1>${f.name} <small class="muted">${f.scientificName}</small></h1>
 <p class="muted">Biotope: ${f.biotope} · Difficulté: ${f.difficulty}</p>

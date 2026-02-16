@@ -11,6 +11,12 @@
   white-space: nowrap;
   border-width: 0;
 }
+.absolute {
+  position: absolute;
+}
+.static {
+  position: static;
+}
 .container {
   width: 100%;
 }

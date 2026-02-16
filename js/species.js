@@ -1,19 +1,64 @@
 async function fetchSpecies(){
-  const res = await fetch('/data/species.json');
-  return res.json();
+  const candidates = ['/content/fiches.json','/data/species.json','/public/content/fiches.json','/content/fiches/index.json'];
+  for(const p of candidates){
+    try{
+      const res = await fetch(p);
+      if(!res.ok) continue;
+      const json = await res.json();
+      if(Array.isArray(json)) return json;
+      if(json.fiches && Array.isArray(json.fiches)) return json.fiches;
+    }catch(e){ /* ignore */ }
+  }
+  return [];
 }
 
-function createCard(item){
+function slugify(s){
+  return (s||'').toString().toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');
+}
+
+function escapeHtml(s){
+  if(!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+function normalize(raw){
+  const out = {};
+  out.slug = raw.slug || slugify(raw.name || raw.common_name || raw.commonName || raw.scientificName || raw.scientific_name || '');
+  out.name = raw.name || raw.common_name || raw.commonName || '';
+  out.scientificName = raw.scientificName || raw.scientific_name || raw.scientific || '';
+  out.images = Array.isArray(raw.images) ? raw.images : (raw.images ? [raw.images] : (raw.image ? [raw.image] : []));
+  out.image = out.images[0] || raw.image || raw.image_url || '';
+  out.biotope = raw.biotope || '';
+  out.tempMin = raw.tempMin || raw.temp_c || raw.temp_min || null;
+  out.tempMax = raw.tempMax || raw.temp_max || null;
+  out.phMin = raw.phMin || raw.ph_min || raw.ph || null;
+  out.phMax = raw.phMax || raw.ph_max || null;
+  out.ghMin = raw.ghMin || raw.gh_min || null;
+  out.ghMax = raw.ghMax || raw.gh_max || null;
+  out.minVolumeL = raw.minVolumeL || raw.min_volume_l || raw.min_volume || null;
+  out.minLengthCm = raw.minLengthCm || raw.min_length_cm || null;
+  out.behavior = raw.behavior || '';
+  out.compatibility = raw.compatibility || '';
+  out.diet = raw.diet || raw.feeding || '';
+  out.breeding = raw.breeding || raw.reproduction || '';
+  out.notes = raw.notes || raw.maintenance_tips || '';
+  out.difficulty = raw.difficulty || raw.level || '';
+  return out;
+}
+
+function createCard(raw){
+  const item = normalize(raw);
   const a = document.createElement('a');
-  a.className = 'card-ui species-card';
-  a.href = `/fiche-poisson/fiche.html?slug=${encodeURIComponent(item.slug)}`;
+  a.className = 'card-ui species-card block rounded-lg overflow-hidden bg-white shadow-sm hover:shadow-md';
+  a.href = `/fiches/${encodeURIComponent(item.slug)}/`;
+  const imgSrc = item.image || (item.images && item.images[0]) || '/content/placeholder.png';
   a.innerHTML = `
-    <div style="display:flex;gap:1rem;align-items:center">
-      <img src="${item.image}" alt="${item.common_name}" style="width:120px;height:84px;object-fit:cover;border-radius:10px"> 
+    <div class="flex gap-4 items-center p-4">
+      <img src="${imgSrc}" alt="${escapeHtml(item.name)}" class="w-28 h-20 object-cover rounded-md" />
       <div>
-        <h3>${item.common_name}</h3>
-        <p class="muted">${item.scientific_name} · ${item.biotope}</p>
-        <p class="muted">T: ${item.temp_c} °C · pH: ${item.ph} · Vol min: ${item.min_volume_l}L</p>
+        <h3 class="text-lg font-medium">${escapeHtml(item.name)}</h3>
+        <p class="text-sm text-slate-500">${escapeHtml(item.scientificName || '')} · ${escapeHtml(item.biotope || '')}</p>
+        <p class="text-sm text-slate-500">T: ${item.tempMin||'—'}°C · pH: ${item.phMin||'—'} · Vol min: ${item.minVolumeL||'—'}L</p>
       </div>
     </div>`;
   return a;
@@ -24,7 +69,7 @@ async function renderList(containerId){
   if(!container) return;
   const species = await fetchSpecies();
   const list = document.createElement('div');
-  list.className = 'grid';
+  list.className = 'grid gap-4';
   species.forEach(s => list.appendChild(createCard(s)));
   container.innerHTML = '';
   container.appendChild(list);
@@ -53,10 +98,11 @@ function setupSearch(species, container){
   function doFilter(){
     const q = search.value.trim().toLowerCase();
     const b = biotope.value;
-    const filtered = species.filter(s => {
+    const filtered = species.filter(raw => {
+      const s = normalize(raw);
       if(b && b !== 'all' && s.biotope !== b) return false;
       if(!q) return true;
-      return s.common_name.toLowerCase().includes(q) || s.scientific_name.toLowerCase().includes(q) || s.biotope.toLowerCase().includes(q);
+      return (s.name||'').toLowerCase().includes(q) || (s.scientificName||'').toLowerCase().includes(q) || (s.biotope||'').toLowerCase().includes(q);
     });
     const list = container.querySelector('.grid');
     list.innerHTML = '';
@@ -78,7 +124,8 @@ async function renderFiche(contentId){
   const container = document.getElementById(contentId);
   if(!container){ return; }
   const species = await fetchSpecies();
-  const item = species.find(s => s.slug === slug);
+  const raw = species.find(s => (s.slug||s.name||'').toString() === slug || (s.slug||'').toString() === slug);
+  const item = raw ? normalize(raw) : null;
   if(!item){ container.innerHTML = '<p>Fiche introuvable.</p>'; return; }
 
   const toc = [];
@@ -89,17 +136,17 @@ async function renderFiche(contentId){
   }
 
   let html = `
-    <article class="card">
+    <article class="space-y-4">
       <header>
-        <h1>${item.common_name} <small class="muted">${item.scientific_name}</small></h1>
-        <p class="muted">T: ${item.temp_c} °C · pH: ${item.ph} · Vol min: ${item.min_volume_l}L · Difficulté: ${item.difficulty}</p>
+        <h1 class="text-2xl font-bold">${escapeHtml(item.name)} <small class="text-sm text-slate-500">${escapeHtml(item.scientificName||'')}</small></h1>
+        <p class="text-sm text-slate-500">T: ${item.tempMin||'—'}–${item.tempMax||'—'} °C · pH: ${item.phMin||'—'}–${item.phMax||'—'} · Difficulté: ${item.difficulty||'—'}</p>
       </header>
-      ${addSection('Paramètres d\'eau', `<ul><li>Température: ${item.temp_c} °C</li><li>pH: ${item.ph}</li><li>GH/KH: ${item.gh_kh}</li></ul>`)}
-      ${addSection('Volume & dimensions', `<p>Volume minimum recommandé: <strong>${item.min_volume_l} L</strong></p>`)}
-      ${addSection('Comportement & compatibilité', `<p>${item.behavior}</p><p>${item.compatibility}</p>`)}
-      ${addSection('Alimentation', `<p>${item.feeding}</p>`)}
-      ${addSection('Reproduction', `<p>${item.reproduction}</p>`)}
-      ${addSection('Conseils de maintenance', `<p>${item.maintenance_tips}</p>`)}
+      ${addSection('Paramètres', `<ul><li>Temp: ${item.tempMin||'—'}–${item.tempMax||'—'} °C</li><li>pH: ${item.phMin||'—'}–${item.phMax||'—'}</li><li>GH: ${item.ghMin||'—'}–${item.ghMax||'—'}</li></ul>`)}
+      ${addSection('Volume & dimensions', `<p>Volume minimum: <strong>${item.minVolumeL||'—'} L</strong> · Taille adulte: ${item.minLengthCm||'—'} cm</p>`)}
+      ${addSection('Comportement & compatibilité', `<p>${escapeHtml(item.behavior||'')}</p><p>${escapeHtml(item.compatibility||'')}</p>`)}
+      ${addSection('Alimentation', `<p>${escapeHtml(item.diet||'')}</p>`)}
+      ${addSection('Reproduction', `<p>${escapeHtml(item.breeding||'')}</p>`)}
+      ${addSection('Conseils', `<p>${escapeHtml(item.notes||'')}</p>`)}
     </article>`;
 
   // render toc
@@ -107,4 +154,6 @@ async function renderFiche(contentId){
   container.innerHTML = `<div style="display:grid;grid-template-columns:1fr 280px;gap:1rem">${html}${tocHtml}</div>`;
 }
 
-export { renderList, renderFiche };
+// expose for non-module usage
+window.renderList = renderList;
+window.renderFiche = renderFiche;
