@@ -28,4 +28,17 @@ document.addEventListener('DOMContentLoaded', function(){
   if(stored) applyTheme(stored);
   else if(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) applyTheme('dark');
   if(themeToggle){ themeToggle.addEventListener('click', ()=>{ const next = document.documentElement.classList.contains('dark') ? 'light' : 'dark'; applyTheme(next); }); }
+
+    // reveal on scroll for elements with .reveal
+    try{
+      const reveals = document.querySelectorAll('.reveal');
+      if('IntersectionObserver' in window && reveals.length){
+        const ro = new IntersectionObserver((entries)=>{
+          entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('is-visible'); ro.unobserve(e.target); } });
+        }, { threshold: 0.12 });
+        reveals.forEach(r=>ro.observe(r));
+      } else {
+        reveals.forEach(r=>r.classList.add('is-visible'));
+      }
+    }catch(e){}
 });

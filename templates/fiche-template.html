@@ -19,7 +19,10 @@
     <div class="max-w-5xl mx-auto px-4 py-5 flex items-center justify-between">
       <a class="flex items-center gap-3" href="{{ASSET_PATH}}">
         <img src="{{ASSET_PATH}}content/Nerithys%20Logo.png" alt="Nerithys" class="h-9" />
-        <span class="font-display text-lg text-slate-800">Nerithys</span>
+        <div>
+          <span class="font-display text-lg text-slate-800">Nerithys</span>
+          <div class="text-xs text-slate-500">L'élégance du vivant aquatique</div>
+        </div>
       </a>
     </div>
   </header>
@@ -31,7 +34,25 @@
   </main>
 
   <footer class="mt-12 border-t bg-slate-50">
-    <div class="max-w-5xl mx-auto px-4 py-6 text-sm text-slate-600">© Nerithys</div>
+    <div class="max-w-5xl mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
+      <div>
+        <strong>Nerithys</strong>
+        <p class="mt-2 text-sm text-slate-600">L'élégance du vivant aquatique — guides et fiches pratiques.</p>
+      </div>
+      <div>
+        <h4 class="font-medium">Navigation</h4>
+        <ul class="mt-2 space-y-1">
+          <li><a href="{{ASSET_PATH}}fiches/">Fiches</a></li>
+          <li><a href="{{ASSET_PATH}}articles/">Articles</a></li>
+          <li><a href="{{ASSET_PATH}}contact/">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4 class="font-medium">Liens</h4>
+        <p class="mt-2 text-sm"><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">Voir le code sur GitHub</a></p>
+        <p class="mt-4 text-xs text-slate-500">Mentions légales · Politique de confidentialité</p>
+      </div>
+    </div>
   </footer>
   <div id="lightbox" class="lightbox" aria-hidden="true">
     <div class="inner">

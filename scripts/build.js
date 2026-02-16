@@ -178,7 +178,13 @@ async function build(){
 
     const errorsHtml = `<div class="bg-red-50 border border-red-100 p-3 rounded-md text-sm text-red-800"><strong>Erreurs courantes:</strong><ul class="list-disc pl-5 mt-2"><li>Maintenir en petit bac malgré la taille adulte</li><li>Méconnaître la salinité / paramètres marins</li></ul></div>`;
 
-    const badgesHtml = `<div class="flex gap-2 items-center mt-2"><span class="px-2 py-1 text-xs font-medium rounded ${diffColor}">Difficulté: ${diffLabel}</span><span class="px-2 py-1 text-xs bg-slate-100 rounded">Biotope: ${f.biotope||'—'}</span><span class="px-2 py-1 text-xs bg-slate-100 rounded">Taille: ${f.minLengthCm||'—'} cm</span></div>`;
+    // difficulty visual: dots
+    const diffNum = Number(f.difficulty) || 0;
+    let dots = '';
+    for(let i=1;i<=5;i++){
+      dots += `<span class="dot${i<=diffNum?'-filled':''}" aria-hidden="true" style="display:inline-block;width:8px;height:8px;border-radius:999px;margin-right:4px;${i<=diffNum?`background:var(--accent);`:`background:var(--muted-surface);`}"></span>`;
+    }
+    const badgesHtml = `<div class="flex gap-4 items-center mt-2"><div class="difficulty" aria-hidden="true">${dots}</div><span class="px-2 py-1 text-xs bg-slate-100 rounded">Biotope: ${f.biotope||'—'}</span><span class="px-2 py-1 text-xs bg-slate-100 rounded">Taille: ${f.minLengthCm||'—'} cm</span></div>`;
 
     let outHtml = ficheTpl.replace(/{{ASSET_PATH}}/g, relToRoot)
       .replace(/{{TITLE}}/g, title)
