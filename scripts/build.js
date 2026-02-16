@@ -38,6 +38,18 @@ async function copyDir(src, dest){
 async function build(){
   await ensureDir(OUT);
 
+  // load SVG icons from content/icons (if present)
+  let svgIcons = {};
+  try{
+    const iconsDir = path.join(CONTENT,'icons');
+    const iconFiles = await fs.readdir(iconsDir);
+    for(const fn of iconFiles){
+      if(!fn.endsWith('.svg')) continue;
+      const key = path.basename(fn, '.svg');
+      try{ svgIcons[key] = await fs.readFile(path.join(iconsDir, fn), 'utf8'); }catch(e){}
+    }
+  }catch(e){ /* no icons */ }
+
   // copy site CSS and JS into public so pages can reference them relatively
   await copyDir(path.join(ROOT,'css'), path.join(OUT,'css'));
   await copyDir(path.join(ROOT,'js'), path.join(OUT,'js'));
@@ -162,9 +174,9 @@ async function build(){
       }
     }
 
-    const svgThermo = `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 14.76V6a2 2 0 10-4 0v8.76a4 4 0 104 0z" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
-    const svgDrop = `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2s6 5.5 6 9.5a6 6 0 11-12 0C6 7.5 12 2 12 2z" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
-    const svgScale = `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18M6 6v14M18 6v14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    const svgThermo = svgIcons['temp'] || `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 14.76V6a2 2 0 10-4 0v8.76a4 4 0 104 0z" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    const svgDrop = svgIcons['ph'] || `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2s6 5.5 6 9.5a6 6 0 11-12 0C6 7.5 12 2 12 2z" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    const svgScale = svgIcons['gh'] || `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M7 9h10" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
     const paramsHtml = `<div class="params-grid">
       <div class="param"><span class="icon" aria-hidden="true">${svgThermo}</span><div><strong>Température</strong><div>${f.tempMin||'—'}–${f.tempMax||'—'} °C</div></div></div>

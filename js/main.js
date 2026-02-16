@@ -41,4 +41,19 @@ document.addEventListener('DOMContentLoaded', function(){
         reveals.forEach(r=>r.classList.add('is-visible'));
       }
     }catch(e){}
+
+    // subtle hero parallax effect: translate hero-bg image slightly on scroll
+    try{
+      const heroImg = document.querySelector('.hero-bg img');
+      if(heroImg){
+        let latest = 0;
+        window.addEventListener('scroll', ()=>{
+          latest = window.scrollY;
+          requestAnimationFrame(()=>{
+            const t = Math.min(60, latest * 0.06);
+            heroImg.style.transform = `translateY(${t}px) scale(1.06)`;
+          });
+        }, { passive: true });
+      }
+    }catch(e){}
 });
