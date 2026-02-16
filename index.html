@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Nerithys — L'élégance du vivant aquatique</title>
+  <meta name="description" content="Fiches poissons, guides aquariophiles et paramètres fiables — Nerithys">
+  <meta property="og:title" content="Nerithys — Fiches poissons">
+  <meta property="og:description" content="Fiches d'espèces & expertise aquariophile">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="content/favicon-64.png">
+</head>
+<body>
+
+  <!-- ═══ Header ═══ -->
+  <header class="site-header">
+    <div class="inner">
+      <a href="./" class="logo">
+        <img src="content/Nerithys%20Logo.png" alt="Nerithys">
+        <div>
+          <div class="logo-text">Nerithys</div>
+          <div class="logo-sub">L'élégance du vivant aquatique</div>
+        </div>
+      </a>
+      <nav>
+        <a href="./" class="active">Accueil</a>
+        <a href="./fiches/">Fiches</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ═══ Hero ═══ -->
+  <section class="hero">
+    <div class="bg-image" style="background-image:url('content/hero.jpg')"></div>
+    <div class="container content">
+      <h1 class="font-display">L'art d'un aquarium<br>équilibré</h1>
+      <p class="tagline">Comprendre. Équilibrer. Sublimer.</p>
+      <p class="intro">Fiches d'espèces structurées, paramètres fiables et conseils d'aquascaping pour créer un aquarium sain et harmonieux.</p>
+      <div class="actions">
+        <a href="./fiches/" class="btn btn-primary">Voir les fiches →</a>
+        <a href="#guides" class="btn btn-outline">Explorer les guides</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ Dernières fiches ═══ -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Nos fiches espèces</h2>
+      <p class="section-sub">Espèces mises en avant — cliquez pour découvrir la fiche complète</p>
+      <div id="species-list" data-featured="6" class="card-grid"></div>
+      <div style="text-align:center;margin-top:2rem">
+        <a href="./fiches/" class="btn btn-outline">Toutes les fiches →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ Guides ═══ -->
+  <section id="guides" class="section section-alt">
+    <div class="container">
+      <h2 class="section-title">Guides essentiels</h2>
+      <p class="section-sub">Les bases pour démarrer et maintenir un aquarium sain</p>
+      <div class="feature-grid">
+        <div class="feature-card reveal">
+          <div class="icon-wrap">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+          </div>
+          <h3>Cyclage de l'aquarium</h3>
+          <p>Comprendre le cycle de l'azote et préparer un bac sain avant d'introduire vos poissons.</p>
+        </div>
+        <div class="feature-card reveal">
+          <div class="icon-wrap">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2s6 5.5 6 9.5a6 6 0 11-12 0C6 7.5 12 2 12 2z"/></svg>
+          </div>
+          <h3>Paramètres essentiels</h3>
+          <p>pH, conductivité, température — réglages optimaux adaptés à chaque biotope.</p>
+        </div>
+        <div class="feature-card reveal">
+          <div class="icon-wrap">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/></svg>
+          </div>
+          <h3>Choisir sa population</h3>
+          <p>Composer un groupe équilibré, durable et adapté au volume de votre bac.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ Pourquoi ═══ -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Pourquoi Nerithys ?</h2>
+      <p class="section-sub">Une approche rigoureuse et passionnée de l'aquariophilie</p>
+      <div class="feature-grid">
+        <div class="feature-card reveal">
+          <h3>📋 Fiches structurées</h3>
+          <p>Informations vérifiables et sourcées, organisées pour une lecture claire et rapide.</p>
+        </div>
+        <div class="feature-card reveal">
+          <h3>🔬 Paramètres fiables</h3>
+          <p>Valeurs et tolérances précises par espèce, issues de sources reconnues.</p>
+        </div>
+        <div class="feature-card reveal">
+          <h3>🌿 Approche biotope</h3>
+          <p>Aquascaping et population pensés pour des bacs cohérents et respectueux.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ Lightbox ═══ -->
+  <div id="lightbox" class="lightbox" aria-hidden="true">
+    <div class="inner">
+      <button class="close" aria-label="Fermer">✕</button>
+      <img id="lightbox-img" alt="">
+    </div>
+  </div>
+
+  <!-- ═══ Footer ═══ -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="grid">
+        <div>
+          <strong style="color:#e2e8f0;font-size:1.1rem">Nerithys</strong>
+          <p style="margin-top:.5rem;font-size:.88rem">L'élégance du vivant aquatique — guides et fiches pratiques pour aquariophiles passionnés.</p>
+        </div>
+        <div>
+          <h4>Navigation</h4>
+          <ul>
+            <li><a href="./">Accueil</a></li>
+            <li><a href="./fiches/">Fiches</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Projet</h4>
+          <p style="font-size:.85rem"><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">Code source sur GitHub ↗</a></p>
+        </div>
+      </div>
+      <div class="bottom">© Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
+    </div>
+  </footer>
+
+  <script>window.ASSET_PATH='./';</script>
+  <script src="js/main.js"></script>
+  <script src="js/ui.js"></script>
+</body>
+</html>

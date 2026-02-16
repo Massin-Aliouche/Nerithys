@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Fiches espèces — Nerithys</title>
+  <meta name="description" content="Toutes les fiches poissons d'aquarium — Nerithys">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="icon" href="../content/favicon-64.png">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="inner">
+      <a href="../" class="logo">
+        <img src="../content/Nerithys%20Logo.png" alt="Nerithys">
+        <div>
+          <div class="logo-text">Nerithys</div>
+          <div class="logo-sub">L'élégance du vivant aquatique</div>
+        </div>
+      </a>
+      <nav>
+        <a href="../">Accueil</a>
+        <a href="../fiches/" class="active">Fiches</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Page title -->
+  <section class="section" style="padding-bottom:0">
+    <div class="container">
+      <h1 class="section-title font-display" style="font-size:1.8rem">Fiches espèces</h1>
+      <p class="section-sub">Recherchez, filtrez et explorez toutes nos fiches poissons d'aquarium.</p>
+    </div>
+  </section>
+
+  <!-- Filters -->
+  <section style="padding:1.5rem 0">
+    <div class="container">
+      <div class="filters-bar">
+        <div>
+          <label for="q">Recherche</label>
+          <input id="q" type="text" placeholder="Nom, famille…">
+        </div>
+        <div>
+          <label for="biotope">Biotope</label>
+          <select id="biotope">
+            <option value="all">Tous</option>
+          </select>
+        </div>
+        <div>
+          <label for="difficulty">Difficulté</label>
+          <select id="difficulty">
+            <option value="all">Toutes</option>
+            <option value="1">Facile</option>
+            <option value="2">Moyen</option>
+            <option value="3">Difficile</option>
+            <option value="4">Expert</option>
+          </select>
+        </div>
+      </div>
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem">
+        <div id="resultsCount" style="font-size:.88rem;color:var(--muted)">Chargement…</div>
+        <button onclick="document.getElementById('q').value='';document.getElementById('biotope').value='all';document.getElementById('difficulty').value='all';document.getElementById('q').dispatchEvent(new Event('input'))" class="btn btn-outline" style="padding:.4rem .8rem;font-size:.8rem">Réinitialiser</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Listing -->
+  <section class="section" style="padding-top:0">
+    <div class="container">
+      <div id="species-list" class="card-grid"></div>
+    </div>
+  </section>
+
+  <!-- Lightbox -->
+  <div id="lightbox" class="lightbox" aria-hidden="true">
+    <div class="inner">
+      <button class="close" aria-label="Fermer">✕</button>
+      <img id="lightbox-img" alt="">
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="grid">
+        <div>
+          <strong style="color:#e2e8f0;font-size:1.1rem">Nerithys</strong>
+          <p style="margin-top:.5rem;font-size:.88rem">L'élégance du vivant aquatique — guides et fiches pratiques.</p>
+        </div>
+        <div>
+          <h4>Navigation</h4>
+          <ul>
+            <li><a href="../">Accueil</a></li>
+            <li><a href="../fiches/">Fiches</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Projet</h4>
+          <p style="font-size:.85rem"><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">GitHub ↗</a></p>
+        </div>
+      </div>
+      <div class="bottom">© Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
+    </div>
+  </footer>
+
+  <script>window.ASSET_PATH='../';</script>
+  <script src="../js/main.js"></script>
+  <script src="../js/ui.js"></script>
+</body>
+</html>
