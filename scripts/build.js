@@ -134,14 +134,21 @@ async function build(){
       return 'bg-slate-100 text-slate-700';
     })(diff);
 
-    const imageHtml = (f.images && f.images[0]) ? `<div class="w-full md:w-1/3"><img src="${(f.images&&f.images[0])}" alt="${f.name}" class="w-full h-56 object-cover rounded-lg"/></div>` : '';
+    const imageHtml = (f.images && f.images[0]) ? `<div class="w-full md:w-1/3"><div class="rounded-lg overflow-hidden relative"><img src="${(f.images&&f.images[0])}" alt="${f.name}" class="w-full h-56 object-cover rounded-lg"/><div class="img-overlay"></div></div></div>` : '';
 
-    const paramsHtml = `<div class="grid grid-cols-1 md:grid-cols-2 gap-4 bg-slate-50 p-4 rounded-lg">
-      <div><strong>Température</strong><div>${f.tempMin||'—'}–${f.tempMax||'—'} °C</div></div>
-      <div><strong>pH</strong><div>${f.phMin||'—'}–${f.phMax||'—'}</div></div>
-      <div><strong>GH</strong><div>${f.ghMin||'—'}–${f.ghMax||'—'}</div></div>
-      <div><strong>KH</strong><div>${f.khMin||'—'}–${f.khMax||'—'}</div></div>
+    const svgThermo = `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 14.76V6a2 2 0 10-4 0v8.76a4 4 0 104 0z" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    const svgDrop = `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2s6 5.5 6 9.5a6 6 0 11-12 0C6 7.5 12 2 12 2z" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    const svgScale = `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18M6 6v14M18 6v14" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
+    const paramsHtml = `<div class="params-grid">
+      <div class="param"><span aria-hidden="true">${svgThermo}</span><div><strong>Température</strong><div>${f.tempMin||'—'}–${f.tempMax||'—'} °C</div></div></div>
+      <div class="param"><span aria-hidden="true">${svgDrop}</span><div><strong>pH</strong><div>${f.phMin||'—'}–${f.phMax||'—'}</div></div></div>
+      <div class="param"><span aria-hidden="true">${svgScale}</span><div><strong>GH</strong><div>${f.ghMin||'—'}–${f.ghMax||'—'}</div></div></div>
+      <div class="param"><span aria-hidden="true">${svgScale}</span><div><strong>KH</strong><div>${f.khMin||'—'}–${f.khMax||'—'}</div></div></div>
     </div>`;
+
+    const takeaway = f.summary || (f.notes ? (f.notes.split('.').filter(Boolean)[0] || '') : '');
+    const takeawayHtml = takeaway ? `<div class="takeaway">À retenir: ${takeaway}.</div>` : '';
 
     const errorsHtml = `<div class="bg-red-50 border border-red-100 p-3 rounded-md text-sm text-red-800"><strong>Erreurs courantes:</strong><ul class="list-disc pl-5 mt-2"><li>Maintenir en petit bac malgré la taille adulte</li><li>Méconnaître la salinité / paramètres marins</li></ul></div>`;
 
@@ -153,7 +160,7 @@ async function build(){
       .replace(/{{OG_IMAGE}}/g, ogImage)
       .replace(/{{JSON_LD}}/g, JSON.stringify(jsonld))
       .replace(/{{CONTENT}}/g, `<!-- Content generated -->
-    <div class="flex flex-col md:flex-row gap-6">${imageHtml}<div class="flex-1 space-y-4"><header><h1 class="text-2xl font-bold">${f.name} <small class="text-sm text-slate-500">${f.scientificName||''}</small></h1>${badgesHtml}</header>${paramsHtml}<section><h3 class="text-lg font-semibold">Comportement & compatibilité</h3><p>${f.behavior||''}</p></section><section><h3 class="text-lg font-semibold">Alimentation</h3><p>${f.diet||''}</p></section><section><h3 class="text-lg font-semibold">Reproduction</h3><p>${f.breeding||''}</p></section><section><h3 class="text-lg font-semibold">Conseils</h3><p>${f.notes||''}</p></section>${errorsHtml}</div></div>`);
+    <div class="flex flex-col md:flex-row gap-6">${imageHtml}<div class="flex-1 space-y-4"><header><h1 class="text-2xl font-bold">${f.name} <small class="text-sm text-slate-500">${f.scientificName||''}</small></h1>${badgesHtml}${takeawayHtml}</header>${paramsHtml}<section><h3 class="text-lg font-semibold">Comportement & compatibilité</h3><p>${f.behavior||''}</p></section><section><h3 class="text-lg font-semibold">Alimentation</h3><p>${f.diet||''}</p></section><section><h3 class="text-lg font-semibold">Reproduction</h3><p>${f.breeding||''}</p></section><section><h3 class="text-lg font-semibold">Conseils</h3><p>${f.notes||''}</p></section>${errorsHtml}</div></div>`);
 
     await fs.writeFile(path.join(dir,'index.html'), outHtml, 'utf8');
   }

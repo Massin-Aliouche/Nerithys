@@ -21,7 +21,7 @@
 
   function createCard(item){
     const el = document.createElement('article');
-    el.className='card-ui transform transition-all hover:-translate-y-1 hover:shadow-lg';
+    el.className='card-ui transform transition-all';
     const img = document.createElement('img');
     img.className='card-image rounded-md';
     img.loading='lazy';
@@ -31,6 +31,10 @@
     img.dataset.src = realSrc;
     img.dataset.full = realSrc;
     img.src = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280"></svg>';
+
+    const wrap = document.createElement('div'); wrap.className = 'img-wrap'; wrap.style.position='relative';
+    const overlay = document.createElement('div'); overlay.className = 'img-overlay';
+    wrap.appendChild(img); wrap.appendChild(overlay);
 
     const body = document.createElement('div'); body.className='card-body';
     const title = document.createElement('h3'); title.className='card-title'; title.textContent = item.name || '—';
@@ -43,7 +47,7 @@
     badges.appendChild(b1); badges.appendChild(b2);
 
     body.appendChild(title); body.appendChild(badges); body.appendChild(meta);
-    el.appendChild(img); el.appendChild(body);
+    el.appendChild(wrap); el.appendChild(body);
     // make whole card clickable on home/listing
     const link = document.createElement('a');
     link.href = `/fiches/${encodeURIComponent(item.slug||item.name||'')}/`;
@@ -129,13 +133,22 @@
   function setupLightbox(){
     const lb = q('#lightbox');
     const img = q('#lightbox-img');
+    const closeBtn = lb && lb.querySelector('.close');
+    const countEl = lb && lb.querySelector('.count');
     document.addEventListener('click', (e)=>{
       const target = e.target.closest('.card-image');
-      if(target){ e.preventDefault(); img.src = target.dataset.full || target.src; lb.classList.add('open'); lb.setAttribute('aria-hidden','false'); }
-      if(e.target === lb) closeLB();
+      if(target){
+        e.preventDefault();
+        const all = Array.from(document.querySelectorAll('img[data-full]'));
+        const idx = all.indexOf(target);
+        img.src = target.dataset.full || target.src;
+        if(countEl) countEl.textContent = `${(idx>=0?idx+1:1)}/${all.length}`;
+        lb.classList.add('open'); lb.setAttribute('aria-hidden','false');
+      }
+      if(e.target === lb || e.target === closeBtn) closeLB();
     });
     document.addEventListener('keydown', (e)=>{ if(e.key==='Escape') closeLB() });
-    function closeLB(){ lb.classList.remove('open'); lb.setAttribute('aria-hidden','true'); img.src=''; }
+    function closeLB(){ lb.classList.remove('open'); lb.setAttribute('aria-hidden','true'); img.src=''; if(countEl) countEl.textContent=''; }
   }
 
   // init

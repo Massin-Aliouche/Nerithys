@@ -34,7 +34,11 @@
     <div class="max-w-5xl mx-auto px-4 py-6 text-sm text-slate-600">© Nerithys</div>
   </footer>
   <div id="lightbox" class="lightbox" aria-hidden="true">
-    <div class="inner"><img id="lightbox-img" alt="" /></div>
+    <div class="inner">
+      <button class="close" aria-label="Fermer">✕</button>
+      <img id="lightbox-img" alt="" />
+      <div class="count" aria-hidden="true"></div>
+    </div>
   </div>
   <script src="{{ASSET_PATH}}js/ui.js"></script>
   <script>
