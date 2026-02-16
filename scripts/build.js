@@ -176,13 +176,18 @@ async function build(){
 
     const svgThermo = svgIcons['temp'] || `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 14.76V6a2 2 0 10-4 0v8.76a4 4 0 104 0z" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
     const svgDrop = svgIcons['ph'] || `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2s6 5.5 6 9.5a6 6 0 11-12 0C6 7.5 12 2 12 2z" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
-    const svgScale = svgIcons['gh'] || `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M7 9h10" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    const svgGH = svgIcons['gh'] || `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M7 9h10" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    const svgKH = svgIcons['kh'] || svgGH;
+    const svgSize = svgIcons['size'] || `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M3 12h18M7 8v8M17 8v8" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    const svgBiotope = svgIcons['biotope'] || `<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C8 6 3 7 3 12c0 4 4 8 9 10 5-2 9-6 9-10 0-5-5-6-9-10z" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
     const paramsHtml = `<div class="params-grid">
       <div class="param"><span class="icon" aria-hidden="true">${svgThermo}</span><div><strong>Température</strong><div>${f.tempMin||'—'}–${f.tempMax||'—'} °C</div></div></div>
       <div class="param"><span class="icon" aria-hidden="true">${svgDrop}</span><div><strong>pH</strong><div>${f.phMin||'—'}–${f.phMax||'—'}</div></div></div>
-      <div class="param"><span class="icon" aria-hidden="true">${svgScale}</span><div><strong>GH</strong><div>${f.ghMin||'—'}–${f.ghMax||'—'}</div></div></div>
-      <div class="param"><span class="icon" aria-hidden="true">${svgScale}</span><div><strong>KH</strong><div>${f.khMin||'—'}–${f.khMax||'—'}</div></div></div>
+      <div class="param"><span class="icon" aria-hidden="true">${svgGH}</span><div><strong>GH</strong><div>${f.ghMin||'—'}–${f.ghMax||'—'}</div></div></div>
+      <div class="param"><span class="icon" aria-hidden="true">${svgKH}</span><div><strong>KH</strong><div>${f.khMin||'—'}–${f.khMax||'—'}</div></div></div>
+      <div class="param"><span class="icon" aria-hidden="true">${svgSize}</span><div><strong>Taille</strong><div>${f.minLengthCm||'—'} cm</div></div></div>
+      <div class="param"><span class="icon" aria-hidden="true">${svgBiotope}</span><div><strong>Biotope</strong><div>${f.biotope||'—'}</div></div></div>
     </div>`;
 
     const takeaway = f.summary || (f.notes ? (f.notes.split('.').filter(Boolean)[0] || '') : '');

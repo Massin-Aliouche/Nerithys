@@ -19,9 +19,10 @@
     return [];
   }
 
-  function createCard(item){
+  function createCard(item, idx){
     const el = document.createElement('article');
     el.className='card-ui transform transition-all';
+    if(typeof idx === 'number') el.style.setProperty('animation-delay', `${idx*60}ms`);
     const img = document.createElement('img');
     img.className='card-image rounded-md';
     img.loading='lazy';
@@ -74,7 +75,7 @@
       const remaining = toShow.filter(i => !fav.includes(i));
       toShow = fav.concat(remaining).slice(0, featuredCount);
     }
-    toShow.forEach(item=>{ const card=createCard(item); card.dataset.slug = item.slug||item.id||''; frag.appendChild(card)});
+    toShow.forEach((item,i)=>{ const card=createCard(item,i); card.dataset.slug = item.slug||item.id||''; frag.appendChild(card)});
     container.appendChild(frag);
     q('#resultsCount') && (q('#resultsCount').textContent = `${toShow.length} fiches (sur ${state.all.length})`);
     if(sortSelect && !sortSelect._ui_initialized){
