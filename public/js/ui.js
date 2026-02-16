@@ -22,27 +22,32 @@
 
   function createCard(item){
     const el = document.createElement('article');
-    el.className='card';
+    el.className='card-ui transform transition-all hover:-translate-y-1 hover:shadow-lg';
     const img = document.createElement('img');
-    img.className='card-image';
+    img.className='card-image rounded-md';
     img.loading='lazy';
     img.alt = item.name || '';
-    img.src = item.image || '/public/images/placeholder.png';
-    img.dataset.full = item.image || img.src;
+    img.src = (item.images && item.images[0]) || item.image || '/content/placeholder.png';
+    img.dataset.full = img.src;
 
     const body = document.createElement('div'); body.className='card-body';
     const title = document.createElement('h3'); title.className='card-title'; title.textContent = item.name || '—';
     const meta = document.createElement('div'); meta.className='card-meta';
-    meta.textContent = `${item.volumeMin||'—'} L • pH ${item.ph||'—'}`;
+    meta.textContent = `${item.minVolumeL||item.volumeMin||'—'} L • pH ${item.phMin||item.ph||'—'}`;
 
     const badges = document.createElement('div'); badges.style.display='flex';badges.style.gap='0.4rem';
-    const b1 = document.createElement('span'); b1.className='badge badge--biotope'; b1.textContent = item.biotope||'—';
-    const b2 = document.createElement('span'); b2.className='badge badge--difficulty'; b2.textContent = item.difficulty||'—';
+    const b1 = document.createElement('span'); b1.className='badge'; b1.textContent = item.biotope||'—';
+    const b2 = document.createElement('span'); b2.className='badge'; b2.textContent = item.difficulty||'—';
     badges.appendChild(b1); badges.appendChild(b2);
 
     body.appendChild(title); body.appendChild(badges); body.appendChild(meta);
     el.appendChild(img); el.appendChild(body);
-    return el;
+    // make whole card clickable on home/listing
+    const link = document.createElement('a');
+    link.href = `/fiches/${encodeURIComponent(item.slug||item.name||'')}/`;
+    link.className = 'block';
+    link.appendChild(el);
+    return link;
   }
 
   function renderList(list){
@@ -50,9 +55,18 @@
     container.innerHTML='';
     if(!list.length){ container.innerHTML='<p>Aucune fiche trouvée.</p>'; return }
     const frag = document.createDocumentFragment();
-    list.forEach(item=>{ const card=createCard(item); card.dataset.slug = item.slug||item.id||''; frag.appendChild(card)});
+    // if container requests featured N, limit to that (prefer items tagged 'featured')
+    const featuredCount = Number(container.dataset.featured) || 0;
+    let toShow = list.slice();
+    if(featuredCount){
+      // try to prioritize items with tag 'featured' or 'highlight'
+      const fav = toShow.filter(i => (i.tags||[]).includes('featured') || (i.tags||[]).includes('highlight'));
+      const remaining = toShow.filter(i => !fav.includes(i));
+      toShow = fav.concat(remaining).slice(0, featuredCount);
+    }
+    toShow.forEach(item=>{ const card=createCard(item); card.dataset.slug = item.slug||item.id||''; frag.appendChild(card)});
     container.appendChild(frag);
-    q('#resultsCount').textContent = `${list.length} fiches (sur ${state.all.length})`;
+    q('#resultsCount') && (q('#resultsCount').textContent = `${toShow.length} fiches (sur ${state.all.length})`);
   }
 
   function populateBiotopeOptions(list){

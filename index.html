@@ -9,36 +9,105 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/design-tokens.css">
   <meta name="description" content="Fiches poissons et guides aquariophiles — Nerithys">
+  <meta property="og:title" content="Nerithys — Fiches poissons">
+  <meta property="og:description" content="Fiches d'espèces & expertise aquariophile — comprendre, équilibrer, sublimer">
+  <link rel="icon" href="content/Nerithys%20Icone.png">
+  <style>html{scroll-behavior:smooth} :focus{outline:3px solid rgba(59,130,246,0.45);outline-offset:2px}</style>
 </head>
 <body>
-  <header class="site-header">
-    <div class="site-container">
-      <a class="brand" href="./">Nerithys</a>
-      <nav>
-        <ul class="nav-list">
-          <li><a class="nav-link" href="./">Accueil</a></li>
-          <li><a class="nav-link" href="fiche-poisson/">Fiches</a></li>
-          <li><a class="nav-link" href="articles/">Articles</a></li>
-        </ul>
+  <header class="bg-gradient-to-r from-aquamarine-50 via-white to-slate-50">
+    <div class="max-w-6xl mx-auto px-4 py-6 flex items-center justify-between">
+      <a href="./" class="flex items-center gap-3">
+        <img src="content/Nerithys%20Logo.png" alt="Nerithys" class="h-9" />
+        <span class="font-display text-xl">Nerithys</span>
+      </a>
+      <nav class="hidden md:block text-sm text-slate-700">
+        <a class="mr-4" href="./">Accueil</a>
+        <a class="mr-4" href="/fiches/">Fiches</a>
+        <a href="/articles/">Articles</a>
       </nav>
     </div>
   </header>
 
-  <main class="site-container">
-    <section class="hero-panel" style="padding-top:2rem;padding-bottom:1rem">
-      <h1 class="hero-title">Fiches poissons — Nerithys</h1>
-      <p class="hero-sub">Pages détaillées pour chaque espèce — paramètres, maintenance et conseils.</p>
+  <main>
+    <section class="relative overflow-hidden" aria-hidden="false">
+      <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-aquamarine-50 via-transparent to-transparent opacity-60"></div>
+      <div class="max-w-6xl mx-auto px-4 py-24 relative z-10">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+          <div>
+            <h1 class="text-4xl md:text-5xl font-display font-bold leading-tight">L’art d’un aquarium équilibré</h1>
+            <p class="mt-4 text-lg text-slate-600 max-w-prose">Comprendre, équilibrer, sublimer — fiches d’espèces structurées, paramètres fiables et conseils d’aquascaping.</p>
+            <div class="mt-6 flex gap-3">
+              <a href="/fiches/" class="inline-block bg-accent text-white px-4 py-2 rounded-md">Voir les fiches</a>
+              <a href="/articles/" class="inline-block border border-slate-200 px-4 py-2 rounded-md text-slate-700">Lire les guides</a>
+            </div>
+          </div>
+          <div class="hidden md:block">
+            <div class="w-full h-64 rounded-2xl overflow-hidden shadow-soft bg-cover bg-center" style="background-image:linear-gradient(rgba(7,45,39,0.08), rgba(11,18,32,0.04)), url('content/hero.jpg')"></div>
+          </div>
+        </div>
+      </div>
+      <div class="h-40 bg-slate-50"></div>
     </section>
 
-    <section aria-label="Dernières fiches">
-      <h2 style="margin-bottom:0.5rem">Dernières fiches</h2>
-      <div id="species-list" class="grid-cards" style="margin-top:1rem"></div>
+    <section class="max-w-6xl mx-auto px-4 py-12">
+      <h2 class="text-2xl font-semibold">Dernières fiches</h2>
+      <p class="text-sm text-slate-600">Espèces mises en avant</p>
+      <div id="species-list" data-featured="6" class="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+    </section>
+
+    <section class="bg-aquamarine-50 py-12">
+      <div class="max-w-6xl mx-auto px-4">
+        <h2 class="text-2xl font-semibold">Guides essentiels</h2>
+        <div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-6">
+          <article class="bg-white rounded-lg p-4 shadow-card">
+            <h3 class="font-medium">Cyclage de l'aquarium</h3>
+            <p class="text-sm text-slate-600 mt-2">Comprendre le cycle de l'azote et préparer un bac sain.</p>
+          </article>
+          <article class="bg-white rounded-lg p-4 shadow-card">
+            <h3 class="font-medium">Paramètres essentiels</h3>
+            <p class="text-sm text-slate-600 mt-2">pH, conductivité, température — réglages par biotope.</p>
+          </article>
+          <article class="bg-white rounded-lg p-4 shadow-card">
+            <h3 class="font-medium">Choisir sa population</h3>
+            <p class="text-sm text-slate-600 mt-2">Composer un groupe équilibré et durable.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="max-w-6xl mx-auto px-4 py-12">
+      <h2 class="text-2xl font-semibold">Pourquoi Nerithys ?</h2>
+      <div class="mt-4 grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-700">
+        <div class="bg-white p-4 rounded-lg shadow-soft">Fiches structurées — informations vérifiables et sourcées.</div>
+        <div class="bg-white p-4 rounded-lg shadow-soft">Paramètres fiables — valeurs et tolérances par espèce.</div>
+        <div class="bg-white p-4 rounded-lg shadow-soft">Approche biotope & aquascaping — pour des bacs cohérents.</div>
+      </div>
     </section>
   </main>
 
   <footer class="site-footer">
     <div class="container">
-      <p>© Nerithys — Prototype. <a href="https://github.com/Massin-Aliouche/Nerithys.git" target="_blank" rel="noopener">Dépôt GitHub</a></p>
+      <div class="max-w-6xl mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-700">
+        <div>
+          <strong>Nerithys</strong>
+          <p class="mt-2 text-sm text-slate-600">Fiches espèces et guides aquariophiles — retrouver des fiches structurées et des conseils pratiques.</p>
+        </div>
+        <div>
+          <h4 class="font-medium">Navigation</h4>
+          <ul class="mt-2 space-y-1">
+            <li><a href="/fiches/">Fiches</a></li>
+            <li><a href="/articles/">Articles</a></li>
+            <li><a href="/contact/">Contact</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-medium">À propos</h4>
+          <p class="mt-2 text-sm text-slate-600">Code source sur <a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">GitHub</a></p>
+          <p class="mt-4 text-xs text-slate-500">Mentions légales · Politique de confidentialité</p>
+          <p class="mt-4 text-xs text-slate-500">© Nerithys — créé avec soin.</p>
+        </div>
+      </div>
     </div>
   </footer>
 

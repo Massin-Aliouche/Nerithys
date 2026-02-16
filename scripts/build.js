@@ -42,6 +42,16 @@ async function build(){
   await copyDir(path.join(ROOT,'css'), path.join(OUT,'css'));
   await copyDir(path.join(ROOT,'js'), path.join(OUT,'js'));
 
+  // copy top-level HTML files (index, landing pages) into public root
+  try{
+    const rootFiles = await fs.readdir(ROOT);
+    for(const fn of rootFiles){
+      if(fn.endsWith('.html')){
+        await fs.copyFile(path.join(ROOT, fn), path.join(OUT, fn));
+      }
+    }
+  }catch(e){ /* ignore */ }
+
   // copy top-level content assets (images/icons) into public/content so templates can reference them
   await ensureDir(path.join(OUT,'content'));
   try{
@@ -126,17 +136,36 @@ async function build(){
       ogImage = relToRoot + ogImage;
     }
 
+    // badges color by difficulty
+    const diff = f.difficulty || '—';
+    const diffLabel = typeof diff === 'number' ? diff.toString() : diff;
+    const diffColor = (d => {
+      if(d==1) return 'bg-green-100 text-green-800';
+      if(d==2) return 'bg-teal-100 text-teal-800';
+      if(d==3) return 'bg-orange-100 text-orange-800';
+      if(d>=4) return 'bg-red-100 text-red-800';
+      return 'bg-slate-100 text-slate-700';
+    })(diff);
+
+    const imageHtml = (f.images && f.images[0]) ? `<div class="w-full md:w-1/3"><img src="${(f.images&&f.images[0])}" alt="${f.name}" class="w-full h-56 object-cover rounded-lg"/></div>` : '';
+
+    const paramsHtml = `<div class="grid grid-cols-1 md:grid-cols-2 gap-4 bg-slate-50 p-4 rounded-lg">
+      <div><strong>Température</strong><div>${f.tempMin||'—'}–${f.tempMax||'—'} °C</div></div>
+      <div><strong>pH</strong><div>${f.phMin||'—'}–${f.phMax||'—'}</div></div>
+      <div><strong>GH</strong><div>${f.ghMin||'—'}–${f.ghMax||'—'}</div></div>
+      <div><strong>KH</strong><div>${f.khMin||'—'}–${f.khMax||'—'}</div></div>
+    </div>`;
+
+    const errorsHtml = `<div class="bg-red-50 border border-red-100 p-3 rounded-md text-sm text-red-800"><strong>Erreurs courantes:</strong><ul class="list-disc pl-5 mt-2"><li>Maintenir en petit bac malgré la taille adulte</li><li>Méconnaître la salinité / paramètres marins</li></ul></div>`;
+
+    const badgesHtml = `<div class="flex gap-2 items-center mt-2"><span class="px-2 py-1 text-xs font-medium rounded ${diffColor}">Difficulté: ${diffLabel}</span><span class="px-2 py-1 text-xs bg-slate-100 rounded">Biotope: ${f.biotope||'—'}</span><span class="px-2 py-1 text-xs bg-slate-100 rounded">Taille: ${f.minLengthCm||'—'} cm</span></div>`;
+
     let outHtml = ficheTpl.replace(/{{ASSET_PATH}}/g, relToRoot)
       .replace(/{{TITLE}}/g, title)
       .replace(/{{DESCRIPTION}}/g, description)
       .replace(/{{OG_IMAGE}}/g, ogImage)
       .replace(/{{JSON_LD}}/g, JSON.stringify(jsonld))
-      .replace(/{{CONTENT}}/g, `<!-- Content generated -->\n<div class="card"><h1>${f.name} <small class="muted">${f.scientificName}</small></h1>
-<p class="muted">Biotope: ${f.biotope} · Difficulté: ${f.difficulty}</p>
-<h3>Paramètres</h3>
-<ul><li>Temp: ${f.tempMin}–${f.tempMax} °C</li><li>pH: ${f.phMin}–${f.phMax}</li><li>GH: ${f.ghMin}–${f.ghMax}</li><li>KH: ${f.khMin}–${f.khMax}</li></ul>
-<h3>Volume / dimensions</h3><p>Volume minimum: ${f.minVolumeL} L · Taille adulte: ${f.minLengthCm} cm</p>
-<h3>Comportement & compatibilité</h3><p>${f.behavior}</p><h3>Alimentation</h3><p>${f.diet}</p><h3>Reproduction</h3><p>${f.breeding}</p><h3>Conseils</h3><p>${f.notes}</p></div>`);
+      .replace(/{{CONTENT}}/g, `<!-- Content generated -->\n<div class="flex flex-col md:flex-row gap-6">${imageHtml}<div class="flex-1 space-y-4"><header><h1 class=\"text-2xl font-bold\">${f.name} <small class=\"text-sm text-slate-500\">${f.scientificName||''}</small></h1>${badgesHtml}</header>${paramsHtml}<section><h3 class=\"text-lg font-semibold\">Comportement & compatibilité</h3><p>${f.behavior||''}</p></section><section><h3 class=\"text-lg font-semibold\">Alimentation</h3><p>${f.diet||''}</p></section><section><h3 class=\"text-lg font-semibold\">Reproduction</h3><p>${f.breeding||''}</p></section><section><h3 class=\"text-lg font-semibold\">Conseils</h3><p>${f.notes||''}</p></section>${errorsHtml}</div></div>`);
 
     await fs.writeFile(path.join(dir,'index.html'), outHtml, 'utf8');
   }
