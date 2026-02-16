@@ -33,3 +33,6 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: public
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1

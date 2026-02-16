@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "description": "Nerithys - aquariophilie (static site)",
   "scripts": {
-    "build": "node scripts/build.js",
+    "images:generate": "node ./scripts/generate-responsive-images.js",
+    "build": "node ./scripts/generate-responsive-images.js && node scripts/build.js",
     "build:css": "node ./scripts/build-css.js",
-    "check": "npm run build:css && npm run build",
+    "lint": "eslint . --ext .js",
+    "check": "npm run lint && npm run build:css && npm run build",
     "add-fiche": "node scripts/add-fiche.js"
   },
   "engines": {
@@ -17,6 +19,8 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.18",
     "jimp": "^0.16.1",
-    "png-to-ico": "^2.0.0"
+    "png-to-ico": "^2.0.0",
+    "sharp": "^0.32.0",
+    "eslint": "^8.47.0"
   }
 }

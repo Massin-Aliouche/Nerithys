@@ -3,7 +3,6 @@
   const state = {all:[],filtered:[]};
 
   function q(sel){return document.querySelector(sel)}
-  function qAll(sel){return Array.from(document.querySelectorAll(sel))}
 
   async function fetchFiches(){
     const candidates=['/content/fiches.json','/data/species.json','/content/fiches/index.json','/public/content/fiches.json'];

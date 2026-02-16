@@ -7,7 +7,7 @@ async function make(){
   const outDir = path.resolve(__dirname, '..', 'content');
   await fs.promises.mkdir(outDir, { recursive: true });
   const size = 128;
-  const image = new Jimp(size, size, (err, img)=>{});
+  const image = new Jimp(size, size);
 
   // simple gradient background
   for(let y=0;y<size;y++){
@@ -23,7 +23,7 @@ async function make(){
   // draw a simple white fish-like shape (circle + tail)
   const white = Jimp.rgbaToInt(255,255,255,230);
   // body circle
-  image.scan(0,0,size,size,function(x,y,idx){
+  image.scan(0,0,size,size,function(x,y){
     const cx = Math.floor(size*0.45);
     const cy = Math.floor(size*0.5);
     const rx = Math.floor(size*0.28);

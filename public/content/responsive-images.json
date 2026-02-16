@@ -1,0 +1,68 @@
+{
+  "favicon-128.png": [
+    {
+      "width": 320,
+      "file": "responsive/favicon-128-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/favicon-128-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/favicon-128-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/favicon-128-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/favicon-128-w1600.jpg"
+    }
+  ],
+  "Nerithys Icone.png": [
+    {
+      "width": 320,
+      "file": "responsive/Nerithys Icone-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/Nerithys Icone-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/Nerithys Icone-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/Nerithys Icone-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/Nerithys Icone-w1600.jpg"
+    }
+  ],
+  "Nerithys Logo.png": [
+    {
+      "width": 320,
+      "file": "responsive/Nerithys Logo-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/Nerithys Logo-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/Nerithys Logo-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/Nerithys Logo-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/Nerithys Logo-w1600.jpg"
+    }
+  ]
+}

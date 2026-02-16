@@ -52,21 +52,8 @@ async function build(){
     }
   }catch(e){ /* ignore */ }
 
-  // copy top-level content assets (images/icons) into public/content so templates can reference them
-  await ensureDir(path.join(OUT,'content'));
-  try{
-    const rootFiles = await fs.readdir(CONTENT);
-    for(const fn of rootFiles){
-      const full = path.join(CONTENT, fn);
-      const stat = await fs.stat(full);
-      if(stat.isFile()){
-        const lower = fn.toLowerCase();
-        if(lower.endsWith('.png') || lower.endsWith('.jpg') || lower.endsWith('.jpeg') || lower.endsWith('.svg') || lower.endsWith('.ico')){
-          await fs.copyFile(full, path.join(OUT,'content',fn));
-        }
-      }
-    }
-  }catch(e){ /* ignore */ }
+  // copy entire content directory into public/content (includes images, responsive variants and JSON)
+  await copyDir(CONTENT, path.join(OUT,'content'));
 
   // read fiches
   const fichesDir = path.join(CONTENT, 'fiches');
@@ -165,7 +152,8 @@ async function build(){
       .replace(/{{DESCRIPTION}}/g, description)
       .replace(/{{OG_IMAGE}}/g, ogImage)
       .replace(/{{JSON_LD}}/g, JSON.stringify(jsonld))
-      .replace(/{{CONTENT}}/g, `<!-- Content generated -->\n<div class="flex flex-col md:flex-row gap-6">${imageHtml}<div class="flex-1 space-y-4"><header><h1 class=\"text-2xl font-bold\">${f.name} <small class=\"text-sm text-slate-500\">${f.scientificName||''}</small></h1>${badgesHtml}</header>${paramsHtml}<section><h3 class=\"text-lg font-semibold\">Comportement & compatibilité</h3><p>${f.behavior||''}</p></section><section><h3 class=\"text-lg font-semibold\">Alimentation</h3><p>${f.diet||''}</p></section><section><h3 class=\"text-lg font-semibold\">Reproduction</h3><p>${f.breeding||''}</p></section><section><h3 class=\"text-lg font-semibold\">Conseils</h3><p>${f.notes||''}</p></section>${errorsHtml}</div></div>`);
+      .replace(/{{CONTENT}}/g, `<!-- Content generated -->
+    <div class="flex flex-col md:flex-row gap-6">${imageHtml}<div class="flex-1 space-y-4"><header><h1 class="text-2xl font-bold">${f.name} <small class="text-sm text-slate-500">${f.scientificName||''}</small></h1>${badgesHtml}</header>${paramsHtml}<section><h3 class="text-lg font-semibold">Comportement & compatibilité</h3><p>${f.behavior||''}</p></section><section><h3 class="text-lg font-semibold">Alimentation</h3><p>${f.diet||''}</p></section><section><h3 class="text-lg font-semibold">Reproduction</h3><p>${f.breeding||''}</p></section><section><h3 class="text-lg font-semibold">Conseils</h3><p>${f.notes||''}</p></section>${errorsHtml}</div></div>`);
 
     await fs.writeFile(path.join(dir,'index.html'), outHtml, 'utf8');
   }
