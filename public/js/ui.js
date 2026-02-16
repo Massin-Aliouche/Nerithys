@@ -115,6 +115,10 @@
     state.filtered = state.all.slice();
     renderList(state.filtered);
 
+    // expose species count to homepage
+    const sc = document.getElementById('speciesCount');
+    if(sc) sc.textContent = `${state.all.length} espèces`;
+
     // events
     q('#q').addEventListener('input', ()=>{ applyFilters() });
     q('#biotope').addEventListener('change', applyFilters);

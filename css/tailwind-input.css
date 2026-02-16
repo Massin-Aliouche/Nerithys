@@ -52,6 +52,20 @@
   .prose-limited { max-width: 72ch }
 }
 
+/* Micro animations and hover effects */
+@layer utilities {
+  .card-ui img { transition: transform .28s cubic-bezier(.2,.9,.3,1); }
+  .card-ui:hover img { transform: scale(1.04); }
+  .fade-up { animation: fadeUp .5s ease both; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px) } to { opacity:1; transform: translateY(0) } }
+}
+
+/* Dark theme overrides */
+.dark body { background: linear-gradient(180deg, #071422 0%, #04121a 100%); color: #e6eef0 }
+.dark :root{ --bg: #04121a; --surface:#071826; --muted-surface:#072a2c; --ink:#e6eef0; --muted:#9fb3b6 }
+.dark .card-ui { background: var(--surface); box-shadow: 0 8px 30px rgba(0,0,0,0.5) }
+.dark .bg-accent { background-color: #1f8f7b }
+
 /* Utility aliases for colors mapped to Tailwind theme */
 .bg-accent { background-color: var(--accent) }
 .text-ink { color: var(--ink) }
