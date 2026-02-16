@@ -27,8 +27,11 @@
     img.className='card-image rounded-md';
     img.loading='lazy';
     img.alt = item.name || '';
-    img.src = (item.images && item.images[0]) || item.image || '/content/placeholder.png';
-    img.dataset.full = img.src;
+    const realSrc = (item.images && item.images[0]) || item.image || '';
+    // defer actual src to lazy loader; keep full-size URL in data attribute
+    img.dataset.src = realSrc;
+    img.dataset.full = realSrc;
+    img.src = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280"></svg>';
 
     const body = document.createElement('div'); body.className='card-body';
     const title = document.createElement('h3'); title.className='card-title'; title.textContent = item.name || '—';
@@ -156,6 +159,25 @@
     q('#resetFilters').addEventListener('click', (e)=>{ e.preventDefault(); resetFilters() });
 
     setupLightbox();
+    setupLazy();
+  }
+
+  // lazy-load images via IntersectionObserver
+  function setupLazy(){
+    if(!('IntersectionObserver' in window)){
+      document.querySelectorAll('img[data-src]').forEach(img=>{ img.src = img.dataset.src });
+      return;
+    }
+    const io = new IntersectionObserver((entries, obs)=>{
+      entries.forEach(e=>{
+        if(e.isIntersecting){
+          const img = e.target;
+          img.src = img.dataset.src || img.src;
+          obs.unobserve(img);
+        }
+      });
+    }, {rootMargin: '200px'});
+    document.querySelectorAll('img[data-src]').forEach(i=>io.observe(i));
   }
 
   // only run if listing exists

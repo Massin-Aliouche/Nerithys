@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="../../css/style.css">
   <link rel="stylesheet" href="../../css/design-tokens.css">
   <link rel="icon" href="../../content/Nerithys%20Icone.png">
+  <link rel="manifest" href="../../manifest.json">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Thing","name":"Fundulopanchax gardneri nigerianus","alternateName":"Fundulopanchax gardneri nigerianus","description":"Préférer un bac planté avec feuilles tombées pour simuler le biotope; maintenir une bonne qualité d'eau et des changements réguliers.","additionalProperty":[{"name":"biotope","value":"Afrique"},{"name":"difficulty","value":2}]}</script>
 </head>
 <body>
@@ -42,5 +43,10 @@
     <div class="inner"><img id="lightbox-img" alt="" /></div>
   </div>
   <script src="../../js/ui.js"></script>
+  <script>
+    if('serviceWorker' in navigator){
+      try{ navigator.serviceWorker.register('../../sw.js'); }catch(e){}
+    }
+  </script>
 </body>
 </html>

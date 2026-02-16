@@ -73,6 +73,11 @@
 
     <script src="../js/species.js"></script>
     <script src="../js/ui.js"></script>
+    <script>
+      if('serviceWorker' in navigator){
+        try{ navigator.serviceWorker.register('../sw.js'); }catch(e){}
+      }
+    </script>
 </body>
 </html>
 

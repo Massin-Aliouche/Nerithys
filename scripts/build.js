@@ -46,7 +46,7 @@ async function build(){
   try{
     const rootFiles = await fs.readdir(ROOT);
     for(const fn of rootFiles){
-      if(fn.endsWith('.html')){
+      if(fn.endsWith('.html') || fn === 'sw.js' || fn === 'manifest.json' || fn === 'robots.txt'){
         await fs.copyFile(path.join(ROOT, fn), path.join(OUT, fn));
       }
     }

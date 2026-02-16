@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="../../css/style.css">
   <link rel="stylesheet" href="../../css/design-tokens.css">
   <link rel="icon" href="../../content/Nerithys%20Icone.png">
+  <link rel="manifest" href="../../manifest.json">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Thing","name":"Guppy Endler","alternateName":"Poecilia wingei","description":"Espèce de petite taille idéale pour nano-bacs.","additionalProperty":[{"name":"biotope","value":"Eau douce"},{"name":"difficulty","value":1}]}</script>
 </head>
 <body>
@@ -42,5 +43,10 @@
     <div class="inner"><img id="lightbox-img" alt="" /></div>
   </div>
   <script src="../../js/ui.js"></script>
+  <script>
+    if('serviceWorker' in navigator){
+      try{ navigator.serviceWorker.register('../../sw.js'); }catch(e){}
+    }
+  </script>
 </body>
 </html>

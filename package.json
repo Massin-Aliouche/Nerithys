@@ -5,6 +5,7 @@
   "scripts": {
     "build": "node scripts/build.js",
     "build:css": "node ./scripts/build-css.js",
+    "check": "npm run build:css && npm run build",
     "add-fiche": "node scripts/add-fiche.js"
   },
   "engines": {

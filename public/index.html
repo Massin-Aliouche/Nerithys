@@ -12,6 +12,7 @@
   <meta property="og:title" content="Nerithys — Fiches poissons">
   <meta property="og:description" content="Fiches d'espèces & expertise aquariophile — comprendre, équilibrer, sublimer">
   <link rel="icon" href="content/Nerithys%20Icone.png">
+  <link rel="manifest" href="/manifest.json">
   <style>html{scroll-behavior:smooth} :focus{outline:3px solid rgba(59,130,246,0.45);outline-offset:2px}</style>
 </head>
 <body>
@@ -121,5 +122,10 @@
   <script src="js/main.js"></script>
   <script src="js/species.js"></script>
   <script src="js/ui.js"></script>
+  <script>
+    if('serviceWorker' in navigator){
+      navigator.serviceWorker.register('/sw.js').catch(()=>{});
+    }
+  </script>
 </body>
 </html>
