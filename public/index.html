@@ -39,19 +39,21 @@
 
   <main>
     <section class="relative overflow-hidden" aria-hidden="false">
-      <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-aquamarine-50 via-transparent to-transparent opacity-60"></div>
-      <div class="max-w-6xl mx-auto px-4 py-24 relative z-10">
+      <div class="hero-bg" aria-hidden="true"><img src="content/hero.jpg" alt="aquascape background"/></div>
+      <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-aquamarine-50 via-transparent to-transparent opacity-50"></div>
+      <div class="max-w-6xl mx-auto px-4 py-24 relative z-10 hero-content">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           <div>
             <h1 class="text-4xl md:text-5xl font-display font-bold leading-tight">L’art d’un aquarium équilibré</h1>
-            <p class="mt-4 text-lg text-slate-600 max-w-prose">Comprendre, équilibrer, sublimer — fiches d’espèces structurées, paramètres fiables et conseils d’aquascaping.</p>
+            <p class="hero-signature">Comprendre. Équilibrer. Sublimer.</p>
+            <p class="mt-4 text-lg text-slate-600 max-w-prose">Fiches d’espèces structurées, paramètres fiables et conseils d’aquascaping.</p>
             <div class="mt-6 flex gap-3">
               <a href="/fiches/" class="inline-block bg-accent text-white px-4 py-2 rounded-md">Voir les fiches</a>
               <a href="/articles/" class="inline-block border border-slate-200 px-4 py-2 rounded-md text-slate-700">Lire les guides</a>
             </div>
           </div>
           <div class="hidden md:block">
-            <div class="w-full h-64 rounded-2xl overflow-hidden shadow-soft bg-cover bg-center" style="background-image:linear-gradient(rgba(7,45,39,0.08), rgba(11,18,32,0.04)), url('content/hero.jpg')"></div>
+            <div class="w-full h-80 rounded-2xl overflow-hidden shadow-soft bg-cover bg-center" style="background-image:linear-gradient(rgba(7,45,39,0.06), rgba(11,18,32,0.03)), url('content/hero-right.jpg')"></div>
           </div>
         </div>
       </div>

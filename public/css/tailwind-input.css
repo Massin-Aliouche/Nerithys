@@ -42,6 +42,9 @@
   .nav-link:hover { color: var(--ink) }
   .btn-primary { display: inline-flex; align-items: center; gap: 0.5rem; color: #fff; padding: 0.5rem 1rem; border-radius: 10px; background-color: var(--accent); box-shadow: 0 4px 12px rgba(43,182,164,0.12) }
   .card-ui { background: var(--surface); border-radius: var(--radius-lg); padding: 1.25rem; box-shadow: var(--shadow-soft); border: 1px solid rgba(2,6,23,0.03) }
+  .card-ui { position: relative; overflow: hidden }
+  .card-ui::after { content: ""; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(180deg, rgba(2,6,23,0.00) 0%, rgba(2,6,23,0.04) 60%); opacity: 0; transition: opacity .22s ease; }
+  .card-ui:hover::after { opacity: 1 }
   .hero-panel { text-align: center; padding: 5rem 0 }
   .hero-title { font-family: 'Playfair Display', serif; font-size: 2.25rem; line-height: 1.05; font-weight: 700; color: var(--ink) }
   @media (min-width: 768px) { .hero-title { font-size: 3rem } }
@@ -56,8 +59,38 @@
 @layer utilities {
   .card-ui img { transition: transform .28s cubic-bezier(.2,.9,.3,1); }
   .card-ui:hover img { transform: scale(1.04); }
+  .card-ui:hover { transform: translateY(-6px); transition: transform .22s cubic-bezier(.2,.9,.3,1), box-shadow .22s; box-shadow: 0 14px 40px rgba(2,6,23,0.12) }
+  .card-ui .img-overlay { position:absolute; inset:0; pointer-events:none; background: linear-gradient(180deg, rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.08) 60%); opacity:0; transition:opacity .25s ease }
+  .card-ui:hover .img-overlay { opacity:1 }
   .fade-up { animation: fadeUp .5s ease both; }
   @keyframes fadeUp { from { opacity: 0; transform: translateY(8px) } to { opacity:1; transform: translateY(0) } }
+}
+
+/* Hero background and signature */
+.hero-bg { position:absolute; inset:0; z-index:0; overflow:hidden }
+.hero-bg img { width:120%; height:120%; object-fit:cover; transform:scale(1.06); filter: blur(10px) saturate(1.02); opacity:0.7 }
+.hero-content { position:relative; z-index:10 }
+.hero-signature { font-family: 'Playfair Display', serif; font-weight:600; color:var(--accent-2); margin-top:0.75rem; font-size:1rem }
+
+/* Takeaway box on fiche */
+.takeaway { background: linear-gradient(90deg, rgba(43,182,164,0.06), rgba(124,92,255,0.03)); border-left:4px solid var(--accent); padding:0.85rem; border-radius:10px; font-weight:600 }
+.params-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:0.75rem }
+.param { display:flex; gap:0.6rem; align-items:center; background:var(--muted-surface); padding:0.5rem 0.75rem; border-radius:10px }
+.param svg { width:18px; height:18px; flex:0 0 18px }
+
+/* Lightbox */
+.lightbox { position:fixed; inset:0; display:flex; align-items:center; justify-content:center; background:rgba(2,6,23,0.6); opacity:0; pointer-events:none; transition:opacity .18s ease }
+.lightbox.open { opacity:1; pointer-events:auto }
+.lightbox .inner { position:relative; max-width:90vw; max-height:90vh }
+.lightbox img { max-width:100%; max-height:80vh; border-radius:8px; box-shadow:0 12px 40px rgba(2,6,23,0.6); transform-origin:center; animation:zoomIn .28s ease both }
+.lightbox .close { position:absolute; top:-10px; right:-10px; background:var(--surface); border-radius:8px; padding:6px; box-shadow:var(--shadow-soft); cursor:pointer }
+.lightbox .count { position:absolute; bottom:-28px; right:8px; color:var(--muted); font-size:12px }
+@keyframes zoomIn { from { opacity:0; transform:scale(.96) } to { opacity:1; transform:scale(1) } }
+
+@media (max-width:720px){
+  .badge{ font-size:0.75rem }
+  .card-ui { padding:0.9rem }
+  .hero-title{ font-size:1.6rem }
 }
 
 /* Dark theme overrides */
