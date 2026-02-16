@@ -155,6 +155,8 @@
   async function init(){
     const data = await fetchFiches();
     state.all = data || [];
+    // load responsive manifest for client-side srcset handling (if present)
+    try{ const r = await fetch('/content/responsive-images.json'); if(r.ok) state.responsive = await r.json(); }catch(e){ state.responsive = {} }
     populateBiotopeOptions(state.all);
     state.filtered = state.all.slice();
     renderList(state.filtered);
@@ -184,7 +186,23 @@
       entries.forEach(e=>{
         if(e.isIntersecting){
           const img = e.target;
-          img.src = img.dataset.src || img.src;
+          const candidate = img.dataset.src || img.src;
+          // if candidate is local and manifest contains variants, set srcset
+          try{
+            if(candidate && !/^https?:\/\//.test(candidate) && state.responsive){
+              const key = candidate.split('/').pop();
+              const variants = state.responsive[key];
+              if(Array.isArray(variants) && variants.length){
+                img.src = '/' + 'content/' + variants[0].file;
+                img.srcset = variants.map(v=>`/content/${v.file} ${v.width}w`).join(', ');
+                img.sizes = '(min-width: 768px) 33vw, 100vw';
+              } else {
+                img.src = candidate;
+              }
+            } else {
+              img.src = candidate;
+            }
+          }catch(err){ img.src = candidate }
           obs.unobserve(img);
         }
       });

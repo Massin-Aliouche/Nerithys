@@ -21,6 +21,50 @@
       "file": "responsive/favicon-128-w1600.jpg"
     }
   ],
+  "hero-right.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/hero-right-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/hero-right-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/hero-right-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/hero-right-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/hero-right-w1600.jpg"
+    }
+  ],
+  "hero.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/hero-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/hero-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/hero-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/hero-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/hero-w1600.jpg"
+    }
+  ],
   "Nerithys Icone.png": [
     {
       "width": 320,

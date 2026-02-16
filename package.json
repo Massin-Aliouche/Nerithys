@@ -4,7 +4,7 @@
   "description": "Nerithys - aquariophilie (static site)",
   "scripts": {
     "images:generate": "node ./scripts/generate-responsive-images.js",
-    "build": "node ./scripts/generate-responsive-images.js && node scripts/build.js",
+    "build": "node ./scripts/generate-hero.js && node ./scripts/generate-responsive-images.js && node scripts/build.js",
     "build:css": "node ./scripts/build-css.js",
     "lint": "eslint . --ext .js",
     "deploy": "gh-pages -d public",
