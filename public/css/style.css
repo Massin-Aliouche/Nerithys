@@ -456,6 +456,25 @@ main > section:nth-child(odd) {
   align-items: center;
   justify-content: center;
 }
+.fiche-params {
+  background: rgba(15,23,36,0.03);
+  border: 1px solid rgba(2,6,23,0.06);
+  padding: 1rem;
+}
+.prose-limited {
+  max-width: 68ch;
+}
+main .section {
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+footer {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+footer {
+  border-top: 1px solid rgba(2,6,23,0.06);
+}
 .reveal {
   opacity: 0;
   transform: translateY(8px);

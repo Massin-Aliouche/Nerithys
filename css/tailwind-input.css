@@ -94,6 +94,16 @@ main > section:nth-child(odd) { background: transparent }
 .summary-box { background: linear-gradient(90deg, rgba(43,182,164,0.04), rgba(124,92,255,0.02)); padding:0.9rem 1rem; border-radius:10px; border-left:3px solid var(--accent); font-weight:600; margin-bottom:0.5rem }
 .param { display:flex; gap:0.6rem; align-items:center; background:transparent; padding:0.45rem 0.6rem; border-radius:8px }
 .param .icon { width:20px; height:20px; flex:0 0 20px; display:inline-flex; align-items:center; justify-content:center }
+/* Increase contrast of fiche params block and spacing */
+.fiche-params { background: rgba(15,23,36,0.03); border:1px solid rgba(2,6,23,0.06); padding:1rem; }
+.prose-limited { max-width: 68ch }
+
+/* Slightly larger vertical rhythm */
+main .section { margin-top: 1.2rem; margin-bottom: 1.2rem }
+
+/* Footer padding + subtle divider */
+footer { padding-top: 1.25rem; padding-bottom: 1.25rem }
+footer { border-top: 1px solid rgba(2,6,23,0.06) }
 
 /* reveal on scroll */
 .reveal { opacity:0; transform: translateY(8px); transition: opacity .48s ease, transform .48s cubic-bezier(.2,.9,.3,1) }
