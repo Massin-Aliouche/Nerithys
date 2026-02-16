@@ -66,6 +66,16 @@
 .dark .card-ui { background: var(--surface); box-shadow: 0 8px 30px rgba(0,0,0,0.5) }
 .dark .bg-accent { background-color: #1f8f7b }
 
+/* Theme toggle visuals */
+.theme-toggle { display:inline-flex; align-items:center; justify-content:center; width:36px; height:36px; border-radius:8px; transition:transform .18s ease, background-color .18s }
+.theme-toggle svg { width:18px; height:18px; transition:transform .2s ease, opacity .18s }
+.theme-toggle .sun { transform-origin:center; }
+.theme-toggle .moon { transform-origin:center; }
+.theme-toggle--dark .sun { transform: rotate(-20deg) scale(.6); opacity:0.2 }
+.theme-toggle--dark .moon { transform: rotate(0deg) scale(1); opacity:1 }
+.theme-toggle--light .sun { transform: rotate(0deg) scale(1); opacity:1 }
+.theme-toggle--light .moon { transform: rotate(20deg) scale(.6); opacity:0.2 }
+
 /* Utility aliases for colors mapped to Tailwind theme */
 .bg-accent { background-color: var(--accent) }
 .text-ink { color: var(--ink) }

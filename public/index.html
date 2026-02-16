@@ -28,7 +28,10 @@
       </nav>
       <div class="flex items-center gap-3">
         <div id="speciesCount" class="text-sm text-slate-600 hidden md:block">— espèces</div>
-        <button id="themeToggle" aria-label="Basculer thème" class="p-2 rounded-md border bg-white">🌗</button>
+        <button id="themeToggle" aria-label="Basculer thème" class="theme-toggle theme-toggle--light" aria-pressed="false">
+          <svg class="sun" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="4" fill="#F59E0B"/><g stroke="#F59E0B" stroke-width="1.4" stroke-linecap="round"><path d="M12 2v2"/><path d="M12 20v2"/><path d="M4.22 4.22l1.42 1.42"/><path d="M18.36 18.36l1.42 1.42"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="M4.22 19.78l1.42-1.42"/><path d="M18.36 5.64l1.42-1.42"/></g></svg>
+          <svg class="moon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="opacity:0;transform:scale(.6)"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z" fill="#fff"/></svg>
+        </button>
       </div>
     </div>
   </header>

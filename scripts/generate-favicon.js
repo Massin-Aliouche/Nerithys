@@ -49,13 +49,21 @@ async function make(){
     }
   }
 
-  const pngPath = path.join(outDir, 'favicon-128.png');
-  await image.writeAsync(pngPath);
+  // write multiple PNG sizes
+  const sizes = [16,32,48,64,96,128,192];
+  for(const s of sizes){
+    const p = path.join(outDir, `favicon-${s}.png`);
+    await image.clone().resize(s,s).writeAsync(p);
+  }
 
-  // produce ICO (contains 32x32 and 16x16)
-  const small1 = await image.clone().resize(64,64).getBufferAsync(Jimp.MIME_PNG);
-  const small2 = await image.clone().resize(32,32).getBufferAsync(Jimp.MIME_PNG);
-  const icoBuf = await pngToIco([small1, small2]);
+  // produce ICO (contains 16x16,32x32,48x48,64x64)
+  const icoBuffers = [];
+  const icoSizes = [64,48,32,16];
+  for(const s of icoSizes){
+    const buf = await image.clone().resize(s,s).getBufferAsync(Jimp.MIME_PNG);
+    icoBuffers.push(buf);
+  }
+  const icoBuf = await pngToIco(icoBuffers);
   await fs.promises.writeFile(path.join(outDir,'favicon.ico'), icoBuf);
 
   console.log('Favicon generated in', outDir);

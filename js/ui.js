@@ -57,7 +57,11 @@
     const frag = document.createDocumentFragment();
     // if container requests featured N, limit to that (prefer items tagged 'featured')
     const featuredCount = Number(container.dataset.featured) || 0;
-    let toShow = list.slice();
+    // determine sort mode from select if present
+    const sortSelect = document.getElementById('sortSelect');
+    const sortMode = sortSelect ? sortSelect.value : (container.dataset.sort || 'featured');
+    const sorted = sortItems(list, sortMode);
+    let toShow = sorted.slice();
     if(featuredCount){
       // try to prioritize items with tag 'featured' or 'highlight'
       const fav = toShow.filter(i => (i.tags||[]).includes('featured') || (i.tags||[]).includes('highlight'));
@@ -67,6 +71,31 @@
     toShow.forEach(item=>{ const card=createCard(item); card.dataset.slug = item.slug||item.id||''; frag.appendChild(card)});
     container.appendChild(frag);
     q('#resultsCount') && (q('#resultsCount').textContent = `${toShow.length} fiches (sur ${state.all.length})`);
+    if(sortSelect && !sortSelect._ui_initialized){
+      sortSelect.addEventListener('change', ()=>{ renderList(state.filtered) });
+      sortSelect._ui_initialized = true;
+    }
+  }
+
+  function sortItems(list, mode){
+    if(!mode || mode === 'featured') return list;
+    const copy = list.slice();
+    copy.sort((a,b)=>{
+      const get = (o, keys)=>{ for(const k of keys){ if(o[k]!==undefined) return o[k] } return null };
+      if(mode === 'name'){
+        const an = (get(a,['name','common','common_name'])||'').toString().toLowerCase();
+        const bn = (get(b,['name','common','common_name'])||'').toString().toLowerCase();
+        return an.localeCompare(bn);
+      }
+      if(mode === 'difficulty'){
+        const ad = Number(get(a,['difficulty','level']))||0; const bd = Number(get(b,['difficulty','level']))||0; return ad - bd;
+      }
+      if(mode === 'minVolume'){
+        const av = Number(get(a,['minVolumeL','min_volume_l','min_volume']))||0; const bv = Number(get(b,['minVolumeL','min_volume_l','min_volume']))||0; return av - bv;
+      }
+      return 0;
+    });
+    return copy;
   }
 
   function populateBiotopeOptions(list){
