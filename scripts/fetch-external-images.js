@@ -1,4 +1,5 @@
-const fs = require('fs').promises;
+const fs = require('fs');
+const fsp = fs.promises;
 const path = require('path');
 const http = require('http');
 const https = require('https');
@@ -11,7 +12,7 @@ const CONTENT = path.join(ROOT, 'content');
 const FICHES = path.join(CONTENT, 'fiches');
 const OUT_DIR = path.join(CONTENT, 'external');
 
-async function ensureDir(dir){ await fs.mkdir(dir, { recursive: true }); }
+async function ensureDir(dir){ await fsp.mkdir(dir, { recursive: true }); }
 
 function getClient(url){ return url.startsWith('https') ? https : http }
 
@@ -32,10 +33,10 @@ async function run(){
   await ensureDir(OUT_DIR);
   const manifest = {};
   try{
-    const files = await fs.readdir(FICHES);
+    const files = await fsp.readdir(FICHES);
     for(const f of files){
       if(!f.endsWith('.json')) continue;
-      const raw = await fs.readFile(path.join(FICHES, f), 'utf8');
+      const raw = await fsp.readFile(path.join(FICHES, f), 'utf8');
       const data = JSON.parse(raw);
       const slug = data.slug || path.parse(f).name;
       const imgs = data.images || [];
@@ -47,13 +48,13 @@ async function run(){
           const fname = `${slug}-${i}${extGuess}`.replace(/[^a-zA-Z0-9-._]/g,'');
           const dest = path.join(OUT_DIR, fname);
           // skip if already exists
-          try{ await fs.access(dest); }catch(e){ await download(url, dest); }
+          try{ await fsp.access(dest); }catch(e){ await download(url, dest); }
           manifest[url] = `external/${fname}`;
         }catch(err){ console.warn('download failed', url, err.message) }
       }
     }
   }catch(e){ console.warn('no fiches or error', e.message) }
-  await fs.writeFile(path.join(CONTENT,'external-images.json'), JSON.stringify(manifest, null, 2), 'utf8');
+  await fsp.writeFile(path.join(CONTENT,'external-images.json'), JSON.stringify(manifest, null, 2), 'utf8');
   console.log('Fetched external images:', Object.keys(manifest).length);
 }
 

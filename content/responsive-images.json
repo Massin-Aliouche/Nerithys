@@ -1,4 +1,224 @@
 {
+  "external/amphiprion-ocellaris-0.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/external/amphiprion-ocellaris-0-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/external/amphiprion-ocellaris-0-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/external/amphiprion-ocellaris-0-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/external/amphiprion-ocellaris-0-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/external/amphiprion-ocellaris-0-w1600.jpg"
+    }
+  ],
+  "external/corydoras-julii-0.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/external/corydoras-julii-0-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/external/corydoras-julii-0-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/external/corydoras-julii-0-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/external/corydoras-julii-0-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/external/corydoras-julii-0-w1600.jpg"
+    }
+  ],
+  "external/danio-margaritatus-0.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/external/danio-margaritatus-0-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/external/danio-margaritatus-0-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/external/danio-margaritatus-0-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/external/danio-margaritatus-0-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/external/danio-margaritatus-0-w1600.jpg"
+    }
+  ],
+  "external/hypostomus-plecostomus-0.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/external/hypostomus-plecostomus-0-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/external/hypostomus-plecostomus-0-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/external/hypostomus-plecostomus-0-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/external/hypostomus-plecostomus-0-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/external/hypostomus-plecostomus-0-w1600.jpg"
+    }
+  ],
+  "external/paracanthurus-hepatus-0.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/external/paracanthurus-hepatus-0-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/external/paracanthurus-hepatus-0-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/external/paracanthurus-hepatus-0-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/external/paracanthurus-hepatus-0-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/external/paracanthurus-hepatus-0-w1600.jpg"
+    }
+  ],
+  "external/paracheirodon-innesi-0.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/external/paracheirodon-innesi-0-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/external/paracheirodon-innesi-0-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/external/paracheirodon-innesi-0-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/external/paracheirodon-innesi-0-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/external/paracheirodon-innesi-0-w1600.jpg"
+    }
+  ],
+  "external/pelvicachromis-pulcher-0.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/external/pelvicachromis-pulcher-0-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/external/pelvicachromis-pulcher-0-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/external/pelvicachromis-pulcher-0-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/external/pelvicachromis-pulcher-0-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/external/pelvicachromis-pulcher-0-w1600.jpg"
+    }
+  ],
+  "external/poecilia-wingei-0.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/external/poecilia-wingei-0-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/external/poecilia-wingei-0-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/external/poecilia-wingei-0-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/external/poecilia-wingei-0-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/external/poecilia-wingei-0-w1600.jpg"
+    }
+  ],
+  "external/pterophyllum-scalare-0.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/external/pterophyllum-scalare-0-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/external/pterophyllum-scalare-0-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/external/pterophyllum-scalare-0-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/external/pterophyllum-scalare-0-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/external/pterophyllum-scalare-0-w1600.jpg"
+    }
+  ],
+  "external/xiphophorus-maculatus-0.jpg": [
+    {
+      "width": 320,
+      "file": "responsive/external/xiphophorus-maculatus-0-w320.jpg"
+    },
+    {
+      "width": 480,
+      "file": "responsive/external/xiphophorus-maculatus-0-w480.jpg"
+    },
+    {
+      "width": 768,
+      "file": "responsive/external/xiphophorus-maculatus-0-w768.jpg"
+    },
+    {
+      "width": 1024,
+      "file": "responsive/external/xiphophorus-maculatus-0-w1024.jpg"
+    },
+    {
+      "width": 1600,
+      "file": "responsive/external/xiphophorus-maculatus-0-w1600.jpg"
+    }
+  ],
   "favicon-128.png": [
     {
       "width": 320,
