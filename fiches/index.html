@@ -4,53 +4,68 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Fiches espèces — Nerithys</title>
-  <meta name="description" content="Toutes les fiches poissons d'aquarium — Nerithys">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+  <meta name="description" content="Toutes les fiches poissons d'aquarium — paramètres, biotope, maintenance — Nerithys">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/style.css">
   <link rel="icon" href="../content/favicon-64.png">
 </head>
 <body>
 
   <!-- Header -->
-  <header class="site-header">
+  <header class="site-header" id="header">
     <div class="inner">
       <a href="../" class="logo">
-        <img src="../content/Nerithys%20Logo.png" alt="Nerithys">
+        <img src="../content/Nerithys%20Logo.png" alt="Nerithys" width="38" height="38">
         <div>
           <div class="logo-text">Nerithys</div>
           <div class="logo-sub">L'élégance du vivant aquatique</div>
         </div>
       </a>
-      <nav>
+      <nav class="nav-links">
         <a href="../">Accueil</a>
         <a href="../fiches/" class="active">Fiches</a>
       </nav>
+      <button class="hamburger" id="hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
     </div>
   </header>
+  <nav class="mobile-nav" id="mobileNav">
+    <a href="../">Accueil</a>
+    <a href="../fiches/" class="active">Fiches</a>
+  </nav>
 
-  <!-- Page title -->
+  <!-- Page header -->
   <section class="section" style="padding-bottom:0">
     <div class="container">
-      <h1 class="section-title font-display" style="font-size:1.8rem">Fiches espèces</h1>
-      <p class="section-sub">Recherchez, filtrez et explorez toutes nos fiches poissons d'aquarium.</p>
+      <div class="section-header" style="margin-bottom:2rem">
+        <div class="section-badge">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+          Catalogue
+        </div>
+        <h1 style="font-size:clamp(1.5rem,4vw,2rem)">Fiches espèces</h1>
+        <p>Recherchez, filtrez et explorez toutes nos fiches poissons d'aquarium.</p>
+      </div>
     </div>
   </section>
 
   <!-- Filters -->
-  <section style="padding:1.5rem 0">
+  <section style="padding:1rem 0 2rem">
     <div class="container">
       <div class="filters-bar">
-        <div>
+        <div class="filter-group">
           <label for="q">Recherche</label>
-          <input id="q" type="text" placeholder="Nom, famille…">
+          <input id="q" type="text" placeholder="Nom, famille, biotope…">
         </div>
-        <div>
+        <div class="filter-group">
           <label for="biotope">Biotope</label>
           <select id="biotope">
             <option value="all">Tous</option>
           </select>
         </div>
-        <div>
+        <div class="filter-group">
           <label for="difficulty">Difficulté</label>
           <select id="difficulty">
             <option value="all">Toutes</option>
@@ -61,9 +76,9 @@
           </select>
         </div>
       </div>
-      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:1rem">
-        <div id="resultsCount" style="font-size:.88rem;color:var(--muted)">Chargement…</div>
-        <button onclick="document.getElementById('q').value='';document.getElementById('biotope').value='all';document.getElementById('difficulty').value='all';document.getElementById('q').dispatchEvent(new Event('input'))" class="btn btn-outline" style="padding:.4rem .8rem;font-size:.8rem">Réinitialiser</button>
+      <div class="filters-meta">
+        <div id="resultsCount" class="count">Chargement…</div>
+        <button onclick="document.getElementById('q').value='';document.getElementById('biotope').value='all';document.getElementById('difficulty').value='all';document.getElementById('q').dispatchEvent(new Event('input'))" class="btn btn-ghost btn-sm">Réinitialiser</button>
       </div>
     </div>
   </section>
@@ -77,7 +92,7 @@
 
   <!-- Lightbox -->
   <div id="lightbox" class="lightbox" aria-hidden="true">
-    <div class="inner">
+    <div class="lb-inner">
       <button class="close" aria-label="Fermer">✕</button>
       <img id="lightbox-img" alt="">
     </div>
@@ -86,10 +101,10 @@
   <!-- Footer -->
   <footer class="site-footer">
     <div class="container">
-      <div class="grid">
+      <div class="footer-grid">
         <div>
-          <strong style="color:#e2e8f0;font-size:1.1rem">Nerithys</strong>
-          <p style="margin-top:.5rem;font-size:.88rem">L'élégance du vivant aquatique — guides et fiches pratiques.</p>
+          <div class="footer-brand">Nerithys</div>
+          <p class="footer-desc">L'élégance du vivant aquatique — guides et fiches pratiques.</p>
         </div>
         <div>
           <h4>Navigation</h4>
@@ -100,10 +115,12 @@
         </div>
         <div>
           <h4>Projet</h4>
-          <p style="font-size:.85rem"><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">GitHub ↗</a></p>
+          <ul>
+            <li><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">GitHub ↗</a></li>
+          </ul>
         </div>
       </div>
-      <div class="bottom">© Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
+      <div class="footer-bottom">© 2025 Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
     </div>
   </footer>
 

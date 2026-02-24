@@ -1,8 +1,37 @@
 /* ═══════════════════════════════════════════════════════
-   Nerithys — main.js  (theme toggle + reveal animations)
+   Nerithys — main.js  (header, mobile nav, reveal)
    ═══════════════════════════════════════════════════════ */
 (function () {
   'use strict';
+
+  /* ── Scroll → header shadow ─────────────────────── */
+  var header = document.getElementById('header');
+  if (header) {
+    var onScroll = function () {
+      header.classList.toggle('scrolled', window.scrollY > 10);
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  }
+
+  /* ── Mobile hamburger ───────────────────────────── */
+  var hamburger = document.getElementById('hamburger');
+  var mobileNav = document.getElementById('mobileNav');
+  if (hamburger && mobileNav) {
+    hamburger.addEventListener('click', function () {
+      var isOpen = mobileNav.classList.toggle('open');
+      hamburger.classList.toggle('open', isOpen);
+      document.body.style.overflow = isOpen ? 'hidden' : '';
+    });
+    // close on link click
+    mobileNav.querySelectorAll('a').forEach(function (a) {
+      a.addEventListener('click', function () {
+        mobileNav.classList.remove('open');
+        hamburger.classList.remove('open');
+        document.body.style.overflow = '';
+      });
+    });
+  }
 
   /* ── Scroll reveal ──────────────────────────────── */
   function initReveal() {
@@ -19,12 +48,14 @@
           observer.unobserve(entry.target);
         }
       });
-    }, { threshold: 0.15 });
+    }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
     els.forEach(function (el) { observer.observe(el); });
   }
 
   /* ── Init ───────────────────────────────────────── */
-  document.addEventListener('DOMContentLoaded', function () {
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initReveal);
+  } else {
     initReveal();
-  });
+  }
 })();
