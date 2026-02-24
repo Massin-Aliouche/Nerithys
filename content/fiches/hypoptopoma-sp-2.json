@@ -1,0 +1,28 @@
+{
+  "name": "Hypoptopome robocop (?)",
+  "scientificName": "Hypoptopoma sp. 2",
+  "slug": "hypoptopoma-sp-2",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "On ne sait rien de cette espèce et on se reportera aux fiches des autres membres du genre susceptibles de fréquenter le même biotope ( Hypoptopoma baileyi) pour assurer sa maintenance et son élevage. Le maintien des Hypoptopoma est comparable à celui des Otocinclus beaucoup plus fréquents en aquarium. Les grands Hypoptopoma ont cependant besoin de plus de nourriture que les Otocinclus et, au ca...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

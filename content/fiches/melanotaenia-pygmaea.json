@@ -1,0 +1,30 @@
+{
+  "name": "Poisson Arc-en-ciel pygmée",
+  "scientificName": "Melanotaenia pygmaea",
+  "slug": "melanotaenia-pygmaea",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 4,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 7,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Melanotaenia pygmaea fréquente les cours d'eau rapides interrompus par de fréquentes cascades ou rapides. On le trouve généralement les bassins les plus profonds, souvent au pied des cascades avec une eau très claire et un fond rocheux principalement solide avec peu ou pas de couverture végétale. Il habite aussi les mares et ruisseaux des terrasses gréseuses. Cette espèce se trouve généralement...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2252.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

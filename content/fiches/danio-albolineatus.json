@@ -1,0 +1,30 @@
+{
+  "name": "Danio perlé",
+  "scientificName": "Danio albolineatus",
+  "slug": "danio-albolineatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 16,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 10 minimum. Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Assez simple de maintenance, il se plaira dans un aquarium bien planté. La filtration devra être efficace et oxygéner correctement l'eau sans pour autant créer de condition torrentielles. L'aquarium devra être correctement fermé, car c'est un très bon sauteur. Comportement Généralement très calme, c'est un résident idéal pour un aquarium communautaire. Toutefois, les bancs sont très hiérarchisé...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1466.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

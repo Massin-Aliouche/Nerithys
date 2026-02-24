@@ -1,0 +1,29 @@
+{
+  "name": "Mérou lancéolé",
+  "scientificName": "Epinephelus lanceolatus",
+  "slug": "epinephelus-lanceolatus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 200,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile"
+  ]
+}

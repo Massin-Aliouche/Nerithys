@@ -1,0 +1,29 @@
+{
+  "name": "Pimélode orné",
+  "scientificName": "Pimelodus ornatus",
+  "slug": "pimelodus-ornatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7.2,
+  "ghMin": 18,
+  "ghMax": 0,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 38,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

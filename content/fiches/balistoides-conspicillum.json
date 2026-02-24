@@ -1,0 +1,31 @@
+{
+  "name": "Baliste clown",
+  "scientificName": "Balistoides conspicillum",
+  "slug": "balistoides-conspicillum",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 8,
+  "phMax": 8.3,
+  "ghMin": 10,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 40,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/617.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Haplochromis latifasciatus",
+  "scientificName": "Haplochromis latifasciatus",
+  "slug": "haplochromis-latifasciatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 0,
+  "phMin": 7.5,
+  "phMax": 8.3,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/1836.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

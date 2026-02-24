@@ -1,0 +1,32 @@
+{
+  "name": "Tétra drapeau",
+  "scientificName": "Hyphessobrycon heterorhabdus",
+  "slug": "hyphessobrycon-heterorhabdus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 15,
+  "ghMax": 0,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/1983.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano",
+    "facile"
+  ]
+}

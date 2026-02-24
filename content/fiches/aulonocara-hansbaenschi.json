@@ -1,0 +1,28 @@
+{
+  "name": "Cichlidé empereur",
+  "scientificName": "Aulonocara hansbaenschi",
+  "slug": "aulonocara-hansbaenschi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 29,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 18,
+  "behavior": "Population: 5 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 4",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le décor de l'aquarium se composera essentiellement de grands enrochements formant des grottes et des surplombs. On veillera toutefois à laisser des espaces ouverts entre eux et à utiliser du sable fin comme substrat pour qu'il puisse se nourrir naturellement. Attention ! : Les substrats plus grossiers telles que le gravier ou les petits cailloux peuvent l'empêcher de se nourrir, endommager les...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

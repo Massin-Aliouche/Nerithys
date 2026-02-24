@@ -1,0 +1,31 @@
+{
+  "name": "Tétra fantôme noir",
+  "scientificName": "Hyphessobrycon megalopterus",
+  "slug": "hyphessobrycon-megalopterus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Les poissons d'élevage sont particulièrement adaptables et s'adaptent à une large plage de paramètres, avec une préférence pour des conditions légèrement acides et douces. Pour les spécimens sauvages, le pH et le GH devront être proches des limites basses des intervalles donnés ci-dessus. Concernant l'agencement de l'aquarium, celui-ci devra être densément planté afin que le groupe se sente en ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1988.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

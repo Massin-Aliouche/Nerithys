@@ -1,0 +1,29 @@
+{
+  "name": "Cyclocheilichthys janthochir",
+  "scientificName": "Cyclocheilichthys janthochir",
+  "slug": "cyclocheilichthys-janthochir",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 7,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

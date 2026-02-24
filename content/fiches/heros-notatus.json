@@ -1,0 +1,29 @@
+{
+  "name": "Heros notatus",
+  "scientificName": "Heros notatus",
+  "slug": "heros-notatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 25,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

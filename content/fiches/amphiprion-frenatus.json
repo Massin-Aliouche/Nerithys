@@ -1,0 +1,29 @@
+{
+  "name": "Amphiprion frenatus",
+  "scientificName": "Amphiprion frenatus",
+  "slug": "amphiprion-frenatus",
+  "biotope": "Eau de mer",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/320.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin"
+  ]
+}

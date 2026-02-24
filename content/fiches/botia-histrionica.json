@@ -1,0 +1,29 @@
+{
+  "name": "Loche birmane",
+  "scientificName": "Botia histrionica",
+  "slug": "botia-histrionica",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 240,
+  "minLengthCm": 14,
+  "behavior": "Population: 6 minimum (10 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Les Botia histrionica sont grégaires. Elles forment des hiérarchies sociales complexes et doivent être maintenus en groupes d'au moins cinq ou six individus, mais de préférence dix ou douze. Lorsqu'elles sont gardées seules, ces loches peuvent devenir renfermées ou agressives envers les poissons de forme similaire, et si seulement un couple ou un trio sont maintenus, le dominant peut stresser l...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

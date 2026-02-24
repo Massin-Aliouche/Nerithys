@@ -1,0 +1,30 @@
+{
+  "name": "Geophagus taeniopareius",
+  "scientificName": "Geophagus taeniopareius",
+  "slug": "geophagus-taeniopareius",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 7.4,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 14,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/3788.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

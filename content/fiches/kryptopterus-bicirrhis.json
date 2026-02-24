@@ -1,0 +1,31 @@
+{
+  "name": "Silure de verre indien",
+  "scientificName": "Kryptopterus bicirrhis",
+  "slug": "kryptopterus-bicirrhis",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.7,
+  "phMax": 7.5,
+  "ghMin": 6,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 15,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Rarement maintenu en captivité, Kryptopterus bicirrhis a sensiblement les mêmes besoins que Kryptopterus vitreolus auquel on se rapportera pour plus de détails. On retiendra que K. bicirrhis habite les grandes rivières aux eaux troubles, et préfère de l'eau au courant rapide, Mais qu'on le retrouve cependant dans d'autres milieux comme dans les champs inondés à l'eau stagnante pendant les crues...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2044.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Poisson crayon doré",
+  "scientificName": "Nannostomus beckfordi",
+  "slug": "nannostomus-beckfordi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

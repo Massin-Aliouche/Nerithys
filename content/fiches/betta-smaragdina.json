@@ -1,0 +1,30 @@
+{
+  "name": "Betta émeraude",
+  "scientificName": "Betta smaragdina",
+  "slug": "betta-smaragdina",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 6,
+  "behavior": "Population: 1 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le betta smaragdina demande une lumière tamisée et un aquarium bien planté. On privilégiera donc des plantes à tige haute ou flottantes. Les Nymphaea, Cryptocorynes, Salvinia, Lemna minor,… sont donc un bon choix. Il appréciera aussi le bois flotté pour les refuges que cela peut créer, mais des petits pots en argile, des tuyaux en plastique peuvent également être utilisés. L'ajout de litière de...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/715.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

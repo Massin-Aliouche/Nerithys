@@ -1,0 +1,30 @@
+{
+  "name": "Queue en ciseau noir",
+  "scientificName": "Rasbora trilineata",
+  "slug": "rasbora-trilineata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 8,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 17,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Rasbora trilineata a été trouvé aussi bien dans des ruisseaux forestiers à débit rapide avec des substrats de rochers, de petites pierres, de sable ou de graviers, que dans des eaux noires plus lentes associées à des zones d'anciennes forêts de marais tourbeux qui sont généralement pleines de feuilles, de brindilles et de branches tombées. On le rencontre également dans des lacs ou des étangs, ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3047.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

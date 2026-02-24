@@ -1,0 +1,28 @@
+{
+  "name": "Aphanius d'Espagne",
+  "scientificName": "Aphanius iberus",
+  "slug": "aphanius-iberus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 10,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 8,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "facile"
+  ]
+}

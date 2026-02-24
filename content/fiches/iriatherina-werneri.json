@@ -1,0 +1,30 @@
+{
+  "name": "Arc en ciel filigrane",
+  "scientificName": "Iriatherina werneri",
+  "slug": "iriatherina-werneri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 5,
+  "behavior": "Population: 10 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Dans la nature, le Iriatherina werneri fréquente les cours d'eau à débit lent, les marécages et les billabongs avec une végétation aquatique abondante et des sites fréquemment couverts de végétation flottante. En aquarium, l'ajout de plantes flottantes pour filtrer la lumière rassurera les Iriatherina sp. et les incitera à ne pas rester cacher dans les plantes. Les Iriatherines vivent dans des ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2027.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

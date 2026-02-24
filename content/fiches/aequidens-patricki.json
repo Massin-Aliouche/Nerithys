@@ -1,0 +1,28 @@
+{
+  "name": "Aequidens patricki",
+  "scientificName": "Aequidens patricki",
+  "slug": "aequidens-patricki",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 26,
+  "phMin": 5.8,
+  "phMax": 7,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

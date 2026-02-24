@@ -1,0 +1,30 @@
+{
+  "name": "Sabulicole tacheté*",
+  "scientificName": "Xenotilapia spiloptera",
+  "slug": "xenotilapia-spiloptera",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 10,
+  "behavior": "Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'agencement de l'aquarium est classique pour un aquarium \"Tanganyika\", avec de nombreuses structures minérales formant des grottes, des crevasses,... L'étendue sableuse au sol doit toutefois être la plus vaste possible. L'ajout de quelques plantes robustes est possible. Les relations intraspécifiques sont bonnes. En effet, le Xenotilapia spilopterus est un poisson grégaire, relativement pacifi...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/5188.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Puntius binotatus",
+  "scientificName": "Puntius binotatus",
+  "slug": "puntius-binotatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 25,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

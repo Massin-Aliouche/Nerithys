@@ -1,0 +1,29 @@
+{
+  "name": "Tétraodon zébré",
+  "scientificName": "Carinotétraodon salivator",
+  "slug": "carinottraodon-salivator",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Attention ! : Carinotetraodon salivator est un poisson très territorial et de nature réellement belliqueuse. Les mâles aussi bien que les femelles mordent les nageoires et les corps de tous les poissons qui envahissent leur espace. On préconise le plus souvent de ne conserver qu'un seul et unique individu dans un aquarium spécifique . Bien sûr on devra déroger à ce principe dans le cadre de la ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

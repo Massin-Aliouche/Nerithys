@@ -1,0 +1,28 @@
+{
+  "name": "Poecilia picta",
+  "scientificName": "Poecilia picta",
+  "slug": "poecilia-picta",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 8.2,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Popondetta",
+  "scientificName": "Pseudomugil furcatus",
+  "slug": "pseudomugil-furcatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il est préférable de maintenir les Popondetta dans un aquarium à la végétation dense. L'ajout de quelques plantes flottantes et de racines ou branches de bois flotté pour diffuser la lumière entrant dans l'aquarium est recommandé et donne une sensation plus naturelle. Si l'on souhaite élever des alevins en même temps que les adultes, il est conseillé d'ajouter des mousses aquatiques à feuilles ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2857.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

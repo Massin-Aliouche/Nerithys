@@ -1,0 +1,30 @@
+{
+  "name": "Gambusie du Nicaragua",
+  "scientificName": "Gambusia sexradiata",
+  "slug": "gambusia-sexradiata",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7.8,
+  "ghMin": 8,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Vivipare, difficulté: Possible",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore",
+    "nano",
+    "vivipare"
+  ]
+}

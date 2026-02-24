@@ -1,0 +1,29 @@
+{
+  "name": "Bada (port)",
+  "scientificName": "Acestrorhynchus microlepis",
+  "slug": "acestrorhynchus-microlepis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 6.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 2000,
+  "minLengthCm": 40,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

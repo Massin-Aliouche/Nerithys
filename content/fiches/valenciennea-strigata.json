@@ -1,0 +1,31 @@
+{
+  "name": "Valenciennea strigata",
+  "scientificName": "Valenciennea strigata",
+  "slug": "valenciennea-strigata",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 28,
+  "phMin": 8,
+  "phMax": 8,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 18,
+  "behavior": "Population: 2 minimum. Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/3390.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "facile"
+  ]
+}

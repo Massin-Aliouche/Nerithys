@@ -1,0 +1,30 @@
+{
+  "name": "Murène d'eau douce",
+  "scientificName": "Gymnothorax tile",
+  "slug": "gymnothorax-tile",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 60,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

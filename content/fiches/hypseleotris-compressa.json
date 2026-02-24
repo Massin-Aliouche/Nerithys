@@ -1,0 +1,31 @@
+{
+  "name": "Goujon empereur",
+  "scientificName": "Hypseleotris compressa",
+  "slug": "hypseleotris-compressa",
+  "biotope": "Eau de mer",
+  "difficulty": 3,
+  "tempMin": 10,
+  "tempMax": 35,
+  "phMin": 5,
+  "phMax": 9,
+  "ghMin": 1,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 12,
+  "behavior": "Population: 3 minimum (6 recommandé). Zone: Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Cette espèce est largement répandue dans les zones côtières et les larves sont amphidromes. Du fait de son comportement potamodrome Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2012.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "exigeant"
+  ]
+}

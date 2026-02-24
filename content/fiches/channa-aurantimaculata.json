@@ -1,0 +1,33 @@
+{
+  "name": "Poisson serpent orange tacheté",
+  "scientificName": "Channa aurantimaculata",
+  "slug": "channa-aurantimaculata",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 15,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 600,
+  "minLengthCm": 36,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Vivipare, difficulté: Difficile",
+  "notes": "Si le Channa aurantimaculata est peu exigeant quant à la qualité de l'eau, la principale difficulté pour sa maintenance est que l'aquarium doit avoir une température fluctuante, reproduisant les cycles saisonnier, avec une température inférieure à 20 en hivers et 28 en été. Pendant la période froide, les poissons n'ont pas besoin de beaucoup de nourriture et le niveau de l'eau peut baisser sans...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/977.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant",
+    "vivipare"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Trimma annosum",
+  "scientificName": "Trimma annosum",
+  "slug": "trimma-annosum",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 2.5,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "nano",
+    "facile"
+  ]
+}

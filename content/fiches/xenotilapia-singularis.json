@@ -1,0 +1,28 @@
+{
+  "name": "Xenotilapia singularis",
+  "scientificName": "Xenotilapia singularis",
+  "slug": "xenotilapia-singularis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 11,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

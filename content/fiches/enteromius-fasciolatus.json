@@ -1,0 +1,29 @@
+{
+  "name": "Barbus rayé",
+  "scientificName": "Enteromius fasciolatus",
+  "slug": "enteromius-fasciolatus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Compte tenu de sa distribution l'espèce a été observée dans divers biotopes. Plus commun dans les baies et les bas-fonds des lacs et des lagunes des plaines inondables, on le trouve également dans les ruisseaux et les rivières de la forêt tropicale. Les eaux dans lesquelles il se trouve sont caractérisées par un débit lent, une végétation dense et une forte teneur en oxygène. Dans une grande pa...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

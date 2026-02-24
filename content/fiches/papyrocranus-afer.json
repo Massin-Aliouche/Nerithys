@@ -1,0 +1,29 @@
+{
+  "name": "Papyrocranus afer",
+  "scientificName": "Papyrocranus afer",
+  "slug": "papyrocranus-afer",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23.9,
+  "tempMax": 27.8,
+  "phMin": 6.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 1700,
+  "minLengthCm": 80,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

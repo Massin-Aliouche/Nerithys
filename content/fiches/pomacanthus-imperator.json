@@ -1,0 +1,29 @@
+{
+  "name": "Pomacanthus imperator",
+  "scientificName": "Pomacanthus imperator",
+  "slug": "pomacanthus-imperator",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 35,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile"
+  ]
+}

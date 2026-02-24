@@ -1,0 +1,29 @@
+{
+  "name": "Macrognathus zebrinus",
+  "scientificName": "Macrognathus zebrinus",
+  "slug": "macrognathus-zebrinus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 26,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 40,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

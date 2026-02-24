@@ -1,0 +1,28 @@
+{
+  "name": "Badis de Juergenschmidt",
+  "scientificName": "Badis juergenschmidti",
+  "slug": "badis-juergenschmidti",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 25,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La localité type de Badis juergenschmidti est une petite rivière peu profonde (20 à 30 cm de profondeur) avec du sable roulant sous le relativement faible flux d'eau et un substrat de roches et de gravier assez grossier. Aucune plante aquatique n'est mentionnée bien qu'il y ait des plaques de biofilm dans certaines zones. L'eau y est très douce (conductivité 6 µS/cm ), presque neutre à légèreme...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

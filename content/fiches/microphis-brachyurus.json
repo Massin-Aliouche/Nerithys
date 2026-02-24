@@ -1,0 +1,30 @@
+{
+  "name": "Syngnathe à queue courte",
+  "scientificName": "Microphis brachyurus",
+  "slug": "microphis-brachyurus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": 10,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovovivipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile",
+    "vivipare"
+  ]
+}

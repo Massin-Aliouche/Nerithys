@@ -1,0 +1,30 @@
+{
+  "name": "Aphyosemion ogoense",
+  "scientificName": "Aphyosemion ogoense",
+  "slug": "aphyosemion-ogoense",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 23,
+  "phMin": 5,
+  "phMax": 6,
+  "ghMin": 5,
+  "ghMax": 0,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "facile"
+  ]
+}

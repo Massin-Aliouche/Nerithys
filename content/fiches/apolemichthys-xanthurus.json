@@ -1,0 +1,30 @@
+{
+  "name": "Poisson-ange à queue jaune",
+  "scientificName": "Apolemichthys xanthurus",
+  "slug": "apolemichthys-xanthurus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/518.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

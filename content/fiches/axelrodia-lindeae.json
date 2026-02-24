@@ -1,0 +1,29 @@
+{
+  "name": "Tétra de Linde",
+  "scientificName": "Axelrodia lindeae",
+  "slug": "axelrodia-lindeae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 2.5,
+  "behavior": "Population: 10 minimum. Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Axelrodia lindeae n'est présent en aquariophilie que mêlé à l'importation d'autres membres du genre. Il n'y a donc pas de rapport d'élevage ni même de maintenance concernant l'espèce. On se reportera donc à la maintenance de Axelrodia riesei",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

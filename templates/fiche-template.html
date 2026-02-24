@@ -8,6 +8,10 @@
   <meta property="og:title" content="{{TITLE}}">
   <meta property="og:description" content="{{DESCRIPTION}}">
   <meta property="og:image" content="{{OG_IMAGE}}">
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta http-equiv="X-Frame-Options" content="DENY">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=()">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
@@ -80,11 +84,12 @@
         <div>
           <h4>Projet</h4>
           <ul>
-            <li><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">Code source GitHub</a></li>
+            <li><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener noreferrer">Code source GitHub</a></li>
+            <li><a href="{{ASSET_PATH}}mentions-legales/">Mentions légales</a></li>
           </ul>
         </div>
       </div>
-      <div class="footer-bottom">&copy; 2025 Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
+      <div class="footer-bottom">&copy; 2025–2026 Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
     </div>
   </footer>
 

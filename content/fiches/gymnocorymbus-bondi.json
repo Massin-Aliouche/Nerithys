@@ -1,0 +1,28 @@
+{
+  "name": "Scolofi",
+  "scientificName": "Gymnocorymbus bondi",
+  "slug": "gymnocorymbus-bondi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

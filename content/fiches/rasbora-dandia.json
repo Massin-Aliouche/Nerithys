@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora dandia",
+  "scientificName": "Rasbora dandia",
+  "slug": "rasbora-dandia",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Rasbora dandia fréquente tous les types d'habitats d'eau douce de plaine jusqu'à une altitude d'environ 700 m au-dessus du niveau moyen de la mer, y compris les rivières, les ruisseaux, les rizières, les étangs et les réservoirs artificiels. Il est commun dans les ruisseaux clairs et rocheux à débit lent, mais tolère également les torrents de montagne ou les ruisseaux sablonneux. Au Sri Lanka, ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

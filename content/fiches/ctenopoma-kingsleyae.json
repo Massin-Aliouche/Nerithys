@@ -1,0 +1,29 @@
+{
+  "name": "Ctenopoma kingsleyae",
+  "scientificName": "Ctenopoma kingsleyae",
+  "slug": "ctenopoma-kingsleyae",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

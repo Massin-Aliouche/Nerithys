@@ -1,0 +1,29 @@
+{
+  "name": "Loche tigrée à queue rouge",
+  "scientificName": "Aborichthys elongatus",
+  "slug": "aborichthys-elongatus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 18,
+  "tempMax": 25,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 7,
+  "behavior": "Population: 6 minimum. Zone: Fond. Ratio M/F: 1 / 2",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Il est recommandé de le maintenir dans un aquarium conçu pour ressembler à un cours d'eau de montagne avec un substrat composé de roches de taille variable, de sable, de gravier fin et de quelques gros rochers usés par l'eau. Ce substrat peut être complété par des branches de bois flotté disposées de manière à former un réseau de cachettes et d'endroits ombragés que cette espèce curieuse pourra...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

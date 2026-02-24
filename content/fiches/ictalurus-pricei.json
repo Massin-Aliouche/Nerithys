@@ -1,0 +1,29 @@
+{
+  "name": "Ictalurus pricei",
+  "scientificName": "Ictalurus pricei",
+  "slug": "ictalurus-pricei",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 9,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 35,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

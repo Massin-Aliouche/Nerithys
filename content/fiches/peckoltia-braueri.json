@@ -1,0 +1,30 @@
+{
+  "name": "Peckoltia de Brauer",
+  "scientificName": "Peckoltia braueri",
+  "slug": "peckoltia-braueri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 25,
+  "tempMax": 29,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 10,
+  "behavior": "Population: 1 minimum. Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Il est préférable de maintenir Peckoltia braueri dans un aquarium faiblement éclairé avec un bon nombre de cachettes, créées avec des plantes, du bois flottant, des rochers ou des grottes artificielles (frayères pleco). Pour maintenir plusieurs spécimens dans le même aquarium, ou avec d'autres poissons de fond, un aquarium de 100x40 cm est recommandé : ce poisson peut être très territorial et, ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/4019.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

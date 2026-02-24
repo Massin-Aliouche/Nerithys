@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel de Pierucci",
+  "scientificName": "Melanotaenia pierucciae",
+  "slug": "melanotaenia-pierucciae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La localité type de cette espèce se trouve à environ un à deux kilomètres en amont du lac Kamakawaiar et en est séparée par une cascade de vingt mètres de haut. Cette espèce est commune dans le ruisseau principal qui mesure environ 4 à 5 m de large et 1 à 2 m de profondeur, ainsi que dans un petit affluent de 1 à 2 m de large, tous deux traversant une forêt tropicale dense. (Allen et Renyaan 19...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

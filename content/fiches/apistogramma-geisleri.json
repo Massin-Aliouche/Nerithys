@@ -1,0 +1,30 @@
+{
+  "name": "Cichlidé nain de Geisler",
+  "scientificName": "Apistogramma geisleri",
+  "slug": "apistogramma-geisleri",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 29,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 3,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "facile"
+  ]
+}

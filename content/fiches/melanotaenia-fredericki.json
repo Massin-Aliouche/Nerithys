@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel de Sorong",
+  "scientificName": "Melanotaenia fredericki",
+  "slug": "melanotaenia-fredericki",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 29,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Melanotaenia fredericki n'étant pas, ou si peu, disponible dans la commerce, on ne pourra ici qu'ébaucher des pistes de maintenance. Melanotaenia fredericki fréquente essentiellement des cours d'eau clairs et lents avec une litière de feuilles et des fonds rocheux ou de gravier, traversant les forêts pluviales secondaires et primaires à canopée fermée, dans une eau à pH 6,5 à 7,5 avec une tempé...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

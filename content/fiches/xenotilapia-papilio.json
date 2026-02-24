@@ -1,0 +1,31 @@
+{
+  "name": "Xenotilapia papilio",
+  "scientificName": "Xenotilapia papilio",
+  "slug": "xenotilapia-papilio",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 7,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/3417.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

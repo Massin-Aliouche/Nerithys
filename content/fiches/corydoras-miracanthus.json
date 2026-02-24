@@ -1,0 +1,28 @@
+{
+  "name": "Cory des Andes",
+  "scientificName": "Corydoras miracanthus",
+  "slug": "corydoras-miracanthus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Cette espèce se trouve dans la partie la plus méridionale de l'Amérique du Sud, affluents occidentaux du fleuve Paraná à Salta, Argentine. En conséquence elle aura besoin de températures d'eau plus fraîches sur d'assez longues périodes. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"r...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

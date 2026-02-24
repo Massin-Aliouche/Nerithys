@@ -1,0 +1,29 @@
+{
+  "name": "Acara de Heckel",
+  "scientificName": "Acarichthys heckelii",
+  "slug": "acarichthys-heckelii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 21,
+  "behavior": "Population: 2 minimum (6 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'Acara de Heckel, fréquente les basses terres des bassins fluviaux et pénètre dans les savanes ou les forêts inondées pendant la saison des pluies pour s'y reproduire. C'est donc un potamodrome Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand"
+  ]
+}

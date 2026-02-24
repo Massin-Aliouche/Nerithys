@@ -1,0 +1,28 @@
+{
+  "name": "Loche de Ping-chow",
+  "scientificName": "Vanmanenia pingchowensis",
+  "slug": "vanmanenia-pingchowensis",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 16,
+  "tempMax": 29,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 180,
+  "minLengthCm": 14,
+  "behavior": "Population: 6 minimum. Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Cette espèce se trouve dans les tronçons de cours d'eau à débit rapide. L'habitat est limité à des cours d'eau peu profonds, rapides et hautement oxygénés ou des petits affluents caractérisés par des étendues de type radier et proche de cascades. On l'élèvera donc en bac rivière, d'assez faible profondeur, avec un fort courant copieusement oxygéné. L'eau y sera fraiche, entre 18 à 24 °C si poss...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

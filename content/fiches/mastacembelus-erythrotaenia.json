@@ -1,0 +1,31 @@
+{
+  "name": "Mastacembelus erythrotaenia",
+  "scientificName": "Mastacembelus erythrotaenia",
+  "slug": "mastacembelus-erythrotaenia",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 7,
+  "ghMin": 6,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 1,
+  "minLengthCm": 100,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/2194.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

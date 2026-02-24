@@ -1,0 +1,29 @@
+{
+  "name": "Pseudomugil novaeguineae",
+  "scientificName": "Pseudomugil novaeguineae",
+  "slug": "pseudomugil-novaeguineae",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 3.5,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

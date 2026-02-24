@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora du Gange",
+  "scientificName": "Rasbora rasbora",
+  "slug": "rasbora-rasbora",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 13,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce Rasbora de taille moyenne, vit dans des cours d'eau forestiers à débit rapide avec des substrats de rochers, de petites pierres, de sable ou de gravier,mais aussi dans les plan d'eau à écoulement plus lent associées aux inondations de la saison des pluies généralement remplis de feuilles mortes, de brindilles et de branches. Il s'agit sans doute d'un poisson profitant des débordement consécu...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

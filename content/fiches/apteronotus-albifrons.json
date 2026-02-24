@@ -1,0 +1,29 @@
+{
+  "name": "Poisson couteau",
+  "scientificName": "Apteronotus albifrons",
+  "slug": "apteronotus-albifrons",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 500,
+  "minLengthCm": 50,
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Macropode de Hongkong",
+  "scientificName": "Macropodus hongkongensis",
+  "slug": "macropodus-hongkongensis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 15,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 8,
+  "ghMin": 8,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 9,
+  "behavior": "Population: 4 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 3",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Macropodus hongkongensis a été collecté à la fois dans des ruisseaux de montagne et dans des environnements de plaine, parfois agricoles. Affiche apparemment une préférence pour les habitats peu profonds avec une végétation dense et un débit lent. On veillera donc à reproduire au mieux son habitat naturel en aménageant un bac très planté et agrémenté de branchages. Les branches de bois flotté p...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

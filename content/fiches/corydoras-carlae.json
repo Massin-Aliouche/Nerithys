@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras de Carla",
+  "scientificName": "Corydoras carlae",
+  "slug": "corydoras-carlae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 22,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Comme C. carlae est originaire d'Argentine, une température assez basse est requise pour cette espèce Janvier est normalement la période des niveaux d’eau très bas en Argentine. Dans l'Arroyo Falso Uruguai, l'eau presque claire coule rapidement sur un lit de sable et de gravier. La température de l'eau était de 24,3°C, avec un pH de 7,9 et une conductivité de 71 µs/cm. Ces paramètres, notamment...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

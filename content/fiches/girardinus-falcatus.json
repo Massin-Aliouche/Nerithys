@@ -1,0 +1,30 @@
+{
+  "name": "Girardinus aux yeux bleus",
+  "scientificName": "Girardinus falcatus",
+  "slug": "girardinus-falcatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7.8,
+  "ghMin": 10,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 240,
+  "minLengthCm": 7,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovovivipare, difficulté: Possible",
+  "notes": "Un aquarium bien planté est recommandé. Vivant en banc dans la nature, il est préférable de le maintenir en groupe afin qu'il ne soit pas stressé. En cas de stress, le banc, plutôt lâche quand tout va bien, se regroupera immédiatement. Certaines personnes le maintienne avec d'autres poissons pouvant être des prédateurs pour les alevins afin de limiter sa prolifération.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1688.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "vivipare"
+  ]
+}

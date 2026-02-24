@@ -1,0 +1,31 @@
+{
+  "name": "Gourami chocolat",
+  "scientificName": "Sphaerichthys osphromenoides",
+  "slug": "sphaerichthys-osphromenoides",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 25,
+  "tempMax": 32,
+  "phMin": 3,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 5,
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Sphaerichthys osphromenoides habite principalement les tourbières et les cours d'eau noirs associés, mais on le trouve également dans certains habitats d'eau claire. Les premiers sont situés dans des zones forestières et contiennent de l’eau qui est généralement teintée de brun foncé par les acides humiques et d’autres molécules chimiques libérées par la matière organique en décomposition. Il e...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3170.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

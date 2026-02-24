@@ -1,0 +1,31 @@
+{
+  "name": "Poisson vampire",
+  "scientificName": "Danionella dracula",
+  "slug": "danionella-dracula",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 1.7,
+  "behavior": "Population: 10 minimum. Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/1478.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

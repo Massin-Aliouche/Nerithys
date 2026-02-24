@@ -1,0 +1,33 @@
+{
+  "name": "Poisson moustique",
+  "scientificName": "Heterandria formosa",
+  "slug": "heterandria-formosa",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 10,
+  "tempMax": 32,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 30,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Vivipare, difficulté: Courante",
+  "notes": "Il est préférable de le maintenir dans un aquarium fortement planté. Le débit d'eau doit être réduit au minimum. ils préféreront une eau dure et basique et des température fraiches. Il semble que des variations importantes de température soit indispensable à la reproduction et permette un accroissement substantiel de la longévité. Si 24 à 26 °C sont nécessaire à la reproduction, des température...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1914.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "nano",
+    "facile",
+    "vivipare"
+  ]
+}

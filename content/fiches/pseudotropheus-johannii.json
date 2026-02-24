@@ -1,0 +1,30 @@
+{
+  "name": "Mbuna bleu",
+  "scientificName": "Pseudotropheus johannii",
+  "slug": "pseudotropheus-johannii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 12,
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Une large part de l'aquarium doit contenir des tas de rochers disposés de manière à former des grottes séparées par des zones d'eau libre. Un substrat sableux est préférable. L'eau doit être bien oxygénée. Il est préférable d'éviter les plantes, quasi absente du biotope naturel. Elles seront généralement mangées, mais des plantes à feuilles dures, comme des Anubias, peuvent survivre. Il est ass...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2887.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

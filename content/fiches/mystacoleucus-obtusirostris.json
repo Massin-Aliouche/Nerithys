@@ -1,0 +1,29 @@
+{
+  "name": "Barbus à nez court",
+  "scientificName": "Mystacoleucus obtusirostris",
+  "slug": "mystacoleucus-obtusirostris",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 20,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Mystacoleucus obtusirostris est principalement un poisson de rivière que l'on trouve dans les profondeurs des rivières et des ruisseaux. Il préfère les eaux courantes claires et bien oxygénées dans les zones aux fonds de sable ou de gravier, des petits ruisseaux aux grandes rivières. On le trouve généralement dans les ruisseaux aux eaux claires et en mouvement. Il se reproduit lorsque le niveau...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

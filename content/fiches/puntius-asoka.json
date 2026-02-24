@@ -1,0 +1,28 @@
+{
+  "name": "Barbus d'Asoka",
+  "scientificName": "Puntius asoka",
+  "slug": "puntius-asoka",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 0,
+  "tempMax": 25,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 18,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 17,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

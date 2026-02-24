@@ -1,0 +1,29 @@
+{
+  "name": "Loche du Mékong",
+  "scientificName": "Ambastaia nigrolineata",
+  "slug": "ambastaia-nigrolineata",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 15,
+  "tempMax": 25,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Ambastaia nigrolineata fréquente les rapides, dans les eaux claires à courant vif. On le trouve aussi dans les petits ruisseaux au fond sableux et au courant modéré. Il semble que cette espèce soit migratrice (potamodrome) Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Demi-bec des Célèbes",
+  "scientificName": "Nomorhamphus liemi",
+  "slug": "nomorhamphus-liemi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 240,
+  "minLengthCm": 10,
+  "behavior": "Population: 4 minimum. Zone: Supérieure",
+  "compatibility": "Zone supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Paedocypris micromegethes",
+  "scientificName": "Paedocypris micromegethes",
+  "slug": "paedocypris-micromegethes",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 25,
+  "tempMax": 0,
+  "phMin": 3,
+  "phMax": 0,
+  "ghMin": 1,
+  "ghMax": 0,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 1.2,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Planctonivore",
+  "breeding": "difficulté: Difficile",
+  "notes": "Ces poissons, sérieusement menacés dans leur milieu, nécessitent un aquarium très particulier, à pH très bas, eau très douce riche en tanins. De plus leur disponibilité commerciale, à juste titre, est très rare. Leur maintenance sera réservée à des aquariophiles avertis, soucieux de leur fournir cet habitat complexe, qui soit de surcroit capable d’assurer leur reproduction. A ce sujet, il faudr...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "exigeant"
+  ]
+}

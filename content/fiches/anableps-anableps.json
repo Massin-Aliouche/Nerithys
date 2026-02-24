@@ -1,0 +1,29 @@
+{
+  "name": "Anableps anableps",
+  "scientificName": "Anableps anableps",
+  "slug": "anableps-anableps",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 8,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 30,
+  "behavior": "Zone: Supérieure",
+  "compatibility": "Zone supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loche zébrée vietnamienne",
+  "scientificName": "Yunnanilus cruciatus",
+  "slug": "yunnanilus-cruciatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Yunnanilus cruciatus se rencontre dans les parties peu profondes et relativement calmes des rivières à végétation aquatique dense, avec un fond boueux et sablonneux. Le bac dédié à leur maintenance doit donc être densément planté. L'ajout de quelques plantes flottantes et de racines ou de branches de bois flotté, et de litière de feuilles sera également apprécié par cette espèce. Si vous souhai...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

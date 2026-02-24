@@ -1,0 +1,29 @@
+{
+  "name": "Parasphaerichthys lineatus",
+  "scientificName": "Parasphaerichthys lineatus",
+  "slug": "parasphaerichthys-lineatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 29,
+  "phMin": 6.5,
+  "phMax": 7.8,
+  "ghMin": 18,
+  "ghMax": 18,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 1.9,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

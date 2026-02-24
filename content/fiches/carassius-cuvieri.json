@@ -1,0 +1,29 @@
+{
+  "name": "Carassius cuvieri",
+  "scientificName": "Carassius cuvieri",
+  "slug": "carassius-cuvieri",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 5,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 35,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

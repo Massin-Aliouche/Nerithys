@@ -1,0 +1,31 @@
+{
+  "name": "Chelmon à bec médiocre",
+  "scientificName": "Chelmon rostratus",
+  "slug": "chelmon-rostratus",
+  "biotope": "Eau de mer",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 7.8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 350,
+  "minLengthCm": 17,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "L'aquarium devra être relativement mature et stable, car si le Chelmon rostratus est plutôt robuste une fois bien acclimaté, son acclimatation reste délicate pendant les premiers mois. Sujet au stress, il peut rapidement dépérir et/ou développer un épisode aigu de Cryptocaryon si sa maintenance est inadaptées. Comportement et cohabitation Le Chelmon rostratus a besoin de nager librement dans la...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1055.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Rasbora à ocelle",
+  "scientificName": "Brevibora dorsiocellata",
+  "slug": "brevibora-dorsiocellata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 29,
+  "phMin": 4.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Brevibora dorsiocellata fréquente les forêts côtières aux substrats sableux et tourbeux dans les eaux acides. Il vit dans des cours d'eau et petits étangs caractérisés par une eau acide (jusqu'à pH 4) et très peu minéralisée. Certains de ces habitats sont classés comme forêts de tourbières. Généralement en sous bois, la décomposition des feuilles les rend très riches en acides humiques dissous ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

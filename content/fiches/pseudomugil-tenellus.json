@@ -1,0 +1,28 @@
+{
+  "name": "Pseudomugil tenellus",
+  "scientificName": "Pseudomugil tenellus",
+  "slug": "pseudomugil-tenellus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 5,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il est préférable de le maintenir dans un aquarium densément planté. L'ajout de plantes flottantes et de racines ou de branches de bois flotté pour diffuser la lumière qui pénètre dans l'aquarium semble également apprécié. Si vous souhaitez maintenir des alevins aux côtés des adultes l'ajout de mousse aquatique à feuilles fines comme un Taxiphylum sp. est conseillé (voir \"Reproduction\"). L'eau ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

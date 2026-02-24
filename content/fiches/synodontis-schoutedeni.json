@@ -1,0 +1,28 @@
+{
+  "name": "Synodontis schoutedeni",
+  "scientificName": "Synodontis schoutedeni",
+  "slug": "synodontis-schoutedeni",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 4,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 14,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Petit poisson arc-en-ciel",
+  "scientificName": "Melanotaenia wilsoni",
+  "slug": "melanotaenia-wilsoni",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 4,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Melanotaenia wilsoni habite les eaux peu profondes des petits ruisseaux sablonneux et des marécages de Pandanus avec un abri abondant sous forme de végétation aquatique et de débris de bois. Les ruisseaux sont peu profond, moins de cinquante centimètres, et connecté avec des marécages de tourbe à végétation dense. Cet habitat de marécages et de chenaux peut être saisonnier. En effet, l'abondanc...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

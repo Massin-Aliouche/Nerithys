@@ -1,0 +1,31 @@
+{
+  "name": "Poisson crayon nain",
+  "scientificName": "Nannostomus marginatus",
+  "slug": "nannostomus-marginatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 28,
+  "phMin": 5.8,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 3.5,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/2361.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

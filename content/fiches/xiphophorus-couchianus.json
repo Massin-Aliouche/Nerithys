@@ -1,0 +1,29 @@
+{
+  "name": "Xiphophorus couchianus",
+  "scientificName": "Xiphophorus couchianus",
+  "slug": "xiphophorus-couchianus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 27,
+  "tempMax": 30,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 6,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovovivipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile",
+    "vivipare"
+  ]
+}

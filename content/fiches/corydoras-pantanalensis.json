@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras du Pantanal",
+  "scientificName": "Corydoras pantanalensis",
+  "slug": "corydoras-pantanalensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Corydoras pantanalensis est l'un des plus grands de son genre et peut atteindre une longueur totale de plus de huit centimètres. Pour son bien être, on lui réservera donc un grand bac \"rivière\" à la végétation dense. Les biotopes occupés par ce Corydoras sont caractérisés par des eaux cristallines et, contrairement à l'Amazonie, par une abondance de végétation aquatique. Un aquarium bien éclair...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

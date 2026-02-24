@@ -1,0 +1,29 @@
+{
+  "name": "Lepomis cyanellus",
+  "scientificName": "Lepomis cyanellus",
+  "slug": "lepomis-cyanellus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 15,
+  "tempMax": 32,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 30,
+  "behavior": "Population: 2 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

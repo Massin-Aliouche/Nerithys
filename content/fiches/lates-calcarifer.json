@@ -1,0 +1,30 @@
+{
+  "name": "Barramundi",
+  "scientificName": "Lates calcarifer",
+  "slug": "lates-calcarifer",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 200,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": "Sa grande taille, allant jusqu'à 2 mètres, le réservera aux aquarium publics, dont le volume se mesure en mètres cubes !",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

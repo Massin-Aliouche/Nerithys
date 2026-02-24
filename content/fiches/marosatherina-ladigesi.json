@@ -1,0 +1,29 @@
+{
+  "name": "Arc en ciel des Célèbes",
+  "scientificName": "Marosatherina ladigesi",
+  "slug": "marosatherina-ladigesi",
+  "biotope": "Eau saumâtre",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 9,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Supérieure. Ratio M/F: 1 / 3",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Marosatherina ladigesi vit dans les ruisseaux et les estuaires, allant de l'eau douce à l'eau légèrement saumâtre. On le trouve généralement dans des zones à forte teneur en oxygène dissous, où il passe la majeure partie de la journée à se cacher parmi les feuilles des plantes, à l'affut de petits vers, d'insectes ou des débris végétaux. L'Arc-en-ciel des Célèbes n'est pas particulièrement diff...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Grand brochet",
+  "scientificName": "Esox lucius",
+  "slug": "esox-lucius",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 2,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 6,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 2000,
+  "minLengthCm": 136,
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce poisson est généralement présent dans les petits lacs clairs, les zones de végétation peu profondes des grands lacs, les marais, les ruisseaux et les petites et grandes rivières. Il se déplace vers des eaux plus profondes et plus fraîches en été. Cette espèce est compliquée à maintenir en aquarium à cause de plusieurs facteurs. Elle est piscivore à tendance cannibale. Il faut donc bien chois...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1595.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore",
+    "grand"
+  ]
+}

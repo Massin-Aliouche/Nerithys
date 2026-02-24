@@ -1,0 +1,28 @@
+{
+  "name": "Chaetostoma joropo",
+  "scientificName": "Chaetostoma joropo",
+  "slug": "chaetostoma-joropo",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 14,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Algivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

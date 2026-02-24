@@ -1,0 +1,29 @@
+{
+  "name": "Clarias gariepinus",
+  "scientificName": "Clarias gariepinus",
+  "slug": "clarias-gariepinus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 8,
+  "tempMax": 35,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 120,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Cichlidé de Fryer",
+  "scientificName": "Sciaenochromis fryeri",
+  "slug": "sciaenochromis-fryeri",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 12,
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "L'agencement de l'aquarium est typique d'un aquarium reproduisant un biotope du lac Malawi. Il se composera de grands enrochements, formant un réseau de grottes et autres cachettes et de zones plus ouvertes et couvertes de sable. Dans l'optique de la reproduction, on pourra placer des roches plates et en pente face au courant généré par le filtre et des zones de substrat ouvert pouvant servir d...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3113.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

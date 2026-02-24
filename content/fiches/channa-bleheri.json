@@ -1,0 +1,32 @@
+{
+  "name": "Channa arc-en-ciel",
+  "scientificName": "Channa bleheri",
+  "slug": "channa-bleheri",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 14,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 20,
+  "behavior": "Population: 1 minimum (2 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Attention ! : C. bleheri ne doit pas être maintenu à une température constante mais doit bénéficier d'une variation saisonnière naturelle sous la forme de périodes hivernales et estivales bien définies. Pendant la période \"froide\", les poissons n'ont pas besoin de beaucoup de nourriture et le niveau de l'eau peut baisser sans ajout supplémentaire. La température de l’eau en hiver peut être proc...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/979.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora de Sumatra",
+  "scientificName": "Rasbora sumatrana",
+  "slug": "rasbora-sumatrana",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 14,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Les espèces du groupe Sumatrana sont des poissons pélagiques de taille moyenne qui semblent préférer les parties supérieures des bassins fluviaux car on les trouve généralement dans les ruisseaux de colline à courant rapide avec de l'eau claire et des substrats rocheux (D. Lumbantobing, obs. pers. 2009, 2013). Rasbora sumatrana fréquente les ruisseaux aux eaux modérées à rapides, relativement f...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

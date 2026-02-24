@@ -1,0 +1,29 @@
+{
+  "name": "Parosphromenus parvulus",
+  "scientificName": "Parosphromenus parvulus",
+  "slug": "parosphromenus-parvulus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 26,
+  "phMin": 4.8,
+  "phMax": 5.5,
+  "ghMin": 2,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 3,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

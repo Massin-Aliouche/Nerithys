@@ -1,0 +1,28 @@
+{
+  "name": "Badis tigré",
+  "scientificName": "Badis kyar",
+  "slug": "badis-kyar",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 25,
+  "phMin": 7,
+  "phMax": 9,
+  "ghMin": 2,
+  "ghMax": 4,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 6,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Badis kyar fréquente les cours d'eau peu profonds et clair avec un substrat de sable et de galets qui traverse à la fois une forêt secondaire et des terres agricoles. Le courant y est modéré avec une végétation marginale herbeuse et une espèce Cryptocoryne. Cette espèce est soumise aux fluctuations saisonnières de température dans la nature et se sent à l'aise entre 15 et 25 °C, des extrêmes en...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

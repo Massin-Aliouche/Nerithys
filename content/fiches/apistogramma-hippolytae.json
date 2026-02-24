@@ -1,0 +1,29 @@
+{
+  "name": "Apistogramma hippolytae",
+  "scientificName": "Apistogramma hippolytae",
+  "slug": "apistogramma-hippolytae",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

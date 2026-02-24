@@ -1,0 +1,31 @@
+{
+  "name": "Géophagus perlé du brésil",
+  "scientificName": "Geophagus brasiliensis",
+  "slug": "geophagus-brasiliensis",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 24,
+  "phMin": 6.5,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 25,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/1683.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

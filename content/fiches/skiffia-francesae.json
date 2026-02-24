@@ -1,0 +1,31 @@
+{
+  "name": "Skiffia doré",
+  "scientificName": "Skiffia francesae",
+  "slug": "skiffia-francesae",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 12,
+  "tempMax": 26,
+  "phMin": 7,
+  "phMax": 9,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 4.3,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Vivipare, difficulté: Courante",
+  "notes": "En examinant les habitats d'origine de la Skiffia francesae, ils suggèrent que l'espèce préfère une végétation dense et de grosses racines pour se cacher, mais aussi des zones d'eau libre pour parader et nager. Dans la nature, il y avait peu ou pas de courant dans les anciens biotopes, donc la filtration devra créer un courant très modéré. Les Skiffia se cachent parfois profondément dans leurs ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3162.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile",
+    "vivipare"
+  ]
+}

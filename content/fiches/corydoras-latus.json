@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras bolivien",
+  "scientificName": "Corydoras latus",
+  "slug": "corydoras-latus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 6.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Corydoras latus fréquente les eaux peu profondes et claires et les zones de courant, aux abords des torrents. On le trouve sur le bord des berges aux fonds sablonneux. Le sol, contient des pierres, des résidus de bois et racines, des feuilles. il est peu exigeant quant à la qualité de l'eau pourvu qu'elle soit douce à légèrement dure de 2 à 12°dGH, et légèrement acide à neutre pH 6 à 7 maximum....",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

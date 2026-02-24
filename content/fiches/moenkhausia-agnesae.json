@@ -1,0 +1,31 @@
+{
+  "name": "Tétra Agnesae",
+  "scientificName": "Moenkhausia agnesae",
+  "slug": "moenkhausia-agnesae",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6,
+  "behavior": "Population: 10 minimum. Zone: Supérieure",
+  "compatibility": "Zone supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Le Tétra Agnesae est un poisson timide, vivant naturellement en banc. Il est donc impératif de le maintenir en groupe d'au moins une dizaine d'individus afin qu'il se sente en confiance et adopte un comportement convenable. Il convient parfaitement à un aquarium communautaire et ne posera aucun problème de cohabitation avec d'autres pensionnaires calmes",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3908.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

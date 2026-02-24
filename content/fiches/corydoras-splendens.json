@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras émeraude",
+  "scientificName": "Corydoras splendens",
+  "slug": "corydoras-splendens",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 10.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Selon certaines publications, le Brochis émeraude (Corydoras splendens) serait un poisson très tolérant pour ce qui est de la maintenance et supporterait même de vivre en eau saumâtre. (Cette information demande confirmation car non sourcée) En revanche, avec sa grande taille et son activité incessante, Il faut réellement s'attendre à ce qu'il déplante tout l'aquarium en fouillant le sol meuble...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

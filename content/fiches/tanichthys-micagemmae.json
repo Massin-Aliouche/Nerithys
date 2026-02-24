@@ -1,0 +1,31 @@
+{
+  "name": "Tanichthys vietnamien",
+  "scientificName": "Tanichthys micagemmae",
+  "slug": "tanichthys-micagemmae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 27,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 2.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Très adaptable et robuste, les paramètres comme le décor ont assez peu d'importance. Il est recommandé de le maintenir dans un aquarium fortement planté afin d'offrir au poisson quelques cachettes où les femelles par exemple pourront se soustraire des parades des mâles. L'ajout de plantes flottantes est un petit plus. Il s’adaptera aussi bien à un courant fort que faible. Il aime les eaux clair...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3262.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

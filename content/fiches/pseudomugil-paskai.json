@@ -1,0 +1,30 @@
+{
+  "name": "Yeux-bleus de Paskai",
+  "scientificName": "Pseudomugil paskai",
+  "slug": "pseudomugil-paskai",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 6,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3,
+  "behavior": "Population: 10 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano",
+    "facile"
+  ]
+}

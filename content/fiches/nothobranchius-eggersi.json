@@ -1,0 +1,28 @@
+{
+  "name": "Nothobranchius eggersi",
+  "scientificName": "Nothobranchius eggersi",
+  "slug": "nothobranchius-eggersi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

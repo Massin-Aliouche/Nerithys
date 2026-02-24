@@ -1,0 +1,31 @@
+{
+  "name": "Rasbora Nain",
+  "scientificName": "Boraras maculatus",
+  "slug": "boraras-maculatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 2.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il est possible de reconstituer son biotope d'origine, avec un substrat doux et sablonneux auquel on peut ajouter quelques racines et branches, placées de manière à former de nombreux endroits ombragés et un tapis de feuilles. Ce dernier teintera l'eau de tanins et facilitera l'acidification de celle-ci. Il est toutefois possible de le maintenir dans un aquarium plus classique, de préférence tr...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/750.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

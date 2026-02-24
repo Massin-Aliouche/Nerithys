@@ -1,0 +1,31 @@
+{
+  "name": "Molly voile",
+  "scientificName": "Poecilia velifera",
+  "slug": "poecilia-velifera",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 15,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 18,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovovivipare, difficulté: Possible",
+  "notes": "L'idéal est un aquarium fortement plantée avec une couverture de plantes flottantes et des zones d'eau libre. L'aquarium doit être aussi grand que possible car dans les petits aquariums, le développement de la dorsale des mâles peut être entravé. Cela peut également se produire dans des conditions de surpopulation, il faut donc peupler l'aquarium de manière raisonnable. Cette espèce doit être m...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2739.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "vivipare"
+  ]
+}

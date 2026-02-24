@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel bleu de l'île de Batanta",
+  "scientificName": "Melanotaenia synergos",
+  "slug": "melanotaenia-synergos",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 8.5,
+  "ghMin": 8,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On trouve principalement M. synergos autour des grumes submergées ou de branches dans les ruisseaux clairs de la forêt tropicale, à des températures de l'eau comprises entre 18 et 28 °C. Cependant, leur environnement naturel est soumis à des variations saisonnières avec des niveaux de température, de pH et de dureté de l'eau variant considérablement au cours de l'année. Le poisson n'étant pas e...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

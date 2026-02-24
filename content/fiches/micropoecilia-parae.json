@@ -1,0 +1,30 @@
+{
+  "name": "Guppy du Parà",
+  "scientificName": "Micropoecilia parae",
+  "slug": "micropoecilia-parae",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 3,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovovivipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "nano",
+    "facile",
+    "vivipare"
+  ]
+}

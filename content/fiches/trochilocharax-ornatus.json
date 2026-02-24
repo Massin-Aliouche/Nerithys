@@ -1,0 +1,31 @@
+{
+  "name": "Tétra colibri",
+  "scientificName": "Trochilocharax ornatus",
+  "slug": "trochilocharax-ornatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 1.7,
+  "behavior": "Population: 10 minimum (15 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Comme la plupart de tétra, un aquarium agencé pour reproduire un biotope Amazonien est un choix pertinent. Le substrat se compose de sable de rivière, recouvert de feuilles (hêtre, chêne, catappa…) et le décor d'un entrelacs de branches de bois flotté ou de racines. Le bois et les feuilles donnent une couleur ambrée propre à ce milieu et aide à faire baisser le pH. Une filtration sur tourbe peu...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3368.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Aequidens tetramerus",
+  "scientificName": "Aequidens tetramerus",
+  "slug": "aequidens-tetramerus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

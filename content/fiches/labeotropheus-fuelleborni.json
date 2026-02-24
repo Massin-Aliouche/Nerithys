@@ -1,0 +1,28 @@
+{
+  "name": "Labeotropheus fuelleborni",
+  "scientificName": "Labeotropheus fuelleborni",
+  "slug": "labeotropheus-fuelleborni",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 5,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 15,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

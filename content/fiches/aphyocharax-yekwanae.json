@@ -1,0 +1,28 @@
+{
+  "name": "Aphyocharax yekwanae",
+  "scientificName": "Aphyocharax yekwanae",
+  "slug": "aphyocharax-yekwanae",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

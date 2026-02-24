@@ -1,0 +1,31 @@
+{
+  "name": "Killi arc-en-ciel",
+  "scientificName": "Nothobranchius rachovii",
+  "slug": "nothobranchius-rachovii",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 5,
+  "behavior": "Population: 3 minimum. Zone: Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Poisson annuel dont la durée de vie moyenne est de huit mois pour la femelle et neuf mois pour le mâle, Nothobranchius rachovii vit en région de savane, dans des mares temporaires asséchées en général, pendant six mois de l'année (juin à novembre). On manque de données complètes sur les caractéristiques des eaux où ont été capturés les poissons, pour la bonne raison que ces paramètres varient é...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2456.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

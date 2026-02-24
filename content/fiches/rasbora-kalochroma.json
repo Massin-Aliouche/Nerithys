@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora clown",
+  "scientificName": "Rasbora kalochroma",
+  "slug": "rasbora-kalochroma",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 11,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Rasbora kalochroma, dans son biotope d'origine, l'habitat est constitué de ruisseaux et des rivières d'eau noire associées à l'ancienne forêt ayant formé des marais de tourbe. L'eau est teintée en brun à cause des tanins libérés par la décomposition de matières organiques et le substrat parsemé de feuilles mortes, brindilles et branches. Ces environnements contiennent typiquement une eau très d...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

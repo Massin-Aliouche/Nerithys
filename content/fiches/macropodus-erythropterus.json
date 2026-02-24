@@ -1,0 +1,29 @@
+{
+  "name": "Macropode à nageoires rouges",
+  "scientificName": "Macropodus erythropterus",
+  "slug": "macropodus-erythropterus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 7,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Macropodus erythropterus fréquente les petits ruisseaux des collines le long des rives à structure hétérogène avec des arbustes en surplomb et des racines submergées forment de nombreux entrelacs et une végétation subaquatique importante. On veillera donc à reproduire au mieux son habitat naturel en aménageant un bac très planté et agrémenté de branchages. Les branches de bois flotté peuvent êt...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

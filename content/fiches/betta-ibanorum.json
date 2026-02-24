@@ -1,0 +1,29 @@
+{
+  "name": "Betta ibanorum",
+  "scientificName": "Betta ibanorum",
+  "slug": "betta-ibanorum",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 8,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Le betta ibanorum peut être maintenu dans un aquarium bien planté avec une lumière tamisée. On privilégiera donc des plantes à tige haute ou flottantes. Les Nymphaea, Cryptocoryne, Microsorum, Salvinia, Lemna minor,… sont donc un bon choix. Il appréciera aussi le bois flotté pour les refuges que cela peut créer, mais des petits pots en argile, des tuyaux en plastique peuvent également être util...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

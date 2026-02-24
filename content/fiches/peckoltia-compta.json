@@ -1,0 +1,30 @@
+{
+  "name": "Pleco grenouille léopard",
+  "scientificName": "Peckoltia compta",
+  "slug": "peckoltia-compta",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 11,
+  "behavior": "Population: 2 minimum (6 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "L’agencement du bac sera de type rivière, à l’eau très claire et faiblement chargée en nitrates, puisque renouvelée constamment dans la nature de par le courant. L’eau est typique de milieu tropical, douce, légèrement acide, de faible conductivité (idéalement Gh autour de 5 ou moins et conductivité de 100 à 200 μs/cm ) même s’il est assez tolérant. Un fond de galets de tailles variables, quelqu...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2633.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

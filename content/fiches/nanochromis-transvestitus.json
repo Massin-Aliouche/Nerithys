@@ -1,0 +1,28 @@
+{
+  "name": "Apisto travesti",
+  "scientificName": "Nanochromis transvestitus",
+  "slug": "nanochromis-transvestitus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 4.8,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 7,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le bac doit être aménagé pour reproduire un biotope lacustre africain. De nombreuses cachettes doivent être mises à disposition pour cette \"petite\" espèce timide, plutôt timide. Des grottes sous un amoncellement de pierres, des racines et des pièces de bois flotté peuvent tous être utilisés pour les lui fournir ou, moins naturellement, des poteries en terre cuite. Les plantes ne sont pas essent...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

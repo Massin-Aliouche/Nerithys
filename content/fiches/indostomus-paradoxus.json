@@ -1,0 +1,29 @@
+{
+  "name": "Indostomus paradoxus",
+  "scientificName": "Indostomus paradoxus",
+  "slug": "indostomus-paradoxus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 29,
+  "phMin": 6,
+  "phMax": 6.5,
+  "ghMin": 4,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 3,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

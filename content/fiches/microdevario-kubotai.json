@@ -1,0 +1,31 @@
+{
+  "name": "Rasbora émeraude",
+  "scientificName": "Microdevario kubotai",
+  "slug": "microdevario-kubotai",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 2,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Cette espèce est présente dans les cours d'eau à débit modéré et à végétation submergée, utilisées pour le frai (M. Kottelat, comm. pers., 2011). On veillera donc à reproduire au mieux son milieu naturel en le maintenant dans un aquarium richement planté avec un substrat assez sombre, ou un décor de type rivière ou ruisseau avec un substrat de graviers de taille variable et quelques gros galets...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2272.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

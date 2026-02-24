@@ -1,0 +1,28 @@
+{
+  "name": "Oxyropse à museau pointu",
+  "scientificName": "Oxyropsis acutirostris",
+  "slug": "oxyropsis-acutirostris",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 29,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Ratio M/F: 1 / 1",
+  "compatibility": "Non renseigné",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Même entretien que pour Hypotopome avec des plantes à longues feuilles ou des tiges de bambou sur lesquelles se reposer, mais ce genre nécessite une eau très oxygénée et assez rapide.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Yeux bleus",
+  "scientificName": "Poropanchax normani",
+  "slug": "poropanchax-normani",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 16,
+  "tempMax": 29,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 4.5,
+  "behavior": "Population: 10 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Les Killies aux yeux bleus sont timides, n'apprécient pas la lumière intense et aiment s'abriter parmi les plantes. Ils nagent dans la partie médiane et supérieure de l'aquarium. Relativement délicat, ces poissons nécessitent des conditions d'eau stables avec une eau autour de la neutralité et assez douce. On leur réservera un bac planté avec un éclairage modeste, ou diffusé par des plantes flo...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2774.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

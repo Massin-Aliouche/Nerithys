@@ -1,0 +1,31 @@
+{
+  "name": "Tétra de Rio",
+  "scientificName": "Hyphessobrycon flammeus",
+  "slug": "hyphessobrycon-flammeus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 2.5,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Idéalement, l'aquarium doit être très planté. On peut librement ajouter des racines et autres éléments de décor qui lui procureront des abris. La lumière doit être tamisé, aussi l'utilisation de plantes flottantes est recommandée. La filtration doit fournir un courant très modéré. Comme beaucoup de poissons qui habitent naturellement dans des environnements vierges, il tolère mal l’accumulation...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1977.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

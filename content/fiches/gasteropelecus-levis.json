@@ -1,0 +1,30 @@
+{
+  "name": "Poisson-hachette lisse",
+  "scientificName": "Gasteropelecus levis",
+  "slug": "gasteropelecus-levis",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 4,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "Il est préférable qu'une bonne partie de la surface de l'eau soit occupée par des plantes flottantes, ce qui contribuera à rendre cette espèce craintive moins nerveuse. Elle préfère également un peu de courant pour nager. Le reste du décor n'est pas particulièrement important. L'espèce se plaît aussi bien dans les aquariums fortement plantées que dans les aquariums de type biotope amazonien, av...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Danio d'Esculape",
+  "scientificName": "Danio aesculapii",
+  "slug": "danio-aesculapii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La température de l'eau dans son milieu a été enregistrée entre 22 à 27 °C pendant les mois chauds de l'année. On peut supposer que les conditions sont plus fraîches pendant les mois humides de la mousson, mais nous ne savons pas dans quelle mesure. Le pH dans les eaux naturelles a été mesuré de 6,9 à 7,1 et des valeurs similaires sont recommandées en aquarium. La dureté totale était faible. La...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Scardinius erythrophthalmus",
+  "scientificName": "Scardinius erythrophthalmus",
+  "slug": "scardinius-erythrophthalmus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 4,
+  "tempMax": 20,
+  "phMin": 6.2,
+  "phMax": 7.5,
+  "ghMin": 4,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 40,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

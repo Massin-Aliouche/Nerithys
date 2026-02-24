@@ -1,0 +1,30 @@
+{
+  "name": "Betta rubra",
+  "scientificName": "Betta rubra",
+  "slug": "betta-rubra",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 4.2,
+  "behavior": "Zone: Centrale, Supérieure. Ratio M/F: 3 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Idéalement, on choisira un aquarium peu profond mais proposant une grande surface au sol. Il devra être correctement fermé, car, comme la plupart des Betta, c'est un bon sauteur. La filtration doit générer un courant le plus faible possible, et peut donc se limiter à un simple filtre exhausteur. Un aquarium de type Low TEch et ANP peut aussi constituer un excellent choix. L'aquarium sera fortem...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/710.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

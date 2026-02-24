@@ -1,0 +1,31 @@
+{
+  "name": "Acara bleu",
+  "scientificName": "Andinoacara pulcher",
+  "slug": "andinoacara-pulcher",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 8,
+  "ghMin": 1,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 20,
+  "behavior": "Population: 2 minimum (6 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'Acara bleu est un terrassier. Le substrat doit donc être sableux et doux et idéalement être garni de branches de bois flotté. Comme il aura tendance à déraciner les plantes, il convient de choisir de plantes avec un système racinaire fort, des plantes épiphytes ou des plantes flottantes. L'acara bleu n'est pas exigeant pour les paramètres. Le pH est peu important (de 5,5 à 8,0) et la dureté d...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/356.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand"
+  ]
+}

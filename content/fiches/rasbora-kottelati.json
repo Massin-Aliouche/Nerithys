@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora de Kottelat",
+  "scientificName": "Rasbora kottelati",
+  "slug": "rasbora-kottelati",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Rasbora kottelati fréquente les ruisseaux et rivières aux eaux noires associés aux anciens marais tourbeux forestiers. L'eau est teintée de brun en raison de la libération de tannins et d'autres produits chimiques libérés par la décomposition de la matière organique et du substrat parsemé de feuilles, brindilles et branches tombées. Ces environnements contiennent généralement une eau très douce...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

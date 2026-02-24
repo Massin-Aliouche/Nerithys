@@ -1,0 +1,29 @@
+{
+  "name": "Hyphessobrycon cyanotaenia",
+  "scientificName": "Hyphessobrycon cyanotaenia",
+  "slug": "hyphessobrycon-cyanotaenia",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Amblycirrhitus bimacula",
+  "scientificName": "Amblycirrhitus bimacula",
+  "slug": "amblycirrhitus-bimacula",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": 7.6,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 8.5,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

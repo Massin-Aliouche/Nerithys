@@ -1,0 +1,29 @@
+{
+  "name": "Chirurgien à cercle doré",
+  "scientificName": "Ctenochaetus strigosus",
+  "slug": "ctenochaetus-strigosus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 27,
+  "phMin": 8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 500,
+  "minLengthCm": 15,
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Ctenochaetus strigosus est agressif envers les autres poissons chirurgiens, en particuliers ceux de son espèce. Il est préférable donc de le maintenir dans un volume important si on souhaite maintenir plusieurs individus. Bien qu'il s'agisse d'une espèce plutôt robuste et adaptable, il peut se montre sensible aux protozoaires.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "facile"
+  ]
+}

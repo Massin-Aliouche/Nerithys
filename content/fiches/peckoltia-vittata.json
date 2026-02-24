@@ -1,0 +1,27 @@
+{
+  "name": "Péckoltia rayée",
+  "scientificName": "Peckoltia vittata",
+  "slug": "peckoltia-vittata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 15,
+  "behavior": "Population: 6 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Peckoltia vittata est une espèce nocturne dans la nature mais, si elle est en confiance, elle se montre de jour en captivité. Les plantes ne sont pas indispensables. Les Péckoltia rayées vivent associés aux rochers au fond des rivières vives. Il préfèrera donc un aquarium assez sombre avec de nombreuses cachettes, sous forme de bois flotté, de rochers et/ou de grottes artificielles. Comme sa fo...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

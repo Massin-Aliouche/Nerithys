@@ -1,0 +1,30 @@
+{
+  "name": "Pléco zébré",
+  "scientificName": "Hypancistrus zebra",
+  "slug": "hypancistrus-zebra",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 32,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 10,
+  "behavior": "Population: 4 minimum (8 recommandé). Zone: Fond. Ratio M/F: 1 / 3",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il préférable de maintenir Hypancistrus zebra dans un aquarium conçue pour ressembler à une rivière qui coule vivement sur fond de sable, avec des roches de taille variable, du gravier et quelques gros blocs rocheux usés par l'eau (galets). Il est souhaitable d'y ajouter des branches de bois flotté, des racines et possiblement des plantes aquatiques résistantes comme Microsorum, Bolbitis ou Anu...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1961.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

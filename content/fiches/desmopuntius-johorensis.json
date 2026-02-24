@@ -1,0 +1,30 @@
+{
+  "name": "Barbus rayé",
+  "scientificName": "Desmopuntius johorensis",
+  "slug": "desmopuntius-johorensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Desmopuntius johorensis fréquente les eaux à faible débit des petites rivières aux eaux acides dans les zones de plaine. On le trouve dans les tourbières ou les eaux noires à végétation dense et les petits ruisseaux forestiers, les fossés et les rivières. La teneur en minéraux dissous est généralement négligeable, le pH aussi bas que 3,0 ou 4,0 et le substrat est généralement jonché de feuilles...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2964.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

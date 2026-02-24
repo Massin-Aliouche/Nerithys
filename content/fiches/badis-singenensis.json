@@ -1,0 +1,28 @@
+{
+  "name": "Badis de Singen",
+  "scientificName": "Badis singenensis",
+  "slug": "badis-singenensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 25,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 5,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Badis singenensis fréquente les rivière dont le fond est constitué de gravier, de sable ou d'une combinaison des deux. On lui réservera un pH neutre à alcalin (environ 7,5), une dureté de 7 °GH et une température de l'eau autour de 20 à 23°C. Dans la nature, la température de l'eau peut descendre jusqu'à 15 °C car l'habitat de ce Badis est soumis à de fortes variations saisonnières. Afin de rep...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

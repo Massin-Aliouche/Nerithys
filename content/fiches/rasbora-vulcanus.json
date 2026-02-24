@@ -1,0 +1,29 @@
+{
+  "name": "Rasbora vulcanus",
+  "scientificName": "Rasbora vulcanus",
+  "slug": "rasbora-vulcanus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": 7,
+  "phMax": 7,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 71,
+  "minLengthCm": 4,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

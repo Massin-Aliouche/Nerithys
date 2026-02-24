@@ -1,0 +1,31 @@
+{
+  "name": "Cyphotilapia gibberosa",
+  "scientificName": "Cyphotilapia gibberosa",
+  "slug": "cyphotilapia-gibberosa",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 8,
+  "phMax": 9.5,
+  "ghMin": 6,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 30,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/1452.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

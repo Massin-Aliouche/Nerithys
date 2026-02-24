@@ -1,0 +1,30 @@
+{
+  "name": "Rasbora à queue rouge",
+  "scientificName": "Rasbora borapetensis",
+  "slug": "rasbora-borapetensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 10,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On lit souvent que \"Cette espèce semble particulièrement robuste et adaptable et on la trouve dans les eaux polluées de certains endroits\". Mais Attention ! : Si Rasbora borapetensis fréquente une large gamme d'habitats dans la nature, il est soumis à d'importantes variations saisonnières, d'où son apparente tolérance à des paramètres de l'eau extrêmement divers. En réalité, c'est un potamodrom...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3038.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

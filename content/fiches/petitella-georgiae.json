@@ -1,0 +1,28 @@
+{
+  "name": "Faux Nez Rouge",
+  "scientificName": "Petitella georgiae",
+  "slug": "petitella-georgiae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance de ce Nez rouge peut se faire dans un aquarium agencé pour reproduire un biotope Amazonien. Ce Nez-rouge fréquente les régions boisées, dans les affluents d'eaux noires avec zone de stagnation en système lentique au large des canaux fluviaux principaux. L'eau de ces biotopes est généralement très douce, teintée de brun par les tanins provenant de la décomposition de matières orga...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

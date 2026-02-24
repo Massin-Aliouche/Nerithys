@@ -1,0 +1,29 @@
+{
+  "name": "Channa nain",
+  "scientificName": "Channa gachua",
+  "slug": "channa-gachua",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 10,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 30,
+  "behavior": "Population: 2 minimum. Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Pour débuter dans la maintenance des Channa on conseille généralement C. andrao ou C. bleheri, mais Channa gachua est aussi un bon candidat. C'est un \"petit\" Channa de moins de trente centimètres, potamodrome Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand"
+  ]
+}

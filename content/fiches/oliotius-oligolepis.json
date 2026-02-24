@@ -1,0 +1,30 @@
+{
+  "name": "Barbus à damier",
+  "scientificName": "Oliotius oligolepis",
+  "slug": "oliotius-oligolepis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 5,
+  "behavior": "Population: 10 minimum (15 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Oliotius oligolepis semble privilégier les ruisseaux de colline situés en amont des bassins fluviaux, caractérisés par des cours d'eau de petite à moyenne taille aux eaux claires, au courant modéré à rapide et aux substrats rocheux ou graveleux. Le poisson a également été observé dans des habitats lacustres (Weber et de Beaufort, 2016). On lui réservera donc un bac de type rivière, tout en long...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2470.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

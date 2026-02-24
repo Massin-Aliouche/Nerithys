@@ -1,0 +1,28 @@
+{
+  "name": "Mylochromis lateristriga",
+  "scientificName": "Mylochromis lateristriga",
+  "slug": "mylochromis-lateristriga",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 12,
+  "ghMax": 16,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 14,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

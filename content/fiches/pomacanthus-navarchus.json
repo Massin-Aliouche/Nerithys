@@ -1,0 +1,31 @@
+{
+  "name": "Pomacanthus navarchus",
+  "scientificName": "Pomacanthus navarchus",
+  "slug": "pomacanthus-navarchus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 28,
+  "phMin": 8.2,
+  "phMax": 8.4,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/2755.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Tétra du Congo",
+  "scientificName": "Phenacogrammus interruptus",
+  "slug": "phenacogrammus-interruptus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 8,
+  "behavior": "Population: 10 minimum. Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "On le maintiendra idéalement dans un bac à biotope africain avec des branches de bois flotté, de la végétation flottante et des anubies, avec beaucoup d'espace de nage. L'eau doit être légèrement acide à neutre, et plutôt douce avec une bonne circulation. Le milieu naturel du Phenacogrammus interruptus est assez obscure en raison de la forte présence de sédiments. Il n'apprécie pas les luminosi...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2673.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

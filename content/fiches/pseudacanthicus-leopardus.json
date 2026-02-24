@@ -1,0 +1,29 @@
+{
+  "name": "Pseudacanthicus leopardus",
+  "scientificName": "Pseudacanthicus leopardus",
+  "slug": "pseudacanthicus-leopardus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 29,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 30,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Piranha rouge",
+  "scientificName": "Pygocentrus nattereri",
+  "slug": "pygocentrus-nattereri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 600,
+  "minLengthCm": 35,
+  "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Un aménagement reproduisant un cours d'eau amazonien est particulièrement adapté pour le Pygocentrus nattereri. A savoir, un fond de gravier ou de sable, avec éventuellement un tapis de feuilles et de grosses racines. Des plantes peuvent être ajouté, mais les plus fragiles se feront manger, en particulier si les poissons décident de frayer. Certains aquariophiles préfèrent maintenir cette espèc...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3026.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

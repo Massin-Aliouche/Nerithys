@@ -1,0 +1,29 @@
+{
+  "name": "Barbus d'Hamilton",
+  "scientificName": "Enteromius afrohamiltoni",
+  "slug": "enteromius-afrohamiltoni",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 17.5,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

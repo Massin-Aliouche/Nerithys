@@ -1,0 +1,29 @@
+{
+  "name": "Apistogramma de kullander",
+  "scientificName": "Apistogramma kullanderi",
+  "slug": "apistogramma-kullanderi",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 29,
+  "phMin": 4,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 90,
+  "minLengthCm": 7.97,
+  "behavior": "Population: 2 minimum (2 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Comme tous les cichlidés, on lui fournira des souches/racines ainsi que de nombreuses cachettes. Un aquarium bien planté sera nécessaire. On mettra comme substrat quelque chose de \"modulable\" pour le poisson. Quelques plantes flottantes ne feront pas de mal.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

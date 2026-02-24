@@ -1,0 +1,28 @@
+{
+  "name": "Neolamprologus stappersii",
+  "scientificName": "Neolamprologus stappersii",
+  "slug": "neolamprologus-stappersii",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 8,
+  "phMax": 9,
+  "ghMin": 7,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 6,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

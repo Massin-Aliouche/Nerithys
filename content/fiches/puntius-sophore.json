@@ -1,0 +1,28 @@
+{
+  "name": "Puntius sophore",
+  "scientificName": "Puntius sophore",
+  "slug": "puntius-sophore",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": 6,
+  "phMax": 6.5,
+  "ghMin": 8,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 18,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Balantio",
+  "scientificName": "Balantiocheilos melanopterus",
+  "slug": "balantiocheilos-melanopterus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 1500,
+  "minLengthCm": 40,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Attention ! : L'utilisation d'hormones dans les élevages, et sa disparition due à la construction de barrage sur les rivière qu'il fréquente, tend à prouver que le poissons n'est pas maintenu dans des conditions naturelles en captivité. Il est plus que probable qu'il change de milieu pour frayer et est vraisemblablement un migrateur potamodrome. Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/613.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

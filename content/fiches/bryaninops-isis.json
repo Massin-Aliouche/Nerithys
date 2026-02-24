@@ -1,0 +1,29 @@
+{
+  "name": "Bryaninops isis",
+  "scientificName": "Bryaninops isis",
+  "slug": "bryaninops-isis",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 1.5,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "nano",
+    "facile"
+  ]
+}

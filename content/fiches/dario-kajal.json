@@ -1,0 +1,29 @@
+{
+  "name": "Dario Kajal",
+  "scientificName": "Dario kajal",
+  "slug": "dario-kajal",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 16,
+  "tempMax": 24,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 2,
+  "behavior": "Population: 3 minimum. Zone: Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Paramètres de l'eau Température: 16 à 24 ° C. À des températures plus élevées, les poissons perdent apparemment leur couleur et deviennent sensibles aux maladies. pH: Préfère des conditions neutres avec une valeur autour de 6,5 - 7,5. Dureté: non confirmée, mais entre 180 et 350 µs/cm devrait être acceptable.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

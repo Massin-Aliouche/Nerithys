@@ -1,0 +1,28 @@
+{
+  "name": "Stigmatogobius sadanundio",
+  "scientificName": "Stigmatogobius sadanundio",
+  "slug": "stigmatogobius-sadanundio",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 6.7,
+  "phMax": 8,
+  "ghMin": 9,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 8,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "facile"
+  ]
+}

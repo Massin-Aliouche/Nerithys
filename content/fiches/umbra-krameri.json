@@ -1,0 +1,28 @@
+{
+  "name": "Umbra krameri",
+  "scientificName": "Umbra krameri",
+  "slug": "umbra-krameri",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 5,
+  "tempMax": 24,
+  "phMin": 6,
+  "phMax": 6.5,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

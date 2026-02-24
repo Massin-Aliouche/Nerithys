@@ -1,0 +1,29 @@
+{
+  "name": "Schistura bella",
+  "scientificName": "Schistura bella",
+  "slug": "schistura-bella",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Tétra rouge sang d'Axelrod",
+  "scientificName": "Brittanichthys axelrodi",
+  "slug": "brittanichthys-axelrodi",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Brittanichthys axelrodi est rarement commercialisé et non encore reproduit en captivité, aussi on veillera à le maintenir en aquarium spécifique afin de simuler au mieux son milieu naturel, et tenter sa reproduction. L'aquarium devra impérativement être densément encombré de branchages pour maintenir cette espèce. L'ajout d'une importante litière de feuilles permettra de simuler l'eau noire du ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3906.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

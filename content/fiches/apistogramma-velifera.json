@@ -1,0 +1,30 @@
+{
+  "name": "Apistogramma velifera",
+  "scientificName": "Apistogramma velifera",
+  "slug": "apistogramma-velifera",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 4,
+  "phMax": 6,
+  "ghMin": 1,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "facile"
+  ]
+}

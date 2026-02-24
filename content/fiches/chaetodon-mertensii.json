@@ -1,0 +1,29 @@
+{
+  "name": "Poisson-papillon de Mertens",
+  "scientificName": "Chaetodon mertensii",
+  "slug": "chaetodon-mertensii",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "facile"
+  ]
+}

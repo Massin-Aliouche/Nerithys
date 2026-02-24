@@ -1,0 +1,28 @@
+{
+  "name": "Istigobius decoratus",
+  "scientificName": "Istigobius decoratus",
+  "slug": "istigobius-decoratus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 29,
+  "phMin": 7.6,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

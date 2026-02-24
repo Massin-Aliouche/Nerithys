@@ -1,0 +1,29 @@
+{
+  "name": "Labéo bicolore",
+  "scientificName": "Epalzeorhynchos bicolor",
+  "slug": "epalzeorhynchos-bicolor",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 450,
+  "minLengthCm": 18,
+  "behavior": "Population: 1 minimum (5 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Attention ! : C'est un grand poisson belliqueux pouvant atteindre vingt centimètres et vivre plus de quinze ans s'il est maintenu dans de bonnes conditions. C'est un achat qui doit être réfléchit tant ces exigences sont rédhibitoires. Le labéo bicolore vit dans les ruisseaux des plaines avec des fonds de gravier rocheux ou sable. Il demande une eau acide à neutre, supportant une gamme de pH de ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

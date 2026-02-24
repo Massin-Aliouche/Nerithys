@@ -1,0 +1,29 @@
+{
+  "name": "Epervier rayé",
+  "scientificName": "Cirrhitops fasciatus",
+  "slug": "cirrhitops-fasciatus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 30,
+  "phMin": 7.8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "facile"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Gourami embrasseur",
+  "scientificName": "Helostoma temminckii",
+  "slug": "helostoma-temminckii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 34,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 500,
+  "minLengthCm": 30,
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Attention ! : H. temminckii est un grand poisson pouvant atteindre jusqu'à trente centimètres. Un volume minimum de cinq cents litres est requis. Ce Gourami est également un poisson qui vit très longtemps, plus de vingt-cinq ans selon certaines sources. C'est un engagement à long terme pour l'aquariophile. Potamodrome Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1864.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

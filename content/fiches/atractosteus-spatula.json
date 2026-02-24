@@ -1,0 +1,29 @@
+{
+  "name": "Atractosteus spatula",
+  "scientificName": "Atractosteus spatula",
+  "slug": "atractosteus-spatula",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 1,
+  "minLengthCm": 200,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

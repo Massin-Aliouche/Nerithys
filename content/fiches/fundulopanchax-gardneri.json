@@ -1,0 +1,30 @@
+{
+  "name": "Killi de Gardner",
+  "scientificName": "Fundulopanchax gardneri",
+  "slug": "fundulopanchax-gardneri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 25,
+  "phMin": 6.5,
+  "phMax": 7.2,
+  "ghMin": 8,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 7,
+  "behavior": "Population: 1 minimum (3 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Un substrat sombre peut être utilisé afin de faire ressortir les couleurs et l'aquarium doit comporter des zones de plantation denses et des morceaux de bois pour servir de cachettes. L'utilisation de plantes flottantes pour diffuser la lumière est également recommandée. Ce killi est un excellent sauteur, aussi est-il préférable de bien fermer l'aquarium. La filtration doit rester relativement ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1643.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

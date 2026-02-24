@@ -1,0 +1,28 @@
+{
+  "name": "Salaria fluviatilis",
+  "scientificName": "Salaria fluviatilis",
+  "slug": "salaria-fluviatilis",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 15,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 8,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

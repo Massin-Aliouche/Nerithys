@@ -1,0 +1,29 @@
+{
+  "name": "Poisson-hachette argenté",
+  "scientificName": "Gasteropelecus sternicla",
+  "slug": "gasteropelecus-sternicla",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 6.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "[G. sternicla est généralement considéré comme le poisson-hachette le plus robuste disponible dans le passe-temps, mais il peut encore être assez délicat à son arrivée. Une fois acclimaté, il s'avère être un très bon pensionnaire d'aquarium si on respecte ses besoins. Il est préférable qu'une bonne partie de la surface de l'eau soit occupée par des plantes flottantes, ce qui contribuera à rendr...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

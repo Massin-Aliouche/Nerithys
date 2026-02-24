@@ -1,0 +1,29 @@
+{
+  "name": "Pangio doriae",
+  "scientificName": "Pangio doriae",
+  "slug": "pangio-doriae",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

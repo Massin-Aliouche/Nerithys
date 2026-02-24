@@ -1,0 +1,29 @@
+{
+  "name": "Apistogramma inornata",
+  "scientificName": "Apistogramma inornata",
+  "slug": "apistogramma-inornata",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 28,
+  "phMin": 4.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 6,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

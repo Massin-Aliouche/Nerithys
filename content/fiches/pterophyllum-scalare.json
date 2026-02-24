@@ -19,8 +19,13 @@
   "diet": "Carnivore/insectivore: granulés, congelés, proies vivantes.",
   "breeding": "Ovipare/ponte sur substrat; formage de couples.",
   "notes": "Préférer grandes hauteurs d'eau et bac planté; volume recommandé élevé.",
-  "sources": ["https://www.fishipedia.fr/fr/poissons/pterophyllum-scalare"],
-  "images": ["https://www.fishipedia.fr/wp-content/uploads/2019/01/Pterophyllum-scalare-2.jpg"],
+  "images": [
+    "https://www.fishipedia.fr/wp-content/uploads/2019/01/Pterophyllum-scalare-2.jpg"
+  ],
   "gallery": [],
-  "tags": ["cichlidae","angelfish","mi-grande"]
+  "tags": [
+    "cichlidae",
+    "angelfish",
+    "mi-grande"
+  ]
 }

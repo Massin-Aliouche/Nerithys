@@ -1,0 +1,28 @@
+{
+  "name": "Silure cataphracte",
+  "scientificName": "Acanthodoras cataphractus",
+  "slug": "acanthodoras-cataphractus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 4,
+  "ghMax": 24,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 11.5,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

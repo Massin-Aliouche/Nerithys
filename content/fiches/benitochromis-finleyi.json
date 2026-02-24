@@ -1,0 +1,28 @@
+{
+  "name": "Benitochromis finleyi",
+  "scientificName": "Benitochromis finleyi",
+  "slug": "benitochromis-finleyi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 25,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 7,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 8,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

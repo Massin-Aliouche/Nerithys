@@ -6,7 +6,7 @@
   "difficulty": 2,
   "tempMin": 20,
   "tempMax": 26,
-  "phMin": 6.0,
+  "phMin": 6,
   "phMax": 7.2,
   "ghMin": 4,
   "ghMax": 10,
@@ -19,8 +19,13 @@
   "diet": "Omnivore: micro-paillettes, nauplies, micro-aliments.",
   "breeding": "Ovipare; reproduction délicate en aquarium.",
   "notes": "Préférer eau légèrement acide et bac bien planté.",
-  "sources": ["https://www.fishipedia.fr/fr/poissons/paracheirodon-innesi"],
-  "images": ["https://www.fishipedia.fr/wp-content/uploads/2013/07/Paracheirodon_innesi_1.jpg"],
+  "images": [
+    "https://www.fishipedia.fr/wp-content/uploads/2013/07/Paracheirodon_innesi_1.jpg"
+  ],
   "gallery": [],
-  "tags": ["tetra","banc","classique"]
+  "tags": [
+    "tetra",
+    "banc",
+    "classique"
+  ]
 }

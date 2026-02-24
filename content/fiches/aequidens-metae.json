@@ -1,0 +1,30 @@
+{
+  "name": "Acara jaune",
+  "scientificName": "Aequidens metae",
+  "slug": "aequidens-metae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 4.5,
+  "phMax": 6.2,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 16,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": "Le décor de l'aquarium doit lui offrir quelques cachettes afin qu'il se sente en confiance. Ce poisson à un tempérament assez calme et est adapté à un aquarium communautaire.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/230.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Abramites marbré",
+  "scientificName": "Abramites hypselonotus",
+  "slug": "abramites-hypselonotus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 27,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 4,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 15,
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "L'Abramites hypselonotus a la fâcheuse tendance à consommer les plantes, surtout celles à feuilles fines. Il est donc préférable de le maintenir dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect nat...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/169.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

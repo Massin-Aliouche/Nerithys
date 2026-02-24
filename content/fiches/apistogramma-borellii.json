@@ -1,0 +1,30 @@
+{
+  "name": "Apisto de Borelli",
+  "scientificName": "Apistogramma borellii",
+  "slug": "apistogramma-borellii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 6,
+  "behavior": "Population: 2 minimum (2 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "La maintenance ne pose pas de problème particulier. Un aquarium agencé pour reproduire un biotope amazonien est cependant la meilleure option. Le substrat sera composé de sable de rivière plutôt fin et le décor de quelques branches de bois flotté ou de racines, offrant à la fois refuges, sites de ponte et lumière tamisée. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donneront ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/420.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

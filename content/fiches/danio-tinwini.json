@@ -1,0 +1,31 @@
+{
+  "name": "Danio léopard",
+  "scientificName": "Danio tinwini",
+  "slug": "danio-tinwini",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 2.6,
+  "behavior": "Population: 10 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il est préférable de le maintenir dans un aquarium très bien planté et conçu pour ressembler aux rives d'une rivière ou d'un ruisseau en mouvement, avec un substrat de roches et de graviers de tailles variables et quelques gros blocs rocheux usés par l'eau. Du bois flotté et des racines peuvent être ajoutées. Le débit de la filtration sera modéré, afin de reproduire le flux d'une zone calme d'u...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1477.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

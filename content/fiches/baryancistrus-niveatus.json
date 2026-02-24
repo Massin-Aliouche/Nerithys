@@ -1,0 +1,28 @@
+{
+  "name": "Baryancistrus niveatus",
+  "scientificName": "Baryancistrus niveatus",
+  "slug": "baryancistrus-niveatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 25,
+  "phMin": 6.2,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

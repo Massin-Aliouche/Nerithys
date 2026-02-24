@@ -1,0 +1,30 @@
+{
+  "name": "Poisson Arc-en-ciel à trois bandes",
+  "scientificName": "Melanotaenia trifasciata",
+  "slug": "melanotaenia-trifasciata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 32,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 14,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Melanotaenia trifasciata fréquente presque tous les types d'habitats d'eau douce, des cours d'eau lents, des marécages des zones humides, des lagons et des rivières à courant clair. Il est néanmoins plus fréquent dans les eaux courantes ou dans les cours d'eau où le débit d'eau est présent pendant une grande partie de l'année. On le trouve souvent les eaux claires avec des substrats sablonneux,...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2255.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

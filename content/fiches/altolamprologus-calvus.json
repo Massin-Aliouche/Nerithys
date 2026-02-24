@@ -1,0 +1,30 @@
+{
+  "name": "Altolamprologus calvus",
+  "scientificName": "Altolamprologus calvus",
+  "slug": "altolamprologus-calvus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 8,
+  "phMax": 9,
+  "ghMin": 9,
+  "ghMax": 19,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 14,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/255.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

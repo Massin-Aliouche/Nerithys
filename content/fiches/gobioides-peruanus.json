@@ -1,0 +1,29 @@
+{
+  "name": "Gobioides peruanus",
+  "scientificName": "Gobioides peruanus",
+  "slug": "gobioides-peruanus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 0,
+  "ghMin": 10,
+  "ghMax": 0,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 40,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

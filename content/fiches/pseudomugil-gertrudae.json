@@ -1,0 +1,31 @@
+{
+  "name": "Pseudomugil tacheté",
+  "scientificName": "Pseudomugil gertrudae",
+  "slug": "pseudomugil-gertrudae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 32,
+  "phMin": 4.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 3",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il est préférable de maintenir les Gertrudae dans un aquarium à la végétation dense. L'ajout de quelques plantes flottantes et de racines ou branches de bois flotté pour diffuser la lumière entrant dans l'aquarium est recommandé et donne une sensation plus naturelle. Si l'on souhaite élever des alevins en même temps que les adultes, il est conseillé d'ajouter des mousses aquatiques à feuilles f...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2858.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

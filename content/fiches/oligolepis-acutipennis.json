@@ -1,0 +1,28 @@
+{
+  "name": "Oligolepis acutipennis",
+  "scientificName": "Oligolepis acutipennis",
+  "slug": "oligolepis-acutipennis",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 14,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

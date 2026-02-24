@@ -1,0 +1,29 @@
+{
+  "name": "Poisson-ange citron",
+  "scientificName": "Centropyge flavissima",
+  "slug": "centropyge-flavissima",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 500,
+  "minLengthCm": 12,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Le Centropyge flavissima s'hybride avec plusieurs de ces congénères, aussi il ne doit pas être maintenu avec d'autres Centropyges.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "facile"
+  ]
+}

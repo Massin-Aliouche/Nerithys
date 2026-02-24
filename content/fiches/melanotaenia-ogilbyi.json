@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel d'Ogilby",
+  "scientificName": "Melanotaenia ogilbyi",
+  "slug": "melanotaenia-ogilbyi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 29,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Melanotaenia ogilbyi a été initialement collecté dans les marécages de pandanus du cours inférieur de la rivière Lorentz en Nouvelle-Guinée. La rivière Lorentz, grandes rivières à débit lent des basses terres traverse plusieurs grands habitats de zones humides, notamment la forêt marécageuse d'eau douce, la forêt marécageuse de tourbe et la forêt de mangrove. On veillera à lui fournir des condi...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

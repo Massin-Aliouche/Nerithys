@@ -1,0 +1,30 @@
+{
+  "name": "Poisson-archer à petites écailles",
+  "scientificName": "Toxotes microlepis",
+  "slug": "toxotes-microlepis",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 15,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/5082.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "facile"
+  ]
+}

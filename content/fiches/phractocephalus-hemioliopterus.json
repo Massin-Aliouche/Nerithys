@@ -1,0 +1,32 @@
+{
+  "name": "Silure à queue rouge",
+  "scientificName": "Phractocephalus hemioliopterus",
+  "slug": "phractocephalus-hemioliopterus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 4,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 100,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/2686.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Tetraodon nain",
+  "scientificName": "Carinotetraodon travancoricus",
+  "slug": "carinotetraodon-travancoricus",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3,
+  "behavior": "Population: 4 minimum (8 recommandé). Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 3",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "C. travancoricus est l'un des plus petits poissons que l'on trouve dans le commerce aquariophile. Son apparence mignonne, sa personnalité amusante et ses déplacements fascinants en font une acquisition très populaire, bien qu'il soit trop souvent vendu sans les informations correctes nécessaires à sa santé et à ses soins à long terme. Le Tetraodon Nain est assez difficile à maintenir dans de bo...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/828.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

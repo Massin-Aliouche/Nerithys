@@ -1,0 +1,27 @@
+{
+  "name": "Loche allongée",
+  "scientificName": "Sewellia elongata",
+  "slug": "sewellia-elongata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On trouve Sewellia elongata dans les ruisseaux de montagne boisés à pente moyenne, avec de gros rochers, un fond de gravier grossier ou de sable et quelques troncs d'arbres. Elle fréquente également dans les ruisseaux de montagne tumultueux à pente extrêmement élevée, avec d'énormes rochers et un fond de gravier grossier. Elle est incapable de survivre dans les eaux stagnantes. On la maintiendr...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

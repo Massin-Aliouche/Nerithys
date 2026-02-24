@@ -1,0 +1,29 @@
+{
+  "name": "Danio barré",
+  "scientificName": "Devario pathirana",
+  "slug": "devario-pathirana",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 8.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "L'élevage en captivité réalisé par les jardins zoologiques nationaux du Sri Lanka a montré que l'eau courante offre les meilleures conditions pour une reproduction réussie (Pethiyagoda 1991, Gunasekera 2011, De Silva et al. 2015). Les Danio pathirana sont faciles à entretenir et leur élevage ne pose aucun problème. Cette espèce est aussi peu exigeante que le Devario malabaricus, bien plus connu...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

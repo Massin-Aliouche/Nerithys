@@ -1,0 +1,32 @@
+{
+  "name": "Sturisoma du Panama",
+  "scientificName": "Sturisomatichthys panamense",
+  "slug": "sturisomatichthys-panamense",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 6.3,
+  "phMax": 8,
+  "ghMin": 3,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 26,
+  "behavior": "Population: 3 minimum (6 recommandé). Zone: Fond. Ratio M/F: 1 / 2",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "S. panamensis est présent dans les rivières de plaine, les ruisseaux et les lacs de plaine dans toute son aire de répartition. On le trouve habituellement parmi la litière de feuilles sur des substrats sablonneux, dans les habitats d'eau claire et vive. L'eau doit être soigneusement filtrée et oxygénée car ce poisson vit principalement dans les rivières. Attention ! : La consommation de fibres ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3198.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

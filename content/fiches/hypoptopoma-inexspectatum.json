@@ -1,0 +1,28 @@
+{
+  "name": "Hypoptopome du Paraguay",
+  "scientificName": "Hypoptopoma inexspectatum",
+  "slug": "hypoptopoma-inexspectatum",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 16,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "On ne sait rien de cette espèce et on se reportera aux fiches des autres membres du genre susceptibles de fréquenter le même biotope pour assurer sa maintenance et son élevage. Cependant, cette espèce en particulier pourra être maintenue à des températures assez fraîches en raison des conditions que l'on trouve dans son habitat naturel, avec des températures descendant en dessous de 20°C pendan...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

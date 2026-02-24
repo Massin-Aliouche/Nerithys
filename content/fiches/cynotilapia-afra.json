@@ -1,0 +1,29 @@
+{
+  "name": "Cynotilapia afra",
+  "scientificName": "Cynotilapia afra",
+  "slug": "cynotilapia-afra",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 29,
+  "phMin": 7.5,
+  "phMax": 8.8,
+  "ghMin": 15,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 10,
+  "behavior": "Population: 4 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 3",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Une grande partie de l'aquarium doit contenir des empilements de rochers, disposés de manière à former des grottes entre lesquelles se trouvent de petites zones d'eau libre. Un substrat sableux est recommandé. Les plantes sont déconseillées, d'une part, car elle sont absente du milieu naturel de ce poisson, et d'autre part car il aura tendance à les déraciner sans cesse en creusant. Belliqueux ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

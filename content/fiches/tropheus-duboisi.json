@@ -1,0 +1,31 @@
+{
+  "name": "Cichlidé à points blancs",
+  "scientificName": "Tropheus duboisi",
+  "slug": "tropheus-duboisi",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7.8,
+  "phMax": 9.5,
+  "ghMin": 6,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 12,
+  "behavior": "Population: 8 minimum (12 recommandé). Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'agencement de l'aquarium sera typique d'un aquarium du Tanganyika, avec des empilements de roches pour former de nombreuses structures en forme de grottes et de cachettes, entrecoupées de zones ouvertes pour la nage. Le substrat se compose de sable. Le brassage doit correctement oxygéner l'eau. Il a une réputation quelque peu douteuse de comportement agressif, mais celle-ci n'est pas méritée....",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3371.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

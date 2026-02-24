@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel à rayures rouges",
+  "scientificName": "Melanotaenia rubrivittata",
+  "slug": "melanotaenia-rubrivittata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 29,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 7,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 7,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Cette espèce est présente dans les petits ruisseaux et les étangs des plaines inondables en forêt. Le spécimen type a été collecté dans un petit étang entièrement ombragé formé à la suite d'une inondation. L'étang mesurait environ douze mètres de diamètre avec une profondeur moyenne de seulement trente centimètres et un substrat constitué de boue molle recouverte d'une couche de débris organiqu...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

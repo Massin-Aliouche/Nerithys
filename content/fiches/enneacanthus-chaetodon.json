@@ -1,0 +1,28 @@
+{
+  "name": "Perche disque",
+  "scientificName": "Enneacanthus chaetodon",
+  "slug": "enneacanthus-chaetodon",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 4,
+  "tempMax": 22,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 9,
+  "behavior": "Population: 10 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Ecsenius midas",
+  "scientificName": "Ecsenius midas",
+  "slug": "ecsenius-midas",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 24,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 13,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

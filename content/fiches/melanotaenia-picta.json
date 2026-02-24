@@ -1,0 +1,30 @@
+{
+  "name": "Poisson Arc-en-ciel peint",
+  "scientificName": "Melanotaenia picta",
+  "slug": "melanotaenia-picta",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Melanotaenia picta se trouve naturellement dans des habitats constitués de petits ruisseaux de forêt tropicale avec des bassins calmes entrecoupés de petites cascades. Ces bassins ont une eau limpide, et sont composés de calcaire relativement lisse avec une végétation aquatique minimale, mais un abri abondant pour les poissons sous la forme de branchages. Pour reproduire son habitat naturel, l'...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/6226.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

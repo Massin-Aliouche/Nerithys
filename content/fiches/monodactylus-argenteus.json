@@ -1,0 +1,30 @@
+{
+  "name": "Poisson-Lune Argenté",
+  "scientificName": "Monodactylus argenteus",
+  "slug": "monodactylus-argenteus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 18,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/2309.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

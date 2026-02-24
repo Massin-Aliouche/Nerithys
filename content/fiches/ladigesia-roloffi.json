@@ -1,0 +1,29 @@
+{
+  "name": "Tétra nain du Sierra-Léone",
+  "scientificName": "Ladigesia roloffi",
+  "slug": "ladigesia-roloffi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3.1,
+  "behavior": "Population: 10 minimum (15 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ladigesia roloffi est un poisson pélagique qui habite les rivières et les ruisseaux permanents et saisonniers. Idéalement, l'aquarium sera bien planté. L'ajout de plantes flottantes est une option intéressante car ce poisson apprécie un lumière tamisée. Un aquarium déjà mature est recommandé afin d'offrir des paramètres très stables, indispensables à une maintenance correcte de cette espèce. C'...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

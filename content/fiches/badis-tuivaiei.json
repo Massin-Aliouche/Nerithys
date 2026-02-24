@@ -1,0 +1,28 @@
+{
+  "name": "Badis de Tuivai",
+  "scientificName": "Badis tuivaiei",
+  "slug": "badis-tuivaiei",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 15,
+  "phMin": 6.5,
+  "phMax": 8.5,
+  "ghMin": 4,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 9,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Badis tuivaiei habite les ruisseaux de montagne aux eaux claires ainsi que les plans d'eau lentiques en été ; il est peu probable qu'il soit présent dans les rivières de plaine où l'eau est boueuse. Température : 20 – 24 °C pH : Des valeurs de 8,4 à 9,2 ont été enregistrées dans certaines localités dans la nature, bien que les poissons semblent prospérer autour de 6,5 à 7,5 en captivité. Dureté...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

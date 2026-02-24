@@ -1,0 +1,27 @@
+{
+  "name": "Loche splendide",
+  "scientificName": "Sewellia speciosa",
+  "slug": "sewellia-speciosa",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 4,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'espèce se rencontre dans les zones d'eau vive, de rapides et de cascades. On l'accueillera donc en bac rivière au courant fort et aux fortes variations saisonnières, comme tous les autres membres du genre. Les Sewellia spp. sont principalement limitées aux sources et aux affluents peu profonds, à courant rapide et très oxygénés, caractérisés par des tronçons de rapides et de ruisseaux entreco...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Brochet-characin rayé",
+  "scientificName": "Boulengerella lateristriga",
+  "slug": "boulengerella-lateristriga",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 3,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 1500,
+  "minLengthCm": 28,
+  "behavior": "Population: 4 minimum (6 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "La maintenance de Boulengerella lateristriga est relativement simple, mais demande une attention particulière en raison de leur grande taille et de leur nature prédatrice B. lateristriga peut atteindre une taille corporelle d’environ trente centimètres, et c'est un prédateur efficace. Les Boulengerella sont des prédateurs embusqués, caractérisés par un comportement solitaire et territorial. Dan...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/7448.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

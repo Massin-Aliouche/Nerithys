@@ -1,0 +1,28 @@
+{
+  "name": "Neocirrhites armatus",
+  "scientificName": "Neocirrhites armatus",
+  "slug": "neocirrhites-armatus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 9,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

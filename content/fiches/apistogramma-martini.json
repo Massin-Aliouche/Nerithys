@@ -1,0 +1,28 @@
+{
+  "name": "Apistogramma martini",
+  "scientificName": "Apistogramma martini",
+  "slug": "apistogramma-martini",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 29,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Nemacheilus triangularis",
+  "scientificName": "Nemacheilus triangularis",
+  "slug": "nemacheilus-triangularis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 26,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5.8,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

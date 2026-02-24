@@ -1,0 +1,28 @@
+{
+  "name": "Cryptoheros septemfasciatus",
+  "scientificName": "Cryptoheros septemfasciatus",
+  "slug": "cryptoheros-septemfasciatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

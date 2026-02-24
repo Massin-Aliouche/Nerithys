@@ -1,0 +1,28 @@
+{
+  "name": "Cichlidé à grands yeux",
+  "scientificName": "Acaronia nassa",
+  "slug": "acaronia-nassa",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 7,
+  "ghMin": 12,
+  "ghMax": 16,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 16,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

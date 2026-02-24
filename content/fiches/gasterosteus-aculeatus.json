@@ -1,0 +1,30 @@
+{
+  "name": "Epinoche à trois épines",
+  "scientificName": "Gasterosteus aculeatus",
+  "slug": "gasterosteus-aculeatus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 4,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 4,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 8,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/1671.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

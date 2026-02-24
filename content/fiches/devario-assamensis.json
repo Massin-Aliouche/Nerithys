@@ -1,0 +1,28 @@
+{
+  "name": "Danio de l'Assam",
+  "scientificName": "Devario assamensis",
+  "slug": "devario-assamensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 22,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 9,
+  "behavior": "Population: 10 minimum. Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Bien qu'il puisse s'accommoder d'un aquarium planté \"standard\", il est préférable de le maintenir dans un aquarium aménagé pour ressembler à un ruisseau ou une rivière avec un substrat composé de roches de taille variable, usées par l'eau, de sable, de gravier fin. Ce substrat peut être complété par des racines ou des branches de bois flotté et, bien que la majorité des plantes aquatiques ne pa...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

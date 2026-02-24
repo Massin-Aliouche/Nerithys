@@ -1,0 +1,31 @@
+{
+  "name": "Tétra citron",
+  "scientificName": "Hyphessobrycon pulchripinnis",
+  "slug": "hyphessobrycon-pulchripinnis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce tétra se plaira dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Ce lit de feuille sera un milieu propice au développement d'une microphone susceptible de fournir un apport alimentaire ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1992.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Stomatepia pindu",
+  "scientificName": "Stomatepia pindu",
+  "slug": "stomatepia-pindu",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 29,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 0,
+  "ghMax": 2,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

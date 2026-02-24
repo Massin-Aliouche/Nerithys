@@ -1,0 +1,29 @@
+{
+  "name": "Mystus à deux points",
+  "scientificName": "Mystus bimaculatus",
+  "slug": "mystus-bimaculatus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 32,
+  "phMin": 3,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 7,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Mystus bimaculatus fréquente les habitats d'eaux noires des marécages et des ruisseaux associés aux forêts de tourbières. L'eau de ces habitats est très douce, très acide (pH 3 à 4) et fortement tachée de tanins. Le Mystus à deux points est un poisson qui doit être maintenue en bac biotope copiant son habitat d'eau noire, acide, mais oxygénée. On lui réservera donc un bac de faible profondeur, ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora de Myers",
+  "scientificName": "Rasbora myersi",
+  "slug": "rasbora-myersi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On manque de données fiables sur la maintenance de cette espèce, mais compte-tenu du milieu fluvial qu'il semble fréquenter, on privilégiera un bac \"rivière\" de plus d'un mètre. Un grand aquarium \"rivière vive\" avec un substrat de roches et de graviers émoussés de tailles variables (galets) et quelques gros rochers usés par l'eau. Le réservoir peut être meublé de branches de bois flotté placé e...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

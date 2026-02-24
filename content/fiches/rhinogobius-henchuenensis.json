@@ -1,0 +1,28 @@
+{
+  "name": "Rhinogobius henchuenensis",
+  "scientificName": "Rhinogobius henchuenensis",
+  "slug": "rhinogobius-henchuenensis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 15,
+  "tempMax": 25,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

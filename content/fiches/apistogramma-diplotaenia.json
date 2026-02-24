@@ -1,0 +1,28 @@
+{
+  "name": "Apistogramma diplotaenia",
+  "scientificName": "Apistogramma diplotaenia",
+  "slug": "apistogramma-diplotaenia",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 30,
+  "phMin": 3.8,
+  "phMax": 5.5,
+  "ghMin": 1,
+  "ghMax": 3,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Leiarius pictus",
+  "scientificName": "Leiarius pictus",
+  "slug": "leiarius-pictus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6.2,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 18,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 2500,
+  "minLengthCm": 50,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Le décor se composera essentiellement de grosses racines et pierres, fournissant de nombreuses cachettes. Les juvéniles apprécient particulièrement de se cacher sous des enchevêtrements de racines et de branches ou d'amas de roches. Tous ces éléments de décor doivent être suffisamment stables ou correctement fixés pour ne pas être déplacés. Les plantes ne sont pas recommandées, la plupart étant...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand"
+  ]
+}

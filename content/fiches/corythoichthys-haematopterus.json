@@ -1,0 +1,30 @@
+{
+  "name": "Corythoichthys haematopterus",
+  "scientificName": "Corythoichthys haematopterus",
+  "slug": "corythoichthys-haematopterus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovovivipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile",
+    "vivipare"
+  ]
+}

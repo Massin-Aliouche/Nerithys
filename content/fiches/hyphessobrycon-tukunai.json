@@ -1,0 +1,29 @@
+{
+  "name": "Hyphessobrycon tukunai",
+  "scientificName": "Hyphessobrycon tukunai",
+  "slug": "hyphessobrycon-tukunai",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7.2,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 2.1,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

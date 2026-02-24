@@ -1,0 +1,29 @@
+{
+  "name": "Betta siamorientalis",
+  "scientificName": "Betta siamorientalis",
+  "slug": "betta-siamorientalis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 3.2,
+  "behavior": "Population: 1 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Idéalement, le Betta siamorientalis doit être maintenu dans un aquarium bien planté et ombragé, avec une bonne couverture en surface, soit sous la forme de plante à hautes tiges, soit de plantes flottantes. Des racines et des branches de bois flotté peuvent être utilisées et placées de manière à former des abris et un ombrage supplémentaire. L'ajout de feuilles mortes séchées peut être une opti...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Apolemichthys kingi",
+  "scientificName": "Apolemichthys kingi",
+  "slug": "apolemichthys-kingi",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 600,
+  "minLengthCm": 21,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile"
+  ]
+}

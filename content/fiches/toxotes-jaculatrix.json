@@ -1,0 +1,30 @@
+{
+  "name": "Poisson-archer",
+  "scientificName": "Toxotes jaculatrix",
+  "slug": "toxotes-jaculatrix",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 18,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 15,
+  "behavior": "Population: 5 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/3329.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "facile"
+  ]
+}

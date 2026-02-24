@@ -1,0 +1,31 @@
+{
+  "name": "Tétra poivre",
+  "scientificName": "Axelrodia stigmatias",
+  "slug": "axelrodia-stigmatias",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 2.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Malgré sa petite taille, des dimensions de base minimales de l'aquarium seront de 60 x 30 cm pour une maintenance à long terme, bien que des aquariums plus petits puissent être utilisés pour la reproduction. Axelrodia stigmatias se plaira dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat sera composé de sable de rivière et le décor de quelques branches de bois flotté ou ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/598.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

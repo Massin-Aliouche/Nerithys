@@ -1,0 +1,30 @@
+{
+  "name": "Neolamprologus brevis",
+  "scientificName": "Neolamprologus brevis",
+  "slug": "neolamprologus-brevis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 9.5,
+  "ghMin": 6,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 6,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium doit comporter de grandes surfaces ouvertes de substrat sableux, sur lesquelles parsemées d'un bon nombre de coquilles d'escargots vides (les coquilles d'escargots de bourgogne conviennent très bien). Idéalement, le nombre de coquilles doit être plus important que le nombre de poissons. A noter que contrairement à N.Similis et N.Multifasciatus, N.Brevis n'est pas une espèce qui va cr...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2401.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

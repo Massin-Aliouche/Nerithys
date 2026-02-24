@@ -1,0 +1,30 @@
+{
+  "name": "Gastromyzon élégant",
+  "scientificName": "Gastromyzon scitulus",
+  "slug": "gastromyzon-scitulus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 24,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4.5,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Attention ! Les Gastromyzons et autres \"loches de Bornéo\" ne sont en aucun cas des \"poissons nettoyeurs\" terme réducteur qui n'est qu'une construction commerciale particulièrement stupide. C'est ainsi que chez les personnes mal informées / mal conseillées, on les retrouve dans des bacs avec poissons rouges ou Betta, seuls... ils ne vivent pas vieux dans ces conditions. Bien au contraire, il fau...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/5059.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

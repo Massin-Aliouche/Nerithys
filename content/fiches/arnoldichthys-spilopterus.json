@@ -1,0 +1,30 @@
+{
+  "name": "Tétra du Niger",
+  "scientificName": "Arnoldichthys spilopterus",
+  "slug": "arnoldichthys-spilopterus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.8,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 10,
+  "behavior": "Population: 10 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L’agencement de l'aquarium a assez peu d'importance. Il peut comporter aussi bien des plantes que des racines, des pierres lisses. Il est par-contre important de lui réserver un large zone de nage libre. Le filtrage sur de la tourbe aidera à simuler ses eaux naturelles qui sont souvent colorées de tanins libérés par la matière organique en décomposition. Paisible mais très actif, Arnoldichthys ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/529.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

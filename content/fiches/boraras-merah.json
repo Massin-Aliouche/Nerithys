@@ -1,0 +1,31 @@
+{
+  "name": "Mini rasbora",
+  "scientificName": "Boraras merah",
+  "slug": "boraras-merah",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 2,
+  "behavior": "Population: 10 minimum (15 recommandé). Zone: Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le Boraras merah doit être maintenu dans un aquarium densément planté. L'ajout de quelques plantes flottantes et de racines ou de branches pour diffuser la lumière entrant dans le réservoir semble également être apprécié et ajoute une sensation plus naturelle. L'ajout de litière de feuilles séchées permet e reproduire son biotope et encourage la croissance de colonies de micro-organismes au fur...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/751.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

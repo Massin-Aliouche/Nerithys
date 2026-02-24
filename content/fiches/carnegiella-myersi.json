@@ -1,0 +1,32 @@
+{
+  "name": "Poisson-hachette pygmée",
+  "scientificName": "Carnegiella myersi",
+  "slug": "carnegiella-myersi",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 2.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Cette espèce nécessite un aquarium avec des plantes flottantes mais offrant une surface dégagée libres pour la nage. Le mouvement de l'eau doit être minimal afin que le poisson puisse facilement rester immobile dans l'eau calme. L'éclairage ne doit pas être brillant. Le dessus doit être bien couvert; comme tous les hachettes du genre, celui-ci sautera facilement, que ce soit par le jeu ou l'int...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/830.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

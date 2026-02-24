@@ -1,0 +1,29 @@
+{
+  "name": "Siganus spinus",
+  "scientificName": "Siganus spinus",
+  "slug": "siganus-spinus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Algivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile"
+  ]
+}

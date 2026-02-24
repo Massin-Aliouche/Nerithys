@@ -1,0 +1,29 @@
+{
+  "name": "Amblygobius decussatus",
+  "scientificName": "Amblygobius decussatus",
+  "slug": "amblygobius-decussatus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": 7.8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 9,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "facile"
+  ]
+}

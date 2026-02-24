@@ -1,0 +1,30 @@
+{
+  "name": "Barbus rosé",
+  "scientificName": "Pethia conchonius",
+  "slug": "pethia-conchonius",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 16,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'agencement de l'aquarium a assez peu d'importance pour ce poisson très adaptable, mais un aquarium planté reste ce qui lui conviendra le mieux. De même, l'ajout de plantes flottantes, tamisant un peu la lumière, est un plus, sans être indispensable. Compte tenu de la diversité des milieux dans lesquels il vit dans la nature, il s'adaptera aussi bien à une filtration douce qu'à une installatio...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2657.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

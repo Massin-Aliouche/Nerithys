@@ -1,0 +1,32 @@
+{
+  "name": "Esturgeon d'Europe",
+  "scientificName": "Acipenser sturio",
+  "slug": "acipenser-sturio",
+  "biotope": "Eau de mer",
+  "difficulty": 3,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 10000,
+  "minLengthCm": 300,
+  "behavior": "Zone: Inférieure, Centrale, Supérieure",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/3636.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

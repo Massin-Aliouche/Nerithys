@@ -1,0 +1,32 @@
+{
+  "name": "Poisson crayon brun",
+  "scientificName": "Nannostomus eques",
+  "slug": "nannostomus-eques",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 4.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 10 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "L'idéal est de le maintenir dans un environnement fortement planté, de préférence avec un substrat sombre et quelques zones de végétation flottante autour desquelles les poissons auront tendance à se regrouper, le corps incliné vers la surface. On peut également ajouter des branches de bois flotté et de la litière de feuilles séchées, cette dernière favorisant notamment l'établissement de colon...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2357.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

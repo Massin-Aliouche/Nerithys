@@ -1,0 +1,31 @@
+{
+  "name": "Tetra Savane",
+  "scientificName": "Hyphessobrycon stegemanni",
+  "slug": "hyphessobrycon-stegemanni",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 3,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Il se plaira dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Ce lit de feuilles sera un milieu propice au développement d'une micro-faune susceptible de fournir un apport alimentaire seco...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3826.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

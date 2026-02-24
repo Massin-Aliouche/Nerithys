@@ -1,0 +1,29 @@
+{
+  "name": "Tetraodon vert",
+  "scientificName": "Dichotomyctere nigroviridis",
+  "slug": "dichotomyctere-nigroviridis",
+  "biotope": "Eau saumâtre",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 7.6,
+  "phMax": 8.8,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 15,
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Bien qu'il puisse vivre en eau douce, voir sur une courte période en eau de mer, il convient de le maintenir en eau saumâtre, avec un densité comprise entre 1005 et 1015. En effet, son espérance de vie en eau douce n'est que de deux à trois ans, tandis qu'elle est de huit à dix ans en eau saumâtre. Le pH moyen devra impérativement être supérieur à 8. L'aquarium sera idéalement bien planté, avec...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "exigeant"
+  ]
+}

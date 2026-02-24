@@ -1,0 +1,29 @@
+{
+  "name": "Danio Brillant",
+  "scientificName": "Laubuka dadiburjori",
+  "slug": "laubuka-dadiburjori",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 24,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 3,
+  "behavior": "Population: 10 minimum. Zone: Supérieure",
+  "compatibility": "Zone supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

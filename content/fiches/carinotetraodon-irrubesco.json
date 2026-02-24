@@ -1,0 +1,30 @@
+{
+  "name": "Tétrodon nain à queue rouge",
+  "scientificName": "Carinotetraodon irrubesco",
+  "slug": "carinotetraodon-irrubesco",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 5,
+  "behavior": "Population: 3 minimum. Zone: Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'espèce est exclusivement recueillie à partir de la végétation riveraine submergé d'origine terrestre, et à l'habitat de la rivière Samba, l'eau était marron sombre avec un pH autour de 6,0. L'aquarium doit être avant tout abondamment planté. Une lumière trop forte aura tendance à stresser les poissons, aussi est il préférable de tamiser la lumière avec des plantes flottantes ou hautes créant ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/826.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

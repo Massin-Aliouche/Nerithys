@@ -1,0 +1,29 @@
+{
+  "name": "Epiplatys sexfasciatus",
+  "scientificName": "Epiplatys sexfasciatus",
+  "slug": "epiplatys-sexfasciatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 9,
+  "ghMax": 11,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Zone: Supérieure",
+  "compatibility": "Zone supérieure.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

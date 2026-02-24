@@ -1,0 +1,30 @@
+{
+  "name": "Gobie abeille",
+  "scientificName": "Brachygobius nunus",
+  "slug": "brachygobius-nunus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 24,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 2.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Le genre Brachygobius contient actuellement neuf espèces décrites, et bien que toutes soient désignées collectivement sous le nom de gobies \"abeille\", seuls Brachygobius doriae et Brachygobius sabanus. sont couramment disponibles dans le commerce ornemental. On se rapportera donc à ces espèces pour en assurer la maintenance si on a la chance d'en posséder. Cette espèce est plus que rarement com...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

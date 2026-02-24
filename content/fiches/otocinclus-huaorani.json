@@ -1,0 +1,29 @@
+{
+  "name": "Otocinclus huaorani",
+  "scientificName": "Otocinclus huaorani",
+  "slug": "otocinclus-huaorani",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 31,
+  "phMin": 5.5,
+  "phMax": 7.4,
+  "ghMin": 2,
+  "ghMax": 16,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

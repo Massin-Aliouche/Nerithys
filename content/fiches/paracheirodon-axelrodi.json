@@ -1,0 +1,31 @@
+{
+  "name": "Cardinalis",
+  "scientificName": "Paracheirodon axelrodi",
+  "slug": "paracheirodon-axelrodi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance ne pose pas de problème particulier, même si la maintenance de spécimens sauvages nécessitera d'être particulièrement vigilant la détérioration de la qualité de l’eau et d'éviter au maximum les produits phytosanitaires. Le Cardinal se plaira dans un aquarium agencé pour reproduire un biotope Amazonien fluvial. Le substrat se composera de sable de rivière et le décor de quelques b...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2577.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

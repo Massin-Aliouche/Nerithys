@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras diagonal",
+  "scientificName": "Corydoras melini",
+  "slug": "corydoras-melini",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Corydoras melini fréquente les eaux noires et les zones de forêt inondées où l'eau est typiquement tachée de noir par les tanins et les acides organiques. Ces habitats contiennent généralement de l'eau couleur thé avec très peu de dureté détectable ( 18 – 90 ppm), une faible conductivité et un pH de 4,0 à 6,0. La température est de 20 à 26 °C Les spécimens sauvages devront être accueillis dans ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

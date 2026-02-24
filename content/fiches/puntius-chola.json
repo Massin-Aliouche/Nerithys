@@ -1,0 +1,28 @@
+{
+  "name": "Puntius chola",
+  "scientificName": "Puntius chola",
+  "slug": "puntius-chola",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 6.5,
+  "ghMin": 8,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

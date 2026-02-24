@@ -1,0 +1,31 @@
+{
+  "name": "Tête-de-serpent de Chine",
+  "scientificName": "Channa asiatica",
+  "slug": "channa-asiatica",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 16,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 30,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il appréciera une plantation abondante, de larges morceaux de bois ou de racines et des plantes flottantes. La mise en place d'abris ou brises-vue est particulièrement importante en période de frai, afin de donner à la femelle la possibilité de rester hors de vue du mâle. Habitant naturellement des zones de faible courant, la filtration devra être efficace, mais ne pas générer de fort courant. ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/976.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand"
+  ]
+}

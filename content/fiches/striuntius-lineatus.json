@@ -1,0 +1,28 @@
+{
+  "name": "Barbus ligné",
+  "scientificName": "Striuntius lineatus",
+  "slug": "striuntius-lineatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "S. lineatus habite le plus souvent les marais, des tourbières et de petits cours d'eaux noires ainsi que d'autres eaux calmes, souvent dans des zones avec des herbes submergées ou des plantes aquatiques et une végétation de berge dense. L'eau elle-même est généralement de couleur thé, ambrée avec des acides humiques et d'autres produits chimiques libérés par la décomposition des matières organi...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

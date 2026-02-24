@@ -19,8 +19,13 @@
   "diet": "Détritovore/herbivore: algues, granulés, légumes cuits.",
   "breeding": "Reproduction complexe en captivité; nécessite conditions spécifiques.",
   "notes": "Attention à la taille adulte; éviter bacs trop petits.",
-  "sources": ["https://www.fishipedia.fr/fr/poissons/hypostomus-plecostomus"],
-  "images": ["https://www.fishipedia.fr/wp-content/uploads/2024/03/26501710511_d274190448_o.jpg"],
+  "images": [
+    "https://www.fishipedia.fr/wp-content/uploads/2024/03/26501710511_d274190448_o.jpg"
+  ],
   "gallery": [],
-  "tags": ["loricariidae","nettoyeur","gros-poisson"]
+  "tags": [
+    "loricariidae",
+    "nettoyeur",
+    "gros-poisson"
+  ]
 }

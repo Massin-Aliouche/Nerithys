@@ -1,0 +1,29 @@
+{
+  "name": "Rhinogobius duospilus",
+  "scientificName": "Rhinogobius duospilus",
+  "slug": "rhinogobius-duospilus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 15,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 4,
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "nano",
+    "facile"
+  ]
+}

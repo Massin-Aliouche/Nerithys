@@ -1,0 +1,30 @@
+{
+  "name": "Poisson cachemire",
+  "scientificName": "Synchiropus splendidus",
+  "slug": "synchiropus-splendidus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 7,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/3219.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

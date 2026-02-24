@@ -1,0 +1,30 @@
+{
+  "name": "Aulonocara jacobfreibergi",
+  "scientificName": "Aulonocara jacobfreibergi",
+  "slug": "aulonocara-jacobfreibergi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 28,
+  "phMin": 7.8,
+  "phMax": 8.8,
+  "ghMin": 15,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/577.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Paros de Muarapahu",
+  "scientificName": "Parosphromenus pahuensis",
+  "slug": "parosphromenus-pahuensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 26,
+  "tempMax": 30,
+  "phMin": 4.5,
+  "phMax": 5.5,
+  "ghMin": 2,
+  "ghMax": 3,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 3,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

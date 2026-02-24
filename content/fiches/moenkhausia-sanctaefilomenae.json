@@ -1,0 +1,30 @@
+{
+  "name": "Tétra yeux rouges",
+  "scientificName": "Moenkhausia sanctaefilomenae",
+  "slug": "moenkhausia-sanctaefilomenae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 7,
+  "behavior": "Population: 6 minimum (10 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Il habite les rivières, les ruisseaux et les lacs des plaines inondables, où on le trouve dans les zones à végétation submergée et émergente étendue. La maintenance du Moenkhausia sanctaefilomenae sera donc assez simple et peut se faire dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de r...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2301.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Betta balunga",
+  "scientificName": "Betta balunga",
+  "slug": "betta-balunga",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 28,
+  "phMin": 5.2,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

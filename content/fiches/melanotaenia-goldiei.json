@@ -1,0 +1,30 @@
+{
+  "name": "Poisson Arc-en-ciel de la rivière Goldie",
+  "scientificName": "Melanotaenia goldiei",
+  "slug": "melanotaenia-goldiei",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 6,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Malgré une association depuis plus de soixante ans avec le passe-temps aquariophile, peu d'informations à leur sujet ont été publiées dans la littérature aquariophile. *Bon nombre de ces habitats sont soumis à des changements saisonniers en termes de température et de chimie de l'eau, ce qui en fait une espèce adaptable pour les uns, mais compliquée à satisfaire pour les autres. En effet, on pe...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/6230.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

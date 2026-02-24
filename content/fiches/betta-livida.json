@@ -1,0 +1,29 @@
+{
+  "name": "Betta livide",
+  "scientificName": "Betta livida",
+  "slug": "betta-livida",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 25,
+  "phMin": 4.5,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 3.5,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Idéalement, on choisira un aquarium peu profond mais proposant une grande surface au sol. Il devra être correctement fermé, car, comme la plupart des Betta, c'est un bon sauteur. La filtration doit générer un courant le plus faible possible, et peut donc se limiter à un simple filtre exhausteur. L'aquarium sera fortement planté. L'ajout de plantes flottantes est conseillé pour tamiser la lumièr...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

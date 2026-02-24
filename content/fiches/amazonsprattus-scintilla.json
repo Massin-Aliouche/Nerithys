@@ -1,0 +1,30 @@
+{
+  "name": "Amazonsprattus scintilla",
+  "scientificName": "Amazonsprattus scintilla",
+  "slug": "amazonsprattus-scintilla",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": 4,
+  "phMax": 5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 2,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "facile"
+  ]
+}

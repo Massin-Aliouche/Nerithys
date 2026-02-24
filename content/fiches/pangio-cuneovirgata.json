@@ -1,0 +1,31 @@
+{
+  "name": "Pangio cuneovirgata",
+  "scientificName": "Pangio cuneovirgata",
+  "slug": "pangio-cuneovirgata",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 3.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 3,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "Tous les Pangio ont besoin d'aquariums bien établis et ne devraient pas être accueillis dans des réservoirs nouvellement installés. Pangio cuneovirgata est un poisson très craintif qui a besoin de beaucoup de plantes et de cachettes avec un substrat mou. Lorsqu'elle a peur, cette espèce peut s'enfouir à une vitesse incroyable, même dans le gravier, mais le sable fin sera préférable pour protége...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/5168.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

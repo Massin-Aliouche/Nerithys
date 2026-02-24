@@ -1,0 +1,31 @@
+{
+  "name": "Néon rose",
+  "scientificName": "Hemigrammus erythrozonus",
+  "slug": "hemigrammus-erythrozonus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 10 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance de l'Hemigrammus rhodostomus peut se faire dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Les plantes aquatiques ne sont pas ou peu présentes dans les eaux naturelles de c...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1888.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Copella à Points Bleus",
+  "scientificName": "Copella nattereri",
+  "slug": "copella-nattereri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4.5,
+  "behavior": "Population: 10 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance de la Copella nattereri peut se faire dans un aquarium agencé pour reproduire un biotope Amazonien. Les plantes aquatiques ne sont pas ou peu présentes dans les eaux naturelles de cette espèce. Le substrat se compose de sable de rivière et le décor d'un entrelacs de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1189.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

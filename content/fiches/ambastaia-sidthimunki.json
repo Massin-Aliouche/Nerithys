@@ -1,0 +1,31 @@
+{
+  "name": "Botia nain",
+  "scientificName": "Ambastaia sidthimunki",
+  "slug": "ambastaia-sidthimunki",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Le biotope naturel de l'Ambastaia sidthimunki se compose probablement de sections à débit relativement rapide de cours d'eau boisés supérieurs, apparemment bien oxygénés, avec une eau claire, un substrat mixte de sable et de roches, ainsi que beaucoup de bois flotté et de feuilles mortes submergées.Il semble que cette espèce soit migratrice (potamodrome) Qui migre exclusivement dans les cours d...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/265.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

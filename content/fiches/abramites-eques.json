@@ -1,0 +1,28 @@
+{
+  "name": "Abramite",
+  "scientificName": "Abramites eques",
+  "slug": "abramites-eques",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6.5,
+  "phMax": 7,
+  "ghMin": 4,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 240,
+  "minLengthCm": 15,
+  "behavior": "Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Les Abramites eques sont des herbivores qui mangeront la plupart des plantes à feuilles tendres. Ils ont besoin d'un aquarium long et spacieux et parfaitement fermé. Ils n'apprécient pas les lumières très vives et ont besoin de cachettes qu'il s'agisse de racines ou de rochers. Ils peuvent montrer une certaine agressivité vis à vis de leur colocataires, aussi devront-ils être maintenu avec des ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

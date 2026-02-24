@@ -1,0 +1,30 @@
+{
+  "name": "Barbus de Sumatra",
+  "scientificName": "Puntigrus tetrazona",
+  "slug": "puntigrus-tetrazona",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 7,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce poisson produit en masse est adaptable et se plaît dans la plupart des aquariums. Il semble cependant particulièrement adapté à un environnement fortement planté, et l'ajout de plantes flottantes ou couvrant la surface sera apprécié. On pourra ajouter, si on le souhaite, de grosses racines formant des cachettes. Le substrat pourra être composé de sable de Loire ou équivalent. L'eau pourra êt...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2921.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

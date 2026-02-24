@@ -1,0 +1,30 @@
+{
+  "name": "Malapterurus electricus",
+  "scientificName": "Malapterurus electricus",
+  "slug": "malapterurus-electricus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 112,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

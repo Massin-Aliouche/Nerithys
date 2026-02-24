@@ -1,0 +1,28 @@
+{
+  "name": "Acanthorhodeus chankaensis",
+  "scientificName": "Acanthorhodeus chankaensis",
+  "slug": "acanthorhodeus-chankaensis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 22,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 8,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

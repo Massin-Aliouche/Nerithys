@@ -1,0 +1,30 @@
+{
+  "name": "Utaka bleu",
+  "scientificName": "Copadichromis azureus",
+  "slug": "copadichromis-azureus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 15,
+  "behavior": "Population: 4 minimum. Zone: Centrale. Ratio M/F: 1 / 3",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Comme il s'agit d'une espèce d'eau libre, Copadichromis azureus a besoin de beaucoup d'espace pour nager. Un substrat de sable est indispensable car les mâles y construiront leurs nids. On peut ajouter quelques rochers afin d'offrir des variations et des cachettes. Ils seront également importants si on souhaite maintenir des espèces vivant dans les rochers dans le même aquarium. Il ne s'attaque...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1162.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

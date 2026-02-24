@@ -1,0 +1,29 @@
+{
+  "name": "Exodon paradoxal",
+  "scientificName": "Exodon paradoxus",
+  "slug": "exodon-paradoxus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 15,
+  "behavior": "Population: 12 minimum (25 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Exodon paradoxus habite généralement les zones peu profondes à fond sablonneux des grandes rivières, et se rencontre également dans les rapides. (Roberts 1970, Sazima 1983). Comme le caractère belliqueux de l'espèce impose un bac spécifique, on optera préférentiellement pour un rivière \"amazonienne\". Le biotope pourrait être constitué d'un substrat de sable auquel on ajouterait peut-être quelqu...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

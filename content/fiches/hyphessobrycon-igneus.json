@@ -1,0 +1,28 @@
+{
+  "name": "Hyphessobrycon igneus",
+  "scientificName": "Hyphessobrycon igneus",
+  "slug": "hyphessobrycon-igneus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 24,
+  "phMin": 5.8,
+  "phMax": 6.8,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4.5,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

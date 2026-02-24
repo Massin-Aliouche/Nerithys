@@ -1,0 +1,32 @@
+{
+  "name": "Tête en bas rayé",
+  "scientificName": "Anostomus anostomus",
+  "slug": "anostomus-anostomus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 20,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "L'habitat d'Anostomus anostomus se compose de rivages rocheux de rivières au débit rapide, où il broute les algues et les petits invertébrés à la surface des rochers. Une installation de type biotope rivière (de forme allongée), pourrait consister en un substrat sablonneux, des assemblages de roches lisses (galets grossiers) et des racines et branches de bois flotté. Des plantes aquatiques peuv...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/362.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Synodontis ocellé",
+  "scientificName": "Synodontis ocellifer",
+  "slug": "synodontis-ocellifer",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 6.2,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 20,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "Un aquarium avec un substrat doux et des roches, des morceaux de bois flotté et des racines enchevêtrées disposés pour former des cachettes est idéal pour cette espèce. L'ajout de plantes flottantes est recommandée afin de diffuser la lumière entrant dans l'aquarium. Les autres plantes, si elles sont bénéfiques, ne sont pas indispensables. Il a tendance à devenir légèrement territorial à mesure...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

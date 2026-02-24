@@ -1,0 +1,32 @@
+{
+  "name": "Leporinus friderici",
+  "scientificName": "Leporinus friderici",
+  "slug": "leporinus-friderici",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 2000,
+  "minLengthCm": 40,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/3837.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "facile"
+  ]
+}

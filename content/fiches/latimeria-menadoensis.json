@@ -1,0 +1,31 @@
+{
+  "name": "Cœlacanthe de Sulawesi",
+  "scientificName": "Latimeria menadoensis",
+  "slug": "latimeria-menadoensis",
+  "biotope": "Eau de mer",
+  "difficulty": 3,
+  "tempMin": 17,
+  "tempMax": 20,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 150,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Vivipare, difficulté: Difficile",
+  "notes": "L'espèce n'est pas maintenue en aquariophilie. De nombreuses questions restent sans réponse concernant l'écologie de Latimeria manadoensis.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "grand",
+    "exigeant",
+    "vivipare"
+  ]
+}

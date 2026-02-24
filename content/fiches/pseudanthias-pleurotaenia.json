@@ -1,0 +1,30 @@
+{
+  "name": "Anthias à tache carrée",
+  "scientificName": "Pseudanthias pleurotaenia",
+  "slug": "pseudanthias-pleurotaenia",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/9637.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

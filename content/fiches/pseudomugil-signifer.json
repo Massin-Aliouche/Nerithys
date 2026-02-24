@@ -1,0 +1,31 @@
+{
+  "name": "Pseudomugil aux yeux bleus,",
+  "scientificName": "Pseudomugil signifer",
+  "slug": "pseudomugil-signifer",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 7,
+  "behavior": "Population: 8 minimum (10 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Dans la nature, ce petit poisson forme des groupes de centaines d’individus. Il est donc recommandé de les maintenir en groupe de 6-8 minimum, plus si la taille du bac le permet. Cela aide à les rassurer mais également permet aux mâles de montrer leurs plus belles couleurs. Tout dépend aussi de l’origine géographique des Pseudomugils, les espèces Nord étant significativement plus grandes donc a...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2866.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

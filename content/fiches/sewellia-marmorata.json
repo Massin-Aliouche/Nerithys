@@ -1,0 +1,27 @@
+{
+  "name": "Loche marbrée",
+  "scientificName": "Sewellia marmorata",
+  "slug": "sewellia-marmorata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Sewellia marmorata fréquente les cours d'eau oxygénés et claires, présentant une alternance de zones de rapides, peu profondes et rocheuses et de radiers plus profonds au substrat sableux ou boueux. On l'accueillera donc exclusivement en bac rivière vive. Les Sewellia spp. sont principalement limitées aux sources et aux affluents peu profonds, à courant rapide et très oxygénés, caractérisés par...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

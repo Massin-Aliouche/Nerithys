@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras à museau pointu",
+  "scientificName": "Corydoras oxyrhynchus",
+  "slug": "corydoras-oxyrhynchus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Corydoras oxyrhynchus fréquente les zones humides, les rivières et les ruisseaux permanents (y compris les cascades). L'eau de la rivière Saramacca affichait une conductivité de 18 µS/cm, un pH de 5,7 et une température de 28°C lors de l'enregistrement de l'espèce. Ces valeurs ne représentent toutefois qu'un instantané, car le milieu est soumis aux variations saisonnières. Les Corydoras sont, d...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

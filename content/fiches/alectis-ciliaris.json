@@ -1,0 +1,30 @@
+{
+  "name": "Carangue à plumes",
+  "scientificName": "Alectis ciliaris",
+  "slug": "alectis-ciliaris",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": 7.6,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 1,
+  "minLengthCm": 150,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

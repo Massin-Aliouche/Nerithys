@@ -1,0 +1,29 @@
+{
+  "name": "Cichlidé drapeau",
+  "scientificName": "Mesonauta insignis",
+  "slug": "mesonauta-insignis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 9.5,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Le poisson n'étant pas très répandu en aquariophilie, les retours d'expérience sont inexistants. Si vous avez la chance de posséder cette espèce, reporterez-vous à la fiche de Mesonauta festivus, plus fréquemment maintenue.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Killi perlé du Tanganika",
+  "scientificName": "Lamprichthys tanganicanus",
+  "slug": "lamprichthys-tanganicanus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 25,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 6,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

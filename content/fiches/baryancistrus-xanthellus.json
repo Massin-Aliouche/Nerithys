@@ -1,0 +1,32 @@
+{
+  "name": "Baryancistrus xanthellus",
+  "scientificName": "Baryancistrus xanthellus",
+  "slug": "baryancistrus-xanthellus",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 26,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 25,
+  "behavior": "Population: 1 minimum. Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "Si la maintenance du Baryancistrus xanthellus n'est pas de pllus compliqué, les condition particulières qu'il requiert en font un poisson peu adapté à un aquarium communautaire. En effet, il nécessite un aquarium conçue pour ressembler à une rivière qui coule, avec un substrat de roches de taille variable, du gravier et quelques gros blocs rocheux usés par l'eau. Il est possible d'y ajouter des...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/646.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

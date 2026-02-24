@@ -1,0 +1,29 @@
+{
+  "name": "Corydoras Pauserna",
+  "scientificName": "Corydoras paucerna",
+  "slug": "corydoras-paucerna",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Bien qu'il puisse vivre à des températures supérieures à 26°C, Corydoras paucerna préfère les températures inférieures à 25°C et si possible plus fraiches. À des températures élevées, son espérance de vie diminue. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) perme...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

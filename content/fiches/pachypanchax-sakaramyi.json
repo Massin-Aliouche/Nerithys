@@ -1,0 +1,30 @@
+{
+  "name": "Panchax de Sakaramy",
+  "scientificName": "Pachypanchax sakaramyi",
+  "slug": "pachypanchax-sakaramyi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 27,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 8,
+  "behavior": "Population: 3 minimum. Ratio M/F: 1 / 2",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium doit être bien planté afin de fournir des refuges aux femelles. Des plantes à feuilles fines ou des mousses sont recommandées si l'on souhaite le reproduire. De même, l'ajout de plantes flottantes aura un effet rassurant. L'aquarium doit être correctement fermé car ce poisson est capable de sauter. Farouche, ce killi est à maintenir en trio, de préférence en aquarium spécifique pour ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3813.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

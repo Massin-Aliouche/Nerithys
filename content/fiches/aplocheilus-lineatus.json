@@ -1,0 +1,28 @@
+{
+  "name": "Panchax rayé",
+  "scientificName": "Aplocheilus lineatus",
+  "slug": "aplocheilus-lineatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 26,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 8,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Zone: Supérieure",
+  "compatibility": "Zone supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

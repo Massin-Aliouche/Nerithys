@@ -1,0 +1,30 @@
+{
+  "name": "Neolamprologus multifasciatus",
+  "scientificName": "Neolamprologus multifasciatus",
+  "slug": "neolamprologus-multifasciatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3.2,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Un aquarium d'un soixantaine de litres est nécessaire pour maintenir un couple en aquarium spécifique, mais un aquarium plus grand sera nécessaire pour un maintenir un groupe plus large. L'aquarium doit comporter une grande surface ouverte de substrat sableux, à laquelle il faut ajouter un bon nombre de coquilles d'escargots vides (au moins 2 ou 3 par individus) répartis sur l'ensemble de l'aqu...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2417.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano"
+  ]
+}

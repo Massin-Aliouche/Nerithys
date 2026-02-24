@@ -1,0 +1,31 @@
+{
+  "name": "Betta simplex",
+  "scientificName": "Betta simplex",
+  "slug": "betta-simplex",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 25,
+  "phMin": 5.8,
+  "phMax": 6.5,
+  "ghMin": 10,
+  "ghMax": 11,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 6,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Comme la plupart des Betta, le Betta simplex appréciera un environnement ombragé et bien planté, avec une couverture de surface importante sous forme de plantes à hautes tiges, de plantes flottantes telles que Salvinia, Riccia spp. ou des Nymphaea. Les Cryptocoryne spp. très présentes dans sont milieu naturel sont également un bon choix. Le bois flotté peut également être utilisé pour créer des...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/714.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

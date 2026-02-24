@@ -1,0 +1,30 @@
+{
+  "name": "Gobie cobalt blue",
+  "scientificName": "Stiphodon semoni",
+  "slug": "stiphodon-semoni",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 21,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 3 minimum. Zone: Fond. Ratio M/F: 1 / 2",
+  "compatibility": "Zone fond.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "Les Stiphodon semoni ne sont pas particulièrement difficiles à maintenir, à condition de satisfaire à certaines exigences de base. Le plus important est que l'eau soit toujours propre et bien oxygénée. Un brassage compris entre 10 et 15 fois le volume de l’aquarium est donc recommandé. On peut pour cela utiliser un filtre surdimensionner, ainsi que si besoin, une pompe de brassage. Le substrat ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3191.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

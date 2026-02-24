@@ -1,0 +1,31 @@
+{
+  "name": "Tétra joyau",
+  "scientificName": "Hyphessobrycon eques",
+  "slug": "hyphessobrycon-eques",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.2,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Les Tétra joyaux se plairont dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de branches de bois flotté ou de racines agencées pour créer une bonne couverture. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Le bois et les feuilles donnent une couleur ambrée. Il convient de les remplac...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1975.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Carpe crique",
+  "scientificName": "Leporinus granti",
+  "slug": "leporinus-granti",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 29,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 25,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

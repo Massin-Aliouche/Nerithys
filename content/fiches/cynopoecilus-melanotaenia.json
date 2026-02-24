@@ -1,0 +1,28 @@
+{
+  "name": "Cynopoecilus melanotaenia",
+  "scientificName": "Cynopoecilus melanotaenia",
+  "slug": "cynopoecilus-melanotaenia",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 24,
+  "phMin": 6.5,
+  "phMax": 0,
+  "ghMin": 3,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4.5,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

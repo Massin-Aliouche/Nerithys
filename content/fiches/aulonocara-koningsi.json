@@ -1,0 +1,28 @@
+{
+  "name": "Aulonocara koningsi",
+  "scientificName": "Aulonocara koningsi",
+  "slug": "aulonocara-koningsi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 27,
+  "phMin": 7.8,
+  "phMax": 8.8,
+  "ghMin": 10,
+  "ghMax": 18,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

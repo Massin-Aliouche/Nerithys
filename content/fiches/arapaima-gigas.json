@@ -1,0 +1,29 @@
+{
+  "name": "Arapaima gigas",
+  "scientificName": "Arapaima gigas",
+  "slug": "arapaima-gigas",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 29,
+  "phMin": 6,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 1,
+  "minLengthCm": 300,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

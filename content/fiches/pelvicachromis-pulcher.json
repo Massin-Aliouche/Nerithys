@@ -19,8 +19,13 @@
   "diet": "Omnivore: granulés, congelés, proies vivantes.",
   "breeding": "Ovipare; ponte sous substrat, parents soignent la ponte.",
   "notes": "Espèce courante, facile à élever; attention à la territorialité.",
-  "sources": ["https://www.fishipedia.fr/fr/poissons/pelvicachromis-pulcher"],
-  "images": ["https://www.fishipedia.fr/wp-content/uploads/2013/09/Pelvicachromis_Pulcher_1.jpg"],
+  "images": [
+    "https://www.fishipedia.fr/wp-content/uploads/2013/09/Pelvicachromis_Pulcher_1.jpg"
+  ],
   "gallery": [],
-  "tags": ["cichlidae","afrique","couple"]
+  "tags": [
+    "cichlidae",
+    "afrique",
+    "couple"
+  ]
 }

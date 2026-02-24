@@ -1,0 +1,29 @@
+{
+  "name": "Poisson-feuille indonésien",
+  "scientificName": "Pristolepis grootii",
+  "slug": "pristolepis-grootii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 32,
+  "phMin": 4.5,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 20,
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Poisson-feuille indonésien habite les rivières de plaine à débit assez lent, les tourbières, et plus généralement dans les habitats d'eaux noires associés aux marais tourbeux. Atteignant une longueur de vingt centimètres, il faudra un aquarium de volume minimum de trois cents litres, pour accueillir deux ou trois spécimens. L'aquarium d'accueil sera maintenu à une température de 23 à 29 °C, dan...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand"
+  ]
+}

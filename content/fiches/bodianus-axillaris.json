@@ -1,0 +1,32 @@
+{
+  "name": "Labre à tache pectorale",
+  "scientificName": "Bodianus axillaris",
+  "slug": "bodianus-axillaris",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 7.5,
+  "phMax": 8.6,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/738.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

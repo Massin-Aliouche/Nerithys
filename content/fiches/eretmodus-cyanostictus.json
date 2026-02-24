@@ -1,0 +1,30 @@
+{
+  "name": "Cichlidé-Clown du Tanganyika",
+  "scientificName": "Eretmodus cyanostictus",
+  "slug": "eretmodus-cyanostictus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 8,
+  "phMax": 9.5,
+  "ghMin": 7,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 7,
+  "behavior": "Population: 2 minimum. Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Un couple peut être maintenu dans un aquarium spécifique de 150 litre, ou dans un aquarium communautaire plus spacieux (300 litres au minimum) pourvu de nombreuses cachettes. Le décore devra reproduire des éboulements rocheux, proposant de nombreuses cachettes. Des plantes telles des Anubias peuvent être ajoutés mais ne sont pas essentielles. Le substrat sera composé de sable fin. L’eau doit êt...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1592.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

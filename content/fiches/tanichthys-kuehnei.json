@@ -1,0 +1,29 @@
+{
+  "name": "Tanichthys de Kühne",
+  "scientificName": "Tanichthys kuehnei",
+  "slug": "tanichthys-kuehnei",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Tanichthys kuehnei n'est pas encore couramment maintenu en aquarium et ne bénéficie pas de retour d'expérience convainquant. Si on a l'opportunité d'acquérir ce poisson, on se reportera donc à la maintenance des Tanichthys plus couramment importés comme T. albonubes ou T. micagemmae et à l'imitation de son biotope cité plus avant.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

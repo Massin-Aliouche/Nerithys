@@ -1,0 +1,30 @@
+{
+  "name": "Apistogramma macmasteri",
+  "scientificName": "Apistogramma macmasteri",
+  "slug": "apistogramma-macmasteri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 5.8,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance de cet Apistogramma ne présente pas de difficultés particulières. Il se plaira dans un aquarium bien planté, offrant de nombreuses cachettes. Son type de reproduction impose de créer des structures en forme de grotte, que ce soit avec des racines, des pots en céramique, des tubes,... Il n'apprécie pas les éclairages trop forts. L'ajout de plantes flottantes permettra d'obtenir un...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/452.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

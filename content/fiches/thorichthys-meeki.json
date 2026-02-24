@@ -1,0 +1,28 @@
+{
+  "name": "Gorge de Feu",
+  "scientificName": "Thorichthys meeki",
+  "slug": "thorichthys-meeki",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 32,
+  "phMin": 6,
+  "phMax": 8.5,
+  "ghMin": 6,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 15,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Si l'on souhaite recréer un environnement ressemblant à son milieu naturel, l'aquarium pourrait consister en un substrat doux et sablonneux avec des rochers lisses et quelques racines et branches de bois flotté, placés de manière à former de nombreux endroits ombragés et des grottes. Toutefois, l'utilisation d'éléments artificiels tels que tuyau, pot de fleurs... est aussi envisageable pour cré...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore"
+  ]
+}

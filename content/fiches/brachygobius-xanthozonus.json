@@ -1,0 +1,30 @@
+{
+  "name": "Gobie à bandes dorées",
+  "scientificName": "Brachygobius xanthozonus",
+  "slug": "brachygobius-xanthozonus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 4,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Le genre Brachygobius contient actuellement neuf espèces décrites, et bien que toutes soient désignées collectivement sous le nom de gobies \"abeille\", seuls Brachygobius doriae et Brachygobius sabanus. sont couramment disponibles dans le commerce ornemental. On se rapportera donc à ces espèces pour en assurer la maintenance si on a la chance rare de posséder Brachygobius xanthozonus. Cette espè...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

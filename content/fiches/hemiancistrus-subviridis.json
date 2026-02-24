@@ -1,0 +1,31 @@
+{
+  "name": "Hemiancistrus subviridis",
+  "scientificName": "Hemiancistrus subviridis",
+  "slug": "hemiancistrus-subviridis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 25,
+  "phMin": 6.5,
+  "phMax": 7.2,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/1876.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

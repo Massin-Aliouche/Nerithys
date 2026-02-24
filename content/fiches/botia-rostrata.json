@@ -1,0 +1,30 @@
+{
+  "name": "Loche du Gange",
+  "scientificName": "Botia rostrata",
+  "slug": "botia-rostrata",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 15,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 25,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "Présente dans les ruisseaux des collines et les rivières principales, l'espèce est potamodrome. Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

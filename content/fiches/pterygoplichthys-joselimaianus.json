@@ -1,0 +1,30 @@
+{
+  "name": "Pleco doré",
+  "scientificName": "Pterygoplichthys joselimaianus",
+  "slug": "pterygoplichthys-joselimaianus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 600,
+  "minLengthCm": 40,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Il peut être maintenu dans un aquarium conçu pour reproduire un biotope amazonien avec essentiellement de gros morceaux de racines ou dans un aquarium planté. Toutefois, même s'il ne mange pas les plantes, tout individu de plus de 100 mm peut, par inadvertance, arracher des plantes qui ne sont pas suffisamment enracinées. Les poissons de grande taille nécessitent une filtration efficace, non pa...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

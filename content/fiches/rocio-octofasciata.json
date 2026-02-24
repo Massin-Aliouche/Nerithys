@@ -1,0 +1,31 @@
+{
+  "name": "Jack Dempsey",
+  "scientificName": "Rocio octofasciata",
+  "slug": "rocio-octofasciata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 8,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 26,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le décor a assez peu d'importance, mais les aquariums plantés ne conviendront pas. En effet, le Jack Dempsey est un poisson fouisseur et les plantes enracinés n'y survivront probablement pas. Toutefois, on peut ajouter des plantes flottantes, des mousses et des épiphytes. Pour les mêmes raisons, le substrat devra être mou et sablonneux. Un ou deux rochers plats, usés par l'eau, peuvent égalemen...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3074.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand"
+  ]
+}

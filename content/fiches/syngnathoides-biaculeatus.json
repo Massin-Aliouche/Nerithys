@@ -1,0 +1,31 @@
+{
+  "name": "Longue-flûte",
+  "scientificName": "Syngnathoides biaculeatus",
+  "slug": "syngnathoides-biaculeatus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 30,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovovivipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "grand",
+    "facile",
+    "vivipare"
+  ]
+}

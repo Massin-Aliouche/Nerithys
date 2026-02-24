@@ -1,0 +1,29 @@
+{
+  "name": "Panchax bleu",
+  "scientificName": "Aplocheilus panchax",
+  "slug": "aplocheilus-panchax",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 30,
+  "minLengthCm": 7,
+  "behavior": "Population: 3 minimum. Zone: Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Le panchax bleu s'adapte facilement à toutes les sortes d'eau, de douce à saumâtre. Certains auteurs préconisent d'ajouter un peu de sel marin, mais cet ajout ne semble pas nécessaire et l'eau de conduite de France métropolitaine convient parfaitement. Il préfère les eaux claires dans les zones à forte croissance de macrophytes enracinés ou flottants. On lui fournira un sol sableux et une plant...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore",
+    "facile"
+  ]
+}

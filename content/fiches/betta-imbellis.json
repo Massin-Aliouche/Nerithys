@@ -1,0 +1,31 @@
+{
+  "name": "Combattant pacifique",
+  "scientificName": "Betta imbellis",
+  "slug": "betta-imbellis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 5.8,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 6,
+  "behavior": "Population: 1 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Le betta imbellis demande une lumière tamisée et un aquarium bien planté. On privilégiera donc des plantes à tige haute ou flottantes. Les Nymphaea, Cryptocoryne, Salvinia, Lemna minor,… sont donc un bon choix. Il appréciera aussi le bois flotté pour les refuges que cela peut créer, mais des petits pots en argile, des tuyaux en plastique peuvent également être utilisés. L'ajout de litière de fe...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/690.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

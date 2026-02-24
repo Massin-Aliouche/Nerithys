@@ -1,0 +1,30 @@
+{
+  "name": "Crenicichla Lugubris",
+  "scientificName": "Crenicichla Lugubris",
+  "slug": "crenicichla-lugubris",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 27,
+  "tempMax": 29,
+  "phMin": 5.5,
+  "phMax": 6.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 1200,
+  "minLengthCm": 40,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Un aquarium agencé pour reproduire un biotope Amazonien est fortement recommandé pour cette espèce. Crenicichla Lugubris aime creuser dans le substrat, il est donc recommandé d'utiliser du sable de rivière. Les plantes sont quasiment absentes de sont millieu naturel, aussi le décor se composera essentiellement de branches de bois flotté ou de racines. Rien n'interdit d'ajouter des plantes, mais...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

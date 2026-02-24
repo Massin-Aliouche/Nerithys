@@ -1,0 +1,30 @@
+{
+  "name": "Murène zébrée",
+  "scientificName": "Gymnomuraena zebra",
+  "slug": "gymnomuraena-zebra",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 150,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

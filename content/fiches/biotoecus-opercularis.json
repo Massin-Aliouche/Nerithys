@@ -1,0 +1,30 @@
+{
+  "name": "Biotoecus opercularis",
+  "scientificName": "Biotoecus opercularis",
+  "slug": "biotoecus-opercularis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 4,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 5,
+  "behavior": "Population: 2 minimum (6 recommandé). Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance des Biotoecus opercularis peut se faire dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Les plantes aquatiques ne sont pas ou peu présentes dans les eaux naturelles de cett...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/731.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

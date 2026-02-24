@@ -1,0 +1,29 @@
+{
+  "name": "Nandopsis tetracanthus",
+  "scientificName": "Nandopsis tetracanthus",
+  "slug": "nandopsis-tetracanthus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 27,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 25,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

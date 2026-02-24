@@ -1,0 +1,29 @@
+{
+  "name": "Betta Api api",
+  "scientificName": "Betta sp. api api",
+  "slug": "betta-sp-api-api",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 3,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 30,
+  "minLengthCm": 4,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le poissons provient d'habitats sténotopiques Se dit d'un organisme ne tolérant qu'une gamme étroite de conditions environnementales ou ne pouvant s'adapter qu'à une gamme étroite de changements environnementaux",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

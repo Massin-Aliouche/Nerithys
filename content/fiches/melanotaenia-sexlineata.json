@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel de Fly River",
+  "scientificName": "Melanotaenia sexlineata",
+  "slug": "melanotaenia-sexlineata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 9,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Melanotaenia sexlineata fréquente les cours d'eau à écoulement lent, généralement petits, de la forêt pluviale. L'eau y est claire, mais souvent teintée de tanin avec des valeurs de pH allant de 6,1 à 6,5 et une température de 25°C Ses cours d'eau sont , et. (Munro 1964, GR Allen comm. pers. 2019). Il n'y a peu de rapport sérieux de maintenance et d'élevage pour cette espèce et on ne pourra ici...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

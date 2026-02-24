@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora de Jacobson",
+  "scientificName": "Rasbora jacobsoni",
+  "slug": "rasbora-jacobsoni",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Rasbora jacobsoni est un poisson pélagique qui semble préférer les ruisseaux collinaires le long des cours supérieurs des bassins fluviaux, caractérisés par des ruisseaux petits à moyens avec de l'eau claire, un courant modéré à rapide, et des substrats rocheux ou graveleux. Malheureusement, on manque de données de terrain fiables et on ignore si cette espèce fréquente les zones inondées pour f...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

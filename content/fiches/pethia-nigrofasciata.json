@@ -1,0 +1,29 @@
+{
+  "name": "Barbus à tête rouge",
+  "scientificName": "Pethia nigrofasciata",
+  "slug": "pethia-nigrofasciata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 27,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 6.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Les petits ruisseaux vierges contenant des eaux claires ou légèrement colorées et peu profondes représentent des habitats typiques de P. nigrofasciata dans toute son aire de répartition. Peu de soleil peut pénétrer dans le sol forestier, de sorte que les habitats aquatiques sont ombragés et que la température de l'eau peut être relativement fraîche, tandis que la conductivité et la dureté sont ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2659.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

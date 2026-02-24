@@ -1,0 +1,29 @@
+{
+  "name": "Silure de verre à deux taches.",
+  "scientificName": "Ompok bimaculatus",
+  "slug": "ompok-bimaculatus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 8,
+  "ghMax": 18,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 45,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

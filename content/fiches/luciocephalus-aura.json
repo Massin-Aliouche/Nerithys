@@ -1,0 +1,31 @@
+{
+  "name": "Luciocéphale ponctué",
+  "scientificName": "Luciocephalus aura",
+  "slug": "luciocephalus-aura",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 6,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 12,
+  "behavior": "Population: 1 minimum (3 recommandé). Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Luciocephalus aura se rencontre dans les habitats marécageux forestiers, les tourbières ou les marais avec de la tourbe, souvent des eaux stagnantes, des habitats d'eau noire où l'eau est teintée de brun foncé avec des acides humiques et autres produits chimiques libérés par la décomposition organique des humus végétaux. La teneur en minéraux dissous est toujours négligeable, et le pH peut être...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/6224.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

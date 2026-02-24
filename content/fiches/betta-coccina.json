@@ -1,0 +1,30 @@
+{
+  "name": "Betta coccina",
+  "scientificName": "Betta coccina",
+  "slug": "betta-coccina",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 4,
+  "phMax": 6,
+  "ghMin": 0,
+  "ghMax": 4,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 5.6,
+  "behavior": "Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Idéalement, on choisira un aquarium peu profond mais proposant une grande surface au sol. Il devra être correctement fermé, car, comme la plupart des Betta, c'est un bon sauteur. La filtration doit générer un courant le plus faible possible, et peut donc se limiter à un simple filtre exhausteur. L'aquarium sera fortement planté. L'ajout de plantes flottantes est conseillé pour tamiser la lumièr...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/679.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

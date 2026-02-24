@@ -1,0 +1,28 @@
+{
+  "name": "Pyrrhulina rachoviana",
+  "scientificName": "Pyrrhulina rachoviana",
+  "slug": "pyrrhulina-rachoviana",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 15,
+  "tempMax": 22,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 20,
+  "ghMax": 0,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

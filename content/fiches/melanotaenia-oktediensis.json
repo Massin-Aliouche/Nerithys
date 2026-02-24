@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel d'Ok Tedi",
+  "scientificName": "Melanotaenia oktediensis",
+  "slug": "melanotaenia-oktediensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 17,
+  "tempMax": 26,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 3,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Melanotaenia oktediensis est présent en terrain montagneux dans des criques rocheuses à courant rapide dans la forêt tropicale entre environ 300 et 500 m d'altitude. Les affluents de la rivière Ok Tedi sont généralement des ruisseaux de forêt tropicale frais, clairs et relativement rapides avec des fonds rocheux. Les températures enregistrées dans ces habitats varient de 17 à 24 ºC et le pH de ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

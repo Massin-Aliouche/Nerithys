@@ -1,0 +1,28 @@
+{
+  "name": "Dermogenys sumatrana",
+  "scientificName": "Dermogenys sumatrana",
+  "slug": "dermogenys-sumatrana",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 15,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 7.5,
+  "behavior": "Zone: Supérieure",
+  "compatibility": "Zone supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "facile"
+  ]
+}

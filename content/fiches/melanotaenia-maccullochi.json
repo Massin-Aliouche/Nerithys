@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel de Mac Culloch",
+  "scientificName": "Melanotaenia maccullochi",
+  "slug": "melanotaenia-maccullochi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 16,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 7,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Les habitats naturels de M. maccullochi sont influencés par les conditions saisonnières. On le trouve sur une gamme étonnamment large de biotopes, des ruisseaux clairs et fluides aux étangs calmes et troubles tachés de tanins. La chimie de l'eau varie également énormément dans ces habitats, ce qui en fait une espèce très adaptable. Les poissons se rassemblent généralement autour des zones couve...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

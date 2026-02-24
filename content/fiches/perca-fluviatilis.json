@@ -1,0 +1,31 @@
+{
+  "name": "Perche commune",
+  "scientificName": "Perca fluviatilis",
+  "slug": "perca-fluviatilis",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 5,
+  "tempMax": 20,
+  "phMin": 7,
+  "phMax": 7,
+  "ghMin": 7,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 50,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/2646.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Corydoras de Reynolds",
+  "scientificName": "Corydoras reynoldsi",
+  "slug": "corydoras-reynoldsi",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il semble que Corydoras reynoldsi ne doive être maintenu que par des aquariophiles expérimentés, car il serait plutôt délicats du fait de son origine sauvage, et contracte facilement des infections bactériennes. D'après F. Schäfer (2021), il est nécessaire de le maintenir à des températures élevées (26-28°C), et dans une eau douce et acide. Les Corydoras sont, dans leur très grande majorité, de...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

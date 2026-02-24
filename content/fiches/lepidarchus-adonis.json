@@ -1,0 +1,30 @@
+{
+  "name": "Adonis",
+  "scientificName": "Lepidarchus adonis",
+  "slug": "lepidarchus-adonis",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 5,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 2.5,
+  "behavior": "Population: 12 minimum (25 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Parce qu'il a des exigences très élevées sur les conditions de l'eau (très douce et acide), le Tetra nu ne convient pas aux débutants. L'aquarium doit être densément planté, avec une lumière tamisée par des plantes flottantes. Les plantes seront bien sûr choisies pour leur aptitude à vivre en eau acide et avec peu de lumière. Le bac doit aussi comporter quelques branches de bois flotté si possi...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

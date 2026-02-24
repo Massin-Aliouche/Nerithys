@@ -1,0 +1,30 @@
+{
+  "name": "Aphyo rayé",
+  "scientificName": "Aphyosemion striatum",
+  "slug": "aphyosemion-striatum",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 24,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 20,
+  "minLengthCm": 5,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium doit avant tout comporter des zones de plantation dense et des morceaux de bois pour servir de couverture. L'utilisation de plantes flottantes pour diffuser davantage la lumière est également recommandée. La température d’une pièce chauffée est suffisante, soit entre 20 et 22°C. Une température plus chaude, par exemple 25°C , accélère leur métabolisme et espérance de de vie est racco...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/408.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

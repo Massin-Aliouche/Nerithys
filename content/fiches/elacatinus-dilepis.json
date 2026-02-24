@@ -1,0 +1,29 @@
+{
+  "name": "Elacatinus dilepis",
+  "scientificName": "Elacatinus dilepis",
+  "slug": "elacatinus-dilepis",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 24,
+  "phMin": 8.4,
+  "phMax": 8.4,
+  "ghMin": 7,
+  "ghMax": 7,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 2,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "nano",
+    "facile"
+  ]
+}

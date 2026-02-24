@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras de Costa",
+  "scientificName": "Corydoras costai",
+  "slug": "corydoras-costai",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Très clairement soumis à d\"importantes variations saisonnières de milieu, Corydoras costai doit impérativement connaitre une phase fluviale et une phase palustre, pour son bien être et sa reproduction. La zone subit d'importantes fluctuations des niveaux de l'eau douce avec des crues qui viennent inonder les plaines. Les variations physico-chimiques de l'eau sont aussi importantes : pH de 5,0 à...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

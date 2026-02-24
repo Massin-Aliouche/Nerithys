@@ -1,0 +1,27 @@
+{
+  "name": "Killie décoré",
+  "scientificName": "Hypsolebias picturatus",
+  "slug": "hypsolebias-picturatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 4.2,
+  "behavior": "Population: 2 minimum. Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

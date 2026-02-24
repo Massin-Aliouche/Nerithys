@@ -1,0 +1,28 @@
+{
+  "name": "Sandelia bainsii",
+  "scientificName": "Sandelia bainsii",
+  "slug": "sandelia-bainsii",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 22,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 32.5,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

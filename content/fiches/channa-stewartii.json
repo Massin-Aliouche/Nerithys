@@ -1,0 +1,31 @@
+{
+  "name": "Channa stewartii",
+  "scientificName": "Channa stewartii",
+  "slug": "channa-stewartii",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 500,
+  "minLengthCm": 25,
+  "behavior": "Population: 1 minimum. Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/986.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

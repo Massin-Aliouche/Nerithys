@@ -1,0 +1,29 @@
+{
+  "name": "Carpinte",
+  "scientificName": "Herichthys carpintis",
+  "slug": "herichthys-carpintis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 25,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 9,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 20,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

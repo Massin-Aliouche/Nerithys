@@ -1,0 +1,28 @@
+{
+  "name": "Barbus de Snyder",
+  "scientificName": "Barbodes snyderi",
+  "slug": "barbodes-snyderi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 24,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 7,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Ce petit barbus nécessite avant tout un aquarium fortement planté. L'ajout de quelques plantes flottantes et de racines ou branches de bois flotté pour diffuser la lumière entrant dans le réservoir semble également être apprécié et ajoute une sensation plus naturelle. La filtration devra rester assez douce et ne pas créer trop de courant. Paisible et ne se souciant que très peu des autres poiss...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

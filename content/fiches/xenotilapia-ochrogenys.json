@@ -1,0 +1,29 @@
+{
+  "name": "Géophage du Tanganyika",
+  "scientificName": "Xenotilapia ochrogenys",
+  "slug": "xenotilapia-ochrogenys",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 121,
+  "behavior": "Population: 6 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'agencement de l'aquarium sera typique d'un aquarium dédié au biotope Tanganyika, avec une large zone de sable fin et des enrochements, ces derniers étant moins essentiels que pour d'autres espèces. Comportement S'il peut se montrer un peu remuant pendant la période de reproduction, le Xenotilapia ochrogenys n'est pas agressif, ni vis à vis de ses congénères, ni vis à vis des autres occupants ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand"
+  ]
+}

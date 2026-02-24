@@ -1,0 +1,32 @@
+{
+  "name": "Limia cubaine",
+  "scientificName": "Limia vittata",
+  "slug": "limia-vittata",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 8.2,
+  "ghMin": 20,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Vivipare",
+  "notes": "Bien que cette espèce puisse vivre en eau douce, un ajout de sel, de l'ordre de 300 grammes pour 100 litres d'eau est recommandé pour la maintenir dans de bonnes conditions. Le décor pourra reproduire son milieu naturel avec des racines de mangroves, des pierres, et un substrat sableux. Du fait de la salinité les plantes sont plutôt rares. On pourra tenter d'acclimater des Troscarts, Zannichell...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3791.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "facile",
+    "vivipare"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Barbus à trois bandes",
+  "scientificName": "Desmopuntius trifasciatus",
+  "slug": "desmopuntius-trifasciatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 3,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 10.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Desmopuntius trifasciatus peut être conservé dans un aquarium planté, mais un bac biotope semble plus adapté à son bien-être. L’ajout de quelques plantes flottantes pour diffuser la lumière entrant dans le bac, et de racines ou branches de bois flotté semble également apprécié. Un substrat meuble et sablonneux, surfacé d'une litière de feuilles mortes est hautement recommandé, et on peut encore...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

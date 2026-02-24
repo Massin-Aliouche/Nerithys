@@ -1,0 +1,28 @@
+{
+  "name": "Limnochromis auritus",
+  "scientificName": "Limnochromis  auritus",
+  "slug": "limnochromis-auritus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 17,
+  "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Bien que territorial, Limnochromis auritus est un poisson paisible qui ne présente pas de problème de comportement particulier en aquarium communautaire. En dehors des périodes de reproduction, il vit généralement en groupe hiérarchisé. Il est donc recommandé d'introduire 5 ou 6 individus, mais on peut le maintenir en couple une fois celui-ci formé. Naturellement, le Limnochromis auritus passe ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

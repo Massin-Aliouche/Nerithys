@@ -1,0 +1,29 @@
+{
+  "name": "Channa pleurophthalma",
+  "scientificName": "Channa pleurophthalma",
+  "slug": "channa-pleurophthalma",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 450,
+  "minLengthCm": 50,
+  "behavior": "Population: 1 minimum. Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

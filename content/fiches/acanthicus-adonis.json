@@ -1,0 +1,30 @@
+{
+  "name": "Pléco adonis",
+  "scientificName": "Acanthicus adonis",
+  "slug": "acanthicus-adonis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 20000,
+  "minLengthCm": 100,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": "Pour un spécimen adulte, les dimensions de base de l'aquarium doivent être supérieures à 600 cm x 200 cm, ce qui signifie que cette espèce est largement inadaptée aux aquariums privés. Acanthicus adonis préfère un éclairage faible et un accès aux refuges sous forme de bois flotté, de gros rochers ou de tuyaux en plastique. Les juvéniles peuvent être gardés dans des aquariums plantés, mais les a...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/174.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand"
+  ]
+}

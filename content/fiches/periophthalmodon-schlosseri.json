@@ -1,0 +1,29 @@
+{
+  "name": "Periophthalmodon schlosseri",
+  "scientificName": "Periophthalmodon schlosseri",
+  "slug": "periophthalmodon-schlosseri",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 7.5,
+  "phMax": 8.2,
+  "ghMin": 15,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Supérieure",
+  "compatibility": "Zone supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile"
+  ]
+}

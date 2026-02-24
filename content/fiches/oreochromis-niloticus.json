@@ -1,0 +1,29 @@
+{
+  "name": "Oreochromis niloticus",
+  "scientificName": "Oreochromis niloticus",
+  "slug": "oreochromis-niloticus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 12,
+  "tempMax": 35,
+  "phMin": 5,
+  "phMax": 9,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 60,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

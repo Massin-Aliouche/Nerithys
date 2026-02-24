@@ -1,0 +1,30 @@
+{
+  "name": "Cichla melaniae",
+  "scientificName": "Cichla melaniae",
+  "slug": "cichla-melaniae",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 30,
+  "tempMax": 0,
+  "phMin": 6.5,
+  "phMax": 0,
+  "ghMin": 1,
+  "ghMax": 0,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 36,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Une maintenance en aquarium est peu conseillée de par sa taille et ses tendances fortement prédatrices, c’est un poisson plutôt à réserver à un aquarium public de plusieurs mètres cubes.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

@@ -19,8 +19,13 @@
   "diet": "Omnivore: paillettes, microgranulés, proies vivantes.",
   "breeding": "Vivipare, reproduction facile.",
   "notes": "Espèce de petite taille idéale pour nano-bacs.",
-  "sources": ["https://www.fishipedia.fr/fr/poissons/poecilia-wingei"],
-  "images": ["https://www.fishi-pedia.com/wp-content/uploads/2017/11/Poecilia-wingei.jpg"],
+  "images": [
+    "https://www.fishi-pedia.com/wp-content/uploads/2017/11/Poecilia-wingei.jpg"
+  ],
   "gallery": [],
-  "tags": ["vivipare","nano","facile"]
+  "tags": [
+    "vivipare",
+    "nano",
+    "facile"
+  ]
 }

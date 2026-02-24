@@ -1,0 +1,29 @@
+{
+  "name": "Sphoeroides testudineus",
+  "scientificName": "Sphoeroides testudineus",
+  "slug": "sphoeroides-testudineus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7.8,
+  "phMax": 8.4,
+  "ghMin": 5,
+  "ghMax": 11,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 35,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile"
+  ]
+}

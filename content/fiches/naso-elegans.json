@@ -1,0 +1,31 @@
+{
+  "name": "Naso elegans",
+  "scientificName": "Naso elegans",
+  "slug": "naso-elegans",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 0,
+  "phMin": 8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 45,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/2378.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Corydoras de Gladys",
+  "scientificName": "Corydoras gladysae",
+  "slug": "corydoras-gladysae",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 5,
+  "tempMax": 18,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 5,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "C'est un Corydoras d'eau torrentielle, fraiche et basique très difficile à maintenir dans de bonnes conditions. Ce poisson rare et au biotope particulier demande une aquarium biotope spécifique de type rivière. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettr...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano",
+    "exigeant"
+  ]
+}

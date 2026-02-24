@@ -1,0 +1,30 @@
+{
+  "name": "Anthias anthias",
+  "scientificName": "Anthias anthias",
+  "slug": "anthias-anthias",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 15,
+  "tempMax": 22,
+  "phMin": 8.1,
+  "phMax": 8.3,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/374.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

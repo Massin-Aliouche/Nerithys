@@ -1,0 +1,31 @@
+{
+  "name": "Goujon",
+  "scientificName": "Gobio gobio",
+  "slug": "gobio-gobio",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 10,
+  "tempMax": 18,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/1703.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "facile"
+  ]
+}

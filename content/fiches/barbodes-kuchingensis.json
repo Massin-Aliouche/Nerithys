@@ -1,0 +1,28 @@
+{
+  "name": "Faux Barbus T",
+  "scientificName": "Barbodes kuchingensis",
+  "slug": "barbodes-kuchingensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 13,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On trouve principalement Barbodes kuchingensis dans les ruisseaux forestiers peu profonds contenant de l'eau claire, parfois dans les bassins qui se forment au pied des cascades. Les substrats peuvent comprendre des roches lisses et usées par l'eau et des rochers de différentes tailles, du sable ou du gravier, souvent avec des structures ligneuses submergées, de la litière de feuilles et des pl...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

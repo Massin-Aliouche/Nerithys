@@ -1,0 +1,29 @@
+{
+  "name": "Tétra point-barre",
+  "scientificName": "Hemigrammus bellottii",
+  "slug": "hemigrammus-bellottii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 12 minimum (24 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Hemigrammus bellottii fréquente les forêts inondables aux eaux claires, noires, acides et douces. Une installation reproduisant le biotope sera le meilleur choix. Utilisez un substrat de sable de rivière complété de quelques branches de bois flotté ou de hêtre et des racines. Quelques poignées de feuilles séchées de hêtre ou de chêne complèteront l'aspect naturel. Les plantes aquatiques ne font...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

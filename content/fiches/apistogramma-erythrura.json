@@ -1,0 +1,30 @@
+{
+  "name": "Apistogramma erythrura",
+  "scientificName": "Apistogramma erythrura",
+  "slug": "apistogramma-erythrura",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 2,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 7,
+  "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/431.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

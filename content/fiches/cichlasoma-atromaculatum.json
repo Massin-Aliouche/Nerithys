@@ -1,0 +1,29 @@
+{
+  "name": "Cichlasoma atromaculatum",
+  "scientificName": "Cichlasoma atromaculatum",
+  "slug": "cichlasoma-atromaculatum",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 25,
+  "phMin": 0,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 25,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

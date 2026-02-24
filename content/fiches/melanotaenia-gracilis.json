@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel gracile",
+  "scientificName": "Melanotaenia gracilis",
+  "slug": "melanotaenia-gracilis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 7.5,
+  "behavior": "Population: 8 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Peu d'informations sont disponibles concernant la biologie de l'espèce autre qu'une préférence pour les eaux claires et la reproduction a lieu entre 20 et 26°C (Leggett et Merrick 1987). Attention ! : Son habitat est soumis à des changements saisonniers en termes de température et de chimie de l'eau, ce qui en fait une espèce adaptable pour les uns, mais compliquée à satisfaire pour les autres....",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

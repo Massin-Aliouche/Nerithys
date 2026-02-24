@@ -1,0 +1,28 @@
+{
+  "name": "Rineloricaria parva",
+  "scientificName": "Rineloricaria parva",
+  "slug": "rineloricaria-parva",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 68,
+  "minLengthCm": 12,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Herbivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

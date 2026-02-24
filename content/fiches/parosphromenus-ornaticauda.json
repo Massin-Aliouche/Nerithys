@@ -1,0 +1,29 @@
+{
+  "name": "Parosphromenus ornaticauda",
+  "scientificName": "Parosphromenus ornaticauda",
+  "slug": "parosphromenus-ornaticauda",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 4.5,
+  "phMax": 4.5,
+  "ghMin": 0,
+  "ghMax": 4,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 3,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

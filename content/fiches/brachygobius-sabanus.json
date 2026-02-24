@@ -1,0 +1,32 @@
+{
+  "name": "Gobie de Sabah",
+  "scientificName": "Brachygobius sabanus",
+  "slug": "brachygobius-sabanus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 8.5,
+  "ghMin": 0,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 3,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 3",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Brachygobius sabanus habite donc à la fois les eaux douces et saumâtres et se limite généralement aux basses terres et aux environnements côtiers, y compris les mangroves, les estuaires et les courants de marée. Essentiellement nocturnes, les Gobius passent la journée fixés à une roche ou à une vitre par la ventouse formée par la réunion de leurs nageoires ventrales. Ils préfèrent une eau légèr...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/5169.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

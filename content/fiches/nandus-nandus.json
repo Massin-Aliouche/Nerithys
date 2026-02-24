@@ -1,0 +1,29 @@
+{
+  "name": "Nandus nandus",
+  "scientificName": "Nandus nandus",
+  "slug": "nandus-nandus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 6,
+  "ghMax": 11,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

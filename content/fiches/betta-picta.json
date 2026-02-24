@@ -1,0 +1,28 @@
+{
+  "name": "Combattant décoré",
+  "scientificName": "Betta picta",
+  "slug": "betta-picta",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 6,
+  "behavior": "Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Bien que de nombreux éleveurs préfèrent ne pas utiliser de substrat pour faciliter l'entretien, un aquarium fortement planté conviendra parfaitement au Betta picta. Les racines et les branches de bois flotté peuvent être utilisées et placées de manière à former quelques points ombragés, tandis que des pots en argile ou des morceaux de tuyaux peuvent également être inclus pour fournir un abri su...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

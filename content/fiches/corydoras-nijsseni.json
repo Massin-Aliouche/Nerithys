@@ -1,0 +1,30 @@
+{
+  "name": "Corydoras de Nijssen",
+  "scientificName": "Corydoras nijsseni",
+  "slug": "corydoras-nijsseni",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Habite principalement les rivières, les ruisseaux et les affluents aux eaux noires, teintée par les tanins et autres produits chimiques libérés par la matière organique en décomposition, et est par conséquent très acide. C'est un excellent ajout à l'installation d'un biotope \"Rio Negro\". Température : 72 à 78°F (22 à 26°C) pH : 5,0 à 7,0. Les poissons élevés en aquarium vivront assez bien dans ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1300.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

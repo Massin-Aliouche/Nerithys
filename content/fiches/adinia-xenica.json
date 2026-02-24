@@ -1,0 +1,28 @@
+{
+  "name": "Killi barré",
+  "scientificName": "Adinia xenica",
+  "slug": "adinia-xenica",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 35,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 15,
+  "ghMax": 22,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 6,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "facile"
+  ]
+}

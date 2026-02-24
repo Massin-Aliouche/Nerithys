@@ -1,0 +1,31 @@
+{
+  "name": "Faux néon",
+  "scientificName": "Paracheirodon simulans",
+  "slug": "paracheirodon-simulans",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 35,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 3,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le faux néon se plaira dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Les plantes aquatiques ne sont pas présentes dans les eaux naturelles de cette espèce. Le bois et les feuilles donne...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2579.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

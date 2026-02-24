@@ -1,0 +1,32 @@
+{
+  "name": "Carpe commune",
+  "scientificName": "Cyprinus carpio",
+  "slug": "cyprinus-carpio",
+  "biotope": "Eau saumâtre",
+  "difficulty": 4,
+  "tempMin": 3,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 8.5,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 2000,
+  "minLengthCm": 60,
+  "behavior": "Population: 4 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La carpe ne peut être maintenue que dans des bassins de relativement grande taille et sa maintenance en aquarium est quasi impossible, hormis pour des juvéniles. Elle est très tolérante quand aux paramètres et peut facilement passer l'hiver en extérieur du moment que le bassin ne soit pas totalement pris par la glace. Elle s'adapte a des conditions de vie très pauvre (0,3-0,5 mg/l) ou au contra...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1458.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

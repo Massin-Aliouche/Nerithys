@@ -1,0 +1,28 @@
+{
+  "name": "Panchax Spilauchen",
+  "scientificName": "Aplocheilichthys spilauchen",
+  "slug": "aplocheilichthys-spilauchen",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 32,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 7,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "facile"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Papillon triangulaire indien",
+  "scientificName": "Chaetodon triangulum",
+  "slug": "chaetodon-triangulum",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Coralivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

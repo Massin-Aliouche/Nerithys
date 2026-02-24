@@ -1,0 +1,28 @@
+{
+  "name": "Scriptaphyosemion schmitti",
+  "scientificName": "Scriptaphyosemion schmitti",
+  "slug": "scriptaphyosemion-schmitti",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 24,
+  "phMin": 6,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 2,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4.5,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

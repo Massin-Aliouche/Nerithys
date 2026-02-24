@@ -1,0 +1,29 @@
+{
+  "name": "Loche à queue fourchue",
+  "scientificName": "Vaillantella maassi",
+  "slug": "vaillantella-maassi",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 29,
+  "phMin": 3,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 14,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Vaillantella maassi se rencontre dans les eaux peu profondes en bordure des ruisseaux forestiers aux eaux noires, bien qu'elle puisse également se rencontrer dans des eaux claires à troubles. L'habitat est normalement ombragé par la végétation marginale et la canopée forestière. L'eau de ces ruisseaux est généralement pauvre en minéraux dissous et peut être très acide avec un pH mesuré aussi ba...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

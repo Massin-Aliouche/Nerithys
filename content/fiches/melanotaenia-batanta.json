@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel de Batanta",
+  "scientificName": "Melanotaenia batanta",
+  "slug": "melanotaenia-batanta",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Attention ! : Les paramètres indiqués ici sont extrapolés à partir de ceux donnés pour les espèces mieux connues de mélanoténies également présentes dans l'archipel de Raja Ampat. Melanotaenia batanta n'étant pas, ou si peu, disponible dans la commerce, on ne pourra ici qu'ébaucher des pistes de maintenance. La présence de ce poisson arc-en-ciel est limitée à une très petite partie d'un ruissea...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

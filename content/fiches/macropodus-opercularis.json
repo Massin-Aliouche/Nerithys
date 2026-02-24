@@ -1,0 +1,31 @@
+{
+  "name": "Macropode doré",
+  "scientificName": "Macropodus opercularis",
+  "slug": "macropodus-opercularis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 10,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 4,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 8,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Le Macropodus opercularis demande une lumière tamisée et un aquarium bien planté. On privilégiera donc des plantes à tige hautes et les plantes flottantes. Les Nymphaea, Cryptocoryne, Salvinia, Lemna minor… sont donc de bons choix. Il appréciera aussi le bois flotté pour les refuges que cela peut créer. L'ajout d'une litière de feuilles séchées offre une couverture supplémentaire et permet la c...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2182.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

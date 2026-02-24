@@ -1,0 +1,28 @@
+{
+  "name": "Pethia ticto",
+  "scientificName": "Pethia ticto",
+  "slug": "pethia-ticto",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 14,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6.3,
+  "behavior": "Population: 10 minimum",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Vu la diversité et la taille de son aire de répartition, les paramètres de maintenance sont assez larges et l'espèce probablement très adaptable. Il est toutefois recommandé de se renseigner auprès du vendeur sur les paramètres qu'il utilise pour le maintenir. C'est une espèce pacifique, qui convient parfaitement à un aquarium communautaire. Grégaire, il est souhaitable de le maintenir en group...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

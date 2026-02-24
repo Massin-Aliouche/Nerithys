@@ -1,0 +1,32 @@
+{
+  "name": "Chirurgien à queue jaune",
+  "scientificName": "Zebrasoma xanthurum",
+  "slug": "zebrasoma-xanthurum",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 800,
+  "minLengthCm": 30,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/3458.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "grand",
+    "facile"
+  ]
+}

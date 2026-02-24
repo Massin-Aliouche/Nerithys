@@ -1,0 +1,30 @@
+{
+  "name": "Coucou du Tanganyika",
+  "scientificName": "Synodontis multipunctatus",
+  "slug": "synodontis-multipunctatus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 15,
+  "ghMax": 35,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 600,
+  "minLengthCm": 30,
+  "behavior": "Population: 4 minimum (6 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "C'est un grand poisson sociable à qui il faut réserver un grand espace de nage. Il est impératif de lui proposer un aquarium biotope des grands lacs du rift africain, avec un volume d'eau d'au moins cinq-cents à huit-cents litres pour cinq à six poissons, avec une température de 21 à 27 °C et une eau dure avec d'un GH supérieur à 10. L'aquarium devra être constitué de formations rocheuses dispo...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

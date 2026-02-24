@@ -1,0 +1,30 @@
+{
+  "name": "Vivaneau blanc",
+  "scientificName": "Oxygaster anomalura",
+  "slug": "oxygaster-anomalura",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 2000,
+  "minLengthCm": 20,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Oxygaster anomalura est présent dans les marais de plaine, les tourbières et les rivières. On le trouve à la surface des rivières de montagne avec une couverture végétale quasi complète ou complète (Rainboth 1996). Cependant, ces poissons sont adaptés aux conditions rhéophiles et préfèrent les eaux oxygénées des systèmes fluviaux aux milieux lentiques comme les lacs ouverts. Il vit dans les eau...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

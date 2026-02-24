@@ -1,0 +1,30 @@
+{
+  "name": "Bouvière européenne",
+  "scientificName": "Rhodeus amarus",
+  "slug": "rhodeus-amarus",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 5,
+  "tempMax": 24,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": 10,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 7,
+  "behavior": "Population: 2 minimum (6 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "La Bouvière est une espèce qui vit dans les eaux calmes et stagnantes, voire peu courantes comme des lacs ou des étangs. L’eau de ces milieux est en général claire et avec peu de profondeur, possédant une végétation aquatique assez dense et un substrat plutôt composé de sable ou de vase. Sa présence est fortement liée à celle des mollusques bivalves, indispensables à sa reproduction. La tempéra...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3064.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

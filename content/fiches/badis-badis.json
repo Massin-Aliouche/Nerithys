@@ -1,0 +1,31 @@
+{
+  "name": "Badis Caméléon",
+  "scientificName": "Badis badis",
+  "slug": "badis-badis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 15,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 3,
+  "ghMax": 16,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 7,
+  "behavior": "Population: 3 minimum (6 recommandé). Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Badis badis fréquente les rivières peu profonde à faible débit qui traverse des rizières et ne présente que peu de végétation marginale. L'eau y est légèrement trouble et \"brunâtre\" avec un substrat de boue dans lequel poussent certaines plantes aquatiques. Afin de reproduire au mieux son milieu, l'aquarium type sera aménagé un substrat de sable ou de gravier fin, ainsi que des galets agencées ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/601.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

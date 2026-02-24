@@ -1,0 +1,28 @@
+{
+  "name": "Queue en ciseau rouge",
+  "scientificName": "Rasbora caudimaculata",
+  "slug": "rasbora-caudimaculata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 18,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce grand Rasbora vit dans des cours d'eau forestiers à débit rapide avec des substrats de rochers, de petites pierres, de sable ou de gravier, que dans des eaux noires à écoulement plus lent associées à des zones de forêt de tourbières qui sont généralement remplis de feuilles mortes, de brindilles et de branches. Il s'agit d'un poisson profitant des débordement consécutifs à la saison des plui...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

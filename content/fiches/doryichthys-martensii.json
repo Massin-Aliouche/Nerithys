@@ -1,0 +1,30 @@
+{
+  "name": "Syngnathe à long museau",
+  "scientificName": "Doryichthys martensii",
+  "slug": "doryichthys-martensii",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 15,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovovivipare, difficulté: Difficile",
+  "notes": "Doryichthys martensii vit dans les rivières et les ruisseaux. Il fréquente principalement les eaux courantes calmes où il peut être trouvé à l'ombre de la végétation riveraine ou dans une végétation aquatique dense qui lui procure une ombre salutaire. D. martensii vit plus au fond que de nombreuses autres espèces de syngnathes à long nez, mais nage aussi souvent en eau libre. C'est un poisson t...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant",
+    "vivipare"
+  ]
+}

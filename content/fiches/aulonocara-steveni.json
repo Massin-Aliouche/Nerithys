@@ -1,0 +1,30 @@
+{
+  "name": "Aulonocara steveni",
+  "scientificName": "Aulonocara steveni",
+  "slug": "aulonocara-steveni",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 9,
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "L'agencement de l'aquarium est typique des aquariums 'Malawi'. Des pierres sont disposées plutôt sur l'arrière et les cotés de l'aquarium laissant de larges espaces ouverts de sable. Ce dernier doit être relativement fin pour permettre aux poissons de se nourrir de façon naturelle. Les sables grossiers, le gravier ou les petits cailloux peuvent empêcher l'alimentation, endommager les branchies ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/584.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

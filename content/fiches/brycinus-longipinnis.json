@@ -1,0 +1,31 @@
+{
+  "name": "Tétra à longues nageoires",
+  "scientificName": "Brycinus longipinnis",
+  "slug": "brycinus-longipinnis",
+  "biotope": "Eau saumâtre",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 15,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Bien qu'il s'agisse essentiellement d'un poisson d'eau douce, Brycinus longipinnis peut vivre dans les eaux saumâtres. C'est un poisson amphidrome qu'on trouve dans le cours supérieur des rivières mais aussi dans les eaux estuariennes. Espèce grégaire, il vit en groupe important. On proposera donc au Tétra à longues nageoires un bac bien planté en eau dure avec des variations saisonnière reprod...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/782.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras Apiakà",
+  "scientificName": "Corydoras apiaka",
+  "slug": "corydoras-apiaka",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Collecté principalement dans les petits ruisseaux forestiers d'eau noire ou claire, ou dans les étangs marginaux, C. apiaka fréquente un environnement qui se caractérise par une couleur brun boueux et un fond mou d'argile et de sable. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"riv...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

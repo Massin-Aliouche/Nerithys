@@ -1,0 +1,28 @@
+{
+  "name": "Tétra à grandes écailles",
+  "scientificName": "Heterocharax macrolepis",
+  "slug": "heterocharax-macrolepis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 6,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Heterocharax macrolepis fréquente les igarapés (H. Bleher), les bras morts des rivières et les forêts inondées mais aussi les rivières lentes. Pendant la saison des pluies, les igarapés sont assez larges et l'eau y noire, avec une assez grande profondeur, au fond tapissé de feuilles mortes, encombré de racines et les branchages. Le sol est essentiellement composé d'humus forestier. Lors de la s...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

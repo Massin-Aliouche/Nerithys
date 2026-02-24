@@ -1,0 +1,32 @@
+{
+  "name": "Aspe",
+  "scientificName": "Leuciscus aspius",
+  "slug": "leuciscus-aspius",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 120,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": "Ce poisson est à réserver aux grands espaces (lacs, rivières et fleuves), de par sa taille, mode de vie et vitesse de nage. On ne peut concevoir de le mettre en aquarium, si ce n'est en aquarium public, dans des bassins de grandes tailles, de volume en mètres cubes !",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2130.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

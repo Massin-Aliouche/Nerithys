@@ -1,0 +1,30 @@
+{
+  "name": "Austrolebias nigripinnis",
+  "scientificName": "Austrolebias nigripinnis",
+  "slug": "austrolebias-nigripinnis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 10,
+  "tempMax": 27,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 6,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/591.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

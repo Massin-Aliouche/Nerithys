@@ -1,0 +1,29 @@
+{
+  "name": "Labéo du Mékong",
+  "scientificName": "Epalzeorhynchos munense",
+  "slug": "epalzeorhynchos-munense",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 450,
+  "minLengthCm": 18,
+  "behavior": "Population: 1 minimum (6 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "On ne sait pas grand chose de la maintenance de ce Labéo, mais elle est probablement similaire à d'autres membres du genre, auxquels on se rapportera. Comme les autres membres du genre, Epalzeorhynchos munense est un migrateur potamodrome Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

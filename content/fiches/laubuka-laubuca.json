@@ -1,0 +1,28 @@
+{
+  "name": "Danio de verre du Bengal",
+  "scientificName": "Laubuka laubuca",
+  "slug": "laubuka-laubuca",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 10,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Laubuka laubuca fréquente la zone de profondeur moyenne des ruisseaux, des étangs. Il est présent dans les zones peu profondes et relativement profondes des cours d’eau, à la fois dans les eaux calmes et à courant relativement rapide. Il forme des bancs de quinze à trente individus et fraie au crépuscule ou à l'aube dans les eaux peu profondes (Pethiyagoda, R., 1991), et dans les zones humides ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

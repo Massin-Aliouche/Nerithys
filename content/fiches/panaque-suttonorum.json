@@ -1,0 +1,29 @@
+{
+  "name": "Panaque aux yeux bleus",
+  "scientificName": "Panaque suttonorum",
+  "slug": "panaque-suttonorum",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 6.2,
+  "phMax": 7.5,
+  "ghMin": 4,
+  "ghMax": 18,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 28,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Algivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Demoiselle blanche",
+  "scientificName": "Pomacanthus arcuatus",
+  "slug": "pomacanthus-arcuatus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": 7.5,
+  "phMax": 8.3,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 0,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/8483.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "facile"
+  ]
+}

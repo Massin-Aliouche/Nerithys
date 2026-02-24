@@ -1,0 +1,28 @@
+{
+  "name": "Petrocephalus bovei bovei",
+  "scientificName": "Petrocephalus bovei bovei",
+  "slug": "petrocephalus-bovei-bovei",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 14,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Heteropneustes fossilis",
+  "scientificName": "Heteropneustes fossilis",
+  "slug": "heteropneustes-fossilis",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 30,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

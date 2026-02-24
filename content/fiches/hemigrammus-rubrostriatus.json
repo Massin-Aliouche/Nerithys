@@ -1,0 +1,31 @@
+{
+  "name": "Hemigrammus rubrostriatus",
+  "scientificName": "Hemigrammus rubrostriatus",
+  "slug": "hemigrammus-rubrostriatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4.9,
+  "behavior": "Population: 10 minimum",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Hemigrammus rubrostriatus se plaira dans un aquarium lui offrant à la fois une bonne longueur de nage (minimum 80 cm) et un décor riche (plantes, racines) qui fournira des refuges et lui permettra donc de se sentir en confiance. Des plantes flottantes sont conseillées afin de tamiser la lumière. La qualité et la stabilité de l'eau est très importante pour cette espèce. Les nitrates doivent rest...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3815.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

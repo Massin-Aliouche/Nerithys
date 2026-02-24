@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel d'Irian Jaya",
+  "scientificName": "Melanotaenia irianjaya",
+  "slug": "melanotaenia-irianjaya",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 29,
+  "phMin": 5,
+  "phMax": 8.5,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Melanotaenia irianjaya n'étant pas, ou si peu, disponible dans la commerce, on ne pourra ici qu'ébaucher des pistes de maintenance. Cette espèce est présente dans de petits cours d'eau clairs, coulant principalement à travers la forêt de secondaire. Le poisson se trouve dans des zones avec peu de plantes aquatiques, sur des fonds de gravier ou de sable, souvent autour de branches submergées. Le...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Tétra des roseaux",
+  "scientificName": "Hyphessobrycon elachys",
+  "slug": "hyphessobrycon-elachys",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 3,
+  "behavior": "Population: 10 minimum (15 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Dans son habitat naturel, Hyphessobrycon elachys forme volontiers des bancs mixtes, avec d'autres tétras d'apparence similaire et Corydoras hastatus avec lequel il semble former une relation mimétique. Comme Corydoras hastatus avec qui il partage le gîte et le couvert, il semble fréquenter le bord des grands cours d'eau ou il vit en petit groupe parmi les plantes aquatiques. Il y est abondant p...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1972.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

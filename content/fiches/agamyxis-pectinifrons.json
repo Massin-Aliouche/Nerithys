@@ -1,0 +1,31 @@
+{
+  "name": "Silure à bandes blanches",
+  "scientificName": "Agamyxis pectinifrons",
+  "slug": "agamyxis-pectinifrons",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 15,
+  "behavior": "Population: 1 minimum. Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "Il est préférable de le maintenir dans un environnement faiblement éclairé, avec un substrat doux et sablonneux et beaucoup de couverture sous forme de végétation aquatique, d'enchevêtrements de bois flotté ou de grottes artificielles. Les lumières vives ne sont pas vraiment adaptés d'une part car cette espèce est nocturne par nature et d'autre part car elle vit sous couvert forestier. Non agre...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/238.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

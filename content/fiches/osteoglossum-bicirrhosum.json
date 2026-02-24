@@ -1,0 +1,31 @@
+{
+  "name": "Arowana",
+  "scientificName": "Osteoglossum bicirrhosum",
+  "slug": "osteoglossum-bicirrhosum",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 3,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 1500,
+  "minLengthCm": 91,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "C’est une des plus grandes espèces du hobby aquariophile d’eau douce, au moins 90cm adulte, plusieurs kilos (jusqu’à 6kg) aussi son volume d’aquarium ne peut se mesurer qu’en mètres cubes, sans oublier que c’est un excellent sauteur ! Sa maintenance difficile sera donc réservée aux aquariophiles avertis, capables de lui fournir l’espace et l’eau très douce dont il a besoin, ou bien aux aquarium...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2506.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "exigeant"
+  ]
+}

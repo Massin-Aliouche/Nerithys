@@ -1,0 +1,28 @@
+{
+  "name": "Badis de Khwae",
+  "scientificName": "Badis khwae",
+  "slug": "badis-khwae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 26,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 6.5,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La plupart des spécimens ont été collectés dans des cours d'eau à débit lent à modéré et aux eaux troubles ou claires selon la saison. Badis khwae fréquente de petits ruisseaux peu profond avec un fond sablonneux avec un peu de végétation aquatique, sous le couvert des arbres ou dans un ruisseau relativement grand et dans un réservoir alimenté par une source où l'eau y était très claire et froi...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel de Du Boulay",
+  "scientificName": "Melanotaenia duboulayi",
+  "slug": "melanotaenia-duboulayi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 11,
+  "tempMax": 34,
+  "phMin": 6,
+  "phMax": 9,
+  "ghMin": 1,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 12,
+  "behavior": "Population: 8 minimum (15 recommandé). Zone: Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Melanotaenia duboulayi habite une gamme variée d'environnements d'eau calme et claire, y compris les rivières, les ruisseaux, les drains, les étangs, les lacs dunaires et les réservoirs dans les zones côtières sablonneuses et les habitats forestiers intérieurs, avec une préférence pour la végétation aquatique dense. Leur environnement naturel est soumis à des variations saisonnières avec des ni...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

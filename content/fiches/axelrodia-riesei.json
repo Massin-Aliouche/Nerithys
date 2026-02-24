@@ -1,0 +1,31 @@
+{
+  "name": "Tétra Rubis",
+  "scientificName": "Axelrodia riesei",
+  "slug": "axelrodia-riesei",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 2,
+  "behavior": "Population: 10 minimum. Zone: Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'Axelrodia riesei se plaira dans un aquarium agencé pour reproduire un biotope Amazonien. L'important sera le maintien en eau noire, très douce et acide. L'emploi d'eau osmosée et de tourbe ou d'une abondante litière de feuilles mortes, est fortement recommandé. Le substrat se composera préférentiellement de sable de rivière et le décor de quelques branches de bois flotté ou de racines. Les pl...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/597.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel de Misool",
+  "scientificName": "Melanotaenia misoolensis",
+  "slug": "melanotaenia-misoolensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 29,
+  "phMin": 6,
+  "phMax": 8.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 6.5,
+  "behavior": "Population: 8 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'habitat typique du Poisson arc-en-ciel de Misool est un ruisseau clair à débit modéré qui coule à travers une jungle dense, avec un fond rocheux ou de gravier et une végétation aquatique minimale. Il semble que ce poisson arc-en-ciel soit facile à maintenir. Très adaptable en ce qui concerne les paramètres de l'eau il s'adaptera normalement à une valeur de pH de 6,0 à 8,5 et une température d...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

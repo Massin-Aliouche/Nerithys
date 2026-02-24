@@ -1,0 +1,29 @@
+{
+  "name": "Xenotoca eiseni",
+  "scientificName": "Xenotoca eiseni",
+  "slug": "xenotoca-eiseni",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 15,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 7,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Vivipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile",
+    "vivipare"
+  ]
+}

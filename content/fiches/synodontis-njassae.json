@@ -1,0 +1,31 @@
+{
+  "name": "Poisson chat du Malawi",
+  "scientificName": "Synodontis njassae",
+  "slug": "synodontis-njassae",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 15,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 18,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "L'agencement de l'aquarium sera typique d'un aquarium du Malawi, avec des empilements de rochers disposés pour former des grottes et un substrat obligatoirement constitué de sable fin. Un éclairage faible incitera les poissons à se montrer plus fréquemment. Il ne doit pas être maintenu avec des poissons suffisamment petits pour être considérés comme de la nourriture mais constitue un bon complé...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3246.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

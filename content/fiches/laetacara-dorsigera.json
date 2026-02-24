@@ -1,0 +1,28 @@
+{
+  "name": "Acara à poitrine rouge",
+  "scientificName": "Laetacara dorsigera",
+  "slug": "laetacara-dorsigera",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 8,
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le Laetacara dorsigera doit être maintenu dans un aquarium d’au moins 100L comportant de nombreuses cachettes (environ 2 par poisson ou par couple) et avec une qualité d’eau irréprochable. L’aquarium devras être extrêmement bien planté pour rassurer ce poisson timide et lui permettre de se dissimuler de ces congénères. L'ajout de racines créera des cachettes supplémentaires. Quelques pierres pl...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

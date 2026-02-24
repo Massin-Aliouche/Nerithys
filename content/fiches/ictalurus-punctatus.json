@@ -1,0 +1,30 @@
+{
+  "name": "Barbus de rivière",
+  "scientificName": "Ictalurus punctatus",
+  "slug": "ictalurus-punctatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 10,
+  "tempMax": 32,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 60,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

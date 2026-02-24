@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel de Sentani",
+  "scientificName": "Chilatherina sentaniensis",
+  "slug": "chilatherina-sentaniensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 32,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 9,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Dans le lac Sentani, le pH évolue de 7,0 à 8,0 en fonction des saisons (et des pluies) avec une eau toujours moyennement dure avec une gamme GH de 10 à 20. En revanche, le lac étant situé au niveau de l'équateur, la température y est d'une stabilité exemplaire, ne variant que de 22 à 25 °C mais plus chaud sur les rives. On trouve C. sentanensis parmi la végétation aquatique dans le lac principa...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

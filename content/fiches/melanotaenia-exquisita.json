@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel élégant*",
+  "scientificName": "Melanotaenia exquisita",
+  "slug": "melanotaenia-exquisita",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 8,
+  "behavior": "Population: 8 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Il y a très peu de rapport de maintenance et d'élevage pour cette espèce et on ne pourra ici qu'énoncer des pistes d'accueil qui demanderont à être confirmées par l'expérience. Melanotaenia exquisita habite généralement de petits cours d'eau clairs et rapides, se rassemblant souvent dans des bassins rocheux à la base de petites chutes d'eau. On tâchera de reproduire au mieux l'habitat naturel e...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

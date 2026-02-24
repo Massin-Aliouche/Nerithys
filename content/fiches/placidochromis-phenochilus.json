@@ -1,0 +1,30 @@
+{
+  "name": "Placidochromis phenochilus",
+  "scientificName": "Placidochromis phenochilus",
+  "slug": "placidochromis-phenochilus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 21,
+  "tempMax": 26,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 14,
+  "behavior": "Population: 3 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": "Les mâles ne sont pas territoriaux",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2701.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

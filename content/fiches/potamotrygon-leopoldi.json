@@ -1,0 +1,31 @@
+{
+  "name": "Potamotrygon leopoldi",
+  "scientificName": "Potamotrygon leopoldi",
+  "slug": "potamotrygon-leopoldi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 6.8,
+  "ghMin": 4,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 80,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/2779.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

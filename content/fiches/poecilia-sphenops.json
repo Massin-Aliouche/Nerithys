@@ -1,0 +1,32 @@
+{
+  "name": "Molly",
+  "scientificName": "Poecilia sphenops",
+  "slug": "poecilia-sphenops",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 7.2,
+  "phMax": 8.5,
+  "ghMin": 15,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 10,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovovivipare, difficulté: Courante",
+  "notes": "Il est recommandé de maintenir les Poecilia sphenops dans un aquarium fortement planté. Les femelles (et mâles dominés) pourront ainsi se cacher parmi les plantes, et échapper au harcèlement des mâles. Les molly ont besoin d'une eau basique et dure, bien davantage encore que les Guppy, Xipho ou Platy, souvent maintenues avec lui. Bien que pouvant parfaitement être maintenu en eau douce, une eau...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2738.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "facile",
+    "vivipare"
+  ]
+}

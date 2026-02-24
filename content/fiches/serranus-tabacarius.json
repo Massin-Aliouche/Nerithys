@@ -1,0 +1,29 @@
+{
+  "name": "Serranus tabacarius",
+  "scientificName": "Serranus tabacarius",
+  "slug": "serranus-tabacarius",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": 7.8,
+  "phMax": 8.4,
+  "ghMin": 5,
+  "ghMax": 11,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 22,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand",
+    "facile"
+  ]
+}

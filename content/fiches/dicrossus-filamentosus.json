@@ -1,0 +1,31 @@
+{
+  "name": "Cichlidé nain à damier",
+  "scientificName": "Dicrossus filamentosus",
+  "slug": "dicrossus-filamentosus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 4.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 10,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "D. filamentosus vit en groupe lâche, dans des ruisseaux forestiers, petits cours d'eau, bras morts, bordures de rivières... L'eau y est \"noire\", le courant relativement faible, et le lit jonché de branches, de feuilles mortes. Les plantes aquatiques y sont plutôt rares. Pour reproduire ce biotope particulier, on pourra le maintenir dans un aquarium agencé pour reproduire un biotope \"Amazonien n...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1513.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

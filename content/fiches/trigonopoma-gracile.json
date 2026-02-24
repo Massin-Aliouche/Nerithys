@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora à bande noire",
+  "scientificName": "Trigonopoma gracile",
+  "slug": "trigonopoma-gracile",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 7,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Trigonopoma gracile fréquente principalement les cours d’eaux noires et les rivières associées à d'anciens marécages forestiers de tourbière dans lesquels l’eau est généralement colorée en brun foncé par les acides humiques et d’autres produits chimiques libérés par des matières organiques en décomposition. Les minéraux dissous y sont négligeables et le pH peut descendre jusqu'à 3,0 ou 4,0. La ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

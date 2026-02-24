@@ -1,0 +1,32 @@
+{
+  "name": "Pléco solaire",
+  "scientificName": "Scobinancistrus aureatus",
+  "slug": "scobinancistrus-aureatus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 600,
+  "minLengthCm": 30,
+  "behavior": "Population: 4 minimum (6 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "La maintenance de S. aureatus semble délicate, car nécessitant un grand volume et une température élevée. En raison de leurs exigences, et de leur tempérament paisible, ils peuvent cependant constituer de bons compagnons dans un bac à Discus, par exemple, ou d'espèces fréquentant des eaux aux caractéristiques similaires pour peu qu'on respecte les variations saisonnières importantes liées au mi...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3117.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

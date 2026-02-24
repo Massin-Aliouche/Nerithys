@@ -1,0 +1,28 @@
+{
+  "name": "Xenotilapia leptura",
+  "scientificName": "Xenotilapia leptura",
+  "slug": "xenotilapia-leptura",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 29,
+  "phMin": 8,
+  "phMax": 9.5,
+  "ghMin": 6,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Neolamprologus leleupi",
+  "scientificName": "Neolamprologus leleupi",
+  "slug": "neolamprologus-leleupi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 27,
+  "phMin": 8,
+  "phMax": 9,
+  "ghMin": 7,
+  "ghMax": 18,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 12,
+  "behavior": "Population: 5 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

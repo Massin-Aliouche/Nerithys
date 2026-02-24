@@ -1,0 +1,28 @@
+{
+  "name": "Tétra à nageoires noires",
+  "scientificName": "Alestopetersius nigropterus",
+  "slug": "alestopetersius-nigropterus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 7,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'habitat naturel ou la biologie sont mal documentés mais cette espèce est fluviale et a besoin d'espace. On lui réservera un bac de type rivière (tout en longueur) d'au moins un mètre pour accueillir un groupe de six poissons. On privilégiera une température de l'eau assez stable comprise entre 24 à 26 °C, un pH plutôt acide à neutre, et une dureté faible à moyenne. Le bac idéal sera composé d...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Paon jaune",
+  "scientificName": "Aulonocara baenschi",
+  "slug": "aulonocara-baenschi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 10,
+  "behavior": "Population: 5 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 4",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "L'aménagement de l'aquarium sera typique d'un aquarium des grands lacs africains, avec des empilements de roches et des espaces ouverts avec un substrat de sable fin afin qu'il puisse se nourrir naturellement. Les substrats plus grossiers telles que le gravier ou les petits cailloux peuvent l'empêcher de se nourrir, endommager les branchies et même être ingérés, ce qui peut entraîner des dommag...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/574.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

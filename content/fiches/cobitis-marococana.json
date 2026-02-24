@@ -1,0 +1,28 @@
+{
+  "name": "Cobitis marococana",
+  "scientificName": "Cobitis marococana",
+  "slug": "cobitis-marococana",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 5,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 8,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

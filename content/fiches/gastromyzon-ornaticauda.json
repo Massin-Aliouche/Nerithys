@@ -1,0 +1,28 @@
+{
+  "name": "Gastromyzon ornaticauda",
+  "scientificName": "Gastromyzon ornaticauda",
+  "slug": "gastromyzon-ornaticauda",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 7,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Algivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

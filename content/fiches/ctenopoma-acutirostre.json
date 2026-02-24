@@ -1,0 +1,29 @@
+{
+  "name": "Ctenopoma léopard",
+  "scientificName": "Ctenopoma acutirostre",
+  "slug": "ctenopoma-acutirostre",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 240,
+  "minLengthCm": 15,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": "L'aquarium doit impérativement comporter une large zone des plantes flottantes et/ou de plantes aquatiques couvrant la surface. Le décor peut être complété par des racines et d'autres plantes. L'ajout d'une litière de feuilles est un plus.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

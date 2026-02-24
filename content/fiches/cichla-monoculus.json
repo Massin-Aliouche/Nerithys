@@ -1,0 +1,30 @@
+{
+  "name": "ukunaré acu",
+  "scientificName": "Cichla monoculus",
+  "slug": "cichla-monoculus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 34,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": "Une maintenance en aquarium est peu conseillée de par sa taille et ses tendances fortement prédatrices, c’est un poisson plutôt à réserver à un aquarium public de plusieurs mètres cubes.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

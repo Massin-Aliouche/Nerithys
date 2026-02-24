@@ -1,0 +1,29 @@
+{
+  "name": "Stiphodon percnopterygionus",
+  "scientificName": "Stiphodon percnopterygionus",
+  "slug": "stiphodon-percnopterygionus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "nano",
+    "facile"
+  ]
+}

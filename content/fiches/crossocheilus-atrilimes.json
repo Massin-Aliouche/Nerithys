@@ -1,0 +1,27 @@
+{
+  "name": "Barbeau à bande étroite",
+  "scientificName": "Crossocheilus atrilimes",
+  "slug": "crossocheilus-atrilimes",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 8,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 7.5,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Herbivore",
+  "breeding": null,
+  "notes": "Les espèces de Crossocheilus vivent dans les cours d'eau et leurs affluents, sur des substrats de rochers, de galets, de gravier et de sable, souvent dans des zones où affleurent des bois flottés ou des racines d'arbres. L'eau claire, souvent peu profonde, permet à la lumière du soleil de pénétrer la surface et favorise le développement d'un biofilm riche recouvrant les surfaces immergées, sur ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

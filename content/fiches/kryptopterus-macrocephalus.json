@@ -1,0 +1,29 @@
+{
+  "name": "Silure de verre rayé",
+  "scientificName": "Kryptopterus macrocephalus",
+  "slug": "kryptopterus-macrocephalus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 27,
+  "phMin": 3,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Limité aux habitats de tourbière, K. macrocephalus est présent dans les endroits ombragés des eaux courantes. L'eau est généralement colorée par les acides humiques et autres produits chimiques libérés par les matières organiques en décomposition, la teneur en minéraux dissous est généralement négligeable et le pH est aussi bas que 3,0 ou 4,0. Il est donc préférable d'accueillir le Silure de ve...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

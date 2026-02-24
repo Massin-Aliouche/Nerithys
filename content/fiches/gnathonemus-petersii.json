@@ -1,0 +1,32 @@
+{
+  "name": "Poisson éléphant",
+  "scientificName": "Gnathonemus petersii",
+  "slug": "gnathonemus-petersii",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 21,
+  "tempMax": 29,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 600,
+  "minLengthCm": 35,
+  "behavior": "Population: 5 minimum (10 recommandé). Zone: Inférieure. Ratio M/F: 1 / 4",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Attention ! : Gnathonemus petersii est un poisson très difficile à maintenir dans de bonnes conditions et son acquisition impose à l'aquariophile une grande expérience... ainsi qu'une installation démesurée. On ne pourra pas, en effet, faire l'impasse sur le bac biotope spécifique de très grande taille. En premier lieu, il faudra à ce poissons de près de trente-cinq centimètres, un bac d'un min...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1702.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Barbus point d'exclamation",
+  "scientificName": "Dawkinsia exclamatio",
+  "slug": "dawkinsia-exclamatio",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 19,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 240,
+  "minLengthCm": 10,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Dawkinsia exclamatio est présent dans les eaux claires, dans les zones à substrat de roches et de galets. L'habitat naturel du poisson comprend à la fois des bassins à faible débit et des parcours à débit relativement rapide. Les conditions sont susceptibles de varier en fonction de la période de l'année, avec des augmentations significatives du volume d'eau, une modification de la chimie et de...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

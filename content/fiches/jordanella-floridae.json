@@ -1,0 +1,30 @@
+{
+  "name": "Killi drapeau américain",
+  "scientificName": "Jordanella floridae",
+  "slug": "jordanella-floridae",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 8.2,
+  "ghMin": 4,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium doit avant tout être bien planté afin que ce poisson se sente en sécurité et que les femelles puissent échapper aux ardeurs du ou des mâles. Si l'on souhaite maintenir plusieurs mâles, il est important de briser les lignes de vue et donc d'aménager plusieurs territoires. La filtration doit rester très douce et générer peu de courant. Un filtre exhausteur est une bonne option car il n...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2034.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore"
+  ]
+}

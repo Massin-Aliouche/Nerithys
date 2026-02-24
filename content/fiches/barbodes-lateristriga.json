@@ -1,0 +1,28 @@
+{
+  "name": "Barbus T",
+  "scientificName": "Barbodes lateristriga",
+  "slug": "barbodes-lateristriga",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 19,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Cette espèce fréquente principalement les ruisseaux forestiers contenant de l’eau claire, où les substrats peuvent comprendre des roches lisses et usées par l'eau et des rochers de différentes tailles, du sable ou du gravier, souvent avec des structures ligneuses submergées, de la litière de feuilles et des plantes aquatiques appartenant à des genres tels que Cryptocoryne ou Barclaya. On compos...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

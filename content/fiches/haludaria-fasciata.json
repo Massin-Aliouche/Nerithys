@@ -1,0 +1,28 @@
+{
+  "name": "Barbus melon",
+  "scientificName": "Haludaria fasciata",
+  "slug": "haludaria-fasciata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 15,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "En cours de rédaction : Exposant : 2 Attention ! : Note : (Cette information demande confirmation car non sourcée) Toutes les rivières des Ghâts occidentaux sont alimentées par la pluie et sont saisonnières. De nombreux habitats subissent donc des changements de profondeur, de température, de composition chimique de l'eau, de turbidité et de débit en fonction de la période de l'année. Les riviè...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

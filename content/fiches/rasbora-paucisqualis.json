@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora à grandes écailles",
+  "scientificName": "Rasbora paucisqualis",
+  "slug": "rasbora-paucisqualis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il semble que R. paucisqualis soit un poisson ubiquiste, capturé à la fois dans des ruisseaux forestiers à courant rapide avec des substrats de rochers, de petites pierres, de sable ou de gravier et dans des eaux noires plus calmes associées à des zones d'anciennes forêts marécageuses de tourbe qui sont généralement pleines de feuilles mortes, de brindilles et de branches. Dans le premier cas, ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

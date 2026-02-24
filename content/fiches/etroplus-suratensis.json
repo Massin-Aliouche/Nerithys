@@ -1,0 +1,30 @@
+{
+  "name": "Cromide Vert",
+  "scientificName": "Etroplus suratensis",
+  "slug": "etroplus-suratensis",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 26,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "grand",
+    "facile"
+  ]
+}

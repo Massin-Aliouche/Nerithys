@@ -1,0 +1,32 @@
+{
+  "name": "Panga",
+  "scientificName": "Pangasianodon hypophthalmus",
+  "slug": "pangasianodon-hypophthalmus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 29,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 10000,
+  "minLengthCm": 150,
+  "behavior": "Population: 5 minimum (10 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Attention ! : Pangasianodon hypophthalmus est un très grand poisson migrateur nécessitant une installation de très grande taille. Il est criminel de l'accueillir dabs un bac de moins de dix mille litres. Ne vous laissez pas leurrer en animalerie par sa petite taille et son air sympathique, c'est un poisson migrateur vivant en banc, de plus d'un mètre et de quarante kilos, et pouvant vivre vingt...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2555.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

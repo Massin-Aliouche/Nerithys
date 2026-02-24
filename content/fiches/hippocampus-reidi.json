@@ -1,0 +1,31 @@
+{
+  "name": "Hippocampe à long nez",
+  "scientificName": "Hippocampus reidi",
+  "slug": "hippocampus-reidi",
+  "biotope": "Eau de mer",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 8,
+  "phMax": 8.4,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 0,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovovivipare",
+  "notes": "L'eau doit obligatoirement être d'une qualité irréprochable pour conserver cet animal en bonne santé. Comportement et cohabitation Hippocampus reidi est le plus souvent solitaire, mais les couples sont fréquents et l'espèce a également été observée en groupes pouvant compter jusqu'à sept individus. En aquarium, il est d’ailleurs souhaitable de le maintenir en groupe de quelques individus. S'il ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/7364.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "vivipare"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel à nageoires rouges",
+  "scientificName": "Melanotaenia rubripinnis",
+  "slug": "melanotaenia-rubripinnis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 31,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 7,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 14,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il n'y a pas de rapport de maintenance et d'élevage pour cette espèce et on ne pourra ici qu'énoncer des pistes d'accueil qui demanderont à être confirmées par l'expérience. Cette espèce est présente dans une grande variété d'habitats, y compris des ruisseaux tachés de tanin dans la forêt pluviale des basses terres dans des bassins calmes et ombragés, des cours d'eau plus importants dans des si...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

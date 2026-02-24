@@ -1,0 +1,30 @@
+{
+  "name": "Panchax vert",
+  "scientificName": "Aplocheilus blockii",
+  "slug": "aplocheilus-blockii",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 6,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium doit être bien planté, avec une végétation de surface pouvant tamiser la lumière. C'est un bon sauteur, il est donc recommandé d'avoir un aquarium correctement fermé. De tempérament calme, il convient à un aquarium communautaire. Toutefois, la maintenance spécifique est fortement recommandé avec comme objectif d'arriver à le reproduire. Il ne doit pas être maintenu avec d'autres kill...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/496.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore"
+  ]
+}

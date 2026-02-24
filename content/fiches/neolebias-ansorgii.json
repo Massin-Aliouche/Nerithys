@@ -1,0 +1,30 @@
+{
+  "name": "Néon du Gabon",
+  "scientificName": "Neolebias ansorgii",
+  "slug": "neolebias-ansorgii",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 29,
+  "phMin": 4.5,
+  "phMax": 6,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "C'est un poisson très timide qu'il vaut mieux maintenir en groupe, et en bac spécifique. Il apprécie la lumière tamisée. Plantez le bac de manière dense et ajoutez de la végétation flottante pour plus d'ombre. Un substrat sombre est également bénéfique avec quelques petits morceaux de bois flotté pour fournir des cachettes. L'eau sur une grande partie de son aire de répartition naturelle est ac...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

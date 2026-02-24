@@ -1,0 +1,29 @@
+{
+  "name": "Celestichthys flagrans",
+  "scientificName": "Celestichthys flagrans",
+  "slug": "celestichthys-flagrans",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 16,
+  "tempMax": 22,
+  "phMin": 7.5,
+  "phMax": 8.2,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 70,
+  "minLengthCm": 3.2,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

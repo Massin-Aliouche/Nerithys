@@ -1,0 +1,30 @@
+{
+  "name": "Xiphophorus clemenciae",
+  "scientificName": "Xiphophorus clemenciae",
+  "slug": "xiphophorus-clemenciae",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7.2,
+  "phMax": 8,
+  "ghMin": 3,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovovivipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile",
+    "vivipare"
+  ]
+}

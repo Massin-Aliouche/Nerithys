@@ -1,0 +1,31 @@
+{
+  "name": "Grand cichlidé paon à ocelle verte",
+  "scientificName": "Cichla ocellaris",
+  "slug": "cichla-ocellaris",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 27,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 74,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Végétarien",
+  "breeding": null,
+  "notes": "Une maintenance en aquarium est peu conseillée de par sa taille et ses tendances fortement prédatrices, c’est un poisson plutôt à réserver à un aquarium public de plusieurs mètres cubes. (voir photo : aquarium du Palais de la Porte Dorée - Paris). C’est aussi pour cette raison qu’on ne l’utilise pas en aquaculture.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1108.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

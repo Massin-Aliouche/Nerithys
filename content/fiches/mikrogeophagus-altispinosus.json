@@ -1,0 +1,30 @@
+{
+  "name": "Ramirezi bolivien",
+  "scientificName": "Mikrogeophagus altispinosus",
+  "slug": "mikrogeophagus-altispinosus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 8,
+  "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/2289.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

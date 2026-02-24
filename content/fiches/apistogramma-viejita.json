@@ -1,0 +1,30 @@
+{
+  "name": "Apisto à gorge noire",
+  "scientificName": "Apistogramma viejita",
+  "slug": "apistogramma-viejita",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 6.5,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 7,
+  "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance de l'Apistogramma viejita ne pose pas de problème particulier. Il peut être maintenu dans une eau qui s'écarte des paramètres naturels et sa reproduction est assez simple. Un aquarium agencé pour reproduire un biotope Amazonien est une bonne option. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines, offrant à la fois refuges,...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/491.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

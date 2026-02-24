@@ -1,0 +1,31 @@
+{
+  "name": "Farwolella royal",
+  "scientificName": "Sturisomatichthys aureum",
+  "slug": "sturisomatichthys-aureum",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 31,
+  "phMin": 6,
+  "phMax": 7.8,
+  "ghMin": 5,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 22,
+  "behavior": "Population: 3 minimum (6 recommandé). Zone: Fond. Ratio M/F: 1 / 2",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On pourra se reporter à la fiche de Sturisomatichthys panamense, de maintenance similaire.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3197.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

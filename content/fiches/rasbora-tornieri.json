@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora à queue jaune",
+  "scientificName": "Rasbora tornieri",
+  "slug": "rasbora-tornieri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 18,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Rasbora tornieri a été collecté dans divers types d'habitats, dans des ruisseaux forestiers à courant rapide avec des substrats de rochers, de petites pierres, de sable ou de gravier et des ruisseaux et des eaux noires plus calmes associées à des zones d'anciennes forêts marécageuses tourbeuses qui sont généralement jonchées de feuilles mortes, de brindilles et de branches. Dans le premier cas,...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

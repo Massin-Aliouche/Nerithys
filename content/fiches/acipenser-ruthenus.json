@@ -1,0 +1,29 @@
+{
+  "name": "Sterlet",
+  "scientificName": "Acipenser ruthenus",
+  "slug": "acipenser-ruthenus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 10,
+  "tempMax": 20,
+  "phMin": 7,
+  "phMax": 0,
+  "ghMin": 22,
+  "ghMax": 0,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 120,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

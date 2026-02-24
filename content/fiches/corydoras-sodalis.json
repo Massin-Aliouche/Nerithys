@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras faux reticulatus",
+  "scientificName": "Corydoras sodalis",
+  "slug": "corydoras-sodalis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 6.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Il semble que les prises massives ne sont rien de plus que des migrations de frai qui emmènent les poissons vers de petits affluents ombragés où ils se reproduisent. (Frank Schäfer Aquarium Glaser ) Dans l'aquarium, on devra donc recréer ce changement de milieu pour la reproduction et, plus généralement, pour le bien-être du poisson. Les Corydoras sont, dans leur très grande majorité, des poiss...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

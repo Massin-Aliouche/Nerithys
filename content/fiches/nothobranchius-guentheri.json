@@ -1,0 +1,29 @@
+{
+  "name": "Nothobranche de Guenther",
+  "scientificName": "Nothobranchius guentheri",
+  "slug": "nothobranchius-guentheri",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": 4,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 5,
+  "behavior": "Zone: Supérieure",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Il est préférable d'élever le Nothobranchius guentheri en aquarium spécifique. Sa reproduction doit être la priorité des aquariophiles désirant le maintenir. En aquarium, les mâles ont un comportement agressif les uns envers les autres, il ne faut donc pas maintenir plusieurs couples/harems ensembles sauf très grands aquarium.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

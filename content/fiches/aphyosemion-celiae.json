@@ -1,0 +1,29 @@
+{
+  "name": "Aphyosemion de Celia",
+  "scientificName": "Aphyosemion celiae",
+  "slug": "aphyosemion-celiae",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 4,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 15,
+  "minLengthCm": 5,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le facteur de réussite le plus important pour maintenir un couple ou un harem est la plantation dense de l'aquarium. Cela permettra à ce poisson relativement craintif de se sentir en sécurité et aux femelles d'échapper aux ardeurs du mâles. Pour le reste, la filtration doit être la plus douce possible et comme la plupart de killis, l'aquarium doit être correctement fermé afin d'éviter les évasi...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Barbus panda",
+  "scientificName": "Haludaria melanampyx",
+  "slug": "haludaria-melanampyx",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 7.5,
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": "En cours de mise à jour :",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1785.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

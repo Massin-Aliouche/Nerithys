@@ -1,0 +1,30 @@
+{
+  "name": "Nageoires sanglantes",
+  "scientificName": "Aphyocharax anisitsi",
+  "slug": "aphyocharax-anisitsi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "En Cours de Rédaction / relecture L'aquarium sera idéalement fortement planté tout en offrant un grande zone de nage. Le décor pourra être complété par du bois flotté ou des racines. Vivant dans des zone ombragé, l'éclairage devra être modéré et/ou tamisé par des plantes flottantes. Il vit proche de la surface et est un bon sauteur. Il est donc recommandé de le maintenir dans un aquarium fermé....",
+  "images": [
+    "https://www.b-aqua.com/photos/1/384.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

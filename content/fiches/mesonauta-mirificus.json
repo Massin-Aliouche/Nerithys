@@ -1,0 +1,29 @@
+{
+  "name": "Mésonaute mirifique",
+  "scientificName": "Mesonauta mirificus",
+  "slug": "mesonauta-mirificus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 5.7,
+  "phMax": 7.3,
+  "ghMin": 5,
+  "ghMax": 13,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 9,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Le poisson n'étant pas très répandu en aquariophilie, les retours d'expérience sont inexistants. Si vous avez la chance de posséder cette espèce, reporterez-vous à la fiche de Mesonauta festivus, plus fréquemment maintenue.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

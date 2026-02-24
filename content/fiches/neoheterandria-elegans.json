@@ -1,0 +1,32 @@
+{
+  "name": "Hétérandrie élégant",
+  "scientificName": "Neoheterandria elegans",
+  "slug": "neoheterandria-elegans",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 2.5,
+  "behavior": "Population: 4 minimum (12 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovovivipare, difficulté: Possible",
+  "notes": "Neoheterandria elegans, ne convient pas à l'aquarium communautaire en raison de sa petite taille. Il est plus timide que Heterandria formosa et il vaut mieux le garder seul en petite colonie dans un bac spécifique. Les crevettes et les escargots seront cependant de bons compagnons d'aquarium, même si les juvéniles des premières seront parfois consommés. Note : Les Neoheterandria ont de petites ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2399.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano",
+    "vivipare"
+  ]
+}

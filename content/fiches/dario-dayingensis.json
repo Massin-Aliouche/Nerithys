@@ -1,0 +1,29 @@
+{
+  "name": "Dario de Daying",
+  "scientificName": "Dario dayingensis",
+  "slug": "dario-dayingensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 3 minimum (6 recommandé). Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Dario dayingensis n'est pas un poisson grégaire en tant que tel et les mâles rivaux peuvent être très agressifs les uns envers les autres, en particulier dans les petits bacs. Il appréciera un bac planté et agencé en zones distinctes. Dans ces cas, seule une paire ou un mâle et plusieurs femelles doivent être achetés, mais dans un environnement plus spacieux, un groupe peut coexister à conditio...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

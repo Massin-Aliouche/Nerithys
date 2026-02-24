@@ -1,0 +1,30 @@
+{
+  "name": "Loche de Chine",
+  "scientificName": "Beaufortia leveretti",
+  "slug": "beaufortia-leveretti",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 24,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Algivore",
+  "breeding": "Ovipare",
+  "notes": "Le plus important est que l'eau soit propre et bien oxygénée. L'utilisation d'un filtre ou une pompe de brassage surdimensionnés est donc indispensable, avec un débit / heure de 10 à 15 fois le volume de l'aquarium. Le substrat de base peut être constitué de gravier, de sable ou d'un mélange des deux, auquel il faut ajouter de nombreuses roches usés par l'eau ou des galets de différentes taille...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/655.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

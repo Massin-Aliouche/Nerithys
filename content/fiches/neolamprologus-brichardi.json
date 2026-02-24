@@ -1,0 +1,29 @@
+{
+  "name": "Princesse du Burundi",
+  "scientificName": "Neolamprologus brichardi",
+  "slug": "neolamprologus-brichardi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 7,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": "Bien que pouvant être maintenu en couple dans un aquarium plus petit, il est préférable de maintenir les Neolamprologus brichardi en petit groupe dans un aquarium d'au moins deux cents litres. Ce dernier présente idéalement le décor type des aquariums \"Tanganika\", avec un substrat composé de sable, des roches formant divers abris, grottes... et très peu, voire aucune plante. Neolamprologus bric...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2402.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

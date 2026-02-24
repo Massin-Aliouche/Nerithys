@@ -1,0 +1,30 @@
+{
+  "name": "Lamprologue jaune",
+  "scientificName": "Neolamprologus longior",
+  "slug": "neolamprologus-longior",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 7.8,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 160,
+  "minLengthCm": 10,
+  "behavior": "Population: 2 minimum (5 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Idéalement l’aquarium fera deux cents litres avec une façade d'un mètre pour un couple mais il peut faire un peu moins si le couple est seul dans l’aquarium. Pour les cichlidés, on parle de la surface au sol plutôt que du volume de l’aquarium. Pour un deuxième couple, un volume de six cents litres est obligatoire à cause de la territorialité prononcée de l’espèce. Pour commencer l'élevage des N...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/5033.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

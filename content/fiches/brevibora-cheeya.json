@@ -1,0 +1,29 @@
+{
+  "name": "Grand Rasbora à ocelle",
+  "scientificName": "Brevibora cheeya",
+  "slug": "brevibora-cheeya",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "B. cheeya fréquente les zones marécageuses et les petits affluents de rivières des forêts de bruyères côtières et des peuplements de Melaleuca poussant sur des substrats tourbeux et sableux. Les conditions de ce biotope sont faites d’eau acide (pH 4,5 en février 2009), colorée par les tanins, qui s’écoulent lentement. On privilégiera donc un bac biotope de type \"marécage forestier\", d'eau acide...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

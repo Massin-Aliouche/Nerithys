@@ -1,0 +1,31 @@
+{
+  "name": "Chalceus à nageoires jaunes",
+  "scientificName": "Chalceus erythrurus",
+  "slug": "chalceus-erythrurus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 21,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Il est important d'offrir un espace de nage suffisamment grand à ce poisson très vif susceptible de se blesser assez facilement dans un aquarium trop exigu. Le décors peut être assez simple, se composant d'un substrat sableux avec quelques racines et des plantes flottantes, ce qui imitera bien son milieu naturel. L'aquarium doit impérativement être fermé car c'est un bon sauteur. Il a un très b...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3907.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

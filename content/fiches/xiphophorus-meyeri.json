@@ -1,0 +1,30 @@
+{
+  "name": "Xiphophorus meyeri",
+  "scientificName": "Xiphophorus meyeri",
+  "slug": "xiphophorus-meyeri",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 20,
+  "phMin": 7,
+  "phMax": 7.7,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovovivipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile",
+    "vivipare"
+  ]
+}

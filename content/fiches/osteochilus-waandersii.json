@@ -1,0 +1,29 @@
+{
+  "name": "Barbus lippu de Waanders*",
+  "scientificName": "Osteochilus waandersii",
+  "slug": "osteochilus-waandersii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 800,
+  "minLengthCm": 20,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Attention ! : On considère souvent qu'un poisson potamodrome Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

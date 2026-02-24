@@ -1,0 +1,28 @@
+{
+  "name": "Neolamprologus christyi",
+  "scientificName": "Neolamprologus christyi",
+  "slug": "neolamprologus-christyi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 13,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "En aquarium , ce cichlidé se montre assez agressif et ne peut être maintenu qu'avec des poissons plus grands ou très actifs.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

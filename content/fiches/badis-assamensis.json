@@ -1,0 +1,28 @@
+{
+  "name": "Badis assamais",
+  "scientificName": "Badis assamensis",
+  "slug": "badis-assamensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 8,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La localité du néotype était un affluent marécageux de plus de un mètre de profondeur avec une eau stagnante et brunâtre, situé dans des plaines, dans un paysage forestier, et avec des arbres près de la rive et des nénuphars dans l'eau, ainsi qu'un fond sablonneux. Cette espèce est soumise aux fluctuations saisonnières de température dans la nature et se sent à l'aise entre 15 et 25 °C, des ext...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

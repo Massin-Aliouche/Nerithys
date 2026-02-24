@@ -1,0 +1,31 @@
+{
+  "name": "Loche yoyo",
+  "scientificName": "Botia lohachata",
+  "slug": "botia-lohachata",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 16,
+  "behavior": "Population: 6 minimum (10 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Botia lohachata, poisson de rivière à fortes variations saisonnières demande à être maintenu dans en bac rivière, le plus long possible, avec une eau vive et oxygénée. Potamodrome, Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/761.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

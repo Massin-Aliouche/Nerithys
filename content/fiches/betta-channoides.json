@@ -1,0 +1,30 @@
+{
+  "name": "Betta à tête de serpent",
+  "scientificName": "Betta channoides",
+  "slug": "betta-channoides",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 4,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 4,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Le betta channoides demande un aquarium bien planté et une lumière tamisée. On privilégiera donc des plantes à tige haute ou flottantes. Les Nymphaea, Cryptocoryne, Microsorum, Salvinia, Lemna minor,… sont donc un bon choix. Il appréciera aussi le bois flotté pour les refuges que cela peut créer, mais des petits pots en argile, des tuyaux en plastique peuvent également être utilisés. L'ajout de...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "facile"
+  ]
+}

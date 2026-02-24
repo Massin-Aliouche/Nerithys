@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel de Malanda",
+  "scientificName": "Melanotaenia sp. Malanda",
+  "slug": "melanotaenia-sp-malanda",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 14,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 7,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Melanotaenia sp. Malanda n'étant pas encore disponible dans la commerce européen et la maintenance peu (ou pas ?) renseignée ailleurs, et on sait peu de choses sur l'écologie de cette espèce. On ne pourra ici qu'ébaucher des pistes de maintenance. Le poisson arc-en-ciel de Malanda fréquente de petits ruisseaux frais (16 à 22°C) à débit rapide, généralement peu profonds avec une base de plates-f...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

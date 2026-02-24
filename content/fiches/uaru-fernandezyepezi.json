@@ -1,0 +1,29 @@
+{
+  "name": "Uaru fernandezyepezi",
+  "scientificName": "Uaru fernandezyepezi",
+  "slug": "uaru-fernandezyepezi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 28,
+  "tempMax": 34,
+  "phMin": 0,
+  "phMax": 5.5,
+  "ghMin": 2,
+  "ghMax": 4,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 25,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

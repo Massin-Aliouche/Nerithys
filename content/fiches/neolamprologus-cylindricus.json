@@ -1,0 +1,31 @@
+{
+  "name": "Neolamprologus cylindricus",
+  "scientificName": "Neolamprologus cylindricus",
+  "slug": "neolamprologus-cylindricus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 12,
+  "behavior": "Population: 2 minimum (5 recommandé). Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "N. cylindricus est un poisson pétricole, il faut donc aménager un environnement rocheux où il pourra se cacher. Le sol sera composé de sable et peut être agrémenté de quelques Vallisneria et de coquilles d'escargots. Un courant fort est à prohiber car N. cylindricus vit en profondeur (10m) où il y a peu de courant, mais la filtration sera cependant suffisamment efficace pour palier à la faibles...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2407.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

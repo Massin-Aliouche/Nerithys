@@ -1,0 +1,30 @@
+{
+  "name": "Poisson roseau",
+  "scientificName": "Erpetoichthys calabaricus",
+  "slug": "erpetoichthys-calabaricus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 4,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 40,
+  "behavior": "Population: 1 minimum (6 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "Un aquarium densément planté avec un substrat mou et des morceaux de bois flotté formant des cachettes est idéal pour ce poisson. Un couvercle bien ajusté est essentiel, car ce poisson se faufile partout pour s'échapper. Il peut être judicieux de mettre un éclairage LED imitant le levé et le couché du soleil afin de l'observer, car ces deux périodes sont celles où il est le plus actif. C'est un...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

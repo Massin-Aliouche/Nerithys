@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras barbus",
+  "scientificName": "Scleromystax barbatus",
+  "slug": "scleromystax-barbatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 16,
+  "tempMax": 24,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 240,
+  "minLengthCm": 11,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Les mâles sont agressifs territoriaux les uns envers les autres et ne peuvent pas être maintenus ensemble dans des aquariums plus petits, autrement paisibles. Parfois, les mâles des espèces Scleromystax peuvent devenir agressifs envers les autres mâles, alors peut-être qu'un mâle par groupe peut être la meilleure solution en cas de conflits dans l'aquarium. Comme la plupart des Callichthyidae,i...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

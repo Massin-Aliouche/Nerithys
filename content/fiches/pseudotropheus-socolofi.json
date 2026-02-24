@@ -1,0 +1,29 @@
+{
+  "name": "Socolofi",
+  "scientificName": "Pseudotropheus socolofi",
+  "slug": "pseudotropheus-socolofi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 8,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 16,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "il lui faut une façade de 1 m pour lui offrir une bonne surface de nage. il lui faut beaucoup de pierres calcaire et galets qui lui offre de nombreuses cachettes et réduit les risques qu’il tombe malade et du sable fin pour qu’il délimite son territoire. Une pompe de cinq fois le volume de l’aquarium et des pompes de brassage pour emmener les déchets à la filtration.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2891.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

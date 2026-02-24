@@ -1,0 +1,29 @@
+{
+  "name": "Gobie grimé",
+  "scientificName": "Amblyeleotris guttata",
+  "slug": "amblyeleotris-guttata",
+  "biotope": "Eau de mer",
+  "difficulty": 4,
+  "tempMin": 24,
+  "tempMax": 26,
+  "phMin": 7.6,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 11,
+  "behavior": "Population: 1 minimum. Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "difficulté: Impossible",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "exigeant"
+  ]
+}

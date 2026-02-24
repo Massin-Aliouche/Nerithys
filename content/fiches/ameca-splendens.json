@@ -1,0 +1,32 @@
+{
+  "name": "Ameca brillante",
+  "scientificName": "Ameca splendens",
+  "slug": "ameca-splendens",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 10,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Vivipare, difficulté: Courante",
+  "notes": "Ce poisson apprécie les environnements fortement plantés et une eau parfaitement oxygénée avec débit modéré . Une filtration efficace est essentielle car il est particulièrement sensible à la dégradation de la qualité de l’eau. S'il peut être maintenu en aquarium communautaire avec des espèces robustes de taille similaire et capable de se nourrir aussi rapidement que lui, il reste préférable de...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/298.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile",
+    "vivipare"
+  ]
+}

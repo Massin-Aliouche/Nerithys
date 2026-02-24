@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel du lac Eacham",
+  "scientificName": "Melanotaenia eachamensis",
+  "slug": "melanotaenia-eachamensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 8,
+  "behavior": "Population: 8 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Leur habitat naturel est constitué de lacs de cratère et de ruisseaux dans la forêt tropicale ou l'espèce se rassemblant le long des rives peu profondes parmi la végétation aquatique, les troncs ou les branches tombées. Le lac est permanent et profond mais son niveau fluctue selon les saisons et la température de l'eau avec, entre 18 et 28°C avec une période prolongée de 23 à 27 °C avec un pH n...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

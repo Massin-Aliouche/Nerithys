@@ -1,0 +1,28 @@
+{
+  "name": "Nandus oxyrhynchus",
+  "scientificName": "Nandus oxyrhynchus",
+  "slug": "nandus-oxyrhynchus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 7,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": "pour les conserver en aquarium, une litière de feuille couvrant le substrat est conseillée.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

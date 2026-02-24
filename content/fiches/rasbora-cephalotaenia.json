@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora barré",
+  "scientificName": "Rasbora cephalotaenia",
+  "slug": "rasbora-cephalotaenia",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 3,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 13,
+  "behavior": "Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Rasbora cephalotaenia est inféodé aux habitats forestiers aux eaux acides (pH 3 à 6) généralement associés aux forêts de tourbières. Sa maintenance demande donc un bac biotope reproduisant au mieux ce milieu particulier. R. cephalotaenia préférera l'eau noire, de dureté négligeable et de pH compris entre 4 et 5 et une installation de style biotope constituera un milieu idéal. Un substrat meuble...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

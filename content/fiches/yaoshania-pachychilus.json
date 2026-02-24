@@ -1,0 +1,28 @@
+{
+  "name": "Loche panda",
+  "scientificName": "Yaoshania pachychilus",
+  "slug": "yaoshania-pachychilus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 15,
+  "tempMax": 24,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 6,
+  "behavior": "Population: 4 minimum (8 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Yaoshania pachychilus est une espèce exclusivement benthique avec une morphologie spécialisée pour vivre dans des eaux à courant rapide. On l'élèvera donc en bac rivière, d'assez faible profondeur, avec un fort courant copieusement oxygéné. L'eau y sera fraiche, entre 18 à 22 °C si possible, mais ce poisson résiste à une bien plus grande étendue de 15 à 29 °C selon la saison. Attention cependan...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

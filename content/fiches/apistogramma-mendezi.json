@@ -1,0 +1,28 @@
+{
+  "name": "Apistogramma mendezi",
+  "scientificName": "Apistogramma mendezi",
+  "slug": "apistogramma-mendezi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 27,
+  "phMin": 4.2,
+  "phMax": 5.8,
+  "ghMin": 0,
+  "ghMax": 1,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 8,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

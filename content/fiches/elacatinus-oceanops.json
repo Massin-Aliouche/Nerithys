@@ -1,0 +1,29 @@
+{
+  "name": "Gobie néon",
+  "scientificName": "Elacatinus oceanops",
+  "slug": "elacatinus-oceanops",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 5,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Il convient à des aquariums à partir d'une centaine de litres, proposant de nombreuses cachettes. Dans son milieu naturel, Elacatinus oceanops vit en groupe et forme ce qu’on appelle des stations de nettoyage. Les gros poissons viennent s’y faire débarrasser des parasites, peaux mortes et débris. En aquarium, ce poisson pacifique reproduit ce comportement. Il faut éviter de l’associer avec des ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "facile"
+  ]
+}

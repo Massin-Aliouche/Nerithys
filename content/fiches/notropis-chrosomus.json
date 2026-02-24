@@ -1,0 +1,30 @@
+{
+  "name": "Méné arc-en-ciel",
+  "scientificName": "Notropis chrosomus",
+  "slug": "notropis-chrosomus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 5,
+  "tempMax": 25,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 180,
+  "minLengthCm": 8,
+  "behavior": "Population: 10 minimum (15 recommandé). Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "N. chrosomus se trouve généralement dans les cours d'eau avec des affleurements calcaires dans le bassin versant, des ruisseaux qui ont leur source dans des formations calcaires. poisson d'eau froide simple et adaptable, adapté aux aquariums tempérés froid, jusqu'à environ 10 °C en hiver. En milieu naturel, le poisson occupe de petits cours d'eau clairs, vifs et oxygénés, souvent alimentés par ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2460.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

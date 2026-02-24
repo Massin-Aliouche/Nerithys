@@ -1,0 +1,30 @@
+{
+  "name": "Acara maroni",
+  "scientificName": "Cleithracara maronii",
+  "slug": "cleithracara-maronii",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 10,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce cichlidé se plait dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Ce lit de feuille sera un milieu propice au développement d'une microphone susceptible de fournir un apport alimentair...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1149.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore"
+  ]
+}

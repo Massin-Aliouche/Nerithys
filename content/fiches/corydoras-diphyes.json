@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras changeant",
+  "scientificName": "Corydoras diphyes",
+  "slug": "corydoras-diphyes",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 17,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 0,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Corydoras diphyes est généralement présent dans des zones présentant des substrats sableux avec de la végétation de berge pénétrant dans l'eau. L'eau dans laquelle on les trouve varie de foncée (tachée de tanins) à claire ou légèrement trouble. Dans son biotope, la température en hiver varie entre 17 à 19 °C et augment assez peu en été, de 20 à 23,5 °C Il faudra tenir compte de cette particular...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

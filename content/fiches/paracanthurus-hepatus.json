@@ -19,8 +19,13 @@
   "diet": "Omnivore: algues, granulés marins, végétaux.",
   "breeding": "Ovipare; reproduction difficile en aquarium.",
   "notes": "Espèce marine de grande taille; demande bac récifal important.",
-  "sources": ["https://www.fishipedia.fr/fr/poissons/paracanthurus-hepatus"],
-  "images": ["https://www.fishipedia.fr/wp-content/uploads/2024/04/Paracanthurus-hepatus-Acanthuridae-20150414-Komodo_ID-FLFishi-scaled.jpg"],
+  "images": [
+    "https://www.fishipedia.fr/wp-content/uploads/2024/04/Paracanthurus-hepatus-Acanthuridae-20150414-Komodo_ID-FLFishi-scaled.jpg"
+  ],
   "gallery": [],
-  "tags": ["marine","gros-poisson","recifal"]
+  "tags": [
+    "marine",
+    "gros-poisson",
+    "recifal"
+  ]
 }

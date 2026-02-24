@@ -1,0 +1,29 @@
+{
+  "name": "Famula",
+  "scientificName": "Petrochromis famula",
+  "slug": "petrochromis-famula",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 8,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 800,
+  "minLengthCm": 15,
+  "behavior": "Population: 4 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 3",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le décor de l'aquarium sera essentiellement composé de pile de roches disposé pour former des grottes et des abris. Le substrat se composera de sable. Les plantes ne sont pas présente dans son milieu d'origine et il est assez illusoire d'essayer d'en ajouter puisqu'elles seront au mieux déracinées et au pire mangées. Petrochromis famula, comme les autres espèces du genre, a une mauvaise réputat...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2663.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

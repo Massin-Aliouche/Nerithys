@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras à queue tachée",
+  "scientificName": "Corydoras caudimaculatus",
+  "slug": "corydoras-caudimaculatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Relativement facile de maintenance, Corydoras caudimaculatus préférera une eau acide avec un pH d'environ 6,5, une eau douce avec une dureté faible (GH inf. 5) et une température entre 20 à 26 °C, proche des paramètres de la rivière Guaporé. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de for...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

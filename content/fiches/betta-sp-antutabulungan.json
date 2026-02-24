@@ -1,0 +1,28 @@
+{
+  "name": "Betta Antuta",
+  "scientificName": "Betta sp. Antuta/Bulungan",
+  "slug": "betta-sp-antutabulungan",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 19,
+  "tempMax": 27,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 10,
+  "behavior": "Population: 4 minimum. Zone: Supérieure. Ratio M/F: 1 / 3",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La régence de Bulungan est la partie nord de la province de Kalimantan oriental, en Indonésie. La dense forêt tropicale humide de montagne cache là un réseau de ruisseaux rocheux. Les ruisseaux y sont calmes sauf pendant la saison des pluies. Ils serpentent à travers la forêt dans un lit rocheux et peu de lumière peut pénétrer la canopée dense des arbres de la forêt tropicale humide, ils sont d...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

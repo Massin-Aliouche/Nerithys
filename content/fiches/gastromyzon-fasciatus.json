@@ -1,0 +1,29 @@
+{
+  "name": "Gastromyzon fasciatus",
+  "scientificName": "Gastromyzon fasciatus",
+  "slug": "gastromyzon-fasciatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 0,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 67.9,
+  "behavior": "Population: 6 minimum",
+  "compatibility": "Non renseigné",
+  "diet": "Végétarien",
+  "breeding": null,
+  "notes": "Voir G.scitulus pour l'alimentation et mode de vie. Oxygénation très forte requise, substrat de galets et graviers lisses pour recréer un biotope de type rivière, dans un bac mature, riche en algues le long des vitres et sur les galets (non filamenteuses).",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

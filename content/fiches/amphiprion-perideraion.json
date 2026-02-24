@@ -1,0 +1,31 @@
+{
+  "name": "Poisson-clown à collier",
+  "scientificName": "Amphiprion perideraion",
+  "slug": "amphiprion-perideraion",
+  "biotope": "Eau de mer",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.6,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 8,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Comme la plupart des espèces d'Amphiprion, l'acclimatation peut s'avérer délicate avec par des problèmes cutanés, principalement d'origine bactérienne, difficiles à traiter. La présence d'anémones, en diminuant le stress, facilite la quarantaine.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/325.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "exigeant"
+  ]
+}

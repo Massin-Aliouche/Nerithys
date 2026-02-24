@@ -1,0 +1,32 @@
+{
+  "name": "Tanche, beurote, doctor fish",
+  "scientificName": "Tinca tinca",
+  "slug": "tinca-tinca",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 4,
+  "tempMax": 24,
+  "phMin": 5.5,
+  "phMax": 8.5,
+  "ghMin": 8,
+  "ghMax": 18,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 2000,
+  "minLengthCm": 50,
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "A réserver à des bassins ou étangs, ce n'est pas un poisson d'aquarium. Il existe cependant une variété ornementale : la tanche dorée, jaune-orange à points noirs, élevée en bassin avec carpes diverses.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3324.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "grand",
+    "facile"
+  ]
+}

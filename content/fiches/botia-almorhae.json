@@ -1,0 +1,29 @@
+{
+  "name": "Loche d'Almorha",
+  "scientificName": "Botia almorhae",
+  "slug": "botia-almorhae",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 15,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 18,
+  "behavior": "Population: 5 minimum (10 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Botia almorhae est migratrice et quitte les basses collines pour frayer aux altitudes plus élevées dans l'Himalaya. Cette loche préfère les ruisseaux rocheux et graveleux. Un grand bac biotope spécifique pouvant recréer les deux milieux qui lui sont indispensables sera donc nécessaire à sa maintenance. C'est une gageure à réserver aux aquariophiles chevronné.e.s. Maladie spécifique Les botiidés...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

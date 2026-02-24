@@ -1,0 +1,29 @@
+{
+  "name": "Barbus clown",
+  "scientificName": "Barbodes dunckeri",
+  "slug": "barbodes-dunckeri",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (10 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium peut être agencer pour ressembler à un ruisseau ou une rivière avec un substrat de roches de taille variable, usées par l'eau, du sable, du gravier fin et peut-être quelques petits rochers. Ce substrat peut être complété par des racines ou des branches de bois flotté. Bien que son milieu naturel soit pauvre en plantes aquatiques et que celles-ci s'adapte assez difficilement à ce type...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

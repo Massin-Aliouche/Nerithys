@@ -1,0 +1,31 @@
+{
+  "name": "Cichlidé nain torpille",
+  "scientificName": "Taeniacara candidi",
+  "slug": "taeniacara-candidi",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 25,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 5.5,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "L'aquarium devra avant tout offrir un très grand nombre de cachettes. Un première possibilité est de lui offrir un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose alors de sable de rivière et le décor de branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Le bois et les feuilles donnent à l...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3258.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

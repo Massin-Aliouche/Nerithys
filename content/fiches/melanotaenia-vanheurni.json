@@ -1,0 +1,29 @@
+{
+  "name": "Poisson arc-en-ciel de Van Heurn",
+  "scientificName": "Melanotaenia vanheurni",
+  "slug": "melanotaenia-vanheurni",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 25,
+  "tempMax": 32,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 800,
+  "minLengthCm": 20,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Attention ! : C'est le plus grand poisson arc-en-ciel connu. En raison de la taille du poisson, de sa grégarité, un aquarium d'au moins huit cents litres est requis pour son élevage. Melanotaenia vanheurnis fréquente de petits ruisseaux d'eau claire traversant la forêt tropicale. Ils sont abondants dans les cours d'eau lents à relativement rapides avec des fonds rocheux et sableux. Les valeurs ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Lamprologus lemairii",
+  "scientificName": "Lamprologus lemairii",
+  "slug": "lamprologus-lemairii",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 26,
+  "phMin": 7.3,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 18,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

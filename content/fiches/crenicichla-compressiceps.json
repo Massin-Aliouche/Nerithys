@@ -1,0 +1,28 @@
+{
+  "name": "Crenicichla compressiceps",
+  "scientificName": "Crenicichla compressiceps",
+  "slug": "crenicichla-compressiceps",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 5.5,
+  "phMax": 7.2,
+  "ghMin": 0,
+  "ghMax": 17,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 160,
+  "minLengthCm": 8,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

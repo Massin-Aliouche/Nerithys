@@ -6,8 +6,8 @@
   "difficulty": 2,
   "tempMin": 23,
   "tempMax": 26,
-  "phMin": 6.0,
-  "phMax": 8.0,
+  "phMin": 6,
+  "phMax": 8,
   "ghMin": 5,
   "ghMax": 19,
   "khMin": 2,
@@ -19,8 +19,13 @@
   "diet": "Détritivore: granulés coulants, vers, petites proies.",
   "breeding": "Ovipare; reproduction en bac spécifique possible.",
   "notes": "Préférer substrat fin pour protection des barbillons.",
-  "sources": ["https://www.fishipedia.fr/fr/poissons/corydoras-julii"],
-  "images": ["https://www.fishipedia.fr/wp-content/uploads/2018/05/Corydoras-julii-Real-Brasil.jpg"],
+  "images": [
+    "https://www.fishipedia.fr/wp-content/uploads/2018/05/Corydoras-julii-Real-Brasil.jpg"
+  ],
   "gallery": [],
-  "tags": ["corydoras","fond","banc"]
+  "tags": [
+    "corydoras",
+    "fond",
+    "banc"
+  ]
 }

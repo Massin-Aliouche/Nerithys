@@ -1,0 +1,30 @@
+{
+  "name": "Loche de bornéo",
+  "scientificName": "Pangio shelfordii",
+  "slug": "pangio-shelfordii",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 6.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "L'aquarium devra avoir un substrat doux et fin. En effet, les Pangio aiment s'enfouir et peuvent donc se blesser si le substrat est trop grossier. Un éclairage assez faible est également préférable, des plantes flottantes pourront aider à l'obtenir. Par ailleurs, une plantation dense, des racines, pierres,... aideront se pangio à se cacher et se sentir plus en sécurité. On peut aussi constituer...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2563.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

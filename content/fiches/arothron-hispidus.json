@@ -1,0 +1,32 @@
+{
+  "name": "Poisson ballon à taches blanches",
+  "scientificName": "Arothron hispidus",
+  "slug": "arothron-hispidus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 27,
+  "phMin": 8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 40,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/532.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "grand",
+    "facile"
+  ]
+}

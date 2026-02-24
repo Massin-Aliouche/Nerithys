@@ -1,0 +1,30 @@
+{
+  "name": "Barbus dorée",
+  "scientificName": "Barbodes semifasciolatus",
+  "slug": "barbodes-semifasciolatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 24,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 6,
+  "behavior": "Population: 8 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Bien qu'il ne soit vraiment pas exigeant quant à sa maintenance, il est recommandé de le maintenir dans un aquarium bien planté. L'ajout de quelques plantes flottantes et de racines ou branches de bois flotté pour diffuser la lumière entrant dans l'aquarium semble également être apprécié et apporte une sensation plus naturelle. Là encore, il se montre assez adaptable, la filtration n'a pas beso...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3005.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

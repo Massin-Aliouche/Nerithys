@@ -1,0 +1,28 @@
+{
+  "name": "Badis de Rao",
+  "scientificName": "Badis andrewraoi",
+  "slug": "badis-andrewraoi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 5,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Les données de terrain ne sont pas disponibles et les comptes-rendus de maintenance inexistants. Le climat local est chaud et humide et soumis à une saison de pluies marquée. On peut donc supposer que les poissons sont soumis à de fortes variations saisonnières. Pour le reste, on se référera à la maintenance d'autres Badis plus communs en aquariophilie.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

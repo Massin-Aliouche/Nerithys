@@ -1,0 +1,29 @@
+{
+  "name": "Badis de Britz",
+  "scientificName": "Badis britzi",
+  "slug": "badis-britzi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 27,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Badis britzi a été trouvé dans un ruisseau clair et lent avec une couverture riveraine, avec du gravier et des cailloux comme substrat principal associée à une végétation marginale et à des racines submergées. Afin de reproduire au mieux son milieu, l'aquarium type sera aménagé avec un substrat de sable ou de gravier fin, ainsi que des galets agencées afin de fournir de nombreuses caches pouvan...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

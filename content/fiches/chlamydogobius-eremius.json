@@ -1,0 +1,30 @@
+{
+  "name": "Chlamydogobius eremius",
+  "scientificName": "Chlamydogobius eremius",
+  "slug": "chlamydogobius-eremius",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 10,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 9,
+  "ghMax": 19,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 6,
+  "behavior": "Population: 2 minimum. Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/1066.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

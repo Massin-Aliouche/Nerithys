@@ -1,0 +1,31 @@
+{
+  "name": "Cichlidé nain de Regan",
+  "scientificName": "Crenicichla regani",
+  "slug": "crenicichla-regani",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 5.5,
+  "phMax": 6,
+  "ghMin": 0,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 15,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "La Crenicichla regani se plaira dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de branches de bois flotté ou de racines. L'ajout de quelques roches agencées pour former des grottes ou de pots de fleures renversés est indispensable pour la reproduction. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1391.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

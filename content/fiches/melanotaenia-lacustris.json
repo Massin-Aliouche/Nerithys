@@ -1,0 +1,31 @@
+{
+  "name": "Poisson Arc-en-ciel turquoise",
+  "scientificName": "Melanotaenia lacustris",
+  "slug": "melanotaenia-lacustris",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 15,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 8,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 12,
+  "behavior": "Population: 8 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Les principaux apports de surface du lac Kutubu proviennent de la rivière Tugibu et du ruisseau Kaimari dans le bassin versant nord-ouest. Ils traversent les forêts marécageuses avant d'entrer dans le lac Kutubu. De nombreux cours d'eau mineurs se déversent également dans le lac, mais la plupart d'entre eux ont de très petits bassins versants et ne coulent qu'à la suite d'événements de pluie lo...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2244.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

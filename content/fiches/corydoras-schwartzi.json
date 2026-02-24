@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras de Schwartz",
+  "scientificName": "Corydoras schwartzi",
+  "slug": "corydoras-schwartzi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 24,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 7,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le cory de Schwartz vit dans un climat tropical typique du centre-ouest du Brésil, dans de l'eau avec un pH de 5,5 à 7,5 pH, une dureté totale GH de 1 à 12, et une plage de température de 23 à 27 °C. La zone est plutôt chaude et très stable en température. En raison de leur origine, ils aiment la chaleur (26-30°C), c'est pourquoi ils conviennent bien comme poissons de fond dans les aquariums av...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Tetra géant à queue rose",
+  "scientificName": "Chalceus macrolepidotus",
+  "slug": "chalceus-macrolepidotus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 500,
+  "minLengthCm": 25,
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

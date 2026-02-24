@@ -1,0 +1,32 @@
+{
+  "name": "Pacu disque",
+  "scientificName": "Myleus schomburgkii",
+  "slug": "myleus-schomburgkii",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 27,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 450,
+  "minLengthCm": 42,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Un aquarium agencé pour reproduire un biotope Amazonien est un excellant choix. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines, offrant des refuges. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) peuvent être ajoutées pour donner un aspect naturel. Les plantes aquatiques ne sont pas ou peu présentes dans les eaux naturell...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2316.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "facile"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Poisson-hachette argenté",
+  "scientificName": "Thoracocharax stellatus",
+  "slug": "thoracocharax-stellatus",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 7,
+  "behavior": "Population: 6 minimum (10 recommandé). Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "La maintenance du Thoracocharax stellatus peut se faire aussi bien dans un aquarium densément planté que dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose alors de sable de rivière et le décor de d'un enchevêtrement de branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Un petit sac e...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3307.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

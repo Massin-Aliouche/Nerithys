@@ -1,0 +1,31 @@
+{
+  "name": "Corydoras nain",
+  "scientificName": "Corydoras hastatus",
+  "slug": "corydoras-hastatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 12 minimum (24 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Corydoras hastatus est un très petit Cory \"mi-eau\" dans le sens où il ne passe pas autant de temps sur le substrat que les autres Corydoras et semble préférer se reposer sur les feuilles des plantes immergées plutôt que sur le fond. Fortement tributaire des variations saisonnières il faudra impérativement proposer à ce Corydoras les changements de milieu qui lui sont nécessaires. Il est préféra...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1274.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Loche à pelviennes courtes*",
+  "scientificName": "Sewellia breviventralis",
+  "slug": "sewellia-breviventralis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 26,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "En danger dans son milieu, Sewellia breviventralis est rare en aquarium et, pour cette raison, il n'existe pas (2024) de retour de maintenance fiable. Les Sewellia spp. fréquentant toutes le même type de milieu, on se reportera donc à la maintenance commune aux membres vietnamiens du genre. Les Sewellia spp. sont principalement limitées aux sources et aux affluents peu profonds, à courant rapid...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Poisson-chat anamalais",
+  "scientificName": "Glyptothorax anamalaiensis",
+  "slug": "glyptothorax-anamalaiensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 16,
+  "tempMax": 25,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 0,
+  "behavior": "Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Cette espèce se trouve dans les habitats de cascades, de rapides ou des trous d'eau dans les rapides avec des rochers comme substrat. L'eau doit être fraîche et fortement oxygénée avec un bon débit car ces poissons se produisent dans les ruisseaux de montagne. La température ne devra pas dépasser 25 °C ont tendance à mourir de chaud à des températures plus élevées. Si la température devait dépa...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

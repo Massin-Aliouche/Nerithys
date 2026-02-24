@@ -1,0 +1,32 @@
+{
+  "name": "Altum",
+  "scientificName": "Pterophyllum altum",
+  "slug": "pterophyllum-altum",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 4.8,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 500,
+  "minLengthCm": 40,
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Pterophyllum altum est difficile à maintenir dans de bonnes conditions. Il partage toutes les difficultés de leurs proches parents quant à la sensibilité à la maladie du \"trou dans la tête\", supporte mal les accumulations de nitrate, est extrêmement sujets aux maladies liées au stress, mangent généralement leurs propres œufs, etc.) et présente en plus des difficultés qui lui sont propres (param...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2912.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

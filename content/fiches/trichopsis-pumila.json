@@ -1,0 +1,31 @@
+{
+  "name": "Gourami grogneur Nain",
+  "scientificName": "Trichopsis pumila",
+  "slug": "trichopsis-pumila",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 4,
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le Gourami grogneur nain demande une lumière tamisée et un aquarium bien planté. On privilégiera donc des plantes à tiges hautes et les plantes flottantes. Les Nymphaea, Cryptocoryne, Salvinia, Lemna minor, sont donc de bons choix. Il appréciera aussi le bois flotté pour les refuges que cela peut créer, mais des petits pots en argile, des tuyaux en plastique peuvent également être utilisés. L'a...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3346.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

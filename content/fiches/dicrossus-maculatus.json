@@ -1,0 +1,29 @@
+{
+  "name": "Dicrossus tacheté",
+  "scientificName": "Dicrossus maculatus",
+  "slug": "dicrossus-maculatus",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 3,
+  "phMax": 6,
+  "ghMin": 0,
+  "ghMax": 4,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 7,
+  "behavior": "Population: 3 minimum. Zone: Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Dicrossus maculatus fréquente les igarapés, les bras morts des rivières et les forêts inondées. Pendant la saison des pluies, l'eau y est calme, noire, avec une assez grande profondeur au fond tapissé de feuilles mortes, des racines et des branchages et des tiges des rares plantes. Le sol est essentiellement composé d'humus forestier. Lors de la saison sèche, l'eau y est claire et le sol, débar...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

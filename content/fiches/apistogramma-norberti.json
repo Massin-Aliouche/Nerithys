@@ -1,0 +1,30 @@
+{
+  "name": "Apistogramma norberti",
+  "scientificName": "Apistogramma norberti",
+  "slug": "apistogramma-norberti",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 29,
+  "phMin": 5.8,
+  "phMax": 6.8,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 4,
+  "behavior": "Population: 2 minimum. Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Cet Apistogramma n'est pas particulièrement difficile à maintenir. On peut lui proposer au choix, un environnement proche de son milieu naturel avec un substrat doux et sablonneux, des racines et des branches de bois placées de manière à former de nombreux endroits ombragés et des grottes et un tapis de feuilles qui apportera des tanins et reproduira donc une eau noire. Il est toutefois possibl...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

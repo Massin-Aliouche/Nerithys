@@ -1,0 +1,28 @@
+{
+  "name": "Gastromyzon ctenocephalus",
+  "scientificName": "Gastromyzon ctenocephalus",
+  "slug": "gastromyzon-ctenocephalus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 19,
+  "tempMax": 24,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4.5,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

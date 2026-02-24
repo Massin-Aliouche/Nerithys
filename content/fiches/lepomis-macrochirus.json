@@ -1,0 +1,29 @@
+{
+  "name": "Perche soleil bleue",
+  "scientificName": "Lepomis macrochirus",
+  "slug": "lepomis-macrochirus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 1,
+  "tempMax": 36,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 6,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 500,
+  "minLengthCm": 40,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Attention ! : Lepomis macrochirus est une espèce invasive en France est ne doit pas être maintenu en captivité. S'il est pêché, il ne doit pas être relâché ni même conservé.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

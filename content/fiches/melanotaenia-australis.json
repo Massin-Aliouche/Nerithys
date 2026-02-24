@@ -1,0 +1,30 @@
+{
+  "name": "Poisson Arc-en-ciel austral",
+  "scientificName": "Melanotaenia australis",
+  "slug": "melanotaenia-australis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 11,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "L'habitat de Melanotaenia australis est très variable et comprend des rivières, des ruisseaux, des marécages, des lagunes marécageuses, des lacs et des réservoirs. Il forme des bancs à la surface ou près de la surface des bassins rocheux ou se rassemble le long des bords des cours d'eau où il y a une couverture végétale ou des branches submergés. La plupart de ces biotopes sont soumis à des cha...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2237.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

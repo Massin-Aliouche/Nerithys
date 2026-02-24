@@ -1,0 +1,32 @@
+{
+  "name": "Gobie de Doria",
+  "scientificName": "Brachygobius doriae",
+  "slug": "brachygobius-doriae",
+  "biotope": "Eau saumâtre",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 29,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 1,
+  "ghMax": 19,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Brachygobius doriae est présent dans les cours d'eau de plaine et côtiers et les estuaires intérieurs, dans les eaux douces à saumâtres, y compris les mangroves et les forêts. Essentiellement nocturnes, les Gobius passent la journée fixés à une roche ou à une vitre par la ventouse formée par la réunion de leurs nageoires ventrales. Ils préfèrent une eau légèrement saumâtre. Du corail broyé ou d...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/768.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Tropheus moorii",
+  "scientificName": "Tropheus moorii",
+  "slug": "tropheus-moorii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 8,
+  "phMax": 9.5,
+  "ghMin": 8,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 15,
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 5",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'agencement de l'aquarium est typique des aquariums dédié au lac Tanganika, quasi exclusivement minéral, avec de nombreuses structures ressemblant à des grottes et des cachettes, mais présentant de larges zones ouvertes pour la nage. L'usage de plantes n'est pas indispensable, et celle-ci devront être particulièrement solides. La filtration, si elle ne doit pas créer un courant trop fort, doit...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3373.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

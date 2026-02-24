@@ -1,0 +1,32 @@
+{
+  "name": "Cichlidé émeraude",
+  "scientificName": "Hypselecara temporalis",
+  "slug": "hypselecara-temporalis",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 30,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "L'aquarium sera assez classiquement bien planté (il ne s'attaque pas au plantes, ni ne les deterre) et offrir quelques cachette, par exemple des racines de bonne taille. Le substrat sera de préférence constitué de sable. Il conviendra de disposer de grosses pierres lisses afin de servir de site de frai. La filtration devra être efficace, mais ne pas créer un courant trop important. L'éclairage ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2011.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

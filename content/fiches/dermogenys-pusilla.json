@@ -1,0 +1,32 @@
+{
+  "name": "Demi-bec",
+  "scientificName": "Dermogenys pusilla",
+  "slug": "dermogenys-pusilla",
+  "biotope": "Eau de mer",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 9,
+  "ghMax": 19,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 7,
+  "behavior": "Population: 6 minimum. Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Vivipare, difficulté: Possible",
+  "notes": "La surface est plus importante que la profondeur avec cette espèce, car elle passe presque tout son temps juste sous la surface de l'eau. Le Demi-Bec est particulièrement nerveux, surtout lorsqu'il est introduite pour la première fois dans un nouvel aquarium. L'ajout d'une végétation dense sur les bords de l'aquarium réduira le risque qu'il endommage ses délicates pièces buccales en se cognant ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1497.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "exigeant",
+    "vivipare"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Chaetostoma thomsoni",
+  "scientificName": "Chaetostoma thomsoni",
+  "slug": "chaetostoma-thomsoni",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 24,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Végétarien",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/964.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

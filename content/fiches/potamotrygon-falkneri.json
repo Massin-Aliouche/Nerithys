@@ -1,0 +1,29 @@
+{
+  "name": "Potamotrygon falkneri",
+  "scientificName": "Potamotrygon falkneri",
+  "slug": "potamotrygon-falkneri",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 28,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 47,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

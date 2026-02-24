@@ -1,0 +1,30 @@
+{
+  "name": "Barbus à tâche noire",
+  "scientificName": "Dawkinsia filamentosa",
+  "slug": "dawkinsia-filamentosa",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 19,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 18,
+  "behavior": "Population: 10 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium peut être agencer pour ressembler à un ruisseau ou à une rivière avec un substrat de roches de tailles variables, usées par l'eau, du sable, du gravier fin et peut-être quelques petits rochers. On peut y ajouter des racines ou des branches de bois flotté, et bien que la majorité des plantes aquatiques ne puissent pas se développer dans un tel environnement, des espèces résistantes co...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1492.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore"
+  ]
+}

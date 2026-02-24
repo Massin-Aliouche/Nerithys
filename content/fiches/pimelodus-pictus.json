@@ -1,0 +1,32 @@
+{
+  "name": "Pimélode peint",
+  "scientificName": "Pimelodus pictus",
+  "slug": "pimelodus-pictus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 20,
+  "behavior": "Population: 6 minimum (10 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "La configuration idéale pour Pimelodus pictus serait un aquarium d’eau douce fortement planté avec une lumière filtrée créant des zones ombragées de l’aquarium, ainsi que des grottes naturelles formées de bois flotté ou de rochers. Les Pimélodes tachetés préfèrent également un substrat sablonneux et des courants d'eau modérés à fort qui simulent fidèlement leurs conditions de vie naturelles dan...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2697.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

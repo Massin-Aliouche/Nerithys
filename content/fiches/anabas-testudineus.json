@@ -1,0 +1,30 @@
+{
+  "name": "Perche grimpeuse",
+  "scientificName": "Anabas testudineus",
+  "slug": "anabas-testudineus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 15,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 20,
+  "behavior": "Zone: Inférieure, Centrale, Supérieure",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "L'aménagement de l'aquarium import peut pour cette espèce. Il appréciera toutefois un sol composé de sable relativement fin, une plantation abondante, de larges morceaux de bois ou de racines et des plantes flottantes. Habitant naturellement des zones de faible courant, la filtration devra être efficace, mais ne pas générer de fort courant. L'éclairage devra rester raisonnable. Bien que les rap...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

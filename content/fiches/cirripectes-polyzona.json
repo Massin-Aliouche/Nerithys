@@ -1,0 +1,28 @@
+{
+  "name": "Cirripectes polyzona",
+  "scientificName": "Cirripectes polyzona",
+  "slug": "cirripectes-polyzona",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Végétarien",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Poisson-vache à épine dorsale",
+  "scientificName": "Lactoria fornasini",
+  "slug": "lactoria-fornasini",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 8,
+  "phMax": 8,
+  "ghMin": 255,
+  "ghMax": 255,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

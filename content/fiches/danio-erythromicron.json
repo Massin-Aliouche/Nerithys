@@ -1,0 +1,32 @@
+{
+  "name": "Danio du lac Inlé",
+  "scientificName": "Danio erythromicron",
+  "slug": "danio-erythromicron",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 8,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Souvent conseillé pour des nano aquarium à cause de sa petite taille, il est pourtant souhaitable de lui offrir un aquarium au format \"rivière\" d'assez grande taille. D'une part car c'est un excellent nageur, mais surtout car les relations intra-spécifique entre les mâles peuvent être tendues. Pour la même raison, il est important que l'aménagement permette de casser les lignes de vue. L'aquari...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1468.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano",
+    "exigeant"
+  ]
+}

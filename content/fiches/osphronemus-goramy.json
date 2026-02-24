@@ -1,0 +1,31 @@
+{
+  "name": "Gourami géant",
+  "scientificName": "Osphronemus goramy",
+  "slug": "osphronemus-goramy",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 17,
+  "tempMax": 27,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 25,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 80,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/2502.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

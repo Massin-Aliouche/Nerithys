@@ -1,0 +1,29 @@
+{
+  "name": "Pangio pingouin",
+  "scientificName": "Pangio alcoides",
+  "slug": "pangio-alcoides",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 21,
+  "tempMax": 30,
+  "phMin": 4.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Rare en aquarium, il n'y a pas de retour de maintenance pertinent. On peut cependant supposer que sa maintenance et son élevage ne diffèrent pas des ceux des autres membres du genre. Tous les Pangio ont besoin d'aquariums bien établis et ne devraient pas être accueillis dans des réservoirs nouvellement installés. Pangio alcoides fréquente les sections peu profondes et lentes des ruisseaux fores...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

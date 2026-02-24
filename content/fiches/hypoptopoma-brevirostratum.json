@@ -1,0 +1,28 @@
+{
+  "name": "Hypoptopome à museau court",
+  "scientificName": "Hypoptopoma brevirostratum",
+  "slug": "hypoptopoma-brevirostratum",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 6,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "On ne sait rien de cette espèce et on se reportera aux fiches des autres membres du genre susceptibles de fréquenter le même biotope pour assurer sa maintenance et son élevage.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

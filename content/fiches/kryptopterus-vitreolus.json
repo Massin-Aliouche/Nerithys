@@ -1,0 +1,31 @@
+{
+  "name": "Silure de verre",
+  "scientificName": "Kryptopterus vitreolus",
+  "slug": "kryptopterus-vitreolus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 6.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Ce sont des poissons calmes et tranquilles, peu actifs, qui passent tout leur temps quasiment immobiles, à onduler sur place, dans un coin ombragé du bac ou parfois dans le courant généré par le filtre. Leur façon de nager sur place est tout à fait typique. Il utilise ses barbillons pour repérer des proies éventuelles et en tapote souvent ses congénères. Les silures de verre sont principalement...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/5161.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

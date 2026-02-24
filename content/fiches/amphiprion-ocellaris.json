@@ -19,8 +19,13 @@
   "diet": "Omnivore: aliments marins, granulés, congelés.",
   "breeding": "Ovipare, reproduction possible en captivité.",
   "notes": "Espèce marine; requiert bac récifal ou marin adapté.",
-  "sources": ["https://www.fishipedia.fr/fr/poissons/amphiprion-ocellaris"],
-  "images": ["https://www.fishipedia.fr/wp-content/uploads/2018/09/Amphiprion-ocellaris-Pamilacan-Philippines.jpg"],
+  "images": [
+    "https://www.fishipedia.fr/wp-content/uploads/2018/09/Amphiprion-ocellaris-Pamilacan-Philippines.jpg"
+  ],
   "gallery": [],
-  "tags": ["marine","recifal","clownfish"]
+  "tags": [
+    "marine",
+    "recifal",
+    "clownfish"
+  ]
 }

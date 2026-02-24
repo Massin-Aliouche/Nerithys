@@ -1,0 +1,29 @@
+{
+  "name": "Élassoma d'Okefenokee",
+  "scientificName": "Elassoma okefenokee",
+  "slug": "elassoma-okefenokee",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 4,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 3,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "E. okefenokee fréquente les marécages fortement végétalisés et les petits ruisseaux très lents, généralement sur de la boue. On pourra donc aisément maintenir ce poisson en bac libre de technologie (no tech.). Comme pour les autres espèces du genre, l'aquarium doit être très planté et l'utilisation de plantes flottantes est recommandé. L'ajout d'une litière de feuille est pertinent, permettant ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

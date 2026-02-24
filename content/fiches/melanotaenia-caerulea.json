@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel bleu",
+  "scientificName": "Melanotaenia caerulea",
+  "slug": "melanotaenia-caerulea",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 4,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Melanotaenia caerulea est présent dans les étangs des plaines inondables et les petites criques du bas Kikori, ainsi que dans les petits ruisseaux de l'habitat forestier à canopée fermée traversant les collines calcaires du moyen Kikori. Son habitat est soumis à de fortes variations saisonnières de débit et de chimie de l'eau. Le poisson n'étant pas encore disponible dans la commerce, on ne pou...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

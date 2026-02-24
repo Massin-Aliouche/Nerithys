@@ -1,0 +1,28 @@
+{
+  "name": "Butis butis",
+  "scientificName": "Butis butis",
+  "slug": "butis-butis",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 6.8,
+  "phMax": 8,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

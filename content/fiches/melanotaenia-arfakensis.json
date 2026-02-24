@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel d'Arfak",
+  "scientificName": "Melanotaenia arfakensis",
+  "slug": "melanotaenia-arfakensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 9,
+  "ghMin": 4,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 11,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le poisson-arc-en-ciel d'Arfak n'est pas une espèce commune en aquarium et on sait peu de chose sur ses besoins. On essayera d'imiter le plus fidèlement possible son environnement naturel en reproduisant un cours d'eau traversant la forêt tropicale en plaine alluviale. On trouve principalement Melanotaenia arfakensis près de la végétation, des branchage submergés, mais peut également être prése...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel du lac Kuromai",
+  "scientificName": "Melanotaenia parva",
+  "slug": "melanotaenia-parva",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 6 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "La plupart des spécimens de Melanotaenia parva ont été collectés le long du rivage du lac parmi une végétation aquatique dense. Les rives du lac sont principalement boueuse et l'eau est très trouble. Dans certains endroits du lac, on note une croissance dense de Ceratophyllum demersum. Malgré un endémisme à l'aire très restreinte, Melanotaenia parva semble tolérer une grande variété de paramètr...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

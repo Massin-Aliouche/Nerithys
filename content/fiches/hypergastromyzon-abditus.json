@@ -1,0 +1,29 @@
+{
+  "name": "Hypergastromyzon abditus",
+  "scientificName": "Hypergastromyzon abditus",
+  "slug": "hypergastromyzon-abditus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 40.3,
+  "behavior": "Population: 6 minimum",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": "Voir H.humilis et Gastromyzon scitulus.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

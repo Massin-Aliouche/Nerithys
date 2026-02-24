@@ -1,0 +1,30 @@
+{
+  "name": "Aphanius mento",
+  "scientificName": "Aphanius mento",
+  "slug": "aphanius-mento",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 10,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": 15,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6,
+  "behavior": "Population: 12 minimum. Zone: Centrale. Ratio M/F: 3 / 2",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce poisson peut se montrer agressif envers les femelles et territorial avec les autres mâles. Pour atténuer ce comportement, il est préférable de les maintenir en groupe de 10 à 20 individus, où les mâles seront supérieurs en nombre. Cela améliore considérablement les relations entre sexes au moment du frai. Le mâle dominant établira un territoire dans la zone de reproduction, tandis que les au...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/380.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Zoogoneticus tequila",
+  "scientificName": "Zoogoneticus tequila",
+  "slug": "zoogoneticus-tequila",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 24,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 8,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Vivipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/3463.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile",
+    "vivipare"
+  ]
+}

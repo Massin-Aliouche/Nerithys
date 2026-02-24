@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel du lac Furnusu",
+  "scientificName": "Melanotaenia mairasi",
+  "slug": "melanotaenia-mairasi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 9,
+  "behavior": "Population: 6 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Melanotaenia mairasi été collectés près du rivage rocheux parmi la végétation aquatique et les racines submergées de Pandanus. On ne connait pas grand chose des habitudes de l'espèce, mais on veillera à reproduire, le plus fidèlement possible, le milieu naturel fréquenté. On veillera à lui fournir des conditions proches de celles qu'il rencontre dans la nature. Prévoyez donc des zones de végéta...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

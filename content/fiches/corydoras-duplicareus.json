@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras faux adolfoi",
+  "scientificName": "Corydoras duplicareus",
+  "slug": "corydoras-duplicareus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La localité type contenait de l'eau à écoulement rapide et un substrat sableux au moment de la collecte, et cette espèce habite vraisemblablement des affluents d'eau noire vierges et des zones de forêt inondée où l'eau est typiquement tachée de noir par des produits chimiques organiques. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

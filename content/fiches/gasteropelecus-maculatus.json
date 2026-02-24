@@ -1,0 +1,29 @@
+{
+  "name": "Poisson-hachette tacheté",
+  "scientificName": "Gasteropelecus maculatus",
+  "slug": "gasteropelecus-maculatus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 7,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Cette espèce est présente dans les rivières et les ruisseaux caractérisés par une faible turbidité et des températures allant de 21 à 27,6 °C. Le substrat se compose généralement de sable et de végétation en décomposition. Il est donc préférable qu'une bonne partie de la surface de l'eau soit occupée par des plantes flottantes, ce qui contribuera à rendre cette espèce craintive moins nerveuse. ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

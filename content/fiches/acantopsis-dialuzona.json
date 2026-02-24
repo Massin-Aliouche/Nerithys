@@ -1,0 +1,30 @@
+{
+  "name": "Loche à Rostre",
+  "scientificName": "Acantopsis dialuzona",
+  "slug": "acantopsis-dialuzona",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 16,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 1,
+  "ghMax": 18,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 24,
+  "behavior": "Population: 1 minimum (6 recommandé). Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "Il n'est pas difficile à maintenir, mais il faut lui fournir un substrat doux et sablonneux, car il passera une partie de son temps complètement enterré, ou avec seulement les yeux qui dépassent. Lorsqu'un matériau plus grossier est utilisé, il peut être stressé ou se blesser en essayant de creuser, et son comportement alimentaire peut être inhibé. D'autres éléments de décor peuvent être des ro...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

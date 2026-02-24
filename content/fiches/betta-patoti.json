@@ -1,0 +1,29 @@
+{
+  "name": "Betta patoti",
+  "scientificName": "Betta patoti",
+  "slug": "betta-patoti",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 6.8,
+  "ghMin": 4,
+  "ghMax": 16,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 9,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

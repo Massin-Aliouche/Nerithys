@@ -1,0 +1,31 @@
+{
+  "name": "Tetra Royal",
+  "scientificName": "Inpaichthys kerri",
+  "slug": "inpaichthys-kerri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Inpaichthys kerri fréquente les eaux ensoleillées, peu profondes et à végétation dense des igarapés. L'eau y est très douce, souvent teintée de brun par les tanins et autres acides humiques libérés par la matière organique en décomposition, et est par conséquent très acide. Un aquarium biotope amazonien \"igarapés\" sera le meilleurs choix. Un substrat de sable de rivière assez fin parsemé de que...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2024.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

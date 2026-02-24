@@ -1,0 +1,29 @@
+{
+  "name": "Tétraodon de Bornéo",
+  "scientificName": "Carinotetraodon borneensis",
+  "slug": "carinotetraodon-borneensis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 5,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "En cours de rédaction Très peu de données sont disponibles en ce qui concerne spécifiquement Carinotetraodon borneensis. C'est une espèce qui vit à l'état sauvage dans des eaux douces et acides. On se référera à la maintenance de son congénère C. salivator ou de C. lorteti.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

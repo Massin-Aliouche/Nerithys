@@ -1,0 +1,32 @@
+{
+  "name": "Perche soleil",
+  "scientificName": "Lepomis gibbosus",
+  "slug": "lepomis-gibbosus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 1,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 10,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 20,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Ne pas relâcher en milieu naturel, c'est une espèce considérée comme invasive hors de son aire d'origine. Cette jolie perche peut être maintenue en aquarium de grande taille, mais sa voracité ne facilite pas la tâche !",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2109.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

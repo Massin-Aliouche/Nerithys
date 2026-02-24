@@ -1,0 +1,32 @@
+{
+  "name": "Acará de Sven",
+  "scientificName": "Geophagus sveni",
+  "slug": "geophagus-sveni",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 29,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 6,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 20,
+  "behavior": "Population: 5 minimum (10 recommandé). Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Le mot Geophagus signifie littéralement \"mangeur de terre\" et fait référence aux habitudes alimentaires spécialisées de l'espèce Geophagus. Ces poissons passent constamment au crible le substrat à la recherche de nourriture. En raison de ce comportement alimentaire, un substrat mou et sablonneux est idéal. Des substrats et des graviers plus gros pourraient endommager leurs branchies, il est don...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/6225.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

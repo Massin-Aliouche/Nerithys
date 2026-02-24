@@ -1,0 +1,29 @@
+{
+  "name": "Rasbora élégant",
+  "scientificName": "Rasbora elegans",
+  "slug": "rasbora-elegans",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 7,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 20,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "R. elegans est un poisson ubiquiste, capturé à la fois dans des ruisseaux forestiers à courant rapide avec des substrats de rochers, de petites pierres, de sable ou de gravier et dans des eaux noires plus calmes associées à des zones d'anciennes forêts marécageuses de tourbe qui sont généralement pleines de feuilles mortes, de brindilles et de branches. Dans le premier cas, l'eau a tendance à ê...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand"
+  ]
+}

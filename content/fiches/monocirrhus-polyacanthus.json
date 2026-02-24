@@ -1,0 +1,29 @@
+{
+  "name": "Poisson feuille d'Amazonie",
+  "scientificName": "Monocirrhus polyacanthus",
+  "slug": "monocirrhus-polyacanthus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 29,
+  "phMin": 5,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 10,
+  "behavior": "Population: 2 minimum (6 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Attention ! : Difficile à maintenir en captivité, ce poisson doit être réservé aux aquariophiles aguerri-e-s. En plus d'être un prédateur vorace , M. polyacanthus est également une espèce très sensible aux dégradations de la qualité de l'eau. Un élevage de petits poissons prolifiques comme les guppies, gambusies ou Tanichthys devra être impérativement mis en place afin d'assurer l'alimentation ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Betta de Penang",
+  "scientificName": "Betta pugnax",
+  "slug": "betta-pugnax",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 6,
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Bien qu’il puisse être maintenu dans un aquarium planté, de nombreux éleveurs préfèrent ne pas utiliser de substrat pour faciliter l'entretien. Les racines et les branches de bois flotté peuvent être utilisées et placées de manière à former quelques points ombragés, tandis que des pots en argile ou des morceaux de tuyaux peuvent également être inclus pour fournir un abri supplémentaire. Comme b...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/706.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Danio léopard",
+  "scientificName": "Danio kyathit",
+  "slug": "danio-kyathit",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 16,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 5,
+  "behavior": "Population: 10 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Idéalement, il convient de le maintenir dans un aquarium bien planté, conçu pour ressembler à une rivière ou à un ruisseau, avec un substrat de roches et de graviers de tailles variables, ainsi que de gros rochers érodés par l'eau et quelques morceaux de bois flotté. Même si son habitat a un courant important, il convient d’éviter de reproduire des conditions semblables à celles d’un torrent, c...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1472.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

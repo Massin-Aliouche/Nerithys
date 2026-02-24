@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras ondé",
+  "scientificName": "Corydoras undulatus",
+  "slug": "corydoras-undulatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Corydoras undulatus est apparenté au groupe C. elegans. Comme la plupart des représentants de ce groupe, l’espèce nage plutôt en eau libre que sur le sol. Des températures assez basses dans l'aquarium seront bénéfiques à cette espèce qui est soumise à des hivers frais. Des variations saisonnières lui sont donc indispensables. Attention ! : On lit souvent que ce poisson est \"très tolérant envers...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

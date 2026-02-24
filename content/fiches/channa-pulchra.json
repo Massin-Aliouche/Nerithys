@@ -1,0 +1,32 @@
+{
+  "name": "Channa paon",
+  "scientificName": "Channa pulchra",
+  "slug": "channa-pulchra",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 15,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 30,
+  "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Attention ! : Channa pulchra est un poisson sub-tropical visiblement potamodrome Qui migre exclusivement dans les cours d'eau douce.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/985.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

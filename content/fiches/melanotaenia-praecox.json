@@ -1,0 +1,30 @@
+{
+  "name": "Poisson Arc-en-ciel nain",
+  "scientificName": "Melanotaenia praecox",
+  "slug": "melanotaenia-praecox",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 29,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On rencontre les Melanotaenia praecox dans les affluents à débit rapide du fleuve principal, ainsi que les marais et les marécages environnants à la saison des pluies. Ils se rassemblent autour des zones de végétation aquatique, ou des racines et des troncs submergés dans les cours d'eau clairs et relativement rapides de la forêt tropicale primaire bordant les plaines de Mamberamo. L'habitat co...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2251.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

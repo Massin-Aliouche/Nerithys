@@ -1,0 +1,28 @@
+{
+  "name": "Pseudochromis springeri",
+  "scientificName": "Pseudochromis springeri",
+  "slug": "pseudochromis-springeri",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 28,
+  "phMin": 8.1,
+  "phMax": 8.4,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5.5,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

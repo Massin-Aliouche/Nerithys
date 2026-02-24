@@ -1,0 +1,29 @@
+{
+  "name": "Barbus tacheté",
+  "scientificName": "Barbodes binotatus",
+  "slug": "barbodes-binotatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 20,
+  "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On trouve couramment Barbodes binotatus sous les cascades dans les ruisseaux de montagne. Il fréquente les rivières de taille moyenne à grande, mais aussi les plans d'eau stagnants. Les substrats de ces habitats peuvent être composés de boue, de sable, de cailloux, de rochers émoussés, avec des structures ligneuses submergées telles que des branches de bois flotté ou des racines d'arbres ainsi ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Betta simorum",
+  "scientificName": "Betta simorum",
+  "slug": "betta-simorum",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 4.5,
+  "phMax": 6,
+  "ghMin": 2,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 8,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Idéalement, on choisira un aquarium peu profond mais proposant une grande surface au sol. Il devra être correctement fermé, car, comme la plupart des Betta, c'est un bon sauteur. La filtration doit générer un courant le plus faible possible, et peut donc se limiter à un simple filtre exhausteur. L'aquarium sera fortement planté. L'ajout de plantes flottantes est conseillé pour tamiser la lumièr...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

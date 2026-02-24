@@ -1,0 +1,29 @@
+{
+  "name": "Killi d'Amiet",
+  "scientificName": "Fundulopanchax amieti",
+  "slug": "fundulopanchax-amieti",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 7.2,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 30,
+  "minLengthCm": 7,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Un substrat sombre peut être utilisé afin de faire ressortir les couleurs et l'aquarium doit comporter des zones de plantation denses et des morceaux de bois pour servir de cachettes. L'utilisation de plantes flottantes pour diffuser la lumière est également recommandée. Ce killi est un excellent sauteur, aussi est-il préférable de bien fermer l'aquarium. Bien que généralement maintenu en aquar...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1636.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

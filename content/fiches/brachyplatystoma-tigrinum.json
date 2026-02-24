@@ -1,0 +1,32 @@
+{
+  "name": "Poisson-chat tigré",
+  "scientificName": "Brachyplatystoma tigrinum",
+  "slug": "brachyplatystoma-tigrinum",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 22,
+  "tempMax": 32,
+  "phMin": 6,
+  "phMax": 7.6,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 50,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "L'aquarium peut être composé d'un substrat sablonneux avec quelques gros morceaux de bois flotté et de grosses pierres usées par l'eau. Les plantes ne sont pas recommandées. La filtration se doit d'être fortement surdimensionnée et complétée par des pompe de brassage. L'éclairage ne doit pas être trop vif. De par son régime alimentaire, il ne doit être maintenu qu'avec des espèces suffisamment ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/773.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

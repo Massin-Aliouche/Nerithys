@@ -1,0 +1,28 @@
+{
+  "name": "Haplochromis nubilus",
+  "scientificName": "Haplochromis nubilus",
+  "slug": "haplochromis-nubilus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 17,
+  "tempMax": 32,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 10,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

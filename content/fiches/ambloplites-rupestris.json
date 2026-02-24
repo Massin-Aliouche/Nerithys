@@ -1,0 +1,32 @@
+{
+  "name": "Crapet de roche",
+  "scientificName": "Ambloplites rupestris",
+  "slug": "ambloplites-rupestris",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": null,
+  "notes": "c’est plutôt un poisson de grand bassin et aquarium public, qui se mesure en mètres cubes, de par son mode de vie en groupe et dans des eaux bien oxygénées.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/8625.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

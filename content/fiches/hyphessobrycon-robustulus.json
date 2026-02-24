@@ -1,0 +1,31 @@
+{
+  "name": "Tétra Robustulus",
+  "scientificName": "Hyphessobrycon robustulus",
+  "slug": "hyphessobrycon-robustulus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Comme la plupart de tétra, il se plaira dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière, recouvert de feuilles (hêtre, chêne, catappa…) et le décor d'un entrelacs de branches de bois flotté ou de racines. Le bois et les feuilles donnent une couleur ambrée propre à ce milieu. Un filtration sur tourbe peut venir en complément. Les plantes a...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3905.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

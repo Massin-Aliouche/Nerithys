@@ -1,0 +1,28 @@
+{
+  "name": "Pelvicachromis humilis",
+  "scientificName": "Pelvicachromis humilis",
+  "slug": "pelvicachromis-humilis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 26,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 6.8,
+  "ghMin": 5,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 260,
+  "minLengthCm": 12.5,
+  "behavior": "Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Pour la maintenance de cette espèce, un bac de 130 cm de long, 50 cm de large et 40 cm de haut est un minimum. La hauteur est secondaire, elle ne devra cependant pas être inférieure. Ces poissons sont étroitement inféodés au substrat et occupent exclusivement cette zone. Si le bac n'est pas assez haut et que les plantes flottantes ne sont pas suffisantes, ces poissons restent très farouches. Le...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Poisson-chat jaguar",
+  "scientificName": "Liosomadoras oncinus",
+  "slug": "liosomadoras-oncinus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4.8,
+  "phMax": 7.2,
+  "ghMin": 0,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 25,
+  "behavior": "Population: 4 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 3",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Attention ! : Liosomadoras oncinus fréquente une large gamme d'habitats dans la nature, et est de plus soumis à d'importantes variations saisonnières, d'où son apparente tolérance à des paramètres de l'eau extrêmement divers. En réalité, ses exigences sont déterminées par la localité de collecte. Il est donc préférable de demander à votre grossiste leur lieu de pêche et les conditions d'eau dan...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2145.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

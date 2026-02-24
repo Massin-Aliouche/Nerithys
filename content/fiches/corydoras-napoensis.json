@@ -1,0 +1,30 @@
+{
+  "name": "Corydoras du Rio Napo",
+  "scientificName": "Corydoras napoensis",
+  "slug": "corydoras-napoensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 5,
+  "behavior": "Population: 15 minimum (30 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Corydoras napoensis a été recueillie dans un lac inondé avec un fond de sable et de boue avec des plantes aquatiques abondantes (Ponthederia, Eichhornia) et cyperaceans, et dans une lagune d'eau turbide, boueuse, avec des plantes aquatiques immergées et les graminées sur les rives. Corydoras napoensis vit, en milieu naturel, en très grand banc de plus d'une centaine individus en sympatrie avec ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1297.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

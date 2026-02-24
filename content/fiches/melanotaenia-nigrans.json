@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel à bandes noires",
+  "scientificName": "Melanotaenia nigrans",
+  "slug": "melanotaenia-nigrans",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 8,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 12,
+  "behavior": "Population: 8 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Melanotaenia nigrans a été trouvé dans une grande variété d'environnements d'eau douce, mais semble préférer les ruisseaux d'eau claire à débit lent, les billabongs et les marécages avec une végétation aquatique abondante. Une plage de température de 19 à 35 °C a été enregistrée dans leur environnement naturel, un pH 5,0 à 8,1 et conductivité 4 à 180 µS/cm. Attention ! : Les températures moyenn...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

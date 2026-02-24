@@ -1,0 +1,31 @@
+{
+  "name": "Silure fantôme",
+  "scientificName": "Kryptopterus minor",
+  "slug": "kryptopterus-minor",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 21,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 6.5,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Comme les autres silures de verres ce sont des poissons calmes et tranquilles, peu actifs, qui passent tout leur temps quasiment immobiles, à onduler sur place, dans un coin ombragé du bac ou parfois dans le courant généré par le filtre. Leur façon de nager sur place est tout à fait typique. Il utilise ses barbillons pour repérer des proies éventuelles et en tapote souvent ses congénères. Krypt...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2045.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

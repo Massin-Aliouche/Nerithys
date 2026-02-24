@@ -1,0 +1,28 @@
+{
+  "name": "Hassar orestis",
+  "scientificName": "Hassar orestis",
+  "slug": "hassar-orestis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 20,
+  "behavior": "Population: 3 minimum",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": "Hassar orestis aime se cacher dans les plantes, bien plus que dans des grottes ou sous des racines. L'aquarium doit donc être richement planté afin qu'il se sente en confiance. Particulièrement sensible à la qualité de l'eau, l'entretien de l'aquarium doit être de très bonne qualité et assurer entre autre une concentration en nitrate très basse. C'est, par nature, un grégaire, et il apparaîtra ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Apistogramma Pandurini",
+  "scientificName": "Apistogramma panduro",
+  "slug": "apistogramma-panduro",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 29,
+  "phMin": 4.5,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 7,
+  "behavior": "Population: 2 minimum (2 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce poisson a besoin comme tous les cichlidés de nombreuses cachettes, d'une substrat qu'ils peuvent modeler, de grottes, des massifs de plantes et d'un espace de nage exempt de plante à l'avant de l'aquarium. Un courant modéré voire faible.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/464.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

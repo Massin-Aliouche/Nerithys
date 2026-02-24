@@ -1,0 +1,29 @@
+{
+  "name": "Gobie d'Amazonie",
+  "scientificName": "Awaous flavus",
+  "slug": "awaous-flavus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 27,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 9,
+  "ghMax": 22,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 8.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "exigeant"
+  ]
+}

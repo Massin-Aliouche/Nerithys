@@ -1,0 +1,30 @@
+{
+  "name": "Tétra à queue sanglante",
+  "scientificName": "Hemigrammus stictus",
+  "slug": "hemigrammus-stictus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 27,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 6,
+  "behavior": "Population: 10 minimum",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance de l'Hemigrammus stictus peut se faire dans un aquarium agencé pour reproduire un biotope Amazonien. Les plantes aquatiques ne sont pas ou peu présentes dans les eaux naturelles de cette espèce. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/5044.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

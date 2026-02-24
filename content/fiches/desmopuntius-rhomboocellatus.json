@@ -1,0 +1,30 @@
+{
+  "name": "Barbus à peau de serpent",
+  "scientificName": "Desmopuntius rhomboocellatus",
+  "slug": "desmopuntius-rhomboocellatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 9,
+  "behavior": "Population: 10 minimum (15 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "D. rhomboocellatus fréquente généralement dans les cours d'eau noirs des zones forestières Desmopuntius rhomboocellatus appréciera un aquarium représentant un ruisseau forestier, aux rives fortement planté. Le décor pourra être complété par des racines et autres pièces de bois. L'ajout d'une litière de feuilles est un plus non négligeable qui, outre le coté naturel qu'elle apportera, permettra ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2998.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

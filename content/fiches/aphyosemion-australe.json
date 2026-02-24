@@ -1,0 +1,30 @@
+{
+  "name": "Cap Lopez",
+  "scientificName": "Aphyosemion australe",
+  "slug": "aphyosemion-australe",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 19,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 20,
+  "minLengthCm": 5,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium type est fortement planté et le décor doit offrir de nombreuses cachettes. Des plantes flottantes pour diffuser la lumière sont fortement recommandées. C'est un roi de l'évasion, aussi l'aquarium doit être parfaitement fermé et ne laisser aucune issue, aussi improbable soit elle. La filtration doit être très douce. Un sol sombre est recommandé pour mettre en valeur sa magnifique robe...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/393.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Nanocheirodon insignis",
+  "scientificName": "Nanocheirodon insignis",
+  "slug": "nanocheirodon-insignis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 5.6,
+  "phMax": 7.6,
+  "ghMin": 2,
+  "ghMax": 14,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

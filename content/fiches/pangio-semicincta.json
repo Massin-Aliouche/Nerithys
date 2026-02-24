@@ -1,0 +1,31 @@
+{
+  "name": "Pangio demi bandé",
+  "scientificName": "Pangio semicincta",
+  "slug": "pangio-semicincta",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "L'aquarium devra avoir un substrat doux et fin. En effet, les Pangio aiment s'enfouir et peuvent donc se blesser si le substrat est trop grossier. Un éclairage assez faible est également préférable, des plantes flottantes pourront aider à l'obtenir. Par ailleurs, une plantation dense, des racines, pierres,... aideront ce pangio à se cacher et à se sentir plus en sécurité. On peut aussi constitu...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3771.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

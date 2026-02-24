@@ -1,0 +1,29 @@
+{
+  "name": "Gourami réglisse de Bintan",
+  "scientificName": "Parosphromenus bintan",
+  "slug": "parosphromenus-bintan",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 3,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 3,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La rareté de P. bintan impose de ne le maintenir qu'en bac biotope spécifique, afin d'en assurer la reproduction, et la diffusion. C'est un habitant sténotopique* des forêts marécageuses tourbeuses et des ruisseaux d'eau noire associés. Dans son habitat originel, la canopée est dense et des branches au-dessus de l'eau laisse très peu de lumière pénétrer la surface, et la végétation riveraine a ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

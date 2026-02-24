@@ -1,0 +1,32 @@
+{
+  "name": "Poisson-ange demi-lune",
+  "scientificName": "Pomacanthus asfur",
+  "slug": "pomacanthus-asfur",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 27,
+  "phMin": 7.6,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 35,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/5159.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "grand",
+    "facile"
+  ]
+}

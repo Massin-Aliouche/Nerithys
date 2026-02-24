@@ -1,0 +1,28 @@
+{
+  "name": "Iskandaria kuschakewitschi",
+  "scientificName": "Iskandaria kuschakewitschi",
+  "slug": "iskandaria-kuschakewitschi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 10,
+  "tempMax": 20,
+  "phMin": 6.8,
+  "phMax": 7.8,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

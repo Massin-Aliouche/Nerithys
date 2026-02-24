@@ -1,0 +1,30 @@
+{
+  "name": "Chidongo saulosi",
+  "scientificName": "Chindongo saulosi Taiwan Reef",
+  "slug": "chindongo-saulosi-taiwan-reef",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": 8,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 240,
+  "minLengthCm": 10,
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Algivore",
+  "breeding": "Ovovivipare, difficulté: Possible",
+  "notes": "Pour cette espèce, un aquarium 120x40x50 est le minimum. il faut un volume de filtration qui est de 5 à 10 fois le volume de l'aquarium. dans votre filtre vous devrait avoir 2 Kg/100L de matière de filtration biologique ou support bactérien. soit pour un aquarium de 240 L correspond a un filtre 1200 L/h à 2400 L/h et 5 kg de matière de filtration biologique ou support bactérien. je recommande d...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2890.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "vivipare"
+  ]
+}

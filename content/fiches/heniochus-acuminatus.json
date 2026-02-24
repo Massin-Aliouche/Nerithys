@@ -1,0 +1,30 @@
+{
+  "name": "Poisson cocher commun",
+  "scientificName": "Heniochus acuminatus",
+  "slug": "heniochus-acuminatus",
+  "biotope": "Eau de mer",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 26,
+  "phMin": 7.5,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 500,
+  "minLengthCm": 20,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Planctonivore",
+  "breeding": "Ovipare",
+  "notes": "Ses relations interspécifiques sont excellentes et l'agressivité intraspécifique est assez peu fréquente. A noter qu'ils s'attaquent parfois aux petites tâches noires présentes sur le corps des autres poissons, les espèces fortement tachetées , comme les Diodon peuvent souffrir de ce comportement. Sa longue nageoire dorsale est parfois sectionnée par un autre pensionnaire (notamment les baliste...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1901.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "grand"
+  ]
+}

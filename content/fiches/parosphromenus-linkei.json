@@ -1,0 +1,31 @@
+{
+  "name": "Paros de Linke",
+  "scientificName": "Parosphromenus linkei",
+  "slug": "parosphromenus-linkei",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 3,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 4,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 20,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 2 minimum (5 recommandé). Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ils apprécient les aquariums calmes, encombrés, avec des tanins et une lumière tamisée par des plantes flottantes. Evoluant principalement près du sol, il vaut mieux favoriser la surface au sol plutôt que la hauteur d'eau. L'espèce semble être sténotopique Se dit d'un organisme ne tolérant qu'une gamme étroite de conditions environnementales ou ne pouvant s'adapter qu'à une gamme étroite de cha...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2618.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

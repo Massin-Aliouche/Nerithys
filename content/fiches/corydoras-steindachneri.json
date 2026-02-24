@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras de Steindachner",
+  "scientificName": "Corydoras steindachneri",
+  "slug": "corydoras-steindachneri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Originaire des petits cours d'eau côtiers, le cory de Steindachner demande une eau neutre à légèrement basique (pH de 7,0 à 7,6), une dureté totale assez peu importante (GH de 5 à 30), mais surtout, il faut éviter les coups de chaud avec une température de 20 à 24 °C. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

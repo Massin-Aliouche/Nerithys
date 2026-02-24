@@ -1,0 +1,28 @@
+{
+  "name": "Pseudosphromenus cupanus",
+  "scientificName": "Pseudosphromenus cupanus",
+  "slug": "pseudosphromenus-cupanus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 6.5,
+  "phMax": 7.8,
+  "ghMin": 15,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 6,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

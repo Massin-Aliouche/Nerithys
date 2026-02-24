@@ -1,0 +1,30 @@
+{
+  "name": "Pseudomugil luminatus",
+  "scientificName": "Pseudomugil luminatus",
+  "slug": "pseudomugil-luminatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 5,
+  "behavior": "Population: 10 minimum. Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": "Il faudra prévoir au minimum un aquarium de 60 litres et d'au minimum 60 cm de long. Les Luminatus sont plus grand que les Gertrudae et aiment bien nager. C'est un poisson grégaire qui devra vivre en groupe d'au moins 10 individus pour se sentir en confiance.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3617.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

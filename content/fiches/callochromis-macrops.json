@@ -1,0 +1,30 @@
+{
+  "name": "Mtosi",
+  "scientificName": "Callochromis macrops",
+  "slug": "callochromis-macrops",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 7.8,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 11,
+  "behavior": "Population: 4 minimum. Zone: Fond. Ratio M/F: 1 / 3",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Un environnement principalement ouvert et sablonneux est la caractéristique la plus essentielle, car il s'agit d'une espèce qui se déplace sur le sable et qui vit sur le substrat. Les mâles construiront également leurs nids dans le sable. Une couche assez épaisse (6 à 8 cm) car ils peuvent en déplacer une quantité surprenante pour les construire. Si les formation rocheuses sont souhaitables, no...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/799.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

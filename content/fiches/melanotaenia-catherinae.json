@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel de Waigeo",
+  "scientificName": "Melanotaenia catherinae",
+  "slug": "melanotaenia-catherinae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 19,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 8.5,
+  "ghMin": 4,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Melanotaenia catherinae n'étant pas encore très courant dans la commerce, les compte-rendus de maintenance sont plus que rares. On ne pourra donc ici qu'en ébaucher des pistes. Melanotaenia catherinae fréquente les ruisseaux et les petites rivières qui traversent la forêt pluviale primaire et secondaire. On le trouve dans des bassins plus profonds sous les chutes d'eau et les cascades, souvent ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

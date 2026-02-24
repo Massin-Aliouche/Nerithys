@@ -1,0 +1,31 @@
+{
+  "name": "Poisson pygmée arlequin des Everglades",
+  "scientificName": "Elassoma evergladei",
+  "slug": "elassoma-evergladei",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 6,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium doit être très planté et l'utilisation de plantes flottantes est recommandé. L'ajout d'une litière de feuille est pertinent, permettant de reproduire une eau brune et reproduisant sont milieu naturel. Adapté aux systèmes lentiques et pauvre en oxygène, acceptant une large plage de températures, Elassoma evergladei est parfaitement adapté à une maintenance aquarium de faible technolog...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1564.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

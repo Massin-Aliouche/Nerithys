@@ -1,0 +1,30 @@
+{
+  "name": "Serranocirrhitus latus",
+  "scientificName": "Serranocirrhitus latus",
+  "slug": "serranocirrhitus-latus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 10,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Planctonivore",
+  "breeding": "Ovipare",
+  "notes": "Ce poisson plutot craintif doit être mis en confiance, aussi est-il fortement recommandé de lui offrir plusieurs grottes ou surplombs. Plus il peut se cacher, plus il se montrera! L'éclairage ne doit pas être trop puissant. Ils ne touchent pas aux invertébrés et convient donc parfaitement à un aquarium récifal.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/7314.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

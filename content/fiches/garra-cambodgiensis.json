@@ -1,0 +1,28 @@
+{
+  "name": "Garra du Cambodge",
+  "scientificName": "Garra cambodgiensis",
+  "slug": "garra-cambodgiensis",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 29,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 18,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Garra cambodgiensis tend à habiter sections de rivières et affluents à écoulement rapide et hautement oxygénés, plutôt que les canaux fluviaux. Ces habitats contiennent généralement de l'eau claire avec des substrats de gravier, de roches et de rochers revêtus par un biofilm riche composé d'algues, de crustacés, de larves d'insectes et d'autres microorganismes. L'aquarium idéal mesurera au moin...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

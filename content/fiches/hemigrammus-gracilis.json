@@ -1,0 +1,30 @@
+{
+  "name": "Faux néon rose",
+  "scientificName": "Hemigrammus gracilis",
+  "slug": "hemigrammus-gracilis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 27,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4.4,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance de l'Hemigrammus gracilis peut se faire, au choix, dans un aquarium agencé pour reproduire un biotope Amazonien ou dans un aquarium fortement planté. Dans le premier cas, le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Les plantes aqu...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1889.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

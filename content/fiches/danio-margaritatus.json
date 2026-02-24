@@ -19,8 +19,13 @@
   "diet": "Carnivore: nauplies, microaliment vivant et paillettes fines.",
   "breeding": "Ovipare, pond en eau libre; élevage en bac spécifique conseillé.",
   "notes": "Excellente espèce pour nano-aquariums plantés.",
-  "sources": ["https://www.fishipedia.fr/fr/poissons/danio-margaritatus"],
-  "images": ["https://www.fishipedia.fr/wp-content/uploads/2013/05/Danio_margaritatus_2.jpg"],
+  "images": [
+    "https://www.fishipedia.fr/wp-content/uploads/2013/05/Danio_margaritatus_2.jpg"
+  ],
   "gallery": [],
-  "tags": ["nano","banc","facile"]
+  "tags": [
+    "nano",
+    "banc",
+    "facile"
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "name": "Barbus de Foersch",
+  "scientificName": "Desmopuntius foerschi",
+  "slug": "desmopuntius-foerschi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "D. foerschi habite les tourbières et les cours d'eau noirs associés, généralement protégés du soleil par une végétation marginale et par la canopée dense. L'eau a généralement une teneur négligeable en minéraux dissous, est mal tamponnée et son pH peut être aussi bas que 3,0 ou 4,0 en raison de la libération de tanins et d'acides organiques provenant des matières végétales en décomposition. Sel...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

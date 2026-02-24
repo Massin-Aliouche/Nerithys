@@ -1,0 +1,32 @@
+{
+  "name": "Platax orbiculaire",
+  "scientificName": "Platax orbicularis",
+  "slug": "platax-orbicularis",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 8,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 10000,
+  "minLengthCm": 50,
+  "behavior": "Population: 1 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "C'est un poisson calme, se souciant peu des autres occupants de l'aquarium.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2706.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore",
+    "grand",
+    "facile"
+  ]
+}

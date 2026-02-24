@@ -1,0 +1,29 @@
+{
+  "name": "Osphronemus exodon",
+  "scientificName": "Osphronemus exodon",
+  "slug": "osphronemus-exodon",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 17,
+  "tempMax": 27,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 25,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 680,
+  "minLengthCm": 60,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Herbivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

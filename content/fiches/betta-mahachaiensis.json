@@ -1,0 +1,30 @@
+{
+  "name": "Betta de de Maha Chai",
+  "scientificName": "Betta mahachaiensis",
+  "slug": "betta-mahachaiensis",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 8.2,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 4.4,
+  "behavior": "Population: 1 minimum. Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce betta peut être maintenu en eau douce moyennement dure à dure, ou légèrement saumâtre. L'aquarium sera de préférence bien planté et ombragé par des plantes à hautes tiges ou de plantes flottantes. Le bois flotté peut également être utilisé et lui fournira des sites de reproduction. De petits pots à plantes en argile, morceaux de tuyau en plastique peuvent également être utiliser pour offrir ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3812.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore"
+  ]
+}

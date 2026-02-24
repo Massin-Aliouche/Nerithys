@@ -1,0 +1,30 @@
+{
+  "name": "Badis rouge",
+  "scientificName": "Badis ruber",
+  "slug": "badis-ruber",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 27,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "B. ruber fréquente les biotopes lentiques tels que les fossés, bras mort, marres et les petites criques à la végétation abondante. Idéalement, l'aquarium de B. ruber doit donc être fortement planté. Les plantes flottantes sont fortement conseillées pour tamiser la lumière qui doit rester relativement faible. Des racines et une litière de feuilles peuvent également être utilisés pour donner une ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/608.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

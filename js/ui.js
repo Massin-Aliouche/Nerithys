@@ -6,6 +6,12 @@
 
   function qs(sel) { return document.querySelector(sel); }
 
+  /* ── HTML escape (XSS protection) ────────────── */
+  function escHtml(s) {
+    if (!s) return '';
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
   function getBase() {
     if (typeof window.ASSET_PATH === 'string' && window.ASSET_PATH !== '') {
       var b = window.ASSET_PATH;
@@ -80,17 +86,17 @@
     }
 
     card.innerHTML =
-      '<a href="' + href + '">' +
+      '<a href="' + escHtml(href) + '">' +
         '<div class="card-img-wrap">' +
-          '<img class="card-img" src="' + imgSrc + '" alt="' + (item.name || '') + '" loading="lazy" onerror="this.style.display=\'none\'">' +
+          '<img class="card-img" src="' + escHtml(imgSrc) + '" alt="' + escHtml(item.name || '') + '" loading="lazy" onerror="this.style.display=\'none\'">' +
           '<div class="card-img-overlay"></div>' +
         '</div>' +
         '<div class="card-body">' +
-          '<div class="card-name">' + (item.name || '—') + '</div>' +
-          '<div class="card-sci">' + (item.scientificName || '') + '</div>' +
+          '<div class="card-name">' + escHtml(item.name || '—') + '</div>' +
+          '<div class="card-sci">' + escHtml(item.scientificName || '') + '</div>' +
           '<div class="card-badges">' +
             '<span class="badge ' + diffBadgeClass(diff) + '">' + diffLabel(diff) + '</span>' +
-            '<span class="badge badge-slate">' + (item.biotope || '') + '</span>' +
+            '<span class="badge badge-slate">' + escHtml(item.biotope || '') + '</span>' +
           '</div>' +
         '</div>' +
       '</a>';

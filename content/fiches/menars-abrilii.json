@@ -1,0 +1,28 @@
+{
+  "name": "Petit Trianon",
+  "scientificName": "Menars abrilii",
+  "slug": "menars-abrilii",
+  "biotope": "Eau de mer",
+  "difficulty": 2,
+  "tempMin": 0,
+  "tempMax": 40,
+  "phMin": 5,
+  "phMax": 9,
+  "ghMin": 0,
+  "ghMax": 40,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 1000000,
+  "minLengthCm": 15,
+  "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Autre, difficulté: Possible",
+  "notes": "C’est un poisson facile à maintenir, il se contente de peu si on prend soin de lui faire croire que c’est toujours ça. (Nimp, Orteqois, 2016) On lui réservera un très grand bac avec d’importantes variations saisonnières. Certains éleveurs aménagent un biotope cohérent en y ajoutant une mobylette et quelques vieux pneus, éléments typiques du milieu. Pour favoriser le frai on proposera un changem...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore"
+  ]
+}

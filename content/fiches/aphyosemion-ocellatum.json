@@ -1,0 +1,31 @@
+{
+  "name": "Killi à ocelle",
+  "scientificName": "Aphyosemion ocellatum",
+  "slug": "aphyosemion-ocellatum",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 14,
+  "tempMax": 25,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 30,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Cette espèce est très difficile à maintenir en aquarium (Huber 1996), sans doute à cause de l'eau fraiche qui caractérise son habitat. L'Aphyosemion ocellatum fréquente les ruisseaux à débit rapide et les petits cours d'eau des plaines intérieures et des zones de collines, à une profondeur de dix à trente centimètres, dont l'eau est à pH 5, DH 0,25, 31 µS/m et dont la température est proche de ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/405.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

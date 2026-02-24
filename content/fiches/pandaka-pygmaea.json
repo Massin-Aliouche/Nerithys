@@ -1,0 +1,29 @@
+{
+  "name": "Pandaka pygmaea",
+  "scientificName": "Pandaka pygmaea",
+  "slug": "pandaka-pygmaea",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 0,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 1,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "nano",
+    "facile"
+  ]
+}

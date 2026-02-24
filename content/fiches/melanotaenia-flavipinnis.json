@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel à nageoires jaunes",
+  "scientificName": "Melanotaenia flavipinnis",
+  "slug": "melanotaenia-flavipinnis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Il y a très peu de rapport de maintenance et d'élevage pour cette espèce et on ne pourra ici qu'énoncer des pistes d'accueil qui demanderont à être confirmées par l'expérience. La localité type consiste en un ruisseau étroit (environ 1 à 2 m de large), relativement peu profond (jusqu'à environ 0,5 m de profondeur) avec des gradients très progressifs traversant une forêt secondaire, à environ 3,...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

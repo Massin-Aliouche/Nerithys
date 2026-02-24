@@ -1,0 +1,29 @@
+{
+  "name": "Danio jaintianensis",
+  "scientificName": "Danio jaintianensis",
+  "slug": "danio-jaintianensis",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 0,
+  "tempMax": 23,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 7,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4.5,
+  "behavior": "Population: 10 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Les températures dans son environnement naturel varient en 0 et 23°C, il est donc préférable de l'héberger dans un aquarium non chauffé. Il supportera difficilement une température supérieure à 25°C en été, surtout si cette situation venait à se prolonger. Il appréciera une eau bien oxygénée et propre. Hormis ce besoin de fraîcheur, c'est un poisson plutôt simple à maintenir, dont le comporteme...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

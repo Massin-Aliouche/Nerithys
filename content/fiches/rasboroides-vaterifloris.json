@@ -1,0 +1,30 @@
+{
+  "name": "Rasbora nain de Ceylan",
+  "scientificName": "Rasboroides vaterifloris",
+  "slug": "rasboroides-vaterifloris",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 29,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On le trouve dans les ruisseaux forestiers peu profonds, frais, clairs, calmes et très ombragés, généralement au substrat limoneux et souvent dans des zones où l'eau est riche en débris de feuilles. Le sud-ouest du Sri Lanka est un environnement tropical sans périodes de sécheresse ni changements climatiques importants. Le soleil pénètre peu dans le sol forestier, les habitats aquatiques sont d...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

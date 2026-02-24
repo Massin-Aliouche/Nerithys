@@ -1,0 +1,32 @@
+{
+  "name": "Sundadanio d'Axelrod",
+  "scientificName": "Sundadanio axelrodi",
+  "slug": "sundadanio-axelrodi",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 6.5,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 30,
+  "minLengthCm": 2,
+  "behavior": "Population: 12 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Il est préférable de conserver les Sundadanio axelrodi dans un aquarium à la végétation. L'ajout de quelques plantes flottantes et de racines ou branches de bois flotté pour diffuser la lumière entrant dans le réservoir semble également être apprécié et ajoute une sensation plus naturelle. Une installation de type biotope peut également constituer un projet intéressant. Un substrat mou et sable...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3203.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

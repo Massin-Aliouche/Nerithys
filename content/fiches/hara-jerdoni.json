@@ -1,0 +1,30 @@
+{
+  "name": "Hara de Jerdon",
+  "scientificName": "Hara jerdoni",
+  "slug": "hara-jerdoni",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 15,
+  "tempMax": 25,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 4,
+  "behavior": "Population: 4 minimum (6 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Il faudra lui fournir autant de cachettes que possibles, ainsi que d'un sable doux comme substrat, parsemé de graviers et de petits galets, avec des pierres couvertes d'aufwuchs. L'ajout de quelques feuilles de hêtre ou de chêne séchées et de morceaux de bois flotté copiera avantageusement son habitat naturel. L'eau doit être maintenue très propre, relativement fraîche et bien oxygénée, sans qu...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Loche ponctuée",
+  "scientificName": "Gastromyzon punctulatus",
+  "slug": "gastromyzon-punctulatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 6,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 6,
+  "behavior": "Population: 1 minimum. Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": "Le plus important pour maintenir correctement des Gastromyzon est que l'eau soit parfaitement oxygénée et exempte de pollution. On peut y arriver en utilisant un filtre légèrement surdimensionné avec un rejet faisant des remous en surface ou un bulleur. L'important n'est pas d'avoir un courant très fort, mais une oxygénation très forte. Idéalement, le décor se composera de pierres arrondies, de...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1676.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

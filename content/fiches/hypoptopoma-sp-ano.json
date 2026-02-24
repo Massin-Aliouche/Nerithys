@@ -1,0 +1,29 @@
+{
+  "name": "Hypoptopome nain",
+  "scientificName": "Hypoptopoma sp. “anão”",
+  "slug": "hypoptopoma-sp-ano",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "exigeant"
+  ]
+}

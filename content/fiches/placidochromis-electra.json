@@ -1,0 +1,30 @@
+{
+  "name": "Deep water hap (en)",
+  "scientificName": "Placidochromis electra",
+  "slug": "placidochromis-electra",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 7.5,
+  "phMax": 8.8,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 17,
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le décor devra se composer pour l'essentiel d'empilements de roches disposés de manière à former des grottes et des cachettes, mais des zones ouvertes de sables entre ceux-ci sont indispensables. Les plantes ne sont pas nécessaires mais ne devraient pas être attaquées si vous choisissez d'en mettre. Une espèce très douce qui n'est pas adaptée à l'agitation d'une communauté de mbuna. On pourra l...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2699.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

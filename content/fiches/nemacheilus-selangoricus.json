@@ -1,0 +1,29 @@
+{
+  "name": "Loche à bandes grises",
+  "scientificName": "Nemacheilus selangoricus",
+  "slug": "nemacheilus-selangoricus",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Nemacheilus selangoricus n'est pas très difficile à maintenir dans de bonnes conditions mais il est fortement recommandé de l'accueillir dans un bac conçu pour ressembler à un ruisseau ou une rivière forestière avec un substrat de roches usés par l'eau (galets) de taille variable, d'un substrat de sable, de gravier fin et de bois flottés. Des branches disposées pour former un réseau de caches, ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

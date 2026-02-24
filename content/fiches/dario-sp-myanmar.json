@@ -1,0 +1,31 @@
+{
+  "name": "Dario Myanmar",
+  "scientificName": "Dario sp. Myanmar",
+  "slug": "dario-sp-myanmar",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 12,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 9,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Dario sp. Myanmar préférera un bac très planté avec de nombreux \"territoires\" bien délimités. Un substrat mou est préférable, bien que du gravier fin soit acceptable. Les plantes idéales comprennent les Cryptocoryne ou celles qui peuvent être cultivées attachés au décor tels que les espèces Microsorum, Anubias ou Taxiphyllum. Ce dernier est particulièrement utile car il est également un substra...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/4016.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

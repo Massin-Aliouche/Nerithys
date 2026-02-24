@@ -1,0 +1,28 @@
+{
+  "name": "Pseudochromis dilectus",
+  "scientificName": "Pseudochromis dilectus",
+  "slug": "pseudochromis-dilectus",
+  "biotope": "Eau de mer",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 7.6,
+  "phMax": 8.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 180,
+  "minLengthCm": 10,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Le Pseudochromis dilectus peut être maintenu dans un aquarium récifal, proposant de nombreuses cachettes/crevasses rocheuses pour explorer ou s'abriter en cas de besoin, car cette espèce est quelque peu timide. Il est assez résistant, et peut être se montrer agressif envers ses compagnons d'aquarium.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "omnivore"
+  ]
+}

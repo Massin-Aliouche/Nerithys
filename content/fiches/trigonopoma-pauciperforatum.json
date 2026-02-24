@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora à bande rouge",
+  "scientificName": "Trigonopoma pauciperforatum",
+  "slug": "trigonopoma-pauciperforatum",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 7.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Trigonopoma pauciperforatum fréquente les cours d'eau boisés, les marécages de tourbe, avec de l'eau claire et une épaisse litière de feuilles. Il préfère les eaux douces peu profondes, acides et tachées de tanins car il est classé comme poisson d'eau douce étroitement adapté (sténotopique) Se dit d'un organisme ne tolérant qu'une gamme étroite de conditions environnementales ou ne pouvant s'ad...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

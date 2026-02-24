@@ -1,0 +1,29 @@
+{
+  "name": "Barbus imberbe",
+  "scientificName": "Cyclocheilichthys apogon",
+  "slug": "cyclocheilichthys-apogon",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 600,
+  "minLengthCm": 28,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "C. apogon fréquente les petits ruisseaux, les réservoirs, les lacs, les canaux, les fossés et généralement les zones avec de l'eau lente ou stagnante. Il est cependant présent dans les rivières de taille moyenne à grande. On le trouve généralement autour de surfaces telles que les plantes, les feuilles, les branches et les racines des arbres, où il broute le petit plancton et les crustacés. Pot...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand"
+  ]
+}

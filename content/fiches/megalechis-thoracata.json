@@ -1,0 +1,30 @@
+{
+  "name": "Hoplo tacheté",
+  "scientificName": "Megalechis thoracata",
+  "slug": "megalechis-thoracata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 18,
+  "behavior": "Population: 2 minimum. Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'Hoplo tacheté n'est pas un poisson timide, mais il appréciera néanmoins un abri constitué de rochers, de plantes solides, ou d'amas de branches. Le débit d'eau doit être lent voire absent, même si le poisson peut s'adapter à des conditions plus vive. Il est vraisemblablement soumis aux changements saisonniers et semble fréquenter les eaux calmes des zones laissées en eau après les crues, tout...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2209.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

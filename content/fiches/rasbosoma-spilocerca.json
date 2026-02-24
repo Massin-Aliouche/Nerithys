@@ -1,0 +1,31 @@
+{
+  "name": "Rasbora à queue tachée",
+  "scientificName": "Rasbosoma spilocerca",
+  "slug": "rasbosoma-spilocerca",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 2.6,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Bien que le décor ne soit pas d'une grande importance, il est préférable de maintenir ce rasbora dans un aquarium bien planté. Pour le reste, on pourra ajouter les éléments de décor que l'ont voudra, comme des racines, pierres... Il n'apprécie pas les éclairages puissants, aussi l'ajout de plantes flottantes pour tamiser la lumière est recommandé. Issu de milieu lentique, il ne sera pas à l'ais...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3050.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

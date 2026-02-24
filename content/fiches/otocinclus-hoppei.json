@@ -1,0 +1,29 @@
+{
+  "name": "Otocinclus hoppei",
+  "scientificName": "Otocinclus hoppei",
+  "slug": "otocinclus-hoppei",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.4,
+  "ghMin": 2,
+  "ghMax": 16,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 3.3,
+  "behavior": "Population: 6 minimum. Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

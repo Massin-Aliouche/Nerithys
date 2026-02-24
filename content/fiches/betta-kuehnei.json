@@ -1,0 +1,29 @@
+{
+  "name": "Betta kuehnei",
+  "scientificName": "Betta kuehnei",
+  "slug": "betta-kuehnei",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 4,
+  "behavior": "Population: 1 minimum. Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Bien qu’il puisse être maintenu dans un aquarium planté, de nombreux éleveurs préfèrent ne pas utiliser de substrat pour faciliter l'entretien. Les racines et les branches de bois flotté peuvent être utilisées et placées de manière à former quelques points ombragés, tandis que des pots en argile ou des morceaux de tuyaux peuvent également être inclus pour fournir un abri supplémentaire. Comme b...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

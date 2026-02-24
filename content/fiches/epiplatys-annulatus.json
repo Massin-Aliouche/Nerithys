@@ -1,0 +1,32 @@
+{
+  "name": "Killi Clown",
+  "scientificName": "Epiplatys annulatus",
+  "slug": "epiplatys-annulatus",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 20,
+  "tempMax": 29,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 4,
+  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Epiplatys annulatus habite les marécages de plaine, les ruisseaux à courant lent et les petites rivières dans les zones de savane ouverte et de forêt tropicale humide où on le trouve parmi la végétation marginale ou les plantes aquatiques. La plupart des habitats sont des eaux douces, bien qu'ils soient également présents dans des conditions légèrement saumâtres dans certaines localités. Le cli...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1583.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Pelvicachromis taeniatus",
+  "scientificName": "Pelvicachromis taeniatus",
+  "slug": "pelvicachromis-taeniatus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 7.5,
+  "behavior": "Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": "L'aquarium doit contenir de nombreuses cachettes et des sites de frai potentiels. Des pots et des grottes en argile, des racines et des morceaux de bois flotté peuvent tous être utilisés. Les plantes ne sont pas indispensables, mais les poissons apprécieront la couverture supplémentaire. Un substrat de sable ou de gravier fin doit être utilisé pour que les poissons puissent creuser des trous lo...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2645.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

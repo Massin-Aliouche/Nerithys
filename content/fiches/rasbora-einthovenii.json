@@ -1,0 +1,30 @@
+{
+  "name": "Rasbora diamant",
+  "scientificName": "Rasbora einthovenii",
+  "slug": "rasbora-einthovenii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 3,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 7,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 9,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "R. einhovenii habite principalement les ruisseaux et les rivières aux eaux noires associés aux anciens marécages de tourbe forestière où l'eau est noire, de dureté négligeable, acide et faiblement éclairée. Sa maintenance demande donc un bac biotope reproduisant au mieux ce milieu particulier. Il préférera l'eau noire, de dureté faible et de pH compris entre 4 et 5 et une installation de style ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3041.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

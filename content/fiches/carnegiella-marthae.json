@@ -1,0 +1,32 @@
+{
+  "name": "Poisson-hachette à ailes noires",
+  "scientificName": "Carnegiella marthae",
+  "slug": "carnegiella-marthae",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 4,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 3,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Dans le système du rio Negro, il habite des habitats dits igapó et igarapé, caractérisés par une végétation riveraine abondante, souvent en surplomb, et des substrats couverts de branches tombées, de racines d'arbres et de feuilles mortes. Il vit en banc, presque exclusivement juste sous la surface, entre les feuilles et les racines des plantes flottantes, Eichhornia crassipes, Eichhornia azure...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/829.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

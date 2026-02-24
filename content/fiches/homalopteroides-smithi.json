@@ -1,0 +1,28 @@
+{
+  "name": "Loche de Smith",
+  "scientificName": "Homalopteroides smithi",
+  "slug": "homalopteroides-smithi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 10,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Habitant obligatoire des ruisseaux au courant rapide et des cours supérieurs contenant de l'eau claire et saturée d'oxygène, Homaloptera smithi habite souvent les rapides et affiche une préférence pour les zones peu profondes. Les substrats sont généralement composés de gravier ou de substrat rocheux recouverts d'un riche biofilm formé d'algues et d'autres micro-organismes. Des parcelles de pla...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

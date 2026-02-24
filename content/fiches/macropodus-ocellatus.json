@@ -1,0 +1,31 @@
+{
+  "name": "Macropode à queue ronde",
+  "scientificName": "Macropodus ocellatus",
+  "slug": "macropodus-ocellatus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 4,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8.5,
+  "ghMin": 5,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 9,
+  "behavior": "Population: 2 minimum (3 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce macropode vit principalement en plaine, dans des eaux stagnantes ou peu courantes, sous une faible hauteur d'eau. La végétation de son milieu naturel est composée de Ceratophyllum demersum, Myriophyllum spicatum et jonc. On veillera donc à reproduire au mieux son habitat naturel en aménageant un bac très planté, d'eau calme et plutôt fraiche. Macropodus ocellatus peut être maintenue dans un ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2181.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

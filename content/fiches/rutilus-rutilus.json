@@ -1,0 +1,32 @@
+{
+  "name": "Gardon",
+  "scientificName": "Rutilus rutilus",
+  "slug": "rutilus-rutilus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 4,
+  "tempMax": 20,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 4,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 40,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [
+    "https://www.b-aqua.com/photos/1/3076.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "omnivore",
+    "grand",
+    "facile"
+  ]
+}

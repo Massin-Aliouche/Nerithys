@@ -1,0 +1,30 @@
+{
+  "name": "Tucunaré açu",
+  "scientificName": "Cichla temensis",
+  "slug": "cichla-temensis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 27,
+  "tempMax": 29,
+  "phMin": 5.5,
+  "phMax": 6.5,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 80,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Une maintenance en aquarium est peu conseillée de par sa taille et ses tendances fortement prédatrices, c’est un poisson plutôt à réserver à un aquarium public de plusieurs mètres cubes. A noter : on trouve des vidéos d’aquariums de particuliers maintenant ces poissons, souvent dans des volumes inadaptés, vu leur taille. L’un d’entre eux en montre trois de 80cm dans un aquarium de 360x120x77 cm...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "facile"
+  ]
+}

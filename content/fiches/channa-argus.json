@@ -1,0 +1,29 @@
+{
+  "name": "Channa argus",
+  "scientificName": "Channa argus",
+  "slug": "channa-argus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 4,
+  "tempMax": 22,
+  "phMin": 6.5,
+  "phMax": 7.2,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 600,
+  "minLengthCm": 100,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

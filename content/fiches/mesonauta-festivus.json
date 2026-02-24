@@ -1,0 +1,31 @@
+{
+  "name": "Cichlidé drapeau",
+  "scientificName": "Mesonauta festivus",
+  "slug": "mesonauta-festivus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 34,
+  "phMin": 5.5,
+  "phMax": 8,
+  "ghMin": 1,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 12,
+  "behavior": "Population: 4 minimum (6 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Les Mesonauta rappellent beaucoup les scalaires en matière de soin. Ils semblent vivre dans des habitats similaires, moyennement profonds, dans lesquels ils évoluent parmi les arbres tombés ou en eau libre. Peu difficiles, il semble cependant qu’ils soient un peu plus délicats que les scalaires en matière de qualité de l’eau qui doit rester très douce et au minimum au pH neutre. Mesonauta festi...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2260.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pseudohemiodon apithanos",
+  "scientificName": "Pseudohemiodon apithanos",
+  "slug": "pseudohemiodon-apithanos",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 7,
+  "ghMin": 4,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 15,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": "Idéalement, le fond de l'aquarium devrait être composé d'un lit de feuilles qui lui offrira un abris pour se reposer durant la journée. La nuit, il fouillera du bout de ses multiples barbillons dans ce lit de feuilles, à la recherche de micro-organismes qui s'y développeront. A défaut, l'aquarium doit proposer de nombreuses cachettes. Le substrat doit impérativement être \"doux\" afin de ne pas a...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2846.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

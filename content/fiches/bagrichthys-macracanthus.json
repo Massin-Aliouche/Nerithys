@@ -1,0 +1,29 @@
+{
+  "name": "Bagrichthys macracanthus",
+  "scientificName": "Bagrichthys macracanthus",
+  "slug": "bagrichthys-macracanthus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 25,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 8,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 25,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

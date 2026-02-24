@@ -1,0 +1,28 @@
+{
+  "name": "Badis de Ferraris",
+  "scientificName": "Badis ferrarisi",
+  "slug": "badis-ferrarisi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 15,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 7,
+  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Badis Ferrarisi fréquent les cours d'eau peu profonds et lents, avec une épaisse végétation herbeuse marginale. Le substrat est constitué de sable, il n'y a pas de plantes aquatiques et le pH est plus ou moins neutre. Soumis à d'importantes variations saisonnières, Badis ferrarisi tolère une large plage de températures et peut être conservé entre 15 et 25°C. Cela en fait un excellent poisson po...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

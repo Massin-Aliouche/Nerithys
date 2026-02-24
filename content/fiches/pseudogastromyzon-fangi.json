@@ -1,0 +1,31 @@
+{
+  "name": "Pseudogastromyzon fangi",
+  "scientificName": "Pseudogastromyzon fangi",
+  "slug": "pseudogastromyzon-fangi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 25,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 10,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 8,
+  "behavior": "Population: 5 minimum",
+  "compatibility": "Non renseigné",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Idéalement, l'aquarium doit être conçu pour reproduire un cours d'eau avec de nombreuses cachettes rocheuses et des galets et blocs lisses pour brouter. L'éclairage doit être puissant pour favoriser la croissance des algues dans l'aquarium. Les plantes ne sont pas nécessaires car leur habitat naturel n'en comporte pas, mais elles contribuent à la qualité de l'eau. Parmi les variétés adaptées au...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/5035.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

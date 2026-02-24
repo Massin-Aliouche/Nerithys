@@ -1,0 +1,29 @@
+{
+  "name": "Myxocyprinus asiaticus",
+  "scientificName": "Myxocyprinus asiaticus",
+  "slug": "myxocyprinus-asiaticus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 16,
+  "tempMax": 22,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 8,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 100,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

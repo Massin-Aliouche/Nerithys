@@ -1,0 +1,31 @@
+{
+  "name": "Labéo tricolore",
+  "scientificName": "Epalzeorhynchos frenatus",
+  "slug": "epalzeorhynchos-frenatus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 15,
+  "behavior": "Population: 1 minimum (6 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Malgré sa popularité en tant que poisson d’aquarium, cette espèce est rarement maintenue dans des conditions idéales. Les juvéniles sont généralement proposés à la vente avec peu ou pas d'informations sur leur tempérament, leur taille éventuelle et leur âge potentiel supérieur à quinze ans. Il est également souvent vendu comme mangeur d'algues et, même s'il broute effectivement les algues, il n...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1574.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

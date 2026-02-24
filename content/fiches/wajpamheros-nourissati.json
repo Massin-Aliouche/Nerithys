@@ -1,0 +1,29 @@
+{
+  "name": "Wajpamheros nourissati",
+  "scientificName": "Wajpamheros nourissati",
+  "slug": "wajpamheros-nourissati",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 26,
+  "tempMax": 30,
+  "phMin": 7.2,
+  "phMax": 7.8,
+  "ghMin": 15,
+  "ghMax": 22,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 20,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

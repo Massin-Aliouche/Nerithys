@@ -1,0 +1,32 @@
+{
+  "name": "Crombier",
+  "scientificName": "Astronotus ocellatus",
+  "slug": "astronotus-ocellatus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 800,
+  "minLengthCm": 40,
+  "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Attention ! : Ce grand poisson grégaire demande un bac de très grande taille. Il ne convient pas aux aquariums plantés car il a tendance à creuser dans le substrat. Volontiers prédateur, il ne peut cohabiter avec des petits poissons, crevettes ou écrevisses. On lui réservera donc un bac \"rivière\" biotope et spécifique, de mille litres, pour son bien-être. Astronotus ocellatus fréquente de préfé...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/564.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

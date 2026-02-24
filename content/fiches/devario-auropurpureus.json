@@ -1,0 +1,29 @@
+{
+  "name": "Dévario du lac Inlé",
+  "scientificName": "Devario auropurpureus",
+  "slug": "devario-auropurpureus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 8,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 10,
+  "behavior": "Population: 12 minimum (24 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "On trouve D. auropurpureus dans les eaux calmes et lentes, peu profonde, avec un fond densément végétalisé et une végétation flottante. L'eau du lac est claire, bien qu'elle puisse être localement boueuse et trouble lors de la saison des pluies, et le substrat limoneux est très fertile. La géologie locale est essentiellement karstique et le milieu est riche en carbonate de calcium. L'eau y est ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

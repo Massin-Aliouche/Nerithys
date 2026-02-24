@@ -1,0 +1,29 @@
+{
+  "name": "Rasbora à queue rouge nain",
+  "scientificName": "Rasbora rubrodorsalis",
+  "slug": "rasbora-rubrodorsalis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 60,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3.3,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce Rasbora a principalement besoin d'un aquarium bien planté, si possible avec des plantes à feuille fines. L'ajout de quelques plantes flottantes et de racines ou de branches de bois flotté pour diffuser la lumière entrant dans l'aquarium semble également être apprécié. La filtration n'a pas besoin d'être particulièrement forte, car ces poissons proviennent principalement d'eaux calmes et peuv...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

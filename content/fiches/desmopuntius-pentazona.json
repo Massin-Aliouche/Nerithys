@@ -1,0 +1,30 @@
+{
+  "name": "Barbus à cinq bandes",
+  "scientificName": "Desmopuntius pentazona",
+  "slug": "desmopuntius-pentazona",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 29,
+  "phMin": 4,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 9,
+  "behavior": "Population: 10 minimum (15 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce poisson étroitement adaptée (sténotopique) Se dit d'un organisme ne tolérant qu'une gamme étroite de conditions environnementales ou ne pouvant s'adapter qu'à une gamme étroite de changements environnementaux",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1500.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pangio noir",
+  "scientificName": "Pangio oblonga",
+  "slug": "pangio-oblonga",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 23,
+  "tempMax": 25,
+  "phMin": 6.4,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Impossible",
+  "notes": "Ce poisson doit être maintenu en groupe d'au moins 6 individus de son espèce. Plus le groupe est grand, plus ils seront actifs. Il cohabitera facilement avec d'autres poissons calmes. En présence d'autres espèces de Pangio, les espèces se mêleront facilement pour ne former qu'un seul groupe. On voit souvent ce poisson nager en cercles le long des vitres latérales. Cette \"danse\" est normal pour ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2562.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

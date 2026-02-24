@@ -1,0 +1,30 @@
+{
+  "name": "Loche birdi",
+  "scientificName": "Botia birdi",
+  "slug": "botia-birdi",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 20,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Il n'existe pas de retour d'expérience concernant cette loche. On sait cependant que Botia birdi fréquente les eaux lentiques une partie de l'année mais, adaptée aux cours d'eau torrentiels, migre dans les torrents en amont pour frayer. On composera donc un bac rivière de grande taille pouvant simuler saisonnièrement les deux milieux. Autant dire que la maintenance et qui plus est l'élevage de ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "grand",
+    "exigeant"
+  ]
+}

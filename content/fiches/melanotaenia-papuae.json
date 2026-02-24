@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel papou",
+  "scientificName": "Melanotaenia papuae",
+  "slug": "melanotaenia-papuae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 32,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 16,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On trouve généralement l'arc-en-ciel papou dans les forêts tropicales humides et les cours d'eau douce côtiers, où ils coexistent souvent avec Melanotaenia goldiei. La température de l'eau dans ces sites était de 25 à 33 °C avec un pH de 7,3 à 7,8. Allen a cependant découvert que M. goldiei préférait les cours d'eau qui coulent assez rapidement, moins troubles et légèrement plus frais tandis qu...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

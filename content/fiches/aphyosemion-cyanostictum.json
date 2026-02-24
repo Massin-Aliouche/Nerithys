@@ -1,0 +1,30 @@
+{
+  "name": "Killi à points bleus",
+  "scientificName": "Aphyosemion cyanostictum",
+  "slug": "aphyosemion-cyanostictum",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 18,
+  "tempMax": 24,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 10,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 50,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ce killi est réputé comme particulièrement difficile à maintenir en aquarium. Il est très fortement conseillé de maintenir un harem en aquarium spécifique. Malgré la petite taille de ce killi, l'aquarium doit offrir un espace suffisamment grand, ainsi que de nombreuses possibilités de refuge. Il doit être assez fortement planté et l'ajout de feuilles est une option particulièrement intéressante...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "exigeant"
+  ]
+}

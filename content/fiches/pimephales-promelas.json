@@ -1,0 +1,29 @@
+{
+  "name": "Vairon à grosse tête",
+  "scientificName": "Pimephales promelas",
+  "slug": "pimephales-promelas",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 1,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 11,
+  "behavior": "Population: 6 minimum (15 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "On trouve peu de chose sur la maintenance de ce poisson, néanmoins, on peut dire que c'est un poisson de banc qui se sent bien avec dix ou même vingt de ses semblables autour de lui. Le bac doit avoir une profondeur d’au moins 70 cm et de préférence être planté, mais aussi des parties ouvertes comme zone de nage. Il faudra veiller à les maintenir dans une eau entre 1°C et 30°C, mais il préférer...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "facile"
+  ]
+}

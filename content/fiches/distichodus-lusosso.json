@@ -1,0 +1,29 @@
+{
+  "name": "Distichodus à long nez",
+  "scientificName": "Distichodus lusosso",
+  "slug": "distichodus-lusosso",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 40,
+  "behavior": "Population: 1 minimum. Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare",
+  "notes": "Le Distichodus lusosso ne peut pas être maintenu dans un aquarium planté, car il mangera la plupart des plantes vertes. L'agencement de l'aquarium sera plutot compsé de roches lisses et de branches de bois flotté, du sable ou du gravier peuvent être utilisés comme substrat. Il reste toutefois possible d'ajouter quelques plantes a feuille épaisses comme des Anubias ou des Bolbitis, car la plupar...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand"
+  ]
+}

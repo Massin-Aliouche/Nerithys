@@ -1,0 +1,31 @@
+{
+  "name": "Poisson-hachette géant",
+  "scientificName": "Thoracocharax securis",
+  "slug": "thoracocharax-securis",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 9,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "La maintenance du Thoracocharax securis peut se faire aussi bien dans un aquarium densément planté que dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose alors de sable de rivière et le décor de d'un enchevêtrement de branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Un petit sac en ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3306.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

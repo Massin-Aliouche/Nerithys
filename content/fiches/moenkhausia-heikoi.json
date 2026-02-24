@@ -1,0 +1,30 @@
+{
+  "name": "Moenkhausia heikoi",
+  "scientificName": "Moenkhausia heikoi",
+  "slug": "moenkhausia-heikoi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 7,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": "L'agencement de l'aquarium peut être conçu pour reproduire une rivière, avec quelques plantes et de rochers érodés. La filtration devra bien oxygéner l'eau et créer un léger courant dans l'aquarium. Ce poisson est pacifique et peut être maintenu en aquarium communautaire. Il est souhaitable de la maintenir en groupe d'au moins 10 individus.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/5036.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

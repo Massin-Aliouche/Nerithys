@@ -1,0 +1,29 @@
+{
+  "name": "Perche grimpeuse",
+  "scientificName": "Anabas cobojius",
+  "slug": "anabas-cobojius",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 7.8,
+  "ghMin": 1,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 30,
+  "behavior": "Zone: Inférieure, Centrale, Supérieure",
+  "compatibility": "Zone inférieure, centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

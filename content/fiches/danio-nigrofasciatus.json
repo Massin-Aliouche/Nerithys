@@ -1,0 +1,30 @@
+{
+  "name": "Danio tacheté",
+  "scientificName": "Danio nigrofasciatus",
+  "slug": "danio-nigrofasciatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 4.5,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "On peut, si on le désire, essayer de reproduire le lit d'un ruisseau avec un substrat de roches et de graviers de tailles variables et quelques gros rochers usés par l'eau. Toutefois, l'ajout de plantes, s'il n'est pas obligatoire, lui servira de refuge et le mettra en confiance. Comme nous l'avons vu, son habitat varie entre courant fort et eau stagnante. Le brassage n'a donc que très peu d’im...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1473.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

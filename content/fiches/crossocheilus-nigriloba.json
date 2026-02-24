@@ -1,0 +1,28 @@
+{
+  "name": "Barbeau à taches noires",
+  "scientificName": "Crossocheilus nigriloba",
+  "slug": "crossocheilus-nigriloba",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 15,
+  "behavior": "Population: 4 minimum (6 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "En cours de rédaction : Exposant : 2 Attention ! : Note : (Cette information demande confirmation car non sourcée) Les espèces de Crossocheilus vivent dans les cours d'eau et leurs affluents, sur des substrats de rochers, de galets, de gravier et de sable, souvent dans des zones où affleurent des bois flottés ou des racines d'arbres. L'eau claire, souvent peu profonde, permet à la lumière du so...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "exigeant"
+  ]
+}

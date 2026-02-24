@@ -1,0 +1,30 @@
+{
+  "name": "Apistogramma de Steindachner",
+  "scientificName": "Apistogramma steindachneri",
+  "slug": "apistogramma-steindachneri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 25,
+  "phMin": 6.2,
+  "phMax": 7,
+  "ghMin": 3,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 8,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance ne pose pas de problème particulier. Un aquarium agencé pour reproduire un biotope Amazonien est une bonne option. Le substrat se compose de sable de rivière et le décor de quelques branches de bois flotté ou de racines, offrant à la fois refuges, sites de ponte et lumière tamisée. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Ce lit de...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/484.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

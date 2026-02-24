@@ -1,0 +1,30 @@
+{
+  "name": "Poisson arc-en-ciel du Nord",
+  "scientificName": "Melanotaenia affinis",
+  "slug": "melanotaenia-affinis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 8,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 13,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Melanotaenia affinis fréquente une grande variété d'habitats, y compris les ruisseaux de basse altitude à débit lent et les affluents montagneux à débit plus rapide. Ce poisson a tendance à nager en groupe autour des zones de végétation dense et de branches submergées. Bon nombre de ces habitats sont soumis à des changements saisonniers en termes de température et de chimie de l'eau, ce qui en ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/7304.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

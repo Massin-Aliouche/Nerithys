@@ -1,0 +1,30 @@
+{
+  "name": "Tetra Diamant bleu",
+  "scientificName": "Alestopetersius smykalai",
+  "slug": "alestopetersius-smykalai",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.2,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 6,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance de ce tetra est assez simple. Le décor peut être conçu pour reproduire une rivière, avec un substrat de sable, des pierres de tailles variées, quelques grosses racines ou morceaux de bois flotté et finalement assez peu de plantes. On peut toutefois aussi le maintenir dans un aquarium planté plus classique. L'important étant de lui réserver un large espace libre pour la nage. Il e...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/246.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Gastromyzon crenastus",
+  "scientificName": "Gastromyzon crenastus",
+  "slug": "gastromyzon-crenastus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 20,
+  "tempMax": 24,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 3,
+  "behavior": "Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Végétarien",
+  "breeding": "Ovipare",
+  "notes": "voir G.scitulus.",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1673.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

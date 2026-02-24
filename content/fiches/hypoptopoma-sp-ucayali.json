@@ -1,0 +1,27 @@
+{
+  "name": "Hypoptopome du Rio Ucayali.",
+  "scientificName": "Hypoptopoma sp. Ucayali.",
+  "slug": "hypoptopoma-sp-ucayali",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Pour cette supposée nouvelle espèce, on pourra se reporter pour les grandes lignes à la fiche de Hypoptopoma gulare fréquentant le même fleuve, mais vraisemblablement à des endroits différents. \"Le décor devra être fourni en plantes naturelles, en roches et surtout en racines naturelles. En effet, cette espèce ronge le bois régulièrement et semble inféodée à ce type de support pour s’abriter et...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

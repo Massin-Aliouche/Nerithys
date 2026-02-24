@@ -1,0 +1,28 @@
+{
+  "name": "Panchax du Sri Lanka",
+  "scientificName": "Aplocheilus dayi",
+  "slug": "aplocheilus-dayi",
+  "biotope": "Eau saumâtre",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 30,
+  "minLengthCm": 9,
+  "behavior": "Population: 3 minimum (8 recommandé). Zone: Supérieure. Ratio M/F: 1 / 3",
+  "compatibility": "Zone supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Aplocheilus dayi fréquente généralement les ruisseaux forestiers peu profonds et très ombragés avec un substrat limoneux. On privilégiera donc un bac biotope de type \"ruisseaux forestier\" à l'écoulement lent et à la litière de feuilles importante. Ce poisson est assez timide et l'aquarium devra être aménagé de façon à ce qu'il y ait beaucoup de cachettes sous forme de branchages ou de plantatio...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "carnivore"
+  ]
+}

@@ -4,8 +4,8 @@
   "slug": "corydoras-sterbai",
   "biotope": "Eau douce",
   "difficulty": 2,
-  "tempMin": 21,
-  "tempMax": 28,
+  "tempMin": 23.9,
+  "tempMax": 27.8,
   "phMin": 5,
   "phMax": 7.6,
   "ghMin": 1,
@@ -19,9 +19,6 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Le Corydoras sterbai se plaira dans un aquarium agencé pour reproduire un biotope Amazonien, avec ses variations saisonnières. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reproduire au mieux leur habitat. Un substrat constitué de sable fin nu sera in...",
-  "sources": [
-    "https://www.b-aqua.com/pages/fiche.aspx?id=1342"
-  ],
   "images": [
     "https://www.b-aqua.com/photos/1/1342.jpg"
   ],

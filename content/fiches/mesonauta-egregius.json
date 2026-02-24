@@ -1,0 +1,28 @@
+{
+  "name": "Mésonaute remarquable",
+  "scientificName": "Mesonauta egregius",
+  "slug": "mesonauta-egregius",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 7,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 14,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le poisson n'étant pas très répandu en aquariophilie, les retours d'expérience sont inexistants. Si vous avez la chance de posséder cette espèce, reporterez-vous à la fiche de Mesonauta festivus, plus fréquemment maintenue.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

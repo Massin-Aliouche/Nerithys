@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel de Salawati",
+  "scientificName": "Melanotaenia salawati",
+  "slug": "melanotaenia-salawati",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 11,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Attention ! : Les paramètres indiqués ici sont extrapolés à partir de ceux donnés pour les espèces mieux connues de mélanoténies également présentes dans l'archipel de Raja Ampat. Les îles Raja Ampat connaissent une saison des pluies marquées (mousson) entre avril et octobre. La température sur l’archipel oscille en moyenne entre 25°C et 32°C. Cette espèce a été observée dans de petits ruisseau...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

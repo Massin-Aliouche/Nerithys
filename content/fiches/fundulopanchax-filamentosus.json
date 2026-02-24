@@ -1,0 +1,28 @@
+{
+  "name": "Fundulopanchax filamentosus",
+  "scientificName": "Fundulopanchax filamentosus",
+  "slug": "fundulopanchax-filamentosus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 25,
+  "phMin": 5,
+  "phMax": 6,
+  "ghMin": 2,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 5,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

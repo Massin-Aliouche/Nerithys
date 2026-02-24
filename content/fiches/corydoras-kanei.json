@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras de Kane",
+  "scientificName": "Corydoras kanei",
+  "slug": "corydoras-kanei",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 24,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Corydoras kanei provient de ruisseaux à courant rapide sans végétation, à flanc de montagne dans le système hydrologique du Rio Negro. Il devra donc être maintenu en groupe important dans une eau bien oxygénée dans un aquarium \"rivière\" avec un bel espace de nage. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"ama...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

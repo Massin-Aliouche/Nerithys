@@ -1,0 +1,29 @@
+{
+  "name": "Rasbora verruqueux",
+  "scientificName": "Rasbora tuberculata",
+  "slug": "rasbora-tuberculata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 4,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Aucune données de maintenance n'est encore disponible, mais un bac \"rivière montagnarde\" au courant variable semble approprié. Attention ! : Les données ci-contre sont des données régionales qui demandent à être confirmées.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

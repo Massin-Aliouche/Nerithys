@@ -1,0 +1,31 @@
+{
+  "name": "Hypergastromyzon humilis",
+  "scientificName": "Hypergastromyzon humilis",
+  "slug": "hypergastromyzon-humilis",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": null,
+  "tempMax": null,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3.8,
+  "behavior": "Population: 4 minimum. Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Algivore",
+  "breeding": null,
+  "notes": "Les Gastromyzontidae ont besoin d'eau fortement oxygénée, stable, et se nourrissent de biofilm. On ne les maintiendra donc pas dans un aquarium biologiquement immature. La filtration doit être très forte, de quinze à vingt fois le volume du bac. Il faut impérativement, soit utiliser un filtre surdimensionné, soit ajouter une pompe de brassage. Afin de favoriser le développement du biofilm, l'éc...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/8619.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Gourami à grosses lèvres",
+  "scientificName": "Trichogaster labiosa",
+  "slug": "trichogaster-labiosa",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 10,
+  "behavior": "Population: 4 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 3",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium doit être avant tout bien planté, notamment afin que la ou les femelles puissent sortir du champs de vision des mâles. L'ajout de plantes flottantes est quasiment indispensable pour recréer son environnement naturel, tamiser la lumière et servir de support à la construction des nids de bulles. La filtration doit générer un courant le plus faible possible, sans quoi, ils s’épuiseront ...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3338.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

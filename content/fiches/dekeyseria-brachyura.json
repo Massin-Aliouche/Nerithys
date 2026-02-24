@@ -1,0 +1,28 @@
+{
+  "name": "Dekeyseria brachyura",
+  "scientificName": "Dekeyseria brachyura",
+  "slug": "dekeyseria-brachyura",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 5.8,
+  "phMax": 7.2,
+  "ghMin": 5,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 108,
+  "minLengthCm": 14,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Herbivore",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

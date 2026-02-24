@@ -1,0 +1,28 @@
+{
+  "name": "Poisson arc-en-ciel forestier",
+  "scientificName": "Melanotaenia sylvatica",
+  "slug": "melanotaenia-sylvatica",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 8,
+  "ghMin": 6,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Cette espèce est présente dans de petits ruisseaux de un à trois mètres de large, clairs et à débit lent dans une forêt pluviale à couvert fermé sur un terrain relativement plat. Ceux-ci ont généralement un fond de boue ou de gravier jonché de feuilles et de débris de grumes (Allen 1997, GR Allen comm. pers. 2019). Barclaya motleyi, a été trouvée dans de nombreux cours d'eau où l'espèce est pré...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

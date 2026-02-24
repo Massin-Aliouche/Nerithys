@@ -1,0 +1,30 @@
+{
+  "name": "Apistogramma de meinken",
+  "scientificName": "Apistogramma meinkeni",
+  "slug": "apistogramma-meinkeni",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 29,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Un aquarium d'au moins quatre-vingt litres est recommandé pour un couple d'Apistogramma meinkeni. Aménagez l'aquarium avec des roches, des racines, des plantes aquatiques et des zones de cachette pour recréer un environnement similaire à leur habitat naturel. Les Apistogramma meinkeni sont généralement paisibles, mais ils peuvent devenir territoriaux pendant la période de reproduction. Il est p...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/455.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Gobie demi rouge",
+  "scientificName": "Sicyopus jonklaasi",
+  "slug": "sicyopus-jonklaasi",
+  "biotope": "Eau de mer",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 2,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Les Sicyopus habitent les ruisseaux et aiment l'eau claire, propre et courante, les cachettes et les fonds sablonneux. Un bac \"rivière\" tout en longueur est impératif. Afin de privilégier un accueil idéal de cette espèce rare et en danger dans son milieu, on choisira un bac rivière, biotope et spécifique. La température de 20 à 28 °C est acceptable, mais une agitation importante est nécessaire ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "carnivore",
+    "exigeant"
+  ]
+}

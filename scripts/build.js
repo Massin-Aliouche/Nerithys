@@ -37,6 +37,7 @@ function resolveImg(url, assetPath) {
 /* ── Templates ─────────────────────────────────── */
 const ficheTpl   = fs.readFileSync(path.join(TPL_DIR, 'fiche-template.html'), 'utf8');
 const listingTpl = fs.readFileSync(path.join(TPL_DIR, 'listing-template.html'), 'utf8');
+const legalTpl   = fs.readFileSync(path.join(TPL_DIR, 'mentions-legales-template.html'), 'utf8');
 
 /* ── Load fiches ───────────────────────────────── */
 function loadFiches() {
@@ -136,15 +137,6 @@ function buildContent(d, ap) {
     h += '</div></div>';
   }
 
-  // Sources
-  if (d.sources && d.sources.length) {
-    h += '<div class="fiche-section"><h3>Sources</h3><ul style="list-style:disc;padding-left:1.2rem">';
-    d.sources.forEach(function (src) {
-      h += '<li><a href="' + esc(src) + '" target="_blank" rel="noopener" style="color:var(--ocean);text-decoration:underline">' + esc(src) + '</a></li>';
-    });
-    h += '</ul></div>';
-  }
-
   return h;
 }
 
@@ -187,6 +179,14 @@ function buildListing() {
   fs.writeFileSync(path.join(outDir, 'index.html'), listingTpl.replace(/\{\{ASSET_PATH\}\}/g, ap), 'utf8');
 }
 
+/* ── Build legal page ──────────────────────────── */
+function buildLegal() {
+  const outDir = path.join(PUB, 'mentions-legales');
+  ensureDir(outDir);
+  const ap = relPath(outDir, PUB);
+  fs.writeFileSync(path.join(outDir, 'index.html'), legalTpl.replace(/\{\{ASSET_PATH\}\}/g, ap), 'utf8');
+}
+
 /* ── Build fiches.json ─────────────────────────── */
 function buildFichesJson(fiches) {
   const outDir = path.join(PUB, 'content');
@@ -227,6 +227,7 @@ function buildSeo(fiches) {
   let xml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
   xml += '  <url><loc>' + base + '</loc><lastmod>' + now + '</lastmod></url>\n';
   xml += '  <url><loc>' + base + 'fiches/</loc><lastmod>' + now + '</lastmod></url>\n';
+  xml += '  <url><loc>' + base + 'mentions-legales/</loc><lastmod>' + now + '</lastmod></url>\n';
   fiches.forEach(f => { xml += '  <url><loc>' + base + 'fiches/' + encodeURIComponent(f.slug) + '/</loc><lastmod>' + now + '</lastmod></url>\n'; });
   xml += '</urlset>\n';
   fs.writeFileSync(path.join(PUB, 'sitemap.xml'), xml, 'utf8');
@@ -285,6 +286,7 @@ function build() {
   // Build outputs
   buildFichesJson(fiches);
   buildListing();
+  buildLegal();
   fiches.forEach(buildFiche);
   buildSeo(fiches);
 

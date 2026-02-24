@@ -1,0 +1,28 @@
+{
+  "name": "Hareng denticulé",
+  "scientificName": "Denticeps clupeoides",
+  "slug": "denticeps-clupeoides",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 3,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 15,
+  "behavior": "Population: 12 minimum (30 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le hareng denticulé fréquente les hauts-fonds des cours d'eau rapides et oxygénée, là où le courant est le plus fort. C'est un nageur habile et infatigable. Comme il vit en grands bancs près de la surface, ce poisson paisible doit être maintenu en grand bac de type rivière. Le sol a peu d'importance, le poisson vivant essentiellement en surface. Il pourra néanmoins être constitué de sable garni...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

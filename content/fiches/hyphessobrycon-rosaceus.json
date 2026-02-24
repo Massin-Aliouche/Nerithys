@@ -1,0 +1,31 @@
+{
+  "name": "Tétra rose",
+  "scientificName": "Hyphessobrycon rosaceus",
+  "slug": "hyphessobrycon-rosaceus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 3.5,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Les Tétras roses se plairont dans un aquarium agencé pour reproduire un biotope Amazonien. Le substrat se compose de sable de rivière et le décor de branches de bois flotté ou de racines agencées pour créer une bonne couverture, ainsi quelques herbiers. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donnent un aspect naturel. Le bois et les feuilles donnent une couleur ambrée. I...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/1994.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "nano"
+  ]
+}

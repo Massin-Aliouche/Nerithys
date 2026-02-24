@@ -1,0 +1,29 @@
+{
+  "name": "Dario écarlate",
+  "scientificName": "Dario hysginon",
+  "slug": "dario-hysginon",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 19,
+  "tempMax": 25,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 2.5,
+  "behavior": "Population: 3 minimum (6 recommandé). Zone: Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Dario hysginon préférera un bac très planté avec de nombreux \"territoires\" bien délimités. Un substrat mou est préférable, bien que du gravier fin soit acceptable. Les plantes idéales comprennent les Cryptocoryne ou celles qui peuvent être cultivées attachés au décor tels que les espèces Microsorum, Anubias ou Taxiphyllum. Ce dernier est particulièrement utile car il est également un substrat d...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano"
+  ]
+}

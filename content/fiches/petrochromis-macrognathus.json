@@ -1,0 +1,28 @@
+{
+  "name": "Petrochromis macrognathus",
+  "scientificName": "Petrochromis macrognathus",
+  "slug": "petrochromis-macrognathus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 7.5,
+  "phMax": 9,
+  "ghMin": 10,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 17,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Algivore",
+  "breeding": "Ovipare",
+  "notes": "Les mâles sont territoriaux.",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

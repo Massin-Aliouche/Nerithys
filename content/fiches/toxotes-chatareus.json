@@ -1,0 +1,29 @@
+{
+  "name": "Poisson-archer à sept bandes",
+  "scientificName": "Toxotes chatareus",
+  "slug": "toxotes-chatareus",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8.5,
+  "ghMin": 18,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 25,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

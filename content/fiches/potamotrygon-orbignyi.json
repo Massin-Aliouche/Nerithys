@@ -1,0 +1,29 @@
+{
+  "name": "Potamotrygon orbignyi",
+  "scientificName": "Potamotrygon orbignyi",
+  "slug": "potamotrygon-orbignyi",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 27,
+  "phMin": 6.8,
+  "phMax": 7.2,
+  "ghMin": 4,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 40,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "grand",
+    "facile"
+  ]
+}

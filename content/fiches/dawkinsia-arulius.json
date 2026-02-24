@@ -1,0 +1,28 @@
+{
+  "name": "Barbus à trois bandes",
+  "scientificName": "Dawkinsia arulius",
+  "slug": "dawkinsia-arulius",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 3,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 240,
+  "minLengthCm": 12,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Dawkinsia arulius fréquente les ruisseaux et rivières propres et bien oxygénés avec de l'eau courante et des substrats de gravier, de cailloux, de roches et de rochers. Le sud de l'Inde est fortement affecté par les moussons d'été, et les poissons sont soumis à des variations saisonnières de la vitesse des courants, avec un assèchement partiel probable. L'eau, au Kerala, est à pH de 6 à 7, avec...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

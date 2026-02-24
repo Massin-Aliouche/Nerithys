@@ -1,0 +1,28 @@
+{
+  "name": "Rasbora du Sarawak",
+  "scientificName": "Rasbora sarawakensis",
+  "slug": "rasbora-sarawakensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Rasbora sarawakensis fréquente des ruisseaux forestiers au débit plutôt lent, avec une végétation émergente dense, souvent situés à l'ombre de la canopée de la forêt tropicale. Le lit de ces ruisseaux est normalement constitué d'une épaisse couche de limon recouverte de branches d'arbres tombées et de feuilles mortes. L'eau est généralement relativement claire mais a une couleur brun pâle due a...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore"
+  ]
+}

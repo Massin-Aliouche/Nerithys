@@ -1,0 +1,32 @@
+{
+  "name": "Poisson Arc-en-ciel splendide",
+  "scientificName": "Melanotaenia splendida",
+  "slug": "melanotaenia-splendida",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 12,
+  "tempMax": 36,
+  "phMin": 5,
+  "phMax": 9,
+  "ghMin": 8,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 400,
+  "minLengthCm": 20,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Difficile d'établir un schéma précis des besoins de cette espèce qui fréquente une grande quantité de biotopes. Pour le bien-être des poissons accueillis on se référera principalement à la provenance géographique de la sous-espèce convoitée. Cette espèce fréquente des habitats très variables, notamment des rivières, des ruisseaux, des marécages, des lagunes marécageuses, des lacs et des réservo...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/2254.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "grand",
+    "exigeant"
+  ]
+}

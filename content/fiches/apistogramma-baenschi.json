@@ -1,0 +1,31 @@
+{
+  "name": "Apistogramma de baensch",
+  "scientificName": "Apistogramma baenschi",
+  "slug": "apistogramma-baenschi",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 3.5,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6,
+  "behavior": "Population: 4 minimum (8 recommandé). Zone: Inférieure. Ratio M/F: 1 / 3",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Comme tous les amazoniens qui apprécient les bras morts au courant faible et au sol mou jonché de feuilles, on privilégiera sa maintenance en bac biotope alliant l'eau très douce et acide, la coloration de l'eau et la faible luminosité. Les plantes ne sont pas présentent dans ce milieu, mais les berges peuvent être végétalisées. Comme tous les cichlidés de ce genre, on lui fournira impérativeme...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/418.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

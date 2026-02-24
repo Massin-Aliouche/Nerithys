@@ -1,0 +1,28 @@
+{
+  "name": "Chaetodon capistratus",
+  "scientificName": "Chaetodon capistratus",
+  "slug": "chaetodon-capistratus",
+  "biotope": "Eau de mer",
+  "difficulty": 1,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 8.4,
+  "phMax": 8.4,
+  "ghMin": 5,
+  "ghMax": 11,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "marin",
+    "facile"
+  ]
+}

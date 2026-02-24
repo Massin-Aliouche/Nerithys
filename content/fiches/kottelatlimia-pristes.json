@@ -1,0 +1,29 @@
+{
+  "name": "Loche de Kottelat",
+  "scientificName": "Kottelatlimia pristes",
+  "slug": "kottelatlimia-pristes",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 3,
+  "phMax": 6.5,
+  "ghMin": 0,
+  "ghMax": 5,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "On le trouve le plus souvent dans les petits cours d'eau forestiers à déplacement lent et à l'eau tachée de tanins, y compris les marécages de tourbe d'eau douce et d'eau noire. De tels habitats sont généralement protégés du soleil par une végétation marginale et par la canopée dense des arbres au-dessus. L'eau a généralement une teneur négligeable en minéraux dissous, est mal tamponnée et son ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "exigeant"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Carpe marbrée",
+  "scientificName": "Hypophthalmichthys nobilis",
+  "slug": "hypophthalmichthys-nobilis",
+  "biotope": "Eau saumâtre",
+  "difficulty": 1,
+  "tempMin": 1,
+  "tempMax": 38,
+  "phMin": null,
+  "phMax": null,
+  "ghMin": null,
+  "ghMax": null,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 100,
+  "behavior": "Non renseigné",
+  "compatibility": "Non renseigné",
+  "diet": "Non renseigné",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "saumâtre",
+    "grand",
+    "facile"
+  ]
+}

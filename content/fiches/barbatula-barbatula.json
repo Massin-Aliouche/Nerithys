@@ -1,0 +1,29 @@
+{
+  "name": "Loche franche",
+  "scientificName": "Barbatula barbatula",
+  "slug": "barbatula-barbatula",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 1,
+  "tempMax": 22,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 2,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 12,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "facile"
+  ]
+}

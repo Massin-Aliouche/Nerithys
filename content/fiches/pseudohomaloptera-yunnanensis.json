@@ -1,0 +1,27 @@
+{
+  "name": "Loche lézard du Yunnan",
+  "scientificName": "Pseudohomaloptera yunnanensis",
+  "slug": "pseudohomaloptera-yunnanensis",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6,
+  "behavior": "Population: 3 minimum (6 recommandé). Zone: Inférieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone inférieure.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Pseudohomaloptera yunnanensis est inféodée aux cours d'eau à courant rapide et aux sources contenant de l'eau claire et saturée en oxygène. Les adultes habitent généralement les rapides et les ruisseaux et montrent une préférence pour les zones moins profondes avec des substrats de gravier, de roches, de rochers ou de substrat rocheux, généralement tapissés d'un riche biofilm formé d'algues et ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

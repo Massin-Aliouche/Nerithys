@@ -1,0 +1,30 @@
+{
+  "name": "Queue-de-lyre rouge",
+  "scientificName": "Aphyosemion bitaeniatum",
+  "slug": "aphyosemion-bitaeniatum",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 6.2,
+  "phMax": 7.2,
+  "ghMin": 3,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 40,
+  "minLengthCm": 5,
+  "behavior": "Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "L'aquarium type est fortement planté et le décor doit offrir de nombreuses cachettes. Un sol sombre permet de mettre en valeur sa magnifique robe. Des plantes flottantes pour diffuser la lumière sont fortement recommandées. L'aquarium doit être parfaitement fermé et ne laisser aucune issue, aussi improbable soit elle. La filtration doit être très douce et en aquarium spécifique, un filtre exhau...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/394.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

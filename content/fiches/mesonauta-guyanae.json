@@ -1,0 +1,29 @@
+{
+  "name": "Mésonaute guyanais",
+  "scientificName": "Mesonauta guyanae",
+  "slug": "mesonauta-guyanae",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 0,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 15,
+  "behavior": "Population: 5 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "La maintenance ne semble pas très difficile si on lui offre un environnement qui le sécurise, à savoir grand bac, aménagé de racines de tourbières, de plantes offrant des abris. Les poissons ainsi accueillis évoluent sans crainte en pleine eau. Un bac de 300 à 400 litres conviendra pour un groupe de quatre à cinq individus. L'eau peut être moyennement dure pour la maintenance mais plus douce et...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

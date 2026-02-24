@@ -1,0 +1,30 @@
+{
+  "name": "Benito de Bates",
+  "scientificName": "Benitochromis batesii",
+  "slug": "benitochromis-batesii",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 27,
+  "phMin": 6.5,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 12,
+  "behavior": "Population: 2 minimum (2 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Ces poissons fréquentent les ruisseaux en forêt pluviale à débit variable, la plupart du temps légèrement brune. Les Bénitos se tiennent la plupart du temps dans la partie basse de l'aquarium et comme les Pelvicachromis ils filtrent le sable à la recherche de nutriments. À la différence de ces derniers ils creusent peu et ne ne détériorent pas les plantes. L'aquarium idéal sera donc proche du m...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/3786.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

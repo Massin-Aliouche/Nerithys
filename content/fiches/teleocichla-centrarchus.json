@@ -1,0 +1,28 @@
+{
+  "name": "Teleocichla centrarchus",
+  "scientificName": "Teleocichla centrarchus",
+  "slug": "teleocichla-centrarchus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 27,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 6,
+  "ghMin": 2,
+  "ghMax": 6,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 9,
+  "behavior": "Population: 2 minimum. Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Non renseigné",
+  "breeding": null,
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "facile"
+  ]
+}

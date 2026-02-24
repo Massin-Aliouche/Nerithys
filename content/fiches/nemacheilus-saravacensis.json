@@ -1,0 +1,29 @@
+{
+  "name": "Loche du Sarawak",
+  "scientificName": "Nemacheilus saravacensis",
+  "slug": "nemacheilus-saravacensis",
+  "biotope": "Eau douce",
+  "difficulty": 4,
+  "tempMin": 22,
+  "tempMax": 28,
+  "phMin": 4.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Nemacheilus saravacensis fréquente dans les ruisseaux forestiers, généralement sur des fonds sableux avec des débris débris organiques sous forme de racines, de branches et de litière de feuilles submergées. L'eau de ces habitats se caractérise par une faible dureté minérale et un pH faible. N. saravacensis n'est pas très difficile à maintenir dans de bonnes conditions mais il est fortement rec...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

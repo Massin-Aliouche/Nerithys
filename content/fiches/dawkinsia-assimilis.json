@@ -1,0 +1,29 @@
+{
+  "name": "Barbus des Ghâts*",
+  "scientificName": "Dawkinsia assimilis",
+  "slug": "dawkinsia-assimilis",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 19,
+  "tempMax": 25,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 2,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 13,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le Dawkinsia assimilis est assez adaptable et n'est pas difficile à maintenir dans un aquarium bien entretenue. Idéalement, l'aquarium peut être aménager pour qu'il ressemble à un ruisseau ou une rivière avec un substrat de roches de taille variable, usées par l'eau, du sable, du gravier fin et peut-être quelques petits rochers. Ce substrat peut être complété par des racines ou des branches de ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore",
+    "exigeant"
+  ]
+}

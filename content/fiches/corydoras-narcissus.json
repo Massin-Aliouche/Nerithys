@@ -1,0 +1,28 @@
+{
+  "name": "Corydoras à long nez",
+  "scientificName": "Corydoras narcissus",
+  "slug": "corydoras-narcissus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 8,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Comme avec certains autres Corydoras à \"long nez\", Corydoras narcissus demandent de l'espace . On lui réservera un aquarium d'environ 120 cm de longueur de façade pour un volume de 250 litres pour un groupe de six individus. Les mâles peuvent être un peu agressifs les uns envers les autres, comportement que l'on retrouve plus chez certaines espèces de Scleromystax. C. narcissus préfère le coura...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}

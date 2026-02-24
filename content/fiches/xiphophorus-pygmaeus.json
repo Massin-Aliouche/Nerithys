@@ -1,0 +1,30 @@
+{
+  "name": "Xiphophorus pygmaeus",
+  "scientificName": "Xiphophorus pygmaeus",
+  "slug": "xiphophorus-pygmaeus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 7.2,
+  "phMax": 7.8,
+  "ghMin": 10,
+  "ghMax": 0,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 4,
+  "behavior": "Zone: Centrale, Supérieure",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Non renseigné",
+  "breeding": "Ovovivipare",
+  "notes": null,
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "nano",
+    "facile",
+    "vivipare"
+  ]
+}

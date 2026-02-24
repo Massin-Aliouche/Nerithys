@@ -1,0 +1,29 @@
+{
+  "name": "Pléco Bouledogue rayé",
+  "scientificName": "Chaetostoma formosae",
+  "slug": "chaetostoma-formosae",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 18,
+  "tempMax": 26,
+  "phMin": 5.5,
+  "phMax": 7.8,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 12,
+  "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Algivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Chaetostoma formosae est un habitant exclusif des cours d'eau à débit rapide. Les substrats sont généralement constitués de roches de fond avec des amas dispersés de galets, et bien que la végétation riveraine et la litière de feuilles submergées soient courantes, les véritables plantes aquatiques ne sont généralement pas présentes. Les habitats les plus favorables contiennent de l'eau claire e...",
+  "images": [
+    "https://www.b-aqua.com/photos/1/938.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce"
+  ]
+}

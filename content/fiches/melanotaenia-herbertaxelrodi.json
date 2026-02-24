@@ -1,0 +1,28 @@
+{
+  "name": "Poisson Arc-en-ciel d'Axeldod",
+  "scientificName": "Melanotaenia herbertaxelrodi",
+  "slug": "melanotaenia-herbertaxelrodi",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 20,
+  "tempMax": 26,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 10,
+  "ghMax": 15,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "M. herbertaxelrodii habite généralement des eaux claires contenant beaucoup de végétation aquatique, à la fois dans le lac lui-même et dans les ruisseaux et affluents environnants. Ce poisson arc-en-ciel est parfaitement adapté à une installation fortement plantée. Le débit d'eau devrait être assez lent et cela profitera également aux plantes. Prévoyez donc des zones de végétation dense, ainsi ...",
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "omnivore"
+  ]
+}
