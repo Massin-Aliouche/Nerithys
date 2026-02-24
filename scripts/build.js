@@ -1,42 +1,69 @@
-const fs = require('fs').promises;
+/* ═══════════════════════════════════════════════════════
+   Nerithys — build.js  (Static site generator)
+   ═══════════════════════════════════════════════════════ */
+const fs   = require('fs');
+const fsp  = fs.promises;
 const path = require('path');
 
-const ROOT = path.resolve(__dirname, '..');
-const CONTENT = path.join(ROOT, 'content');
-const OUT = path.join(ROOT, 'public');
-const TEMPLATES = path.join(ROOT, 'templates');
+const ROOT    = path.resolve(__dirname, '..');
+const PUB     = path.join(ROOT, 'public');
+const FICHES  = path.join(ROOT, 'content', 'fiches');
+const TPL_DIR = path.join(ROOT, 'templates');
 
-/* ── Helpers ─────────────────────────────────────── */
-function slugify(s) {
-  return s.toString().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+/* ── Utilities ────────────────────────────────────── */
+function ensureDirSync(dir) {
+  fs.mkdirSync(dir, { recursive: true });
 }
 
-async function readJSON(file) {
-  return JSON.parse(await fs.readFile(file, 'utf8'));
+function relativePath(from, to) {
+  let rel = path.relative(from, to).replace(/\\/g, '/');
+  if (!rel) rel = '.';
+  return rel.endsWith('/') ? rel : rel + '/';
 }
 
-async function ensureDir(dir) {
-  await fs.mkdir(dir, { recursive: true });
+function escapeHtml(s) {
+  return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-async function copyDir(src, dest) {
-  try {
-    const entries = await fs.readdir(src, { withFileTypes: true });
-    await ensureDir(dest);
-    for (const e of entries) {
-      const srcPath = path.join(src, e.name);
-      const destPath = path.join(dest, e.name);
-      if (e.isDirectory()) await copyDir(srcPath, destPath);
-      else if (e.isFile()) await fs.copyFile(srcPath, destPath);
-    }
-  } catch (_) { /* dir missing */ }
+/* ── Image resolution ─────────────────────────────── */
+let externalImages = {};
+try {
+  const extFile = path.join(ROOT, 'content', 'external-images.json');
+  if (fs.existsSync(extFile)) {
+    externalImages = JSON.parse(fs.readFileSync(extFile, 'utf8'));
+  }
+} catch (e) { /* ignore */ }
+
+function resolveImage(url, assetPath) {
+  if (!url) return '';
+  // If externally fetched, use local copy
+  if (externalImages[url]) {
+    return assetPath + 'content/' + externalImages[url];
+  }
+  // If it's an absolute URL, use as-is
+  if (/^https?:\/\//.test(url)) return url;
+  return assetPath + url;
 }
 
-function relPath(from, to) {
-  let r = path.relative(from, to).split(path.sep).join('/');
-  if (r === '') r = '.';
-  if (!r.endsWith('/')) r = r === '.' ? './' : r + '/';
-  return r;
+/* ── Load templates ───────────────────────────────── */
+const ficheTemplate   = fs.readFileSync(path.join(TPL_DIR, 'fiche-template.html'), 'utf8');
+const listingTemplate = fs.readFileSync(path.join(TPL_DIR, 'listing-template.html'), 'utf8');
+
+/* ── Load fiches ──────────────────────────────────── */
+function loadFiches() {
+  const files = fs.readdirSync(FICHES).filter(f => f.endsWith('.json'));
+  return files.map(f => {
+    const raw = fs.readFileSync(path.join(FICHES, f), 'utf8');
+    return JSON.parse(raw);
+  }).sort((a, b) => (a.name || '').localeCompare(b.name || '', 'fr'));
+}
+
+/* ── Difficulty helpers ───────────────────────────── */
+function diffLabel(n) {
+  if (n <= 1) return 'Facile';
+  if (n === 2) return 'Moyen';
+  if (n === 3) return 'Difficile';
+  return 'Expert';
 }
 
 function diffBadgeClass(n) {
@@ -45,200 +72,357 @@ function diffBadgeClass(n) {
   if (n === 3) return 'badge-amber';
   return 'badge-red';
 }
-function diffLabel(n) {
-  if (n <= 1) return 'Facile';
-  if (n === 2) return 'Moyen';
-  if (n === 3) return 'Difficile';
-  return 'Expert';
+
+function diffDots(n) {
+  let out = '<div class="diff-dots">';
+  for (let i = 1; i <= 4; i++) {
+    out += '<span class="dot' + (i <= n ? ' filled' : '') + '"></span>';
+  }
+  out += '</div>';
+  return out;
 }
 
-/* ── Inline SVG icons ──────────────────────────────── */
+/* ── Parameter card HTML ──────────────────────────── */
+// SVG icons for params
 const ICONS = {
-  temp: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M14 14.76V6a2 2 0 10-4 0v8.76a4 4 0 104 0z"/></svg>',
-  ph:   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2s6 5.5 6 9.5a6 6 0 11-12 0C6 7.5 12 2 12 2z"/></svg>',
-  gh:   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M7 9h10"/></svg>',
-  size: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h18M7 8v8M17 8v8"/></svg>',
-  bio:  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8 6 3 7 3 12c0 4 4 8 9 10 5-2 9-6 9-10 0-5-5-6-9-10z"/></svg>',
-  vol:  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 20V4h12v16H6z"/><path d="M6 12h12"/></svg>',
+  temp:   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 14.76V3.5a2.5 2.5 0 00-5 0v11.26a4.5 4.5 0 105 0z"/></svg>',
+  ph:     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>',
+  gh:     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>',
+  kh:     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>',
+  volume: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22a8 8 0 008-8c0-6-8-12-8-12S4 8 4 14a8 8 0 008 8z"/></svg>',
+  size:   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 3h-6M21 3v6M21 3L14 10M3 21h6M3 21v-6M3 21l7-7"/></svg>',
 };
 
-/* ── Build fiche HTML content ──────────────────────── */
-function buildFicheContent(f, assetPath) {
-  const diff = Number(f.difficulty) || 0;
+function paramCard(icon, label, value) {
+  if (!value || value === 'null' || value === '—') return '';
+  return '<div class="param-card">' +
+    '<div class="icon">' + (ICONS[icon] || '') + '</div>' +
+    '<div><strong>' + escapeHtml(label) + '</strong><div class="value">' + escapeHtml(value) + '</div></div>' +
+  '</div>';
+}
+
+/* ── Build fiche content HTML ─────────────────────── */
+function buildFicheContent(data, assetPath) {
+  const diff = Number(data.difficulty) || 0;
+  const imgSrc = resolveImage((data.images && data.images[0]) || '', assetPath);
+
+  let html = '';
+
+  // Title block
+  html += '<h1>' + escapeHtml(data.name) + '</h1>';
+  html += '<p style="color:var(--muted);margin-top:-.5rem;margin-bottom:1.5rem;">';
+  html += '<em>' + escapeHtml(data.scientificName || '') + '</em>';
+  html += '</p>';
 
   // Hero image
-  const rawImg = (f.images && f.images[0]) || '';
-  const imgSrc = rawImg && !/^https?:\/\//.test(rawImg) ? assetPath + rawImg : rawImg;
-  const heroImg = imgSrc
-    ? `<img class="fiche-hero-img" src="${imgSrc}" alt="${f.name}" style="width:100%;max-height:340px;object-fit:cover;border-radius:var(--radius-lg);margin-bottom:1.5rem;cursor:pointer">`
-    : '';
-
-  // Difficulty dots
-  let dots = '';
-  for (let i = 1; i <= 5; i++) dots += `<span class="dot${i <= diff ? ' filled' : ''}" aria-hidden="true"></span>`;
-
-  // Badges
-  const badges = `<div style="display:flex;flex-wrap:wrap;gap:.5rem;margin:.75rem 0">
-    <span class="badge ${diffBadgeClass(diff)}">${diffLabel(diff)}</span>
-    <span class="badge badge-slate">${f.biotope || '—'}</span>
-    <span class="badge badge-slate">${f.minVolumeL || '—'} L</span>
-    <span class="badge badge-slate">${f.minLengthCm || '—'} cm</span>
-  </div>`;
-
-  // Params grid
-  const params = `<div class="params-grid">
-    <div class="param-card"><span class="icon">${ICONS.temp}</span><div><strong>Température</strong><div class="value">${f.tempMin || '—'} – ${f.tempMax || '—'} °C</div></div></div>
-    <div class="param-card"><span class="icon">${ICONS.ph}</span><div><strong>pH</strong><div class="value">${f.phMin || '—'} – ${f.phMax || '—'}</div></div></div>
-    <div class="param-card"><span class="icon">${ICONS.gh}</span><div><strong>GH</strong><div class="value">${f.ghMin || '—'} – ${f.ghMax || '—'}</div></div></div>
-    <div class="param-card"><span class="icon">${ICONS.gh}</span><div><strong>KH</strong><div class="value">${f.khMin || '—'} – ${f.khMax || '—'}</div></div></div>
-    <div class="param-card"><span class="icon">${ICONS.size}</span><div><strong>Taille adulte</strong><div class="value">${f.minLengthCm || '—'} cm</div></div></div>
-    <div class="param-card"><span class="icon">${ICONS.vol}</span><div><strong>Volume min.</strong><div class="value">${f.minVolumeL || '—'} L</div></div></div>
-  </div>`;
-
-  // Takeaway
-  const summary = f.summary || (f.notes ? (f.notes.split('.').filter(Boolean)[0] || '') : '');
-  const takeaway = summary ? `<div class="takeaway-box"><strong>À retenir :</strong> ${summary}.</div>` : '';
-
-  // Sections
-  function sec(title, body) {
-    if (!body) return '';
-    return `<section style="margin-top:1.5rem"><h3 style="font-size:1.1rem;font-weight:700;margin-bottom:.5rem">${title}</h3><p style="color:var(--muted);line-height:1.7">${body}</p></section>`;
+  if (imgSrc) {
+    html += '<img class="fiche-hero-img" src="' + imgSrc + '" alt="' + escapeHtml(data.name) + '" loading="lazy" onerror="this.style.display=\'none\'">';
   }
 
-  // Errors box
-  const errors = `<div class="errors-box" style="margin-top:1.5rem">
-    <strong>Erreurs courantes :</strong>
-    <ul>
-      <li>Maintenir en bac trop petit malgré la taille adulte</li>
-      <li>Ignorer les paramètres d'eau spécifiques du biotope</li>
-    </ul>
-  </div>`;
+  // Quick info badges
+  html += '<div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1.5rem;">';
+  html += '<span class="badge ' + diffBadgeClass(diff) + '">' + diffLabel(diff) + '</span>';
+  html += '<span class="badge badge-slate">' + escapeHtml(data.biotope || '—') + '</span>';
+  if (data.tags && data.tags.length) {
+    data.tags.forEach(function(t) {
+      html += '<span class="badge badge-accent">' + escapeHtml(t) + '</span>';
+    });
+  }
+  html += '</div>';
 
-  return `
-    <header>
-      <h1 style="font-size:1.8rem;font-weight:700">${f.name}</h1>
-      <p style="font-style:italic;color:var(--muted);margin-top:.15rem">${f.scientificName || ''}</p>
-      <div class="diff-dots" style="margin-top:.5rem">${dots}</div>
-      ${badges}
-    </header>
-    ${heroImg}
-    ${takeaway}
-    ${params}
-    ${sec('Comportement & compatibilité', (f.behavior || '') + (f.compatibility ? ' — ' + f.compatibility : ''))}
-    ${sec('Alimentation', f.diet)}
-    ${sec('Reproduction', f.breeding)}
-    ${sec('Conseils de maintenance', f.notes)}
-    ${errors}
-  `;
+  // Difficulty dots
+  html += '<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:1.5rem;">';
+  html += '<span style="font-size:.85rem;color:var(--muted);font-weight:600;">Difficulté :</span>';
+  html += diffDots(diff);
+  html += '<span style="font-size:.85rem;font-weight:600;">' + diffLabel(diff) + '</span>';
+  html += '</div>';
+
+  // Parameters grid
+  let params = '';
+  if (data.tempMin != null && data.tempMax != null) {
+    params += paramCard('temp', 'Température', data.tempMin + ' – ' + data.tempMax + ' °C');
+  }
+  if (data.phMin != null && data.phMax != null) {
+    params += paramCard('ph', 'pH', data.phMin + ' – ' + data.phMax);
+  }
+  if (data.ghMin != null && data.ghMax != null) {
+    params += paramCard('gh', 'GH', data.ghMin + ' – ' + data.ghMax);
+  }
+  if (data.khMin != null && data.khMax != null) {
+    params += paramCard('kh', 'KH', data.khMin + ' – ' + data.khMax);
+  }
+  if (data.minVolumeL) {
+    params += paramCard('volume', 'Volume min.', data.minVolumeL + ' L');
+  }
+  if (data.minLengthCm) {
+    params += paramCard('size', 'Taille adulte', data.minLengthCm + ' cm');
+  }
+
+  if (params) {
+    html += '<div class="params-grid">' + params + '</div>';
+  }
+
+  // Sections
+  const sections = [
+    ['Comportement', data.behavior],
+    ['Compatibilité', data.compatibility],
+    ['Alimentation', data.diet],
+    ['Reproduction', data.breeding],
+  ];
+
+  sections.forEach(function(s) {
+    if (s[1]) {
+      html += '<div class="fiche-section">';
+      html += '<h3>' + escapeHtml(s[0]) + '</h3>';
+      html += '<p>' + escapeHtml(s[1]) + '</p>';
+      html += '</div>';
+    }
+  });
+
+  // Notes (takeaway box)
+  if (data.notes) {
+    html += '<div class="takeaway-box" style="margin-top:2rem;">';
+    html += '<strong>À retenir :</strong> ' + escapeHtml(data.notes);
+    html += '</div>';
+  }
+
+  // Gallery
+  if (data.gallery && data.gallery.length) {
+    html += '<div class="fiche-section">';
+    html += '<h3>Galerie</h3>';
+    html += '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin-top:1rem;">';
+    data.gallery.forEach(function(g) {
+      var gSrc = resolveImage(g, assetPath);
+      html += '<img class="fiche-hero-img" src="' + gSrc + '" alt="" loading="lazy" style="max-height:200px" onerror="this.style.display=\'none\'">';
+    });
+    html += '</div></div>';
+  }
+
+  // Sources
+  if (data.sources && data.sources.length) {
+    html += '<div class="fiche-section">';
+    html += '<h3>Sources</h3>';
+    html += '<ul style="list-style:disc;padding-left:1.3rem;">';
+    data.sources.forEach(function(src) {
+      html += '<li><a href="' + escapeHtml(src) + '" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:underline;">' + escapeHtml(src) + '</a></li>';
+    });
+    html += '</ul></div>';
+  }
+
+  return html;
+}
+
+/* ── Generate JSON-LD ─────────────────────────────── */
+function jsonLd(data) {
+  return JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "name": data.name || '',
+    "description": data.behavior || '',
+    "about": {
+      "@type": "Thing",
+      "name": data.scientificName || ''
+    }
+  });
+}
+
+/* ── Build one fiche page ─────────────────────────── */
+function buildFiche(data) {
+  const slug = data.slug || '';
+  const outDir = path.join(PUB, 'fiches', slug);
+  ensureDirSync(outDir);
+
+  const assetPath = relativePath(outDir, PUB);
+  const content = buildFicheContent(data, assetPath);
+
+  const imgSrc = resolveImage((data.images && data.images[0]) || '', assetPath);
+
+  let page = ficheTemplate
+    .replace(/\{\{ASSET_PATH\}\}/g, assetPath)
+    .replace(/\{\{TITLE\}\}/g, escapeHtml(data.name + ' — Nerithys'))
+    .replace(/\{\{DESCRIPTION\}\}/g, escapeHtml((data.behavior || data.name || '') + ' | Nerithys'))
+    .replace(/\{\{OG_IMAGE\}\}/g, imgSrc)
+    .replace(/\{\{JSON_LD\}\}/g, jsonLd(data))
+    .replace(/\{\{CONTENT\}\}/g, content);
+
+  fs.writeFileSync(path.join(outDir, 'index.html'), page, 'utf8');
+}
+
+/* ── Build listing page ───────────────────────────── */
+function buildListing() {
+  const outDir = path.join(PUB, 'fiches');
+  ensureDirSync(outDir);
+  const assetPath = relativePath(outDir, PUB);
+
+  let page = listingTemplate.replace(/\{\{ASSET_PATH\}\}/g, assetPath);
+  fs.writeFileSync(path.join(outDir, 'index.html'), page, 'utf8');
+}
+
+/* ── Build fiches.json aggregate ──────────────────── */
+function buildFichesJson(fiches) {
+  const outDir = path.join(PUB, 'content');
+  ensureDirSync(outDir);
+
+  // Map images to asset-relative paths from public root
+  const data = fiches.map(function(f) {
+    const copy = Object.assign({}, f);
+    if (copy.images && copy.images.length) {
+      copy.images = copy.images.map(function(img) {
+        if (externalImages[img]) {
+          return 'content/' + externalImages[img];
+        }
+        return img;
+      });
+    }
+    return copy;
+  });
+
+  fs.writeFileSync(path.join(outDir, 'fiches.json'), JSON.stringify(data, null, 2), 'utf8');
+}
+
+/* ── Copy static assets ───────────────────────────── */
+function copyDir(src, dest) {
+  ensureDirSync(dest);
+  const entries = fs.readdirSync(src, { withFileTypes: true });
+  for (const entry of entries) {
+    const srcPath = path.join(src, entry.name);
+    const destPath = path.join(dest, entry.name);
+    if (entry.isDirectory()) {
+      copyDir(srcPath, destPath);
+    } else {
+      fs.copyFileSync(srcPath, destPath);
+    }
+  }
+}
+
+function copyFile(src, dest) {
+  if (fs.existsSync(src)) {
+    ensureDirSync(path.dirname(dest));
+    fs.copyFileSync(src, dest);
+  }
+}
+
+/* ── Generate robots.txt ──────────────────────────── */
+function buildRobots() {
+  const content = 'User-agent: *\nAllow: /\nSitemap: https://massin-aliouche.github.io/Nerithys/sitemap.xml\n';
+  fs.writeFileSync(path.join(PUB, 'robots.txt'), content, 'utf8');
+}
+
+/* ── Generate sitemap.xml ─────────────────────────── */
+function buildSitemap(fiches) {
+  const base = 'https://massin-aliouche.github.io/Nerithys/';
+  const now = new Date().toISOString().slice(0, 10);
+  let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
+  xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
+
+  xml += '  <url><loc>' + base + '</loc><lastmod>' + now + '</lastmod></url>\n';
+  xml += '  <url><loc>' + base + 'fiches/</loc><lastmod>' + now + '</lastmod></url>\n';
+
+  fiches.forEach(function(f) {
+    xml += '  <url><loc>' + base + 'fiches/' + encodeURIComponent(f.slug) + '/</loc><lastmod>' + now + '</lastmod></url>\n';
+  });
+
+  xml += '</urlset>\n';
+  fs.writeFileSync(path.join(PUB, 'sitemap.xml'), xml, 'utf8');
+}
+
+/* ── Generate RSS feed ────────────────────────────── */
+function buildRss(fiches) {
+  const base = 'https://massin-aliouche.github.io/Nerithys/';
+  const now = new Date().toUTCString();
+  let rss = '<?xml version="1.0" encoding="UTF-8"?>\n';
+  rss += '<rss version="2.0"><channel>\n';
+  rss += '  <title>Nerithys — Fiches poissons</title>\n';
+  rss += '  <link>' + base + '</link>\n';
+  rss += '  <description>Fiches d\'espèces aquatiques</description>\n';
+  rss += '  <lastBuildDate>' + now + '</lastBuildDate>\n';
+
+  fiches.forEach(function(f) {
+    rss += '  <item>\n';
+    rss += '    <title>' + escapeHtml(f.name) + '</title>\n';
+    rss += '    <link>' + base + 'fiches/' + encodeURIComponent(f.slug) + '/</link>\n';
+    rss += '    <description>' + escapeHtml(f.behavior || f.name || '') + '</description>\n';
+    rss += '  </item>\n';
+  });
+
+  rss += '</channel></rss>\n';
+  fs.writeFileSync(path.join(PUB, 'rss.xml'), rss, 'utf8');
 }
 
 /* ═══════════════════════════════════════════════════════
-   Main build
+   MAIN BUILD
    ═══════════════════════════════════════════════════════ */
-async function build() {
-  console.log('Building Nerithys…');
-  await ensureDir(OUT);
+function build() {
+  console.log('[build] Starting Nerithys build...');
 
-  /* ── 1. Copy assets ─────────────────────────────── */
-  await copyDir(path.join(ROOT, 'css'), path.join(OUT, 'css'));
-  await copyDir(path.join(ROOT, 'js'), path.join(OUT, 'js'));
-  await copyDir(CONTENT, path.join(OUT, 'content'));
+  // 1. Ensure public directory
+  ensureDirSync(PUB);
 
-  // Copy only index.html from root (no legacy HTML)
-  const allowed = ['index.html'];
-  for (const fn of allowed) {
-    const src = path.join(ROOT, fn);
-    try { await fs.access(src); await fs.copyFile(src, path.join(OUT, fn)); } catch (_) {}
-  }
+  // 2. Load fiches
+  const fiches = loadFiches();
+  console.log('[build] Loaded ' + fiches.length + ' fiches');
 
-  /* ── 2. Read content JSON ───────────────────────── */
-  let fiches = [];
-  try {
-    const files = await fs.readdir(path.join(CONTENT, 'fiches'));
-    for (const f of files) {
-      if (!f.endsWith('.json')) continue;
-      fiches.push(await readJSON(path.join(CONTENT, 'fiches', f)));
+  // 3. Copy CSS
+  copyDir(path.join(ROOT, 'css'), path.join(PUB, 'css'));
+  console.log('[build] Copied CSS');
+
+  // 4. Copy JS
+  ensureDirSync(path.join(PUB, 'js'));
+  copyFile(path.join(ROOT, 'js', 'main.js'), path.join(PUB, 'js', 'main.js'));
+  copyFile(path.join(ROOT, 'js', 'ui.js'), path.join(PUB, 'js', 'ui.js'));
+  copyFile(path.join(ROOT, 'js', 'species.js'), path.join(PUB, 'js', 'species.js'));
+  console.log('[build] Copied JS');
+
+  // 5. Copy content assets (images, etc.)
+  if (fs.existsSync(path.join(ROOT, 'content'))) {
+    const contentItems = fs.readdirSync(path.join(ROOT, 'content'), { withFileTypes: true });
+    const contentOut = path.join(PUB, 'content');
+    ensureDirSync(contentOut);
+    for (const item of contentItems) {
+      const src = path.join(ROOT, 'content', item.name);
+      const dest = path.join(contentOut, item.name);
+      if (item.isDirectory()) {
+        // Copy directories except 'fiches' (raw JSON, not needed in public)
+        // But DO copy 'external' directory for fetched images
+        if (item.name !== 'fiches' && item.name !== 'articles') {
+          copyDir(src, dest);
+        }
+      } else if (!item.name.endsWith('.json') || item.name === 'external-images.json') {
+        // Copy non-JSON files (images, etc.) and the external-images manifest
+        copyFile(src, dest);
+      }
     }
-  } catch (e) { console.warn('No fiches:', e.message); }
-
-  let articles = [];
-  try {
-    const files = await fs.readdir(path.join(CONTENT, 'articles'));
-    for (const f of files) {
-      if (!f.endsWith('.json')) continue;
-      articles.push(await readJSON(path.join(CONTENT, 'articles', f)));
-    }
-  } catch (_) {}
-
-  // Write aggregated fiches.json for client-side JS
-  await ensureDir(path.join(OUT, 'content'));
-  await fs.writeFile(path.join(OUT, 'content', 'fiches.json'), JSON.stringify(fiches, null, 2), 'utf8');
-
-  /* ── 3. Load templates ──────────────────────────── */
-  const ficheTpl = await fs.readFile(path.join(TEMPLATES, 'fiche-template.html'), 'utf8');
-  const listingTpl = await fs.readFile(path.join(TEMPLATES, 'listing-template.html'), 'utf8');
-
-  /* ── 4. Generate fiche pages ────────────────────── */
-  for (const f of fiches) {
-    const slug = f.slug || slugify(f.name || 'untitled');
-    const dir = path.join(OUT, 'fiches', slug);
-    await ensureDir(dir);
-
-    const title = `${f.name} — Nerithys`;
-    const desc = (f.notes && f.notes.substring(0, 160)) || `${f.name} — fiche maintenance, paramètres et conseils.`;
-    const ap = relPath(dir, OUT);
-
-    let ogImage = (f.images && f.images[0]) || '';
-    if (ogImage && !/^https?:\/\//.test(ogImage)) ogImage = ap + ogImage;
-
-    const jsonld = JSON.stringify({
-      '@context': 'https://schema.org',
-      '@type': 'Thing',
-      name: f.name,
-      alternateName: f.scientificName,
-      description: desc,
-    });
-
-    const html = ficheTpl
-      .replace(/{{ASSET_PATH}}/g, ap)
-      .replace(/{{TITLE}}/g, title)
-      .replace(/{{DESCRIPTION}}/g, desc)
-      .replace(/{{OG_IMAGE}}/g, ogImage)
-      .replace(/{{JSON_LD}}/g, jsonld)
-      .replace(/{{CONTENT}}/g, buildFicheContent(f, ap));
-
-    await fs.writeFile(path.join(dir, 'index.html'), html, 'utf8');
-    console.log('  ✓ fiche', slug);
+    console.log('[build] Copied content assets');
   }
 
-  /* ── 5. Generate listing page ───────────────────── */
-  const listingDir = path.join(OUT, 'fiches');
-  await ensureDir(listingDir);
-  const listingAP = relPath(listingDir, OUT);
-  // Listing is JS-driven (ui.js fetches fiches.json), no static cards needed
-  const listingHtml = listingTpl.replace(/{{ASSET_PATH}}/g, listingAP);
-  await fs.writeFile(path.join(listingDir, 'index.html'), listingHtml, 'utf8');
-  console.log('  ✓ listing');
-
-  /* ── 6. Sitemap ─────────────────────────────────── */
-  const base = 'https://massin-aliouche.github.io/Nerithys/';
-  let urls = [base, base + 'fiches/'];
-  for (const f of fiches) urls.push(base + 'fiches/' + (f.slug || slugify(f.name)) + '/');
-  for (const a of articles) urls.push(base + 'articles/' + (a.slug || slugify(a.title)) + '/');
-  const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(u => `  <url><loc>${u}</loc></url>`).join('\n')}\n</urlset>`;
-  await fs.writeFile(path.join(OUT, 'sitemap.xml'), sitemap, 'utf8');
-
-  /* ── 7. robots.txt ──────────────────────────────── */
-  await fs.writeFile(path.join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${base}sitemap.xml\n`, 'utf8');
-
-  /* ── 8. RSS ─────────────────────────────────────── */
-  if (articles.length) {
-    const items = articles.map(a => `<item><title>${a.title}</title><link>${base}articles/${a.slug || slugify(a.title)}/</link><pubDate>${new Date(a.date || Date.now()).toUTCString()}</pubDate><description>${a.summary || ''}</description></item>`).join('\n');
-    const rss = `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Nerithys — Articles</title><link>${base}</link>${items}</channel></rss>`;
-    await fs.writeFile(path.join(OUT, 'rss.xml'), rss, 'utf8');
+  // 6. Copy homepage
+  const indexSrc = path.join(ROOT, 'index.html');
+  if (fs.existsSync(indexSrc)) {
+    fs.copyFileSync(indexSrc, path.join(PUB, 'index.html'));
+    console.log('[build] Copied index.html');
   }
 
-  console.log('Build complete →', OUT);
+  // 7. Build fiches.json
+  buildFichesJson(fiches);
+  console.log('[build] Generated content/fiches.json');
+
+  // 8. Build listing page
+  buildListing();
+  console.log('[build] Generated fiches/index.html');
+
+  // 9. Build individual fiche pages
+  fiches.forEach(function(f) {
+    buildFiche(f);
+  });
+  console.log('[build] Generated ' + fiches.length + ' fiche pages');
+
+  // 10. Build SEO files
+  buildRobots();
+  buildSitemap(fiches);
+  buildRss(fiches);
+  console.log('[build] Generated robots.txt, sitemap.xml, rss.xml');
+
+  console.log('[build] ✓ Build complete! Output at public/');
 }
 
-build().catch(err => { console.error(err); process.exit(1); });
+build();

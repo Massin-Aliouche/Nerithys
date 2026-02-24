@@ -1,36 +1,36 @@
 [
   {
-    "name": "Poisson-clown (Némo)",
-    "scientificName": "Amphiprion ocellaris",
-    "slug": "amphiprion-ocellaris",
+    "name": "Chirurgien bleu (Dory)",
+    "scientificName": "Paracanthurus hepatus",
+    "slug": "paracanthurus-hepatus",
     "biotope": "Eau de mer",
-    "difficulty": 3,
-    "tempMin": 22,
-    "tempMax": 28,
+    "difficulty": 4,
+    "tempMin": 23,
+    "tempMax": 27,
     "phMin": 8.2,
     "phMax": 8.4,
     "ghMin": null,
     "ghMax": null,
     "khMin": null,
     "khMax": null,
-    "minVolumeL": 100,
-    "minLengthCm": 8,
-    "behavior": "Vit en couple ou colonie, territorial autour de l'anémone.",
-    "compatibility": "Compatible avec la plupart des poissons marins non agressifs.",
-    "diet": "Omnivore: aliments marins, granulés, congelés.",
-    "breeding": "Ovipare, reproduction possible en captivité.",
-    "notes": "Espèce marine; requiert bac récifal ou marin adapté.",
+    "minVolumeL": 1000,
+    "minLengthCm": 25,
+    "behavior": "Actif, parfois grégaire; requiert espace important.",
+    "compatibility": "Compatible avec autres poissons marins non agressifs; nécessite grand bac.",
+    "diet": "Omnivore: algues, granulés marins, végétaux.",
+    "breeding": "Ovipare; reproduction difficile en aquarium.",
+    "notes": "Espèce marine de grande taille; demande bac récifal important.",
     "sources": [
-      "https://www.fishipedia.fr/fr/poissons/amphiprion-ocellaris"
+      "https://www.fishipedia.fr/fr/poissons/paracanthurus-hepatus"
     ],
     "images": [
-      "https://www.fishipedia.fr/wp-content/uploads/2018/09/Amphiprion-ocellaris-Pamilacan-Philippines.jpg"
+      "content/external/paracanthurus-hepatus-0.jpg"
     ],
     "gallery": [],
     "tags": [
       "marine",
-      "recifal",
-      "clownfish"
+      "gros-poisson",
+      "recifal"
     ]
   },
   {
@@ -58,47 +58,13 @@
       "https://www.fishipedia.fr/fr/poissons/corydoras-julii"
     ],
     "images": [
-      "https://www.fishipedia.fr/wp-content/uploads/2018/05/Corydoras-julii-Real-Brasil.jpg"
+      "content/external/corydoras-julii-0.jpg"
     ],
     "gallery": [],
     "tags": [
       "corydoras",
       "fond",
       "banc"
-    ]
-  },
-  {
-    "name": "Microrasbora Galaxy (Danio margaritatus)",
-    "scientificName": "Danio margaritatus",
-    "slug": "danio-margaritatus",
-    "biotope": "Eau douce",
-    "difficulty": 1,
-    "tempMin": 24,
-    "tempMax": 26,
-    "phMin": 6.8,
-    "phMax": 7.5,
-    "ghMin": 8,
-    "ghMax": 12,
-    "khMin": 3,
-    "khMax": 10,
-    "minVolumeL": 40,
-    "minLengthCm": 2,
-    "behavior": "Vif, vit en bancs serrés.",
-    "compatibility": "Très compatible en bancs dans nano-bacs; éviter gros prédateurs.",
-    "diet": "Carnivore: nauplies, microaliment vivant et paillettes fines.",
-    "breeding": "Ovipare, pond en eau libre; élevage en bac spécifique conseillé.",
-    "notes": "Excellente espèce pour nano-aquariums plantés.",
-    "sources": [
-      "https://www.fishipedia.fr/fr/poissons/danio-margaritatus"
-    ],
-    "images": [
-      "https://www.fishipedia.fr/wp-content/uploads/2013/05/Danio_margaritatus_2.jpg"
-    ],
-    "gallery": [],
-    "tags": [
-      "nano",
-      "banc",
-      "facile"
     ]
   },
   {
@@ -139,71 +105,71 @@
     ]
   },
   {
-    "name": "Pléco (Pléco commun)",
-    "scientificName": "Hypostomus plecostomus",
-    "slug": "hypostomus-plecostomus",
+    "name": "Guppy Endler",
+    "scientificName": "Poecilia wingei",
+    "slug": "poecilia-wingei",
     "biotope": "Eau douce",
-    "difficulty": 2,
-    "tempMin": 20,
+    "difficulty": 1,
+    "tempMin": 23,
     "tempMax": 28,
     "phMin": 6.8,
     "phMax": 7.2,
-    "ghMin": 5,
-    "ghMax": 20,
-    "khMin": 3,
-    "khMax": 15,
-    "minVolumeL": 600,
-    "minLengthCm": 28,
-    "behavior": "Détritivore, souvent benthique; peut devenir territorial.",
-    "compatibility": "Compatible avec poissons non agressifs; nécessite grand volume adulte.",
-    "diet": "Détritovore/herbivore: algues, granulés, légumes cuits.",
-    "breeding": "Reproduction complexe en captivité; nécessite conditions spécifiques.",
-    "notes": "Attention à la taille adulte; éviter bacs trop petits.",
+    "ghMin": 3,
+    "ghMax": 12,
+    "khMin": 2,
+    "khMax": 10,
+    "minVolumeL": 50,
+    "minLengthCm": 2,
+    "behavior": "Petit vivipare, vit en groupe.",
+    "compatibility": "Très compatible en communautaire avec petits poissons.",
+    "diet": "Omnivore: paillettes, microgranulés, proies vivantes.",
+    "breeding": "Vivipare, reproduction facile.",
+    "notes": "Espèce de petite taille idéale pour nano-bacs.",
     "sources": [
-      "https://www.fishipedia.fr/fr/poissons/hypostomus-plecostomus"
+      "https://www.fishipedia.fr/fr/poissons/poecilia-wingei"
     ],
     "images": [
-      "https://www.fishipedia.fr/wp-content/uploads/2024/03/26501710511_d274190448_o.jpg"
+      "content/external/poecilia-wingei-0.jpg"
     ],
     "gallery": [],
     "tags": [
-      "loricariidae",
-      "nettoyeur",
-      "gros-poisson"
+      "vivipare",
+      "nano",
+      "facile"
     ]
   },
   {
-    "name": "Chirurgien bleu (Dory)",
-    "scientificName": "Paracanthurus hepatus",
-    "slug": "paracanthurus-hepatus",
-    "biotope": "Eau de mer",
-    "difficulty": 4,
-    "tempMin": 23,
-    "tempMax": 27,
-    "phMin": 8.2,
-    "phMax": 8.4,
-    "ghMin": null,
-    "ghMax": null,
-    "khMin": null,
-    "khMax": null,
-    "minVolumeL": 1000,
-    "minLengthCm": 25,
-    "behavior": "Actif, parfois grégaire; requiert espace important.",
-    "compatibility": "Compatible avec autres poissons marins non agressifs; nécessite grand bac.",
-    "diet": "Omnivore: algues, granulés marins, végétaux.",
-    "breeding": "Ovipare; reproduction difficile en aquarium.",
-    "notes": "Espèce marine de grande taille; demande bac récifal important.",
+    "name": "Microrasbora Galaxy (Danio margaritatus)",
+    "scientificName": "Danio margaritatus",
+    "slug": "danio-margaritatus",
+    "biotope": "Eau douce",
+    "difficulty": 1,
+    "tempMin": 24,
+    "tempMax": 26,
+    "phMin": 6.8,
+    "phMax": 7.5,
+    "ghMin": 8,
+    "ghMax": 12,
+    "khMin": 3,
+    "khMax": 10,
+    "minVolumeL": 40,
+    "minLengthCm": 2,
+    "behavior": "Vif, vit en bancs serrés.",
+    "compatibility": "Très compatible en bancs dans nano-bacs; éviter gros prédateurs.",
+    "diet": "Carnivore: nauplies, microaliment vivant et paillettes fines.",
+    "breeding": "Ovipare, pond en eau libre; élevage en bac spécifique conseillé.",
+    "notes": "Excellente espèce pour nano-aquariums plantés.",
     "sources": [
-      "https://www.fishipedia.fr/fr/poissons/paracanthurus-hepatus"
+      "https://www.fishipedia.fr/fr/poissons/danio-margaritatus"
     ],
     "images": [
-      "https://www.fishipedia.fr/wp-content/uploads/2024/04/Paracanthurus-hepatus-Acanthuridae-20150414-Komodo_ID-FLFishi-scaled.jpg"
+      "content/external/danio-margaritatus-0.jpg"
     ],
     "gallery": [],
     "tags": [
-      "marine",
-      "gros-poisson",
-      "recifal"
+      "nano",
+      "banc",
+      "facile"
     ]
   },
   {
@@ -231,7 +197,7 @@
       "https://www.fishipedia.fr/fr/poissons/paracheirodon-innesi"
     ],
     "images": [
-      "https://www.fishipedia.fr/wp-content/uploads/2013/07/Paracheirodon_innesi_1.jpg"
+      "content/external/paracheirodon-innesi-0.jpg"
     ],
     "gallery": [],
     "tags": [
@@ -265,81 +231,13 @@
       "https://www.fishipedia.fr/fr/poissons/pelvicachromis-pulcher"
     ],
     "images": [
-      "https://www.fishipedia.fr/wp-content/uploads/2013/09/Pelvicachromis_Pulcher_1.jpg"
+      "content/external/pelvicachromis-pulcher-0.jpg"
     ],
     "gallery": [],
     "tags": [
       "cichlidae",
       "afrique",
       "couple"
-    ]
-  },
-  {
-    "name": "Guppy Endler",
-    "scientificName": "Poecilia wingei",
-    "slug": "poecilia-wingei",
-    "biotope": "Eau douce",
-    "difficulty": 1,
-    "tempMin": 23,
-    "tempMax": 28,
-    "phMin": 6.8,
-    "phMax": 7.2,
-    "ghMin": 3,
-    "ghMax": 12,
-    "khMin": 2,
-    "khMax": 10,
-    "minVolumeL": 50,
-    "minLengthCm": 2,
-    "behavior": "Petit vivipare, vit en groupe.",
-    "compatibility": "Très compatible en communautaire avec petits poissons.",
-    "diet": "Omnivore: paillettes, microgranulés, proies vivantes.",
-    "breeding": "Vivipare, reproduction facile.",
-    "notes": "Espèce de petite taille idéale pour nano-bacs.",
-    "sources": [
-      "https://www.fishipedia.fr/fr/poissons/poecilia-wingei"
-    ],
-    "images": [
-      "https://www.fishi-pedia.com/wp-content/uploads/2017/11/Poecilia-wingei.jpg"
-    ],
-    "gallery": [],
-    "tags": [
-      "vivipare",
-      "nano",
-      "facile"
-    ]
-  },
-  {
-    "name": "Scalaire",
-    "scientificName": "Pterophyllum scalare",
-    "slug": "pterophyllum-scalare",
-    "biotope": "Eau douce",
-    "difficulty": 3,
-    "tempMin": 24,
-    "tempMax": 26,
-    "phMin": 6.8,
-    "phMax": 7.2,
-    "ghMin": 5,
-    "ghMax": 12,
-    "khMin": 3,
-    "khMax": 10,
-    "minVolumeL": 300,
-    "minLengthCm": 15,
-    "behavior": "Comportement grégaire, peut devenir territorial.",
-    "compatibility": "Avec poissons paisibles et non trop petits; éviter prédateurs.",
-    "diet": "Carnivore/insectivore: granulés, congelés, proies vivantes.",
-    "breeding": "Ovipare/ponte sur substrat; formage de couples.",
-    "notes": "Préférer grandes hauteurs d'eau et bac planté; volume recommandé élevé.",
-    "sources": [
-      "https://www.fishipedia.fr/fr/poissons/pterophyllum-scalare"
-    ],
-    "images": [
-      "https://www.fishipedia.fr/wp-content/uploads/2019/01/Pterophyllum-scalare-2.jpg"
-    ],
-    "gallery": [],
-    "tags": [
-      "cichlidae",
-      "angelfish",
-      "mi-grande"
     ]
   },
   {
@@ -367,13 +265,115 @@
       "https://www.fishipedia.fr/fr/poissons/xiphophorus-maculatus"
     ],
     "images": [
-      "https://www.fishipedia.fr/wp-content/uploads/2015/11/Platy-Wagtail-Rouge.jpg"
+      "content/external/xiphophorus-maculatus-0.jpg"
     ],
     "gallery": [],
     "tags": [
       "vivipare",
       "communautaire",
       "facile"
+    ]
+  },
+  {
+    "name": "Pléco (Pléco commun)",
+    "scientificName": "Hypostomus plecostomus",
+    "slug": "hypostomus-plecostomus",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 20,
+    "tempMax": 28,
+    "phMin": 6.8,
+    "phMax": 7.2,
+    "ghMin": 5,
+    "ghMax": 20,
+    "khMin": 3,
+    "khMax": 15,
+    "minVolumeL": 600,
+    "minLengthCm": 28,
+    "behavior": "Détritivore, souvent benthique; peut devenir territorial.",
+    "compatibility": "Compatible avec poissons non agressifs; nécessite grand volume adulte.",
+    "diet": "Détritovore/herbivore: algues, granulés, légumes cuits.",
+    "breeding": "Reproduction complexe en captivité; nécessite conditions spécifiques.",
+    "notes": "Attention à la taille adulte; éviter bacs trop petits.",
+    "sources": [
+      "https://www.fishipedia.fr/fr/poissons/hypostomus-plecostomus"
+    ],
+    "images": [
+      "content/external/hypostomus-plecostomus-0.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "loricariidae",
+      "nettoyeur",
+      "gros-poisson"
+    ]
+  },
+  {
+    "name": "Poisson-clown (Némo)",
+    "scientificName": "Amphiprion ocellaris",
+    "slug": "amphiprion-ocellaris",
+    "biotope": "Eau de mer",
+    "difficulty": 3,
+    "tempMin": 22,
+    "tempMax": 28,
+    "phMin": 8.2,
+    "phMax": 8.4,
+    "ghMin": null,
+    "ghMax": null,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 100,
+    "minLengthCm": 8,
+    "behavior": "Vit en couple ou colonie, territorial autour de l'anémone.",
+    "compatibility": "Compatible avec la plupart des poissons marins non agressifs.",
+    "diet": "Omnivore: aliments marins, granulés, congelés.",
+    "breeding": "Ovipare, reproduction possible en captivité.",
+    "notes": "Espèce marine; requiert bac récifal ou marin adapté.",
+    "sources": [
+      "https://www.fishipedia.fr/fr/poissons/amphiprion-ocellaris"
+    ],
+    "images": [
+      "content/external/amphiprion-ocellaris-0.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "marine",
+      "recifal",
+      "clownfish"
+    ]
+  },
+  {
+    "name": "Scalaire",
+    "scientificName": "Pterophyllum scalare",
+    "slug": "pterophyllum-scalare",
+    "biotope": "Eau douce",
+    "difficulty": 3,
+    "tempMin": 24,
+    "tempMax": 26,
+    "phMin": 6.8,
+    "phMax": 7.2,
+    "ghMin": 5,
+    "ghMax": 12,
+    "khMin": 3,
+    "khMax": 10,
+    "minVolumeL": 300,
+    "minLengthCm": 15,
+    "behavior": "Comportement grégaire, peut devenir territorial.",
+    "compatibility": "Avec poissons paisibles et non trop petits; éviter prédateurs.",
+    "diet": "Carnivore/insectivore: granulés, congelés, proies vivantes.",
+    "breeding": "Ovipare/ponte sur substrat; formage de couples.",
+    "notes": "Préférer grandes hauteurs d'eau et bac planté; volume recommandé élevé.",
+    "sources": [
+      "https://www.fishipedia.fr/fr/poissons/pterophyllum-scalare"
+    ],
+    "images": [
+      "content/external/pterophyllum-scalare-0.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "cichlidae",
+      "angelfish",
+      "mi-grande"
     ]
   }
 ]
