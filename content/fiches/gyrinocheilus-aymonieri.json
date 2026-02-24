@@ -1,0 +1,32 @@
+{
+  "name": "Mangeur d'algues chinois",
+  "scientificName": "Gyrinocheilus aymonieri",
+  "slug": "gyrinocheilus-aymonieri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 30,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 500,
+  "minLengthCm": 28,
+  "behavior": "Population: 1 minimum. Zone: Inférieure",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": null,
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=1754"
+  ],
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "mangeur-algues",
+    "nettoyeur",
+    "territorial"
+  ]
+}

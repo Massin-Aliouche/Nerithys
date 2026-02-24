@@ -1,0 +1,34 @@
+{
+  "name": "Arc-en-ciel de Boeseman",
+  "scientificName": "Melanotaenia boesemani",
+  "slug": "melanotaenia-boesemani",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 25,
+  "tempMax": 30,
+  "phMin": 6.5,
+  "phMax": 9,
+  "ghMin": 9,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 250,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Les lacs Ajamaru se composent de trois grands lacs individuels peu profonds avec des rives boueuses reliées par de nombreux canaux naturels. La profondeur de l'eau et la taille du lac varient considérablement selon les saisons. Le fond est boueux et par endroits envahi par une végétation sous-marine luxuriante. Le lac Aytinjo est plutôt une rivière large aux berges rocheuses, qui se termine bru...",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=2238"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/2238.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "arc-en-ciel",
+    "banc",
+    "coloré"
+  ]
+}

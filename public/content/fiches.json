@@ -1,5 +1,171 @@
 [
   {
+    "name": "Ancistrus",
+    "scientificName": "Ancistrus cirrhosus",
+    "slug": "ancistrus-cirrhosus",
+    "biotope": "Eau douce",
+    "difficulty": 1,
+    "tempMin": 24,
+    "tempMax": 28,
+    "phMin": 6.5,
+    "phMax": 7.6,
+    "ghMin": 2,
+    "ghMax": 14,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 80,
+    "minLengthCm": 9,
+    "behavior": "Zone: Fond",
+    "compatibility": "Zone fond.",
+    "diet": "Omnivore",
+    "breeding": null,
+    "notes": null,
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=349"
+    ],
+    "images": [],
+    "gallery": [],
+    "tags": [
+      "mangeur-algues",
+      "nettoyeur",
+      "facile"
+    ]
+  },
+  {
+    "name": "Ancistrus étoilé",
+    "scientificName": "Ancistrus dolichopterus",
+    "slug": "ancistrus-dolichopterus",
+    "biotope": "Eau douce",
+    "difficulty": 1,
+    "tempMin": 23,
+    "tempMax": 30,
+    "phMin": 5,
+    "phMax": 7,
+    "ghMin": 1,
+    "ghMax": 8,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 150,
+    "minLengthCm": 22,
+    "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+    "compatibility": "Zone inférieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Ancistrus dolichopterus habite les ruisseaux et les affluents contenant des eaux douces, noires et acides. L’Ancistrus ponctué est assez simple à maintenir. Un aquarium agencé pour reproduire un biotope de ruisseau amazonien lui conviendra parfaitement. Le substrat sera composé de sable de rivière et le décor de quelques branches de bois flotté ou de racines enchevêtrées. Quelques poignées de f...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=350"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/350.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "mangeur-algues",
+      "nettoyeur",
+      "nocturne"
+    ]
+  },
+  {
+    "name": "Apistogramma cacatoès",
+    "scientificName": "Apistogramma cacatuoides",
+    "slug": "apistogramma-cacatuoides",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 22,
+    "tempMax": 30,
+    "phMin": 6,
+    "phMax": 7.5,
+    "ghMin": 5,
+    "ghMax": 19,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 100,
+    "minLengthCm": 8,
+    "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+    "compatibility": "Zone inférieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": null,
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=422"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/422.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "cichlidé-nain",
+      "coloré",
+      "territorial"
+    ]
+  },
+  {
+    "name": "Arc-en-ciel de Boeseman",
+    "scientificName": "Melanotaenia boesemani",
+    "slug": "melanotaenia-boesemani",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 25,
+    "tempMax": 30,
+    "phMin": 6.5,
+    "phMax": 9,
+    "ghMin": 9,
+    "ghMax": 25,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 250,
+    "minLengthCm": 12,
+    "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Courante",
+    "notes": "Les lacs Ajamaru se composent de trois grands lacs individuels peu profonds avec des rives boueuses reliées par de nombreux canaux naturels. La profondeur de l'eau et la taille du lac varient considérablement selon les saisons. Le fond est boueux et par endroits envahi par une végétation sous-marine luxuriante. Le lac Aytinjo est plutôt une rivière large aux berges rocheuses, qui se termine bru...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=2238"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/2238.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "arc-en-ciel",
+      "banc",
+      "coloré"
+    ]
+  },
+  {
+    "name": "Barbeau de Langei",
+    "scientificName": "Crossocheilus langei",
+    "slug": "crossocheilus-langei",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 20,
+    "tempMax": 28,
+    "phMin": 6,
+    "phMax": 8,
+    "ghMin": 2,
+    "ghMax": 20,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 200,
+    "minLengthCm": 16,
+    "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale. Actif, grégaire.",
+    "compatibility": "Compatible communautaire, mangeur d'algues efficace.",
+    "diet": "Herbivore, algues, granulés végétaux",
+    "breeding": "Ovipare, rare en captivité",
+    "notes": "Les espèces de Crossocheilus vivent dans les cours d'eau et leurs affluents, sur des substrats de rochers, de galets, de gravier et de sable, souvent dans des zones où affleurent des bois flottés ou des racines d'arbres. L'eau claire, souvent peu profonde, permet à la lumière du soleil de pénétrer la surface et favorise le développement d'un biofilm riche recouvrant les surfaces immergées, sur ...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=8570"
+    ],
+    "images": [],
+    "gallery": [],
+    "tags": [
+      "mangeur-algues",
+      "nettoyeur",
+      "actif"
+    ]
+  },
+  {
     "name": "Chirurgien bleu (Dory)",
     "scientificName": "Paracanthurus hepatus",
     "slug": "paracanthurus-hepatus",
@@ -34,6 +200,108 @@
     ]
   },
   {
+    "name": "Combattant",
+    "scientificName": "Betta splendens",
+    "slug": "betta-splendens",
+    "biotope": "Eau douce",
+    "difficulty": 1,
+    "tempMin": 22,
+    "tempMax": 30,
+    "phMin": 5,
+    "phMax": 7.5,
+    "ghMin": 1,
+    "ghMax": 15,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 30,
+    "minLengthCm": 7,
+    "behavior": "Population: 1 minimum (3 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Carnivore",
+    "breeding": "Ovipare, difficulté: Courante",
+    "notes": "Le Betta est probablement le poisson le plus populaire qui soit en aquariophilie. Pouvant vivre dans un petit volume, possédant de magnifiques couleurs, de grandes nageoires, il est souvent choisi par les débutants en aquariophilie. Sans être difficile, sa maintenance nécessite quelques précautions et connaissances. On se reportera avantageusement à l'article dédié à ce poisson sur B-Aqua : htt...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=717"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/717.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "labyrinthe",
+      "coloré",
+      "solitaire"
+    ]
+  },
+  {
+    "name": "Corydoras bronze",
+    "scientificName": "Corydoras aeneus",
+    "slug": "corydoras-aeneus",
+    "biotope": "Eau douce",
+    "difficulty": 1,
+    "tempMin": 21,
+    "tempMax": 27,
+    "phMin": 6,
+    "phMax": 7.5,
+    "ghMin": 1,
+    "ghMax": 12,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 120,
+    "minLengthCm": 7.5,
+    "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+    "compatibility": "Zone inférieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "La présence de Corydoras aeneus est liée à des environnements peu profonds, avec peu de végétation marginale (Rondineli et Braga 2009). Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reproduire au mieux leur habitat. Un substrat constitué de sable fin n...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1209"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1209.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "fond",
+      "banc",
+      "facile"
+    ]
+  },
+  {
+    "name": "Corydoras de Sterba",
+    "scientificName": "Corydoras sterbai",
+    "slug": "corydoras-sterbai",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 21,
+    "tempMax": 28,
+    "phMin": 5,
+    "phMax": 7.6,
+    "ghMin": 1,
+    "ghMax": 15,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 120,
+    "minLengthCm": 7,
+    "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+    "compatibility": "Zone inférieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Le Corydoras sterbai se plaira dans un aquarium agencé pour reproduire un biotope Amazonien, avec ses variations saisonnières. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reproduire au mieux leur habitat. Un substrat constitué de sable fin nu sera in...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1342"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1342.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "fond",
+      "banc",
+      "coloré"
+    ]
+  },
+  {
     "name": "Corydoras léopard",
     "scientificName": "Corydoras julii",
     "slug": "corydoras-julii",
@@ -65,6 +333,208 @@
       "corydoras",
       "fond",
       "banc"
+    ]
+  },
+  {
+    "name": "Corydoras panda",
+    "scientificName": "Corydoras panda",
+    "slug": "corydoras-panda",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 16,
+    "tempMax": 26,
+    "phMin": 6,
+    "phMax": 7.5,
+    "ghMin": 1,
+    "ghMax": 12,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 80,
+    "minLengthCm": 5,
+    "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 2 / 1",
+    "compatibility": "Zone fond.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Courante",
+    "notes": "C. panda prospérera dans un réservoir reproduisant au mieux un biotope amazonien. Utilisez un substrat de sable de rivière et ajoutez quelques branches de bois flotté, des racines et des feuilles de chêne ou de hêtre. Laissez le bois et les feuilles ambrer l'eau de la couleur du thé léger, en enlevant les vieilles feuilles et en les remplaçant toutes les quelques semaines afin qu'elles ne pourr...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1308"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1308.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "fond",
+      "banc",
+      "populaire"
+    ]
+  },
+  {
+    "name": "Corydoras poivré",
+    "scientificName": "Corydoras paleatus",
+    "slug": "corydoras-paleatus",
+    "biotope": "Eau douce",
+    "difficulty": 1,
+    "tempMin": 20,
+    "tempMax": 26,
+    "phMin": 5.5,
+    "phMax": 7,
+    "ghMin": 1,
+    "ghMax": 12,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 120,
+    "minLengthCm": 8,
+    "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+    "compatibility": "Zone inférieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reproduire au mieux leur habitat. Un substrat constitué de sable fin nu sera indispensable à leur bien-être. Les corydoras sont des fouisseurs actifs muni de fragiles barbillons et un substrat coupant ou ab...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1307"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1307.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "fond",
+      "banc",
+      "facile"
+    ]
+  },
+  {
+    "name": "Corydoras pygmée",
+    "scientificName": "Corydoras pygmaeus",
+    "slug": "corydoras-pygmaeus",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 21,
+    "tempMax": 27,
+    "phMin": 5.8,
+    "phMax": 7.2,
+    "ghMin": 3,
+    "ghMax": 12,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 60,
+    "minLengthCm": 3,
+    "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+    "compatibility": "Zone inférieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "C. pygmaeus préférera une eau légèrement acide avec un pH de 5,8 à 7,0, plutôt douce avec une dureté totale inférieure à GH 8 et une température de 22 à 25 °C. Mais cette espèce de corydoras très populaire est couramment élevée en captivité, et supportera des conditions de maintenance beaucoup plus large si les sujets accueillis ne sont pas d'origine sauvage. C. pygmaeus est très paisible, mais...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1318"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1318.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "nano",
+      "banc",
+      "petit"
+    ]
+  },
+  {
+    "name": "Danio zébré",
+    "scientificName": "Danio rerio",
+    "slug": "danio-rerio",
+    "biotope": "Eau douce",
+    "difficulty": 1,
+    "tempMin": 18,
+    "tempMax": 28,
+    "phMin": 6,
+    "phMax": 8,
+    "ghMin": 5,
+    "ghMax": 20,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 120,
+    "minLengthCm": 5.5,
+    "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Carnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Le biotope du rerio est soumis à des précipitations saisonnières entre les mois de juin et septembre en raison de la mousson d'été du sud-ouest, ce qui signifie que les habitats varient considérablement selon la période de l'année. Ce poissons gagnera donc à être maintenu et élevé dans un bac reproduisant de fortes variations saisonnières. De fraiche en hiver, l'eau vive et oxygénée, fera place...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1475"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1475.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "banc",
+      "actif",
+      "facile"
+    ]
+  },
+  {
+    "name": "Discus",
+    "scientificName": "Symphysodon aequifasciatus",
+    "slug": "symphysodon-aequifasciatus",
+    "biotope": "Eau douce",
+    "difficulty": 3,
+    "tempMin": 24,
+    "tempMax": 32,
+    "phMin": 5,
+    "phMax": 6.8,
+    "ghMin": 1,
+    "ghMax": 10,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 450,
+    "minLengthCm": 22,
+    "behavior": "Population: 6 minimum (10 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+    "compatibility": "Zone centrale.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Dans la nature, on ne l'observe pas souvent dans les principaux chenaux fluviaux, mais on le trouve principalement dans les affluents lents et les mares forestières. Il vit en bancs dans des zones profondes et abritées autour des racines des arbres et des rochers. Les conditions de maintenance doivent correspondre au stade auquel se trouvent les discus : reproduction, croissance, inter-saison.....",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=3210"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/3210.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "cichlidé",
+      "majestueux",
+      "exigeant"
+    ]
+  },
+  {
+    "name": "Discus de Heckel",
+    "scientificName": "Symphysodon discus",
+    "slug": "symphysodon-discus",
+    "biotope": "Eau douce",
+    "difficulty": 3,
+    "tempMin": 26,
+    "tempMax": 31,
+    "phMin": 4.2,
+    "phMax": 6.2,
+    "ghMin": 1,
+    "ghMax": 3,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 450,
+    "minLengthCm": 22,
+    "behavior": "Population: 6 minimum (10 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+    "compatibility": "Zone centrale.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Dans la nature, on ne l'observe pas souvent dans les principaux chenaux fluviaux, mais on le trouve principalement dans les affluents lents et les mares forestières. Il vit en bancs dans des zones profondes et abritées autour des racines des arbres et des rochers. Les conditions de maintenance doivent correspondre au stade auquel se trouvent les discus : reproduction, croissance, inter-saison.....",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=3211"
+    ],
+    "images": [],
+    "gallery": [],
+    "tags": [
+      "cichlidé",
+      "majestueux",
+      "exigeant"
     ]
   },
   {
@@ -105,6 +575,142 @@
     ]
   },
   {
+    "name": "Gourami bleu",
+    "scientificName": "Trichopodus trichopterus",
+    "slug": "trichopodus-trichopterus",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 22,
+    "tempMax": 30,
+    "phMin": 5.5,
+    "phMax": 8,
+    "ghMin": 3,
+    "ghMax": 20,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 200,
+    "minLengthCm": 15,
+    "behavior": "Population: 4 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 3",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Le Gourami bleu est particulièrement adaptable en ce qui concerne les paramètres de l'eau et supportera bien une montée de chaleur estivale et une faible oxygénation temporaire. Idéalement, l'aquarium doit être bien planté avec de la végétation flottante et des zones ouvertes pour la nage. Comme il habite naturellement dans des environnements lentiques et construit des nids de bulles, il convie...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=3345"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/3345.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "gourami",
+      "robuste",
+      "facile"
+    ]
+  },
+  {
+    "name": "Gourami nain",
+    "scientificName": "Trichogaster lalius",
+    "slug": "trichogaster-lalius",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 22,
+    "tempMax": 30,
+    "phMin": 5.5,
+    "phMax": 7.5,
+    "ghMin": 2,
+    "ghMax": 15,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 100,
+    "minLengthCm": 7,
+    "behavior": "Population: 4 minimum (6 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 3",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Comme la plupart des Osphronemidés, les gouramis nains n'apprécient pas les eaux rapides ou turbulentes. Il faut donc réduire au maximum le débit du filtre, une maintenance en Low Tech étant une autre option. L'aquarium doit lourdement planté, avec beaucoup d'ombre et de cachettes. Ces dernières sont importantes pour offrir des refuges à la femelle face au harcèlement du mâle. L'ajout d'un subs...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=3339"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/3339.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "gourami",
+      "coloré",
+      "calme"
+    ]
+  },
+  {
+    "name": "Gourami perlé",
+    "scientificName": "Trichopodus leerii",
+    "slug": "trichopodus-leerii",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 23,
+    "tempMax": 30,
+    "phMin": 5.5,
+    "phMax": 8,
+    "ghMin": 2,
+    "ghMax": 25,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 200,
+    "minLengthCm": 13,
+    "behavior": "Population: 4 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 3",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Carnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Idéalement, l'aquarium doit être bien plantée avec de la végétation flottante et des zones ouvertes pour la baignade. Il est important, aujourd'hui où de nombreux bacs sont vendus en format \"vertical\", que les gourami préfèrent une faible profondeur d'eau. Un maximum de cinquante centimètres de hauteur d'eau est préférable et quarante seulement pour son confort. Comme il habite naturellement da...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=3344"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/3344.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "gourami",
+      "élégant",
+      "paisible"
+    ]
+  },
+  {
+    "name": "Guppy",
+    "scientificName": "Poecilia reticulata",
+    "slug": "poecilia-reticulata",
+    "biotope": "Eau douce",
+    "difficulty": 1,
+    "tempMin": 18,
+    "tempMax": 30,
+    "phMin": 6,
+    "phMax": 8,
+    "ghMin": 4,
+    "ghMax": 30,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 80,
+    "minLengthCm": 6,
+    "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 3",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovovivipare, difficulté: Courante",
+    "notes": null,
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=2736"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/2736.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "vivipare",
+      "facile",
+      "classique"
+    ]
+  },
+  {
     "name": "Guppy Endler",
     "scientificName": "Poecilia wingei",
     "slug": "poecilia-wingei",
@@ -136,6 +742,174 @@
       "vivipare",
       "nano",
       "facile"
+    ]
+  },
+  {
+    "name": "Loche à selle",
+    "scientificName": "Sewellia lineolata",
+    "slug": "sewellia-lineolata",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 16,
+    "tempMax": 26,
+    "phMin": 6,
+    "phMax": 7.5,
+    "ghMin": 1,
+    "ghMax": 10,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 100,
+    "minLengthCm": 6,
+    "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+    "compatibility": "Zone fond.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Les Sewellia spp. sont rhéophiles et ont besoin d'une eau turbulente, fortement oxygénée, et d'un milieu soumis à de fortes variations saisonnières. Elles se nourrissent essentiellement de biofilm et de crustacées. On ne les maintiendra donc pas dans un aquarium biologiquement immature. Poissons de torrent, la filtration devra être très puissante, de quinze à vingt fois le volume du bac par heu...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=3133"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/3133.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "fond",
+      "courant",
+      "original"
+    ]
+  },
+  {
+    "name": "Loche clown",
+    "scientificName": "Chromobotia macracanthus",
+    "slug": "chromobotia-macracanthus",
+    "biotope": "Eau douce",
+    "difficulty": 3,
+    "tempMin": 20,
+    "tempMax": 30,
+    "phMin": 6.5,
+    "phMax": 7,
+    "ghMin": 5,
+    "ghMax": 10,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 600,
+    "minLengthCm": 30,
+    "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+    "compatibility": "Zone inférieure, centrale.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Difficile",
+    "notes": "Un arrangement de style naturel peut être constitué d'un substrat de sable ou de gravier fin avec beaucoup de roches et de galets lisses et usés par l'eau, ainsi que des racines et des branches de bois flotté. Comme ils aiment se faufiler dans les petits espaces et les fissures, les objets aux bords tranchants doivent être proscrit, et tout espace ou trou suffisamment petit pour qu'un poisson s...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1088"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1088.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "fond",
+      "gregaire",
+      "grand"
+    ]
+  },
+  {
+    "name": "Loche Kuhli",
+    "scientificName": "Pangio kuhlii",
+    "slug": "pangio-kuhlii",
+    "biotope": "Eau douce",
+    "difficulty": 3,
+    "tempMin": 22,
+    "tempMax": 30,
+    "phMin": 5.5,
+    "phMax": 7,
+    "ghMin": 0,
+    "ghMax": 10,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 120,
+    "minLengthCm": 12,
+    "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+    "compatibility": "Zone fond.",
+    "diet": "Carnivore",
+    "breeding": "Ovipare, difficulté: Difficile",
+    "notes": "L’aquarium typique des kuhlii, comme pour la plupart des Pangio, sera pourvu d’un fond de sable très fin, avec litière de feuilles ou même de vase, tout à fait possible en low-tech (mulm) où ils pourront farfouiller sans se blesser au niveau des barbillons. En cas d’utilisation de roches dans le décor, il faut impérativement que celles-ci soient dépourvues d’aspérité, pour les mêmes raisons et ...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=2559"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/2559.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "fond",
+      "nocturne",
+      "fouisseur"
+    ]
+  },
+  {
+    "name": "Mangeur d'algues chinois",
+    "scientificName": "Gyrinocheilus aymonieri",
+    "slug": "gyrinocheilus-aymonieri",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 24,
+    "tempMax": 30,
+    "phMin": 6,
+    "phMax": 7.5,
+    "ghMin": 3,
+    "ghMax": 20,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 500,
+    "minLengthCm": 28,
+    "behavior": "Population: 1 minimum. Zone: Inférieure",
+    "compatibility": "Zone inférieure.",
+    "diet": "Omnivore",
+    "breeding": null,
+    "notes": null,
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1754"
+    ],
+    "images": [],
+    "gallery": [],
+    "tags": [
+      "mangeur-algues",
+      "nettoyeur",
+      "territorial"
+    ]
+  },
+  {
+    "name": "Mangeur d'algues siamois",
+    "scientificName": "Crossocheilus oblongus",
+    "slug": "crossocheilus-oblongus",
+    "biotope": "Eau douce",
+    "difficulty": 3,
+    "tempMin": 20,
+    "tempMax": 28,
+    "phMin": 5.5,
+    "phMax": 8,
+    "ghMin": 1,
+    "ghMax": 20,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 300,
+    "minLengthCm": 16,
+    "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+    "compatibility": "Zone inférieure, centrale.",
+    "diet": "Végétarien",
+    "breeding": "Ovipare, difficulté: Difficile",
+    "notes": "Les espèces de Crossocheilus vivent dans les cours d'eau et leurs affluents, sur des substrats de rochers, de galets, de gravier et de sable, souvent dans des zones où affleurent des bois flottés ou des racines d'arbres. L'eau claire, souvent peu profonde, permet à la lumière du soleil de pénétrer la surface et favorise le développement d'un biofilm riche recouvrant les surfaces immergées, sur ...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1401"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1401.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "mangeur-algues",
+      "nettoyeur",
+      "actif"
     ]
   },
   {
@@ -173,6 +947,40 @@
     ]
   },
   {
+    "name": "Nannacara",
+    "scientificName": "Nannacara anomala",
+    "slug": "nannacara-anomala",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 22,
+    "tempMax": 30,
+    "phMin": 6,
+    "phMax": 7.5,
+    "ghMin": 2,
+    "ghMax": 10,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 80,
+    "minLengthCm": 8,
+    "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale",
+    "compatibility": "Zone inférieure, centrale.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "La maintenance du Nannacara anomala nécessite un aquarium bien plantée avec des morceaux de bois flotté ou de mopani pour fournir un couvert et des sites de frai. Si les spécimen d'élevage sont devenu avec le temps très tolérants concernant les paramètres, les spécimen sauvage nécessiteront une eau résolument douce et acide. Dans tous les cas, il est particulièrement intolérant au nitrates et a...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=2346"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/2346.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "cichlidé-nain",
+      "facile",
+      "calme"
+    ]
+  },
+  {
     "name": "Néon bleu",
     "scientificName": "Paracheirodon innesi",
     "slug": "paracheirodon-innesi",
@@ -204,6 +1012,174 @@
       "tetra",
       "banc",
       "classique"
+    ]
+  },
+  {
+    "name": "Néon du pauvre",
+    "scientificName": "Tanichthys albonubes",
+    "slug": "tanichthys-albonubes",
+    "biotope": "Eau douce",
+    "difficulty": 1,
+    "tempMin": 14,
+    "tempMax": 28,
+    "phMin": 6,
+    "phMax": 8,
+    "ghMin": 1,
+    "ghMax": 20,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 120,
+    "minLengthCm": 4,
+    "behavior": "Population: 10 minimum (30 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Carnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Tanichthys albonubes habite les ruisseaux clairs et lents avec une végétation épaisse de mauvaises herbes. Cette espèce est soumise aux variations saisonnières. Très adaptable et robuste, les paramètres comme le décor ont assez peu d'importance. C'est un excellent nageur, aussi l'aquarium devrait mesurer environ un mètre de long. Il est recommandé de le maintenir dans un aquarium fortement plan...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=3261"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/3261.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "banc",
+      "eau-froide",
+      "facile"
+    ]
+  },
+  {
+    "name": "Néon noir",
+    "scientificName": "Hyphessobrycon herbertaxelrodi",
+    "slug": "hyphessobrycon-herbertaxelrodi",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 23,
+    "tempMax": 27,
+    "phMin": 5.5,
+    "phMax": 7,
+    "ghMin": 1,
+    "ghMax": 8,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 80,
+    "minLengthCm": 4,
+    "behavior": "Population: 10 minimum. Zone: Centrale",
+    "compatibility": "Zone centrale.",
+    "diet": "Omnivore",
+    "breeding": null,
+    "notes": null,
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1982"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1982.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "tetra",
+      "banc",
+      "classique"
+    ]
+  },
+  {
+    "name": "Nez-rouge",
+    "scientificName": "Hemigrammus bleheri",
+    "slug": "hemigrammus-bleheri",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 22,
+    "tempMax": 27,
+    "phMin": 5,
+    "phMax": 6.5,
+    "ghMin": 2,
+    "ghMax": 12,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 100,
+    "minLengthCm": 4,
+    "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 2 / 3",
+    "compatibility": "Zone centrale.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Hemigrammus bleheri est un poisson de banc et un nombre suffisant d'individus est très important pour maintenir ce poisson dans de bonnes conditions. Le comportement de banc de cette espèce est très prononcé. Le Nez-rouge fréquente des biotopes dont l'eau est généralement colorée en brun avec des tanins provenant de matières organiques en décomposition et est donc très acide. Il vit dans les ea...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1886"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1886.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "tetra",
+      "banc",
+      "coloré"
+    ]
+  },
+  {
+    "name": "Otocinclus",
+    "scientificName": "Otocinclus affinis",
+    "slug": "otocinclus-affinis",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 20,
+    "tempMax": 28,
+    "phMin": 5,
+    "phMax": 7.5,
+    "ghMin": 2,
+    "ghMax": 15,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 80,
+    "minLengthCm": 4,
+    "behavior": "Population: 6 minimum (15 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+    "compatibility": "Zone fond.",
+    "diet": "Végétarien",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "L'aquarium sera de préférence bien planté, avec un substrat non blessant, comme du sable de Loire. L'ajout de pièces de bois ou de galets où le biofilm pourra se former est fortement recommandé. La filtration doit créer un peu de courant, mais il n'a pas besoin de conditions \"torrentielles\". Il ne pose aucun problème de cohabitation aussi bien intraspécifique que extraspécifique et ne s’intéres...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=2184"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/2184.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "mangeur-algues",
+      "nettoyeur",
+      "petit"
+    ]
+  },
+  {
+    "name": "Otocinclus vitté",
+    "scientificName": "Otocinclus vittatus",
+    "slug": "otocinclus-vittatus",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 24,
+    "tempMax": 28,
+    "phMin": 6,
+    "phMax": 7.8,
+    "ghMin": 2,
+    "ghMax": 16,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 80,
+    "minLengthCm": 5.5,
+    "behavior": "Population: 6 minimum. Zone: Fond. Grégaire et paisible.",
+    "compatibility": "Compatible communautaire, excellent nettoyeur d'algues.",
+    "diet": "Herbivore, micro-algues, spiruline, légumes blanchis",
+    "breeding": "Ovipare, rare en captivité",
+    "notes": "Petit mangeur d'algues très efficace. Préfère vivre en groupe dans un bac bien planté avec des algues vertes.",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=2528"
+    ],
+    "images": [],
+    "gallery": [],
+    "tags": [
+      "mangeur-algues",
+      "nettoyeur",
+      "petit"
     ]
   },
   {
@@ -309,6 +1285,40 @@
     ]
   },
   {
+    "name": "Poisson rouge",
+    "scientificName": "Carassius auratus",
+    "slug": "carassius-auratus",
+    "biotope": "Eau douce",
+    "difficulty": 3,
+    "tempMin": 10,
+    "tempMax": 28,
+    "phMin": 7,
+    "phMax": 8,
+    "ghMin": 5,
+    "ghMax": 25,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 200,
+    "minLengthCm": 40,
+    "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale",
+    "compatibility": "Zone inférieure, centrale.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Courante",
+    "notes": "Attention, le poisson rouge Carassius auratus ne doit pas être maintenu dans un bac de petite taille et encore moins dans un bocal, aujourd'hui interdit à la vente ! Bien que ce soit une espèce robuste, le poisson rouge a besoin d'espace, d'oxygène et d'une eau de bonne qualité pour vivre. Le poisson rouge est une espèce domestique, ce qui oblige son propriétaire à le placer dans un environneme...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=823"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/823.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "eau-froide",
+      "classique",
+      "bassin"
+    ]
+  },
+  {
     "name": "Poisson-clown (Némo)",
     "scientificName": "Amphiprion ocellaris",
     "slug": "amphiprion-ocellaris",
@@ -343,6 +1353,176 @@
     ]
   },
   {
+    "name": "Pristella",
+    "scientificName": "Pristella maxillaris",
+    "slug": "pristella-maxillaris",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 22,
+    "tempMax": 30,
+    "phMin": 6,
+    "phMax": 7.5,
+    "ghMin": 1,
+    "ghMax": 20,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 60,
+    "minLengthCm": 4,
+    "behavior": "Population: 6 minimum (10 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Ce poisson produit en masse est adaptable et se plaît dans la plupart des aquariums. Il semble cependant particulièrement adapté à un environnement fortement ensemencé et peut sembler un peu pâle dans des environnements trop spartiates. On pourra ajouter, si on le souhaite, de grosses racines formant des cachettes. Le substrat pourra être composé de sable de Loire ou équivalent. L'eau pourra êt...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=2791"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/2791.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "tetra",
+      "banc",
+      "robuste"
+    ]
+  },
+  {
+    "name": "Ramirezi",
+    "scientificName": "Mikrogeophagus ramirezi",
+    "slug": "mikrogeophagus-ramirezi",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 24,
+    "tempMax": 30,
+    "phMin": 4,
+    "phMax": 7,
+    "ghMin": 1,
+    "ghMax": 15,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 60,
+    "minLengthCm": 5,
+    "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+    "compatibility": "Zone inférieure, centrale.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Les Llanos qui accueille Mikrogeophagus ramirezi sont un vaste système riche en biodiversité composé de prairies de savane tropicale, de plaines inondées de façon saisonnière et de forêts. Il existe des régimes climatiques annuels bien définis, avec des saisons humides et sèches distinctes et des températures élevées tout au long de l'année. L'eau y est très peu minéralisée (10 à 60 µS/cm) et l...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=2290"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/2290.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "cichlidé-nain",
+      "coloré",
+      "populaire"
+    ]
+  },
+  {
+    "name": "Rasbora arlequin",
+    "scientificName": "Trigonostigma heteromorpha",
+    "slug": "trigonostigma-heteromorpha",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 21,
+    "tempMax": 28,
+    "phMin": 5,
+    "phMax": 7.5,
+    "ghMin": 1,
+    "ghMax": 10,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 80,
+    "minLengthCm": 4.5,
+    "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 2",
+    "compatibility": "Zone centrale.",
+    "diet": "Carnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Il est préférable de le maintenir le Rasbora harlequin dans un aquarium densément planté. Une lumière tamisée, notamment par des plantes flottantes, est recommandée. La filtration ne doit pas être trop forte. L'ajout de litière de feuilles séchées peut être une bonne idée. Cela apporte des tanins acidifiant et assainissant l'eau. Cela constitue un milieu propice au développement de la micro fau...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=3354"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/3354.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "rasbora",
+      "banc",
+      "classique"
+    ]
+  },
+  {
+    "name": "Rasbora d'Espei",
+    "scientificName": "Trigonostigma espei",
+    "slug": "trigonostigma-espei",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 24,
+    "tempMax": 28,
+    "phMin": 5.5,
+    "phMax": 7.5,
+    "ghMin": 1,
+    "ghMax": 12,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 80,
+    "minLengthCm": 3,
+    "behavior": "Population: 10 minimum. Zone: Centrale, Supérieure",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Le choix du décor n'est pas particulièrement critique, bien que les poissons aient tendance à présenter une meilleure coloration lorsqu'ils sont maintenus dans un environnement bien planté avec un substrat sombre. L'ajout de quelques plantes flottantes et de racines ou branches de bois flotté pour diffuser la lumière semble également être apprécié et ajoute une sensation plus naturelle. Il est ...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=3352"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/3352.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "rasbora",
+      "banc",
+      "coloré"
+    ]
+  },
+  {
+    "name": "Rummy-nose",
+    "scientificName": "Hemigrammus rhodostomus",
+    "slug": "hemigrammus-rhodostomus",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 23,
+    "tempMax": 29,
+    "phMin": 5,
+    "phMax": 7,
+    "ghMin": 0,
+    "ghMax": 8,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 120,
+    "minLengthCm": 5,
+    "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+    "compatibility": "Zone inférieure, centrale.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "La maintenance de l'Hemigrammus rhodostomus peut se faire dans un aquarium agencé pour reproduire un biotope Amazonien. Ce Nez-rouge fréquente les rivières et affluents d'eaux noires. L'eau de ces biotopes est généralement très douce, teintée de brun par les tanins provenant de la décomposition de matières organiques, et par conséquent très acide. Cette espèce doit être maintenue en groupes de ...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1893"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1893.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "tetra",
+      "banc",
+      "indicateur"
+    ]
+  },
+  {
     "name": "Scalaire",
     "scientificName": "Pterophyllum scalare",
     "slug": "pterophyllum-scalare",
@@ -374,6 +1554,140 @@
       "cichlidae",
       "angelfish",
       "mi-grande"
+    ]
+  },
+  {
+    "name": "Tétra amande",
+    "scientificName": "Hyphessobrycon amandae",
+    "slug": "hyphessobrycon-amandae",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 20,
+    "tempMax": 28,
+    "phMin": 5,
+    "phMax": 7,
+    "ghMin": 2,
+    "ghMax": 10,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 60,
+    "minLengthCm": 2,
+    "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+    "compatibility": "Zone centrale.",
+    "diet": "Carnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Le Tetra amande se plaira soit dans un aquarium reproduisant fidèlement un biotope amazonien, soit dans un aquarium extrêmement planté. Dans le premier cas, le substrat se composera de sable de rivière fin, et le décor de quelques branches de bois flotté ou de racines. Quelques poignées de feuilles séchées (hêtre, chêne, catappa…) donneront un aspect naturel, acidifieront et ambreront l'eau, et...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1962"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1962.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "tetra",
+      "nano",
+      "banc"
+    ]
+  },
+  {
+    "name": "Tétra cœur saignant",
+    "scientificName": "Hyphessobrycon erythrostigma",
+    "slug": "hyphessobrycon-erythrostigma",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 23,
+    "tempMax": 30,
+    "phMin": 5,
+    "phMax": 7,
+    "ghMin": 0,
+    "ghMax": 10,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 200,
+    "minLengthCm": 7,
+    "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+    "compatibility": "Zone centrale.",
+    "diet": "Omnivore",
+    "breeding": "Ovipare, difficulté: Possible",
+    "notes": "Comme on l'a vu plus avant, H. erythrostigma vit dans des systèmes lentiques comme des affluents, des bras morts et des lacs forestiers. Le lit est parsemé de racines et de branches tombées et parfois couvert de feuilles mortes. La végétation marginale est dense. Des plantes aquatiques peuvent former de vaste herbiers. L'eau a une teneur négligeable en minéraux dissous, teintée en brun, et le p...",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=1976"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/1976.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "tetra",
+      "banc",
+      "coloré"
+    ]
+  },
+  {
+    "name": "Tétra empereur",
+    "scientificName": "Nematobrycon palmeri",
+    "slug": "nematobrycon-palmeri",
+    "biotope": "Eau douce",
+    "difficulty": 2,
+    "tempMin": 23,
+    "tempMax": 28,
+    "phMin": 5.5,
+    "phMax": 7.5,
+    "ghMin": 3,
+    "ghMax": 10,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 100,
+    "minLengthCm": 6.5,
+    "behavior": "Population: 10 minimum. Zone: Centrale",
+    "compatibility": "Zone centrale.",
+    "diet": "Omnivore",
+    "breeding": null,
+    "notes": null,
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=2392"
+    ],
+    "images": [],
+    "gallery": [],
+    "tags": [
+      "tetra",
+      "banc",
+      "élégant"
+    ]
+  },
+  {
+    "name": "Xipho",
+    "scientificName": "Xiphophorus hellerii",
+    "slug": "xiphophorus-hellerii",
+    "biotope": "Eau douce",
+    "difficulty": 1,
+    "tempMin": 16,
+    "tempMax": 30,
+    "phMin": 7,
+    "phMax": 8.2,
+    "ghMin": 10,
+    "ghMax": 30,
+    "khMin": null,
+    "khMax": null,
+    "minVolumeL": 200,
+    "minLengthCm": 12,
+    "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 3",
+    "compatibility": "Zone centrale, supérieure.",
+    "diet": "Omnivore",
+    "breeding": "Ovovivipare, difficulté: Courante",
+    "notes": "Ce xipho est grégaire et doit être maintenu en groupe d'au moins six individus. Il est préférable d'éviter de le maintenir avec d'autres Poecillidés (platy, guppy, molly,...) car il y a des risques d'hybridation.",
+    "sources": [
+      "https://www.b-aqua.com/pages/fiche.aspx?id=3427"
+    ],
+    "images": [
+      "https://www.b-aqua.com/photos/1/3427.jpg"
+    ],
+    "gallery": [],
+    "tags": [
+      "vivipare",
+      "actif",
+      "coloré"
     ]
   }
 ]

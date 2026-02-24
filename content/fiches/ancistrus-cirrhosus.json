@@ -1,0 +1,32 @@
+{
+  "name": "Ancistrus",
+  "scientificName": "Ancistrus cirrhosus",
+  "slug": "ancistrus-cirrhosus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 6.5,
+  "phMax": 7.6,
+  "ghMin": 2,
+  "ghMax": 14,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 9,
+  "behavior": "Zone: Fond",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": null,
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=349"
+  ],
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "mangeur-algues",
+    "nettoyeur",
+    "facile"
+  ]
+}

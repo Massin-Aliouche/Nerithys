@@ -1,0 +1,34 @@
+{
+  "name": "Nez-rouge",
+  "scientificName": "Hemigrammus bleheri",
+  "slug": "hemigrammus-bleheri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 22,
+  "tempMax": 27,
+  "phMin": 5,
+  "phMax": 6.5,
+  "ghMin": 2,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 2 / 3",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Hemigrammus bleheri est un poisson de banc et un nombre suffisant d'individus est très important pour maintenir ce poisson dans de bonnes conditions. Le comportement de banc de cette espèce est très prononcé. Le Nez-rouge fréquente des biotopes dont l'eau est généralement colorée en brun avec des tanins provenant de matières organiques en décomposition et est donc très acide. Il vit dans les ea...",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=1886"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/1886.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "tetra",
+    "banc",
+    "coloré"
+  ]
+}

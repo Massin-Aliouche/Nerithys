@@ -1,0 +1,34 @@
+{
+  "name": "Poisson rouge",
+  "scientificName": "Carassius auratus",
+  "slug": "carassius-auratus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 10,
+  "tempMax": 28,
+  "phMin": 7,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 25,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 40,
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Courante",
+  "notes": "Attention, le poisson rouge Carassius auratus ne doit pas être maintenu dans un bac de petite taille et encore moins dans un bocal, aujourd'hui interdit à la vente ! Bien que ce soit une espèce robuste, le poisson rouge a besoin d'espace, d'oxygène et d'une eau de bonne qualité pour vivre. Le poisson rouge est une espèce domestique, ce qui oblige son propriétaire à le placer dans un environneme...",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=823"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/823.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-froide",
+    "classique",
+    "bassin"
+  ]
+}

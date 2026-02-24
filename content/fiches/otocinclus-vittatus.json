@@ -1,0 +1,32 @@
+{
+  "name": "Otocinclus vitté",
+  "scientificName": "Otocinclus vittatus",
+  "slug": "otocinclus-vittatus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 24,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 7.8,
+  "ghMin": 2,
+  "ghMax": 16,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 80,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 6 minimum. Zone: Fond. Grégaire et paisible.",
+  "compatibility": "Compatible communautaire, excellent nettoyeur d'algues.",
+  "diet": "Herbivore, micro-algues, spiruline, légumes blanchis",
+  "breeding": "Ovipare, rare en captivité",
+  "notes": "Petit mangeur d'algues très efficace. Préfère vivre en groupe dans un bac bien planté avec des algues vertes.",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=2528"
+  ],
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "mangeur-algues",
+    "nettoyeur",
+    "petit"
+  ]
+}

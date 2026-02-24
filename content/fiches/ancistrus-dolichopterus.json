@@ -1,0 +1,34 @@
+{
+  "name": "Ancistrus étoilé",
+  "scientificName": "Ancistrus dolichopterus",
+  "slug": "ancistrus-dolichopterus",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 23,
+  "tempMax": 30,
+  "phMin": 5,
+  "phMax": 7,
+  "ghMin": 1,
+  "ghMax": 8,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 150,
+  "minLengthCm": 22,
+  "behavior": "Population: 2 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Ancistrus dolichopterus habite les ruisseaux et les affluents contenant des eaux douces, noires et acides. L’Ancistrus ponctué est assez simple à maintenir. Un aquarium agencé pour reproduire un biotope de ruisseau amazonien lui conviendra parfaitement. Le substrat sera composé de sable de rivière et le décor de quelques branches de bois flotté ou de racines enchevêtrées. Quelques poignées de f...",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=350"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/350.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "mangeur-algues",
+    "nettoyeur",
+    "nocturne"
+  ]
+}

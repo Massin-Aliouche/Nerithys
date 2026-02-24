@@ -1,0 +1,34 @@
+{
+  "name": "Xipho",
+  "scientificName": "Xiphophorus hellerii",
+  "slug": "xiphophorus-hellerii",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 16,
+  "tempMax": 30,
+  "phMin": 7,
+  "phMax": 8.2,
+  "ghMin": 10,
+  "ghMax": 30,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 200,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 3",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovovivipare, difficulté: Courante",
+  "notes": "Ce xipho est grégaire et doit être maintenu en groupe d'au moins six individus. Il est préférable d'éviter de le maintenir avec d'autres Poecillidés (platy, guppy, molly,...) car il y a des risques d'hybridation.",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=3427"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/3427.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "vivipare",
+    "actif",
+    "coloré"
+  ]
+}

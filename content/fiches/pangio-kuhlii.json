@@ -1,0 +1,34 @@
+{
+  "name": "Loche Kuhli",
+  "scientificName": "Pangio kuhlii",
+  "slug": "pangio-kuhlii",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 22,
+  "tempMax": 30,
+  "phMin": 5.5,
+  "phMax": 7,
+  "ghMin": 0,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 12,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "L’aquarium typique des kuhlii, comme pour la plupart des Pangio, sera pourvu d’un fond de sable très fin, avec litière de feuilles ou même de vase, tout à fait possible en low-tech (mulm) où ils pourront farfouiller sans se blesser au niveau des barbillons. En cas d’utilisation de roches dans le décor, il faut impérativement que celles-ci soient dépourvues d’aspérité, pour les mêmes raisons et ...",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=2559"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/2559.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "fond",
+    "nocturne",
+    "fouisseur"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Corydoras pygmée",
+  "scientificName": "Corydoras pygmaeus",
+  "slug": "corydoras-pygmaeus",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 21,
+  "tempMax": 27,
+  "phMin": 5.8,
+  "phMax": 7.2,
+  "ghMin": 3,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 60,
+  "minLengthCm": 3,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
+  "compatibility": "Zone inférieure.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "C. pygmaeus préférera une eau légèrement acide avec un pH de 5,8 à 7,0, plutôt douce avec une dureté totale inférieure à GH 8 et une température de 22 à 25 °C. Mais cette espèce de corydoras très populaire est couramment élevée en captivité, et supportera des conditions de maintenance beaucoup plus large si les sujets accueillis ne sont pas d'origine sauvage. C. pygmaeus est très paisible, mais...",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=1318"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/1318.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "nano",
+    "banc",
+    "petit"
+  ]
+}

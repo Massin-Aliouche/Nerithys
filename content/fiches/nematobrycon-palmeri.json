@@ -1,0 +1,32 @@
+{
+  "name": "Tétra empereur",
+  "scientificName": "Nematobrycon palmeri",
+  "slug": "nematobrycon-palmeri",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 23,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 7.5,
+  "ghMin": 3,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6.5,
+  "behavior": "Population: 10 minimum. Zone: Centrale",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": null,
+  "notes": null,
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=2392"
+  ],
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "tetra",
+    "banc",
+    "élégant"
+  ]
+}

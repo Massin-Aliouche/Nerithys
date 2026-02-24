@@ -1,0 +1,34 @@
+{
+  "name": "Discus",
+  "scientificName": "Symphysodon aequifasciatus",
+  "slug": "symphysodon-aequifasciatus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 24,
+  "tempMax": 32,
+  "phMin": 5,
+  "phMax": 6.8,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 450,
+  "minLengthCm": 22,
+  "behavior": "Population: 6 minimum (10 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Dans la nature, on ne l'observe pas souvent dans les principaux chenaux fluviaux, mais on le trouve principalement dans les affluents lents et les mares forestières. Il vit en bancs dans des zones profondes et abritées autour des racines des arbres et des rochers. Les conditions de maintenance doivent correspondre au stade auquel se trouvent les discus : reproduction, croissance, inter-saison.....",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=3210"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/3210.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "cichlidé",
+    "majestueux",
+    "exigeant"
+  ]
+}

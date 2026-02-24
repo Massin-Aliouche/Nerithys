@@ -1,0 +1,34 @@
+{
+  "name": "Danio zébré",
+  "scientificName": "Danio rerio",
+  "slug": "danio-rerio",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 18,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 5,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 5.5,
+  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Le biotope du rerio est soumis à des précipitations saisonnières entre les mois de juin et septembre en raison de la mousson d'été du sud-ouest, ce qui signifie que les habitats varient considérablement selon la période de l'année. Ce poissons gagnera donc à être maintenu et élevé dans un bac reproduisant de fortes variations saisonnières. De fraiche en hiver, l'eau vive et oxygénée, fera place...",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=1475"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/1475.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "banc",
+    "actif",
+    "facile"
+  ]
+}

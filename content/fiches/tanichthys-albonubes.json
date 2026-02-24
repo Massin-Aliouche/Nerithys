@@ -1,0 +1,34 @@
+{
+  "name": "Néon du pauvre",
+  "scientificName": "Tanichthys albonubes",
+  "slug": "tanichthys-albonubes",
+  "biotope": "Eau douce",
+  "difficulty": 1,
+  "tempMin": 14,
+  "tempMax": 28,
+  "phMin": 6,
+  "phMax": 8,
+  "ghMin": 1,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 120,
+  "minLengthCm": 4,
+  "behavior": "Population: 10 minimum (30 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Zone centrale, supérieure.",
+  "diet": "Carnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Tanichthys albonubes habite les ruisseaux clairs et lents avec une végétation épaisse de mauvaises herbes. Cette espèce est soumise aux variations saisonnières. Très adaptable et robuste, les paramètres comme le décor ont assez peu d'importance. C'est un excellent nageur, aussi l'aquarium devrait mesurer environ un mètre de long. Il est recommandé de le maintenir dans un aquarium fortement plan...",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=3261"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/3261.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "banc",
+    "eau-froide",
+    "facile"
+  ]
+}

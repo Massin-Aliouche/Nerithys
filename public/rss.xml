@@ -1,15 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>Nerithys</title><link>https://massin-aliouche.github.io/Nerithys/</link><description>Fiches aquatiques</description>
+<item><title>Ancistrus</title><link>https://massin-aliouche.github.io/Nerithys/fiches/ancistrus-cirrhosus/</link></item>
+<item><title>Ancistrus étoilé</title><link>https://massin-aliouche.github.io/Nerithys/fiches/ancistrus-dolichopterus/</link></item>
+<item><title>Apistogramma cacatoès</title><link>https://massin-aliouche.github.io/Nerithys/fiches/apistogramma-cacatuoides/</link></item>
+<item><title>Arc-en-ciel de Boeseman</title><link>https://massin-aliouche.github.io/Nerithys/fiches/melanotaenia-boesemani/</link></item>
+<item><title>Barbeau de Langei</title><link>https://massin-aliouche.github.io/Nerithys/fiches/crossocheilus-langei/</link></item>
 <item><title>Chirurgien bleu (Dory)</title><link>https://massin-aliouche.github.io/Nerithys/fiches/paracanthurus-hepatus/</link></item>
+<item><title>Combattant</title><link>https://massin-aliouche.github.io/Nerithys/fiches/betta-splendens/</link></item>
+<item><title>Corydoras bronze</title><link>https://massin-aliouche.github.io/Nerithys/fiches/corydoras-aeneus/</link></item>
+<item><title>Corydoras de Sterba</title><link>https://massin-aliouche.github.io/Nerithys/fiches/corydoras-sterbai/</link></item>
 <item><title>Corydoras léopard</title><link>https://massin-aliouche.github.io/Nerithys/fiches/corydoras-julii/</link></item>
+<item><title>Corydoras panda</title><link>https://massin-aliouche.github.io/Nerithys/fiches/corydoras-panda/</link></item>
+<item><title>Corydoras poivré</title><link>https://massin-aliouche.github.io/Nerithys/fiches/corydoras-paleatus/</link></item>
+<item><title>Corydoras pygmée</title><link>https://massin-aliouche.github.io/Nerithys/fiches/corydoras-pygmaeus/</link></item>
+<item><title>Danio zébré</title><link>https://massin-aliouche.github.io/Nerithys/fiches/danio-rerio/</link></item>
+<item><title>Discus</title><link>https://massin-aliouche.github.io/Nerithys/fiches/symphysodon-aequifasciatus/</link></item>
+<item><title>Discus de Heckel</title><link>https://massin-aliouche.github.io/Nerithys/fiches/symphysodon-discus/</link></item>
 <item><title>Fundulopanchax gardneri nigerianus</title><link>https://massin-aliouche.github.io/Nerithys/fiches/fundulopanchax-gardneri-nigerianus/</link></item>
+<item><title>Gourami bleu</title><link>https://massin-aliouche.github.io/Nerithys/fiches/trichopodus-trichopterus/</link></item>
+<item><title>Gourami nain</title><link>https://massin-aliouche.github.io/Nerithys/fiches/trichogaster-lalius/</link></item>
+<item><title>Gourami perlé</title><link>https://massin-aliouche.github.io/Nerithys/fiches/trichopodus-leerii/</link></item>
+<item><title>Guppy</title><link>https://massin-aliouche.github.io/Nerithys/fiches/poecilia-reticulata/</link></item>
 <item><title>Guppy Endler</title><link>https://massin-aliouche.github.io/Nerithys/fiches/poecilia-wingei/</link></item>
+<item><title>Loche à selle</title><link>https://massin-aliouche.github.io/Nerithys/fiches/sewellia-lineolata/</link></item>
+<item><title>Loche clown</title><link>https://massin-aliouche.github.io/Nerithys/fiches/chromobotia-macracanthus/</link></item>
+<item><title>Loche Kuhli</title><link>https://massin-aliouche.github.io/Nerithys/fiches/pangio-kuhlii/</link></item>
+<item><title>Mangeur d'algues chinois</title><link>https://massin-aliouche.github.io/Nerithys/fiches/gyrinocheilus-aymonieri/</link></item>
+<item><title>Mangeur d'algues siamois</title><link>https://massin-aliouche.github.io/Nerithys/fiches/crossocheilus-oblongus/</link></item>
 <item><title>Microrasbora Galaxy (Danio margaritatus)</title><link>https://massin-aliouche.github.io/Nerithys/fiches/danio-margaritatus/</link></item>
+<item><title>Nannacara</title><link>https://massin-aliouche.github.io/Nerithys/fiches/nannacara-anomala/</link></item>
 <item><title>Néon bleu</title><link>https://massin-aliouche.github.io/Nerithys/fiches/paracheirodon-innesi/</link></item>
+<item><title>Néon du pauvre</title><link>https://massin-aliouche.github.io/Nerithys/fiches/tanichthys-albonubes/</link></item>
+<item><title>Néon noir</title><link>https://massin-aliouche.github.io/Nerithys/fiches/hyphessobrycon-herbertaxelrodi/</link></item>
+<item><title>Nez-rouge</title><link>https://massin-aliouche.github.io/Nerithys/fiches/hemigrammus-bleheri/</link></item>
+<item><title>Otocinclus</title><link>https://massin-aliouche.github.io/Nerithys/fiches/otocinclus-affinis/</link></item>
+<item><title>Otocinclus vitté</title><link>https://massin-aliouche.github.io/Nerithys/fiches/otocinclus-vittatus/</link></item>
 <item><title>Pelmato</title><link>https://massin-aliouche.github.io/Nerithys/fiches/pelvicachromis-pulcher/</link></item>
 <item><title>Platy</title><link>https://massin-aliouche.github.io/Nerithys/fiches/xiphophorus-maculatus/</link></item>
 <item><title>Pléco (Pléco commun)</title><link>https://massin-aliouche.github.io/Nerithys/fiches/hypostomus-plecostomus/</link></item>
+<item><title>Poisson rouge</title><link>https://massin-aliouche.github.io/Nerithys/fiches/carassius-auratus/</link></item>
 <item><title>Poisson-clown (Némo)</title><link>https://massin-aliouche.github.io/Nerithys/fiches/amphiprion-ocellaris/</link></item>
+<item><title>Pristella</title><link>https://massin-aliouche.github.io/Nerithys/fiches/pristella-maxillaris/</link></item>
+<item><title>Ramirezi</title><link>https://massin-aliouche.github.io/Nerithys/fiches/mikrogeophagus-ramirezi/</link></item>
+<item><title>Rasbora arlequin</title><link>https://massin-aliouche.github.io/Nerithys/fiches/trigonostigma-heteromorpha/</link></item>
+<item><title>Rasbora d'Espei</title><link>https://massin-aliouche.github.io/Nerithys/fiches/trigonostigma-espei/</link></item>
+<item><title>Rummy-nose</title><link>https://massin-aliouche.github.io/Nerithys/fiches/hemigrammus-rhodostomus/</link></item>
 <item><title>Scalaire</title><link>https://massin-aliouche.github.io/Nerithys/fiches/pterophyllum-scalare/</link></item>
+<item><title>Tétra amande</title><link>https://massin-aliouche.github.io/Nerithys/fiches/hyphessobrycon-amandae/</link></item>
+<item><title>Tétra cœur saignant</title><link>https://massin-aliouche.github.io/Nerithys/fiches/hyphessobrycon-erythrostigma/</link></item>
+<item><title>Tétra empereur</title><link>https://massin-aliouche.github.io/Nerithys/fiches/nematobrycon-palmeri/</link></item>
+<item><title>Xipho</title><link>https://massin-aliouche.github.io/Nerithys/fiches/xiphophorus-hellerii/</link></item>
 </channel></rss>

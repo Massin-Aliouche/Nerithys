@@ -1,0 +1,32 @@
+{
+  "name": "Discus de Heckel",
+  "scientificName": "Symphysodon discus",
+  "slug": "symphysodon-discus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 26,
+  "tempMax": 31,
+  "phMin": 4.2,
+  "phMax": 6.2,
+  "ghMin": 1,
+  "ghMax": 3,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 450,
+  "minLengthCm": 22,
+  "behavior": "Population: 6 minimum (10 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone centrale.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Dans la nature, on ne l'observe pas souvent dans les principaux chenaux fluviaux, mais on le trouve principalement dans les affluents lents et les mares forestières. Il vit en bancs dans des zones profondes et abritées autour des racines des arbres et des rochers. Les conditions de maintenance doivent correspondre au stade auquel se trouvent les discus : reproduction, croissance, inter-saison.....",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=3211"
+  ],
+  "images": [],
+  "gallery": [],
+  "tags": [
+    "cichlidé",
+    "majestueux",
+    "exigeant"
+  ]
+}

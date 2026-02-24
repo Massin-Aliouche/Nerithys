@@ -1,0 +1,34 @@
+{
+  "name": "Mangeur d'algues siamois",
+  "scientificName": "Crossocheilus oblongus",
+  "slug": "crossocheilus-oblongus",
+  "biotope": "Eau douce",
+  "difficulty": 3,
+  "tempMin": 20,
+  "tempMax": 28,
+  "phMin": 5.5,
+  "phMax": 8,
+  "ghMin": 1,
+  "ghMax": 20,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 300,
+  "minLengthCm": 16,
+  "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Zone inférieure, centrale.",
+  "diet": "Végétarien",
+  "breeding": "Ovipare, difficulté: Difficile",
+  "notes": "Les espèces de Crossocheilus vivent dans les cours d'eau et leurs affluents, sur des substrats de rochers, de galets, de gravier et de sable, souvent dans des zones où affleurent des bois flottés ou des racines d'arbres. L'eau claire, souvent peu profonde, permet à la lumière du soleil de pénétrer la surface et favorise le développement d'un biofilm riche recouvrant les surfaces immergées, sur ...",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=1401"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/1401.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "mangeur-algues",
+    "nettoyeur",
+    "actif"
+  ]
+}

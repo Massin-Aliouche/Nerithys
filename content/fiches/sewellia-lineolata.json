@@ -1,0 +1,34 @@
+{
+  "name": "Loche à selle",
+  "scientificName": "Sewellia lineolata",
+  "slug": "sewellia-lineolata",
+  "biotope": "Eau douce",
+  "difficulty": 2,
+  "tempMin": 16,
+  "tempMax": 26,
+  "phMin": 6,
+  "phMax": 7.5,
+  "ghMin": 1,
+  "ghMax": 10,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": 100,
+  "minLengthCm": 6,
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
+  "compatibility": "Zone fond.",
+  "diet": "Omnivore",
+  "breeding": "Ovipare, difficulté: Possible",
+  "notes": "Les Sewellia spp. sont rhéophiles et ont besoin d'une eau turbulente, fortement oxygénée, et d'un milieu soumis à de fortes variations saisonnières. Elles se nourrissent essentiellement de biofilm et de crustacées. On ne les maintiendra donc pas dans un aquarium biologiquement immature. Poissons de torrent, la filtration devra être très puissante, de quinze à vingt fois le volume du bac par heu...",
+  "sources": [
+    "https://www.b-aqua.com/pages/fiche.aspx?id=3133"
+  ],
+  "images": [
+    "https://www.b-aqua.com/photos/1/3133.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "fond",
+    "courant",
+    "original"
+  ]
+}
