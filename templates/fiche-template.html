@@ -10,7 +10,7 @@
   <meta property="og:image" content="{{OG_IMAGE}}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ASSET_PATH}}css/style.css">
   <link rel="icon" href="{{ASSET_PATH}}content/favicon-64.png">
   <script type="application/ld+json">{{JSON_LD}}</script>
@@ -21,15 +21,15 @@
   <header class="site-header" id="header">
     <div class="inner">
       <a href="{{ASSET_PATH}}" class="logo">
-        <img src="{{ASSET_PATH}}content/Nerithys%20Logo.png" alt="Nerithys" width="38" height="38">
+        <img src="{{ASSET_PATH}}content/Nerithys%20Logo.png" alt="Nerithys" width="36" height="36">
         <div>
           <div class="logo-text">Nerithys</div>
-          <div class="logo-sub">L'élégance du vivant aquatique</div>
+          <div class="logo-sub">Encyclopédie aquariophile</div>
         </div>
       </a>
       <nav class="nav-links">
         <a href="{{ASSET_PATH}}">Accueil</a>
-        <a href="{{ASSET_PATH}}fiches/">Fiches</a>
+        <a href="{{ASSET_PATH}}fiches/">Fiches espèces</a>
       </nav>
       <button class="hamburger" id="hamburger" aria-label="Menu">
         <span></span><span></span><span></span>
@@ -38,26 +38,26 @@
   </header>
   <nav class="mobile-nav" id="mobileNav">
     <a href="{{ASSET_PATH}}">Accueil</a>
-    <a href="{{ASSET_PATH}}fiches/">Fiches</a>
+    <a href="{{ASSET_PATH}}fiches/">Fiches espèces</a>
   </nav>
 
   <!-- Fiche content -->
-  <main class="section">
-    <div class="container" style="max-width:880px">
-      <a href="{{ASSET_PATH}}fiches/" class="btn btn-outline btn-sm" style="margin-bottom:1.75rem">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+  <section class="section">
+    <div class="container" style="max-width:860px">
+      <a href="{{ASSET_PATH}}fiches/" class="back-link">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
         Retour aux fiches
       </a>
       <article>
         {{CONTENT}}
       </article>
     </div>
-  </main>
+  </section>
 
   <!-- Lightbox -->
   <div id="lightbox" class="lightbox" aria-hidden="true">
     <div class="lb-inner">
-      <button class="close" aria-label="Fermer">✕</button>
+      <button class="close-btn" aria-label="Fermer">&#10005;</button>
       <img id="lightbox-img" alt="">
     </div>
   </div>
@@ -68,23 +68,23 @@
       <div class="footer-grid">
         <div>
           <div class="footer-brand">Nerithys</div>
-          <p class="footer-desc">L'élégance du vivant aquatique — guides et fiches pratiques.</p>
+          <p class="footer-desc">Encyclopédie aquariophile — fiches d'espèces et guides pratiques.</p>
         </div>
         <div>
           <h4>Navigation</h4>
           <ul>
             <li><a href="{{ASSET_PATH}}">Accueil</a></li>
-            <li><a href="{{ASSET_PATH}}fiches/">Fiches</a></li>
+            <li><a href="{{ASSET_PATH}}fiches/">Fiches espèces</a></li>
           </ul>
         </div>
         <div>
           <h4>Projet</h4>
           <ul>
-            <li><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">GitHub ↗</a></li>
+            <li><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">Code source GitHub</a></li>
           </ul>
         </div>
       </div>
-      <div class="footer-bottom">© 2025 Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
+      <div class="footer-bottom">&copy; 2025 Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
     </div>
   </footer>
 

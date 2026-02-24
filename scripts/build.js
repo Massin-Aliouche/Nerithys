@@ -1,8 +1,5 @@
-/* ═══════════════════════════════════════════════════════
-   Nerithys — build.js  (Static site generator)
-   ═══════════════════════════════════════════════════════ */
+/* Nerithys — build.js (Static site generator) */
 const fs   = require('fs');
-const fsp  = fs.promises;
 const path = require('path');
 
 const ROOT    = path.resolve(__dirname, '..');
@@ -10,419 +7,285 @@ const PUB     = path.join(ROOT, 'public');
 const FICHES  = path.join(ROOT, 'content', 'fiches');
 const TPL_DIR = path.join(ROOT, 'templates');
 
-/* ── Utilities ────────────────────────────────────── */
-function ensureDirSync(dir) {
-  fs.mkdirSync(dir, { recursive: true });
+/* ── Utils ─────────────────────────────────────── */
+function ensureDir(dir) { fs.mkdirSync(dir, { recursive: true }); }
+
+function relPath(from, to) {
+  let r = path.relative(from, to).replace(/\\/g, '/');
+  if (!r) r = '.';
+  return r.endsWith('/') ? r : r + '/';
 }
 
-function relativePath(from, to) {
-  let rel = path.relative(from, to).replace(/\\/g, '/');
-  if (!rel) rel = '.';
-  return rel.endsWith('/') ? rel : rel + '/';
-}
-
-function escapeHtml(s) {
+function esc(s) {
   return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-/* ── Image resolution ─────────────────────────────── */
-let externalImages = {};
+/* ── External images ───────────────────────────── */
+let extImgs = {};
 try {
-  const extFile = path.join(ROOT, 'content', 'external-images.json');
-  if (fs.existsSync(extFile)) {
-    externalImages = JSON.parse(fs.readFileSync(extFile, 'utf8'));
-  }
-} catch (e) { /* ignore */ }
+  const f = path.join(ROOT, 'content', 'external-images.json');
+  if (fs.existsSync(f)) extImgs = JSON.parse(fs.readFileSync(f, 'utf8'));
+} catch (e) { /* no-op */ }
 
-function resolveImage(url, assetPath) {
+function resolveImg(url, assetPath) {
   if (!url) return '';
-  // If externally fetched, use local copy
-  if (externalImages[url]) {
-    return assetPath + 'content/' + externalImages[url];
-  }
-  // If it's an absolute URL, use as-is
+  if (extImgs[url]) return assetPath + 'content/' + extImgs[url];
   if (/^https?:\/\//.test(url)) return url;
   return assetPath + url;
 }
 
-/* ── Load templates ───────────────────────────────── */
-const ficheTemplate   = fs.readFileSync(path.join(TPL_DIR, 'fiche-template.html'), 'utf8');
-const listingTemplate = fs.readFileSync(path.join(TPL_DIR, 'listing-template.html'), 'utf8');
+/* ── Templates ─────────────────────────────────── */
+const ficheTpl   = fs.readFileSync(path.join(TPL_DIR, 'fiche-template.html'), 'utf8');
+const listingTpl = fs.readFileSync(path.join(TPL_DIR, 'listing-template.html'), 'utf8');
 
-/* ── Load fiches ──────────────────────────────────── */
+/* ── Load fiches ───────────────────────────────── */
 function loadFiches() {
-  const files = fs.readdirSync(FICHES).filter(f => f.endsWith('.json'));
-  return files.map(f => {
-    const raw = fs.readFileSync(path.join(FICHES, f), 'utf8');
-    return JSON.parse(raw);
-  }).sort((a, b) => (a.name || '').localeCompare(b.name || '', 'fr'));
+  return fs.readdirSync(FICHES)
+    .filter(f => f.endsWith('.json'))
+    .map(f => JSON.parse(fs.readFileSync(path.join(FICHES, f), 'utf8')))
+    .sort((a, b) => (a.name || '').localeCompare(b.name || '', 'fr'));
 }
 
-/* ── Difficulty helpers ───────────────────────────── */
+/* ── Difficulty helpers ────────────────────────── */
 function diffLabel(n) {
   if (n <= 1) return 'Facile';
   if (n === 2) return 'Moyen';
   if (n === 3) return 'Difficile';
   return 'Expert';
 }
-
-function diffBadgeClass(n) {
-  if (n <= 1) return 'badge-green';
-  if (n === 2) return 'badge-teal';
-  if (n === 3) return 'badge-amber';
-  return 'badge-red';
+function diffBadge(n) {
+  if (n <= 1) return 'badge-green-solid';
+  if (n === 2) return 'badge-teal-solid';
+  if (n === 3) return 'badge-amber-solid';
+  return 'badge-red-solid';
 }
-
 function diffDots(n) {
-  let out = '<div class="diff-dots">';
-  for (let i = 1; i <= 4; i++) {
-    out += '<span class="dot' + (i <= n ? ' filled' : '') + '"></span>';
-  }
-  out += '</div>';
-  return out;
+  let h = '<span class="diff-dots">';
+  for (let i = 1; i <= 4; i++) h += '<span class="dot' + (i <= n ? ' filled' : '') + '"></span>';
+  return h + '</span>';
 }
 
-/* ── Parameter card HTML ──────────────────────────── */
-// SVG icons for params
-const ICONS = {
-  temp:   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 14.76V3.5a2.5 2.5 0 00-5 0v11.26a4.5 4.5 0 105 0z"/></svg>',
-  ph:     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>',
-  gh:     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>',
-  kh:     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>',
-  volume: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22a8 8 0 008-8c0-6-8-12-8-12S4 8 4 14a8 8 0 008 8z"/></svg>',
-  size:   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 3h-6M21 3v6M21 3L14 10M3 21h6M3 21v-6M3 21l7-7"/></svg>',
-};
-
-function paramCard(icon, label, value) {
-  if (!value || value === 'null' || value === '—') return '';
-  return '<div class="param-card">' +
-    '<div class="icon">' + (ICONS[icon] || '') + '</div>' +
-    '<div><strong>' + escapeHtml(label) + '</strong><div class="value">' + escapeHtml(value) + '</div></div>' +
-  '</div>';
+/* ── Param card ────────────────────────────────── */
+function paramCard(label, value) {
+  if (!value || value === 'null') return '';
+  return '<div class="param-card"><div class="label">' + esc(label) + '</div><div class="value">' + esc(value) + '</div></div>';
 }
 
-/* ── Build fiche content HTML ─────────────────────── */
-function buildFicheContent(data, assetPath) {
-  const diff = Number(data.difficulty) || 0;
-  const imgSrc = resolveImage((data.images && data.images[0]) || '', assetPath);
+/* ── Build fiche content HTML ──────────────────── */
+function buildContent(d, ap) {
+  const diff = Number(d.difficulty) || 0;
+  const img = resolveImg((d.images && d.images[0]) || '', ap);
+  let h = '';
 
-  let html = '';
-
-  // Title block
-  html += '<h1>' + escapeHtml(data.name) + '</h1>';
-  html += '<p style="color:var(--muted);margin-top:-.5rem;margin-bottom:1.5rem;">';
-  html += '<em>' + escapeHtml(data.scientificName || '') + '</em>';
-  html += '</p>';
+  // Title
+  h += '<h1>' + esc(d.name) + '</h1>';
+  h += '<p style="color:var(--muted);margin:-.3rem 0 1.25rem"><em>' + esc(d.scientificName || '') + '</em></p>';
 
   // Hero image
-  if (imgSrc) {
-    html += '<img class="fiche-hero-img" src="' + imgSrc + '" alt="' + escapeHtml(data.name) + '" loading="lazy" onerror="this.style.display=\'none\'">';
+  if (img) {
+    h += '<img class="fiche-hero-img" src="' + img + '" alt="' + esc(d.name) + '" loading="lazy" onerror="this.style.display=\'none\'">';
   }
 
-  // Quick info badges
-  html += '<div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1.5rem;">';
-  html += '<span class="badge ' + diffBadgeClass(diff) + '">' + diffLabel(diff) + '</span>';
-  html += '<span class="badge badge-slate">' + escapeHtml(data.biotope || '—') + '</span>';
-  if (data.tags && data.tags.length) {
-    data.tags.forEach(function(t) {
-      html += '<span class="badge badge-accent">' + escapeHtml(t) + '</span>';
+  // Badges
+  h += '<div style="display:flex;flex-wrap:wrap;gap:.4rem;margin-bottom:1.25rem">';
+  h += '<span class="badge ' + diffBadge(diff) + '">' + diffLabel(diff) + '</span>';
+  h += '<span class="badge badge-slate-solid">' + esc(d.biotope || '') + '</span>';
+  if (d.tags && d.tags.length) {
+    d.tags.forEach(function (t) {
+      h += '<span class="badge badge-teal-solid">' + esc(t) + '</span>';
     });
   }
-  html += '</div>';
+  h += '</div>';
 
   // Difficulty dots
-  html += '<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:1.5rem;">';
-  html += '<span style="font-size:.85rem;color:var(--muted);font-weight:600;">Difficulté :</span>';
-  html += diffDots(diff);
-  html += '<span style="font-size:.85rem;font-weight:600;">' + diffLabel(diff) + '</span>';
-  html += '</div>';
+  h += '<div style="display:flex;align-items:center;gap:.5rem;margin-bottom:1.25rem">';
+  h += '<span style="font-size:.82rem;color:var(--muted);font-weight:600">Difficulté :</span>';
+  h += diffDots(diff);
+  h += '<span style="font-size:.82rem;font-weight:600">' + diffLabel(diff) + '</span>';
+  h += '</div>';
 
-  // Parameters grid
+  // Parameters
   let params = '';
-  if (data.tempMin != null && data.tempMax != null) {
-    params += paramCard('temp', 'Température', data.tempMin + ' – ' + data.tempMax + ' °C');
-  }
-  if (data.phMin != null && data.phMax != null) {
-    params += paramCard('ph', 'pH', data.phMin + ' – ' + data.phMax);
-  }
-  if (data.ghMin != null && data.ghMax != null) {
-    params += paramCard('gh', 'GH', data.ghMin + ' – ' + data.ghMax);
-  }
-  if (data.khMin != null && data.khMax != null) {
-    params += paramCard('kh', 'KH', data.khMin + ' – ' + data.khMax);
-  }
-  if (data.minVolumeL) {
-    params += paramCard('volume', 'Volume min.', data.minVolumeL + ' L');
-  }
-  if (data.minLengthCm) {
-    params += paramCard('size', 'Taille adulte', data.minLengthCm + ' cm');
-  }
-
-  if (params) {
-    html += '<div class="params-grid">' + params + '</div>';
-  }
+  if (d.tempMin != null && d.tempMax != null) params += paramCard('Température', d.tempMin + ' – ' + d.tempMax + ' °C');
+  if (d.phMin != null && d.phMax != null) params += paramCard('pH', d.phMin + ' – ' + d.phMax);
+  if (d.ghMin != null && d.ghMax != null) params += paramCard('GH', d.ghMin + ' – ' + d.ghMax);
+  if (d.khMin != null && d.khMax != null) params += paramCard('KH', d.khMin + ' – ' + d.khMax);
+  if (d.minVolumeL) params += paramCard('Volume min.', d.minVolumeL + ' L');
+  if (d.minLengthCm) params += paramCard('Taille adulte', d.minLengthCm + ' cm');
+  if (params) h += '<div class="params-grid">' + params + '</div>';
 
   // Sections
-  const sections = [
-    ['Comportement', data.behavior],
-    ['Compatibilité', data.compatibility],
-    ['Alimentation', data.diet],
-    ['Reproduction', data.breeding],
-  ];
-
-  sections.forEach(function(s) {
+  [['Comportement', d.behavior], ['Compatibilité', d.compatibility], ['Alimentation', d.diet], ['Reproduction', d.breeding]].forEach(function (s) {
     if (s[1]) {
-      html += '<div class="fiche-section">';
-      html += '<h3>' + escapeHtml(s[0]) + '</h3>';
-      html += '<p>' + escapeHtml(s[1]) + '</p>';
-      html += '</div>';
+      h += '<div class="fiche-section"><h3>' + esc(s[0]) + '</h3><p>' + esc(s[1]) + '</p></div>';
     }
   });
 
-  // Notes (takeaway box)
-  if (data.notes) {
-    html += '<div class="takeaway-box" style="margin-top:2rem;">';
-    html += '<strong>À retenir :</strong> ' + escapeHtml(data.notes);
-    html += '</div>';
+  // Notes
+  if (d.notes) {
+    h += '<div class="info-box info-box-teal" style="margin-top:1.5rem"><strong>À retenir :</strong> ' + esc(d.notes) + '</div>';
   }
 
   // Gallery
-  if (data.gallery && data.gallery.length) {
-    html += '<div class="fiche-section">';
-    html += '<h3>Galerie</h3>';
-    html += '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin-top:1rem;">';
-    data.gallery.forEach(function(g) {
-      var gSrc = resolveImage(g, assetPath);
-      html += '<img class="fiche-hero-img" src="' + gSrc + '" alt="" loading="lazy" style="max-height:200px" onerror="this.style.display=\'none\'">';
+  if (d.gallery && d.gallery.length) {
+    h += '<div class="fiche-section"><h3>Galerie</h3>';
+    h += '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.75rem;margin-top:.75rem">';
+    d.gallery.forEach(function (g) {
+      h += '<img class="fiche-hero-img" src="' + resolveImg(g, ap) + '" alt="" loading="lazy" style="max-height:180px" onerror="this.style.display=\'none\'">';
     });
-    html += '</div></div>';
+    h += '</div></div>';
   }
 
   // Sources
-  if (data.sources && data.sources.length) {
-    html += '<div class="fiche-section">';
-    html += '<h3>Sources</h3>';
-    html += '<ul style="list-style:disc;padding-left:1.3rem;">';
-    data.sources.forEach(function(src) {
-      html += '<li><a href="' + escapeHtml(src) + '" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:underline;">' + escapeHtml(src) + '</a></li>';
+  if (d.sources && d.sources.length) {
+    h += '<div class="fiche-section"><h3>Sources</h3><ul style="list-style:disc;padding-left:1.2rem">';
+    d.sources.forEach(function (src) {
+      h += '<li><a href="' + esc(src) + '" target="_blank" rel="noopener" style="color:var(--ocean);text-decoration:underline">' + esc(src) + '</a></li>';
     });
-    html += '</ul></div>';
+    h += '</ul></div>';
   }
 
-  return html;
+  return h;
 }
 
-/* ── Generate JSON-LD ─────────────────────────────── */
-function jsonLd(data) {
+/* ── JSON-LD ───────────────────────────────────── */
+function jsonLd(d) {
   return JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Article",
-    "name": data.name || '',
-    "description": data.behavior || '',
-    "about": {
-      "@type": "Thing",
-      "name": data.scientificName || ''
-    }
+    "name": d.name || '',
+    "description": d.behavior || '',
+    "about": { "@type": "Thing", "name": d.scientificName || '' }
   });
 }
 
-/* ── Build one fiche page ─────────────────────────── */
-function buildFiche(data) {
-  const slug = data.slug || '';
+/* ── Build fiche page ──────────────────────────── */
+function buildFiche(d) {
+  const slug = d.slug || '';
   const outDir = path.join(PUB, 'fiches', slug);
-  ensureDirSync(outDir);
+  ensureDir(outDir);
+  const ap = relPath(outDir, PUB);
+  const content = buildContent(d, ap);
+  const img = resolveImg((d.images && d.images[0]) || '', ap);
 
-  const assetPath = relativePath(outDir, PUB);
-  const content = buildFicheContent(data, assetPath);
-
-  const imgSrc = resolveImage((data.images && data.images[0]) || '', assetPath);
-
-  let page = ficheTemplate
-    .replace(/\{\{ASSET_PATH\}\}/g, assetPath)
-    .replace(/\{\{TITLE\}\}/g, escapeHtml(data.name + ' — Nerithys'))
-    .replace(/\{\{DESCRIPTION\}\}/g, escapeHtml((data.behavior || data.name || '') + ' | Nerithys'))
-    .replace(/\{\{OG_IMAGE\}\}/g, imgSrc)
-    .replace(/\{\{JSON_LD\}\}/g, jsonLd(data))
+  const page = ficheTpl
+    .replace(/\{\{ASSET_PATH\}\}/g, ap)
+    .replace(/\{\{TITLE\}\}/g, esc(d.name + ' — Nerithys'))
+    .replace(/\{\{DESCRIPTION\}\}/g, esc((d.behavior || d.name || '') + ' | Nerithys'))
+    .replace(/\{\{OG_IMAGE\}\}/g, img)
+    .replace(/\{\{JSON_LD\}\}/g, jsonLd(d))
     .replace(/\{\{CONTENT\}\}/g, content);
 
   fs.writeFileSync(path.join(outDir, 'index.html'), page, 'utf8');
 }
 
-/* ── Build listing page ───────────────────────────── */
+/* ── Build listing ─────────────────────────────── */
 function buildListing() {
   const outDir = path.join(PUB, 'fiches');
-  ensureDirSync(outDir);
-  const assetPath = relativePath(outDir, PUB);
-
-  let page = listingTemplate.replace(/\{\{ASSET_PATH\}\}/g, assetPath);
-  fs.writeFileSync(path.join(outDir, 'index.html'), page, 'utf8');
+  ensureDir(outDir);
+  const ap = relPath(outDir, PUB);
+  fs.writeFileSync(path.join(outDir, 'index.html'), listingTpl.replace(/\{\{ASSET_PATH\}\}/g, ap), 'utf8');
 }
 
-/* ── Build fiches.json aggregate ──────────────────── */
+/* ── Build fiches.json ─────────────────────────── */
 function buildFichesJson(fiches) {
   const outDir = path.join(PUB, 'content');
-  ensureDirSync(outDir);
-
-  // Map images to asset-relative paths from public root
-  const data = fiches.map(function(f) {
-    const copy = Object.assign({}, f);
-    if (copy.images && copy.images.length) {
-      copy.images = copy.images.map(function(img) {
-        if (externalImages[img]) {
-          return 'content/' + externalImages[img];
-        }
-        return img;
+  ensureDir(outDir);
+  const data = fiches.map(function (f) {
+    const c = Object.assign({}, f);
+    if (c.images && c.images.length) {
+      c.images = c.images.map(function (img) {
+        return extImgs[img] ? 'content/' + extImgs[img] : img;
       });
     }
-    return copy;
+    return c;
   });
-
   fs.writeFileSync(path.join(outDir, 'fiches.json'), JSON.stringify(data, null, 2), 'utf8');
 }
 
-/* ── Copy static assets ───────────────────────────── */
+/* ── Copy helpers ──────────────────────────────── */
 function copyDir(src, dest) {
-  ensureDirSync(dest);
-  const entries = fs.readdirSync(src, { withFileTypes: true });
-  for (const entry of entries) {
-    const srcPath = path.join(src, entry.name);
-    const destPath = path.join(dest, entry.name);
-    if (entry.isDirectory()) {
-      copyDir(srcPath, destPath);
-    } else {
-      fs.copyFileSync(srcPath, destPath);
-    }
+  ensureDir(dest);
+  for (const e of fs.readdirSync(src, { withFileTypes: true })) {
+    const s = path.join(src, e.name), d = path.join(dest, e.name);
+    if (e.isDirectory()) copyDir(s, d); else fs.copyFileSync(s, d);
   }
 }
-
-function copyFile(src, dest) {
-  if (fs.existsSync(src)) {
-    ensureDirSync(path.dirname(dest));
-    fs.copyFileSync(src, dest);
-  }
+function copyFile(s, d) {
+  if (fs.existsSync(s)) { ensureDir(path.dirname(d)); fs.copyFileSync(s, d); }
 }
 
-/* ── Generate robots.txt ──────────────────────────── */
-function buildRobots() {
-  const content = 'User-agent: *\nAllow: /\nSitemap: https://massin-aliouche.github.io/Nerithys/sitemap.xml\n';
-  fs.writeFileSync(path.join(PUB, 'robots.txt'), content, 'utf8');
-}
-
-/* ── Generate sitemap.xml ─────────────────────────── */
-function buildSitemap(fiches) {
+/* ── SEO ───────────────────────────────────────── */
+function buildSeo(fiches) {
   const base = 'https://massin-aliouche.github.io/Nerithys/';
   const now = new Date().toISOString().slice(0, 10);
-  let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
-  xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
 
+  // robots.txt
+  fs.writeFileSync(path.join(PUB, 'robots.txt'), 'User-agent: *\nAllow: /\nSitemap: ' + base + 'sitemap.xml\n', 'utf8');
+
+  // sitemap
+  let xml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
   xml += '  <url><loc>' + base + '</loc><lastmod>' + now + '</lastmod></url>\n';
   xml += '  <url><loc>' + base + 'fiches/</loc><lastmod>' + now + '</lastmod></url>\n';
-
-  fiches.forEach(function(f) {
-    xml += '  <url><loc>' + base + 'fiches/' + encodeURIComponent(f.slug) + '/</loc><lastmod>' + now + '</lastmod></url>\n';
-  });
-
+  fiches.forEach(f => { xml += '  <url><loc>' + base + 'fiches/' + encodeURIComponent(f.slug) + '/</loc><lastmod>' + now + '</lastmod></url>\n'; });
   xml += '</urlset>\n';
   fs.writeFileSync(path.join(PUB, 'sitemap.xml'), xml, 'utf8');
-}
 
-/* ── Generate RSS feed ────────────────────────────── */
-function buildRss(fiches) {
-  const base = 'https://massin-aliouche.github.io/Nerithys/';
-  const now = new Date().toUTCString();
-  let rss = '<?xml version="1.0" encoding="UTF-8"?>\n';
-  rss += '<rss version="2.0"><channel>\n';
-  rss += '  <title>Nerithys — Fiches poissons</title>\n';
-  rss += '  <link>' + base + '</link>\n';
-  rss += '  <description>Fiches d\'espèces aquatiques</description>\n';
-  rss += '  <lastBuildDate>' + now + '</lastBuildDate>\n';
-
-  fiches.forEach(function(f) {
-    rss += '  <item>\n';
-    rss += '    <title>' + escapeHtml(f.name) + '</title>\n';
-    rss += '    <link>' + base + 'fiches/' + encodeURIComponent(f.slug) + '/</link>\n';
-    rss += '    <description>' + escapeHtml(f.behavior || f.name || '') + '</description>\n';
-    rss += '  </item>\n';
+  // rss
+  let rss = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>\n';
+  rss += '<title>Nerithys</title><link>' + base + '</link><description>Fiches aquatiques</description>\n';
+  fiches.forEach(f => {
+    rss += '<item><title>' + esc(f.name) + '</title><link>' + base + 'fiches/' + encodeURIComponent(f.slug) + '/</link></item>\n';
   });
-
   rss += '</channel></rss>\n';
   fs.writeFileSync(path.join(PUB, 'rss.xml'), rss, 'utf8');
 }
 
-/* ═══════════════════════════════════════════════════════
-   MAIN BUILD
-   ═══════════════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════
+   MAIN
+   ═══════════════════════════════════════════════════ */
 function build() {
-  console.log('[build] Starting Nerithys build...');
+  console.log('[build] Starting...');
+  ensureDir(PUB);
 
-  // 1. Ensure public directory
-  ensureDirSync(PUB);
-
-  // 2. Load fiches
   const fiches = loadFiches();
-  console.log('[build] Loaded ' + fiches.length + ' fiches');
+  console.log('[build] ' + fiches.length + ' fiches loaded');
 
-  // 3. Copy CSS
+  // CSS
   copyDir(path.join(ROOT, 'css'), path.join(PUB, 'css'));
-  console.log('[build] Copied CSS');
 
-  // 4. Copy JS
-  ensureDirSync(path.join(PUB, 'js'));
+  // JS
+  ensureDir(path.join(PUB, 'js'));
   copyFile(path.join(ROOT, 'js', 'main.js'), path.join(PUB, 'js', 'main.js'));
   copyFile(path.join(ROOT, 'js', 'ui.js'), path.join(PUB, 'js', 'ui.js'));
   copyFile(path.join(ROOT, 'js', 'species.js'), path.join(PUB, 'js', 'species.js'));
-  console.log('[build] Copied JS');
 
-  // 5. Copy content assets (images, etc.)
+  // Content assets (images, not source JSON)
   if (fs.existsSync(path.join(ROOT, 'content'))) {
-    const contentItems = fs.readdirSync(path.join(ROOT, 'content'), { withFileTypes: true });
-    const contentOut = path.join(PUB, 'content');
-    ensureDirSync(contentOut);
-    for (const item of contentItems) {
-      const src = path.join(ROOT, 'content', item.name);
-      const dest = path.join(contentOut, item.name);
-      if (item.isDirectory()) {
-        // Copy directories except 'fiches' (raw JSON, not needed in public)
-        // But DO copy 'external' directory for fetched images
-        if (item.name !== 'fiches' && item.name !== 'articles') {
-          copyDir(src, dest);
-        }
-      } else if (!item.name.endsWith('.json') || item.name === 'external-images.json') {
-        // Copy non-JSON files (images, etc.) and the external-images manifest
-        copyFile(src, dest);
+    const out = path.join(PUB, 'content');
+    ensureDir(out);
+    for (const e of fs.readdirSync(path.join(ROOT, 'content'), { withFileTypes: true })) {
+      const s = path.join(ROOT, 'content', e.name), d = path.join(out, e.name);
+      if (e.isDirectory()) {
+        if (e.name !== 'fiches' && e.name !== 'articles') copyDir(s, d);
+      } else if (!e.name.endsWith('.json') || e.name === 'external-images.json') {
+        copyFile(s, d);
       }
     }
-    console.log('[build] Copied content assets');
   }
 
-  // 6. Copy homepage
-  const indexSrc = path.join(ROOT, 'index.html');
-  if (fs.existsSync(indexSrc)) {
-    fs.copyFileSync(indexSrc, path.join(PUB, 'index.html'));
-    console.log('[build] Copied index.html');
+  // Homepage
+  if (fs.existsSync(path.join(ROOT, 'index.html'))) {
+    fs.copyFileSync(path.join(ROOT, 'index.html'), path.join(PUB, 'index.html'));
   }
 
-  // 7. Build fiches.json
+  // Build outputs
   buildFichesJson(fiches);
-  console.log('[build] Generated content/fiches.json');
-
-  // 8. Build listing page
   buildListing();
-  console.log('[build] Generated fiches/index.html');
+  fiches.forEach(buildFiche);
+  buildSeo(fiches);
 
-  // 9. Build individual fiche pages
-  fiches.forEach(function(f) {
-    buildFiche(f);
-  });
-  console.log('[build] Generated ' + fiches.length + ' fiche pages');
-
-  // 10. Build SEO files
-  buildRobots();
-  buildSitemap(fiches);
-  buildRss(fiches);
-  console.log('[build] Generated robots.txt, sitemap.xml, rss.xml');
-
-  console.log('[build] ✓ Build complete! Output at public/');
+  console.log('[build] Done! ' + fiches.length + ' fiches, listing, sitemap, rss generated.');
 }
 
 build();

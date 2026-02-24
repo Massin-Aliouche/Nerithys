@@ -3,31 +3,31 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Nerithys — L'élégance du vivant aquatique</title>
-  <meta name="description" content="Fiches poissons d'aquarium, paramètres fiables et guides aquariophiles — Nerithys">
-  <meta property="og:title" content="Nerithys — Fiches poissons">
+  <title>Nerithys — Encyclopédie aquariophile</title>
+  <meta name="description" content="Fiches d'espèces aquatiques, paramètres fiables et guides pratiques pour aquariophiles.">
+  <meta property="og:title" content="Nerithys — Encyclopédie aquariophile">
   <meta property="og:description" content="Fiches d'espèces & expertise aquariophile">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="content/favicon-64.png">
 </head>
 <body>
 
-  <!-- ═══ Header ═══ -->
+  <!-- Header -->
   <header class="site-header" id="header">
     <div class="inner">
       <a href="./" class="logo">
-        <img src="content/Nerithys%20Logo.png" alt="Nerithys" width="38" height="38">
+        <img src="content/Nerithys%20Logo.png" alt="Nerithys" width="36" height="36">
         <div>
           <div class="logo-text">Nerithys</div>
-          <div class="logo-sub">L'élégance du vivant aquatique</div>
+          <div class="logo-sub">Encyclopédie aquariophile</div>
         </div>
       </a>
       <nav class="nav-links">
         <a href="./" class="active">Accueil</a>
-        <a href="./fiches/">Fiches</a>
+        <a href="fiches/">Fiches espèces</a>
       </nav>
       <button class="hamburger" id="hamburger" aria-label="Menu">
         <span></span><span></span><span></span>
@@ -35,181 +35,124 @@
     </div>
   </header>
   <nav class="mobile-nav" id="mobileNav">
-    <a href="./" class="active">Accueil</a>
-    <a href="./fiches/">Fiches</a>
+    <a href="./">Accueil</a>
+    <a href="fiches/">Fiches espèces</a>
   </nav>
 
-  <!-- ═══ Hero ═══ -->
+  <!-- Hero -->
   <section class="hero">
     <div class="hero-bg" style="background-image:url('content/hero.jpg')"></div>
-    <div class="container hero-inner">
-      <div class="hero-text">
-        <div class="hero-label">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 2C8 6 3 7 3 12c0 4 4 8 9 10 5-2 9-6 9-10 0-5-5-6-9-10z"/></svg>
-          Aquariophilie
+    <div class="container">
+      <h1>Découvrez le monde <span class="accent">aquatique</span></h1>
+      <p class="hero-sub">Fiches d'espèces détaillées, paramètres d'eau fiables et conseils pratiques pour créer un aquarium sain et équilibré.</p>
+      <a href="fiches/" class="hero-cta">
+        Explorer les espèces
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+      <div class="hero-stats">
+        <div class="stat">
+          <div class="stat-num" id="statSpecies">11</div>
+          <div class="stat-label">Espèces</div>
         </div>
-        <h1 class="font-display">L'art d'un aquarium<br><span class="accent-word">équilibré</span></h1>
-        <p class="hero-tagline">Comprendre. Équilibrer. Sublimer.</p>
-        <p class="hero-desc">Fiches d'espèces structurées, paramètres fiables et conseils d'aquascaping pour créer un aquarium sain et harmonieux.</p>
-        <div class="hero-actions">
-          <a href="./fiches/" class="btn btn-primary">
-            Voir les fiches
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-          </a>
-          <a href="#guides" class="btn btn-outline">Explorer les guides</a>
+        <div class="stat">
+          <div class="stat-num">6</div>
+          <div class="stat-label">Paramètres par fiche</div>
         </div>
-        <div class="hero-stats">
-          <div class="stat-item">
-            <div class="stat-num" id="statSpecies">11</div>
-            <div class="stat-label">Fiches espèces</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-num">6</div>
-            <div class="stat-label">Paramètres par fiche</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-num">100%</div>
-            <div class="stat-label">Gratuit & open source</div>
-          </div>
+        <div class="stat">
+          <div class="stat-num">100%</div>
+          <div class="stat-label">Gratuit</div>
         </div>
-      </div>
-      <div class="hero-visual">
-        <img src="content/hero.jpg" alt="Aquarium tropical" width="400" height="300">
       </div>
     </div>
   </section>
 
-  <!-- ═══ Fiches espèces ═══ -->
+  <!-- Species cards -->
   <section class="section">
     <div class="container">
-      <div class="section-header reveal">
-        <div class="section-badge">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
-          Fiches espèces
-        </div>
-        <h2>Découvrez nos fiches</h2>
-        <p>Espèces mises en avant — cliquez pour découvrir la fiche complète</p>
+      <div class="section-head">
+        <h2>Nos fiches espèces</h2>
+        <p>Espèces en vedette — cliquez pour découvrir la fiche complète</p>
       </div>
-      <div id="species-list" data-featured="6" class="card-grid"></div>
-      <div style="text-align:center;margin-top:2.5rem" class="reveal">
-        <a href="./fiches/" class="btn btn-outline">
-          Toutes les fiches
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-        </a>
+      <div id="species-list" class="cards-grid" data-featured="6"></div>
+      <div style="text-align:center;margin-top:2rem">
+        <a href="fiches/" class="btn btn-outline">Voir toutes les fiches</a>
       </div>
     </div>
   </section>
 
-  <!-- ═══ Guides ═══ -->
-  <section id="guides" class="section section-alt">
+  <!-- Features -->
+  <section class="section features-section">
     <div class="container">
-      <div class="section-header reveal">
-        <div class="section-badge">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M2 3h6a4 4 0 014 4v14a3 3 0 00-3-3H2z"/><path d="M22 3h-6a4 4 0 00-4 4v14a3 3 0 013-3h7z"/></svg>
-          Guides
-        </div>
-        <h2>Guides essentiels</h2>
-        <p>Les bases pour démarrer et maintenir un aquarium sain</p>
-      </div>
-      <div class="feature-grid">
-        <div class="feature-card reveal reveal-delay-1">
-          <div class="icon-circle">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
-          </div>
-          <h3>Cyclage de l'aquarium</h3>
-          <p>Comprendre le cycle de l'azote et préparer un bac sain avant d'introduire vos premiers poissons.</p>
-        </div>
-        <div class="feature-card reveal reveal-delay-2">
-          <div class="icon-circle">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2s6 5.5 6 9.5a6 6 0 11-12 0C6 7.5 12 2 12 2z"/></svg>
-          </div>
-          <h3>Paramètres essentiels</h3>
-          <p>pH, dureté, température — les réglages optimaux adaptés à chaque biotope.</p>
-        </div>
-        <div class="feature-card reveal reveal-delay-3">
-          <div class="icon-circle">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/></svg>
-          </div>
-          <h3>Choisir sa population</h3>
-          <p>Composer un groupe équilibré, durable et adapté au volume de votre bac.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ═══ Pourquoi Nerithys ═══ -->
-  <section class="section">
-    <div class="container">
-      <div class="section-header reveal">
-        <div class="section-badge">Notre approche</div>
+      <div class="section-head">
         <h2>Pourquoi Nerithys ?</h2>
         <p>Une approche rigoureuse et passionnée de l'aquariophilie</p>
       </div>
-      <div class="feature-grid">
-        <div class="feature-card reveal reveal-delay-1">
-          <div class="emoji-icon">📋</div>
+      <div class="features-grid">
+        <div class="feature-card">
+          <div class="icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+          </div>
           <h3>Fiches structurées</h3>
           <p>Informations vérifiables et sourcées, organisées pour une lecture claire et rapide.</p>
         </div>
-        <div class="feature-card reveal reveal-delay-2">
-          <div class="emoji-icon">🔬</div>
+        <div class="feature-card">
+          <div class="icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+          </div>
           <h3>Paramètres fiables</h3>
-          <p>Valeurs et tolérances précises par espèce, issues de sources reconnues.</p>
+          <p>Température, pH, GH, KH — valeurs précises par espèce, issues de sources reconnues.</p>
         </div>
-        <div class="feature-card reveal reveal-delay-3">
-          <div class="emoji-icon">🌿</div>
+        <div class="feature-card">
+          <div class="icon-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22c4-4 8-7 8-12a8 8 0 10-16 0c0 5 4 8 8 12z"/><circle cx="12" cy="10" r="3"/></svg>
+          </div>
           <h3>Approche biotope</h3>
-          <p>Aquascaping et population pensés pour des bacs cohérents et respectueux.</p>
+          <p>Population et aquascaping pensés pour des bacs cohérents et respectueux du vivant.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- ═══ CTA ═══ -->
-  <section class="section" style="padding-top:0">
-    <div class="container reveal">
-      <div class="cta-banner">
-        <h2>Prêt à explorer ?</h2>
-        <p>Parcourez toutes nos fiches d'espèces et trouvez le poisson idéal pour votre aquarium.</p>
-        <a href="./fiches/" class="btn">
-          Explorer les fiches
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-        </a>
-      </div>
+  <!-- CTA -->
+  <section class="cta-section">
+    <div class="container">
+      <h2>Prêt à explorer ?</h2>
+      <p>Consultez toutes nos fiches d'espèces et trouvez les poissons adaptés à votre aquarium.</p>
+      <a href="fiches/" class="btn btn-ocean">Voir toutes les fiches</a>
     </div>
   </section>
 
-  <!-- ═══ Lightbox ═══ -->
+  <!-- Lightbox -->
   <div id="lightbox" class="lightbox" aria-hidden="true">
     <div class="lb-inner">
-      <button class="close" aria-label="Fermer">✕</button>
+      <button class="close-btn" aria-label="Fermer">&#10005;</button>
       <img id="lightbox-img" alt="">
     </div>
   </div>
 
-  <!-- ═══ Footer ═══ -->
+  <!-- Footer -->
   <footer class="site-footer">
     <div class="container">
       <div class="footer-grid">
         <div>
           <div class="footer-brand">Nerithys</div>
-          <p class="footer-desc">L'élégance du vivant aquatique — guides et fiches pratiques pour aquariophiles passionnés.</p>
+          <p class="footer-desc">Encyclopédie aquariophile — fiches d'espèces et guides pratiques.</p>
         </div>
         <div>
           <h4>Navigation</h4>
           <ul>
             <li><a href="./">Accueil</a></li>
-            <li><a href="./fiches/">Fiches</a></li>
+            <li><a href="fiches/">Fiches espèces</a></li>
           </ul>
         </div>
         <div>
           <h4>Projet</h4>
           <ul>
-            <li><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">GitHub ↗</a></li>
+            <li><a href="https://github.com/Massin-Aliouche/Nerithys" target="_blank" rel="noopener">Code source GitHub</a></li>
           </ul>
         </div>
       </div>
-      <div class="footer-bottom">© 2025 Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
+      <div class="footer-bottom">&copy; 2025 Nerithys — Réalisé avec soin pour les passionnés d'aquariophilie</div>
     </div>
   </footer>
 

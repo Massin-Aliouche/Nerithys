@@ -1,32 +1,28 @@
-/* ═══════════════════════════════════════════════════════
-   Nerithys — ui.js  (cards, filters, lightbox)
-   ═══════════════════════════════════════════════════════ */
+/* Nerithys — ui.js (cards, filters, lightbox) */
 (function () {
   'use strict';
 
-  /* ── Helpers ────────────────────────────────────── */
   var state = { all: [], filtered: [] };
 
   function qs(sel) { return document.querySelector(sel); }
-  function qsa(sel) { return document.querySelectorAll(sel); }
 
   function getBase() {
     if (typeof window.ASSET_PATH === 'string' && window.ASSET_PATH !== '') {
-      return window.ASSET_PATH.endsWith('/') ? window.ASSET_PATH : window.ASSET_PATH + '/';
+      var b = window.ASSET_PATH;
+      return b.endsWith('/') ? b : b + '/';
     }
     return './';
   }
 
-  /* ── Fetch fiches JSON ──────────────────────────── */
+  /* ── Fetch fiches.json ───────────────────────── */
   function fetchFiches() {
     var base = getBase();
-    // Try multiple paths for resilience
     var urls = [
       base + 'content/fiches.json',
       './content/fiches.json',
       'content/fiches.json'
     ];
-    // Dedupe
+    // dedupe
     var seen = {};
     urls = urls.filter(function (u) {
       if (seen[u]) return false;
@@ -36,41 +32,39 @@
 
     function tryFetch(i) {
       if (i >= urls.length) {
-        console.warn('[Nerithys] Could not load fiches.json from any path');
+        console.warn('[Nerithys] Could not load fiches.json');
         return Promise.resolve([]);
       }
       return fetch(urls[i])
-        .then(function (res) {
-          if (!res.ok) throw new Error(res.status);
-          return res.json();
+        .then(function (r) {
+          if (!r.ok) throw new Error(r.status);
+          return r.json();
         })
         .then(function (data) {
           if (Array.isArray(data)) return data;
           if (data && Array.isArray(data.fiches)) return data.fiches;
-          throw new Error('unexpected format');
+          throw new Error('bad format');
         })
-        .catch(function () {
-          return tryFetch(i + 1);
-        });
+        .catch(function () { return tryFetch(i + 1); });
     }
     return tryFetch(0);
   }
 
-  /* ── Difficulty helpers ─────────────────────────── */
-  function diffBadgeClass(n) {
-    if (n <= 1) return 'badge-green';
-    if (n === 2) return 'badge-teal';
-    if (n === 3) return 'badge-amber';
-    return 'badge-red';
-  }
+  /* ── Difficulty helpers ──────────────────────── */
   function diffLabel(n) {
     if (n <= 1) return 'Facile';
     if (n === 2) return 'Moyen';
     if (n === 3) return 'Difficile';
     return 'Expert';
   }
+  function diffBadgeClass(n) {
+    if (n <= 1) return 'badge-green';
+    if (n === 2) return 'badge-teal';
+    if (n === 3) return 'badge-amber';
+    return 'badge-red';
+  }
 
-  /* ── Create a card ──────────────────────────────── */
+  /* ── Create card ─────────────────────────────── */
   function createCard(item, index) {
     var base = getBase();
     var slug = item.slug || '';
@@ -81,8 +75,8 @@
     var card = document.createElement('div');
     card.className = 'card reveal';
     if (index !== undefined) {
-      var delayClass = index % 3;
-      if (delayClass > 0) card.className += ' reveal-delay-' + delayClass;
+      var d = index % 4;
+      if (d > 0) card.className += ' reveal-d' + Math.min(d, 3);
     }
 
     card.innerHTML =
@@ -96,15 +90,14 @@
           '<div class="card-sci">' + (item.scientificName || '') + '</div>' +
           '<div class="card-badges">' +
             '<span class="badge ' + diffBadgeClass(diff) + '">' + diffLabel(diff) + '</span>' +
-            '<span class="badge badge-slate">' + (item.biotope || '—') + '</span>' +
-            '<span class="badge badge-slate">' + (item.minVolumeL || '—') + ' L</span>' +
+            '<span class="badge badge-slate">' + (item.biotope || '') + '</span>' +
           '</div>' +
         '</div>' +
       '</a>';
     return card;
   }
 
-  /* ── Render cards ───────────────────────────────── */
+  /* ── Render cards ────────────────────────────── */
   function renderList(list) {
     var container = qs('#species-list');
     if (!container) return;
@@ -113,8 +106,7 @@
     if (!list.length) {
       container.innerHTML =
         '<div class="empty-state">' +
-          '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>' +
-          '<p>Aucune fiche trouvée</p>' +
+          '<p>Aucune fiche trouvée.</p>' +
         '</div>';
       return;
     }
@@ -126,7 +118,7 @@
       container.appendChild(createCard(item, i));
     });
 
-    // Trigger reveal for dynamically created cards
+    // Trigger reveal
     requestAnimationFrame(function () {
       if ('IntersectionObserver' in window) {
         var obs = new IntersectionObserver(function (entries) {
@@ -136,7 +128,7 @@
               obs.unobserve(e.target);
             }
           });
-        }, { threshold: 0.08, rootMargin: '0px 0px -20px 0px' });
+        }, { threshold: 0.08 });
         container.querySelectorAll('.reveal').forEach(function (el) { obs.observe(el); });
       } else {
         container.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('visible'); });
@@ -146,13 +138,12 @@
     // Update counter
     var counter = qs('#resultsCount');
     if (counter) {
-      var total = state.all.length;
       counter.textContent = toShow.length + ' fiche' + (toShow.length > 1 ? 's' : '') +
-        (featured ? '' : ' sur ' + total);
+        (featured ? '' : ' sur ' + state.all.length);
     }
   }
 
-  /* ── Filters ────────────────────────────────────── */
+  /* ── Filters ─────────────────────────────────── */
   function applyFilters() {
     var qVal = (qs('#q') ? qs('#q').value : '').trim().toLowerCase();
     var bio = qs('#biotope') ? qs('#biotope').value : 'all';
@@ -160,9 +151,9 @@
 
     state.filtered = state.all.filter(function (it) {
       if (qVal) {
-        var haystack = [it.name, it.scientificName, it.biotope, it.family, it.notes]
+        var hay = [it.name, it.scientificName, it.biotope, it.notes]
           .filter(Boolean).join(' ').toLowerCase();
-        if (haystack.indexOf(qVal) === -1) return false;
+        if (hay.indexOf(qVal) === -1) return false;
       }
       if (bio !== 'all' && it.biotope !== bio) return false;
       if (diff !== 'all' && String(it.difficulty) !== diff) return false;
@@ -184,7 +175,7 @@
     });
   }
 
-  /* ── Lightbox ───────────────────────────────────── */
+  /* ── Lightbox ────────────────────────────────── */
   function setupLightbox() {
     var lb = qs('#lightbox');
     if (!lb) return;
@@ -205,43 +196,49 @@
     }
 
     document.addEventListener('click', function (e) {
-      // Open on image click
-      var target = e.target.closest('.card-img, .fiche-hero-img');
+      var target = e.target.closest('.fiche-hero-img');
       if (target && target.src) {
         e.preventDefault();
         e.stopPropagation();
         openLB(target.src);
         return;
       }
-      // Close
-      if (e.target === lb || e.target.closest('.close')) {
+      if (e.target === lb || e.target.closest('.close-btn')) {
         closeLB();
       }
     });
-
     document.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape' && lb.classList.contains('open')) {
-        closeLB();
-      }
+      if (e.key === 'Escape' && lb.classList.contains('open')) closeLB();
     });
   }
 
-  /* ── Init ───────────────────────────────────────── */
+  /* ── Reset filters ───────────────────────────── */
+  function setupReset() {
+    var btn = qs('#resetFilters');
+    if (!btn) return;
+    btn.addEventListener('click', function () {
+      var q = qs('#q');
+      var bio = qs('#biotope');
+      var diff = qs('#difficulty');
+      if (q) q.value = '';
+      if (bio) bio.value = 'all';
+      if (diff) diff.value = 'all';
+      applyFilters();
+    });
+  }
+
+  /* ── Init ────────────────────────────────────── */
   function init() {
     fetchFiches().then(function (data) {
       state.all = data || [];
       state.filtered = state.all.slice();
 
-      // Update stat counter if present
       var statEl = qs('#statSpecies');
-      if (statEl && state.all.length) {
-        statEl.textContent = state.all.length;
-      }
+      if (statEl && state.all.length) statEl.textContent = state.all.length;
 
       populateBiotopes(state.all);
       renderList(state.filtered);
 
-      // Bind filter events
       var qInput = qs('#q');
       var bioSelect = qs('#biotope');
       var diffSelect = qs('#difficulty');
@@ -250,9 +247,9 @@
       if (diffSelect) diffSelect.addEventListener('change', applyFilters);
     });
     setupLightbox();
+    setupReset();
   }
 
-  // Run init if #species-list exists (homepage or listing)
   if (qs('#species-list')) {
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', init);
@@ -260,7 +257,6 @@
       init();
     }
   } else {
-    // Fiche detail page: just setup lightbox
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', setupLightbox);
     } else {

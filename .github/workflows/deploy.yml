@@ -10,21 +10,11 @@ permissions:
   contents: read
 
 jobs:
-  lint:
-    name: Lint codebase
+  build-deploy:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Run Super-Linter
-        uses: github/super-linter@v5
-        continue-on-error: true
-        env:
-          VALIDATE_ALL_CODEBASE: true
-          DEFAULT_BRANCH: main
-
-  build:
-    needs: lint
-    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -36,24 +26,14 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build CSS
-        run: npm run build:css
-
-      - name: Generate responsive images
-        run: npm run images:generate
-
       - name: Build static site
-        run: npm run build
+        run: node scripts/build.js
 
       - name: Upload Pages artifact
-        id: upload-artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: 'public'
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+        id: deployment
+        uses: actions/deploy-pages@v4
