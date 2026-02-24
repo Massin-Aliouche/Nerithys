@@ -279,6 +279,9 @@ function build() {
     fs.copyFileSync(path.join(ROOT, 'index.html'), path.join(PUB, 'index.html'));
   }
 
+  // .nojekyll (prevent Jekyll processing on GitHub Pages)
+  fs.writeFileSync(path.join(PUB, '.nojekyll'), '', 'utf8');
+
   // Build outputs
   buildFichesJson(fiches);
   buildListing();
