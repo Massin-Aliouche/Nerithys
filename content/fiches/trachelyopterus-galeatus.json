@@ -2,7 +2,7 @@
   "name": "Trachelyopterus galeatus",
   "scientificName": "Trachelyopterus galeatus",
   "slug": "trachelyopterus-galeatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 20,
   "tempMax": 24,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/5a/Parauchenipterus_paseae.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

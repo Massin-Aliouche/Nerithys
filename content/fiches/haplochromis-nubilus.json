@@ -2,7 +2,7 @@
   "name": "Haplochromis nubilus",
   "scientificName": "Haplochromis nubilus",
   "slug": "haplochromis-nubilus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 17,
   "tempMax": 32,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_fishes_of_the_Nile_%28Pl._XCI%29_%286961628691%29.jpg/960px-The_fishes_of_the_Nile_%28Pl._XCI%29_%286961628691%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sphyraena_obtusata_Day.png/960px-Sphyraena_obtusata_Day.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

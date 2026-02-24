@@ -19,7 +19,9 @@
   "diet": "Algivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/267881/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

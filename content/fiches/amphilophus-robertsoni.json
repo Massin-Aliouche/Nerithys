@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Biologia_centrali-americana._Pisces_%281906%29_%2820565899548%29.jpg/960px-Biologia_centrali-americana._Pisces_%281906%29_%2820565899548%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

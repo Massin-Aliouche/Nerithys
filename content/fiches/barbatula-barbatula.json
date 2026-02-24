@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/127993_bermpje_barbatula_barbatula_kleiner_25.32018_sprengen_apeldoorn9278.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

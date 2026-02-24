@@ -2,7 +2,7 @@
   "name": "Paros à queue rouge*",
   "scientificName": "Parosphromenus phoenicurus",
   "slug": "parosphromenus-phoenicurus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/170025838/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

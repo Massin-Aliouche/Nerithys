@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Centrogenys_vaigiensis.JPG/960px-Centrogenys_vaigiensis.JPG"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -2,7 +2,7 @@
   "name": "Combattant belliqueux",
   "scientificName": "Betta bellica",
   "slug": "betta-bellica",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 23,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Bien qu’il puisse être maintenu dans un aquarium planté, de nombreux éleveurs préfèrent ne pas utiliser de substrat pour faciliter l'entretien. Les racines et les branches de bois flotté peuvent être utilisées et placées de manière à former quelques points ombragés, tandis que des pots en argile ou des morceaux de tuyaux peuvent également être inclus pour fournir un abri supplémentaire. Comme b...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Betta_albimarginata_060311_8.jpg/960px-Betta_albimarginata_060311_8.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

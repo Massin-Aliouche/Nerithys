@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/csr%2FMarionHaarsmaEUX015Melichthysniger001.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

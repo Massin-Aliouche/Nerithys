@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pseudechidnabrummeri.jpg/960px-Pseudechidnabrummeri.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -2,7 +2,7 @@
   "name": "Haplochromis multiocellatus",
   "scientificName": "Haplochromis multiocellatus",
   "slug": "haplochromis-multiocellatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8c/Haplochromis_multiocellatus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

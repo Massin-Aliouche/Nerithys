@@ -2,7 +2,7 @@
   "name": "Hyphessobrycon copelandi",
   "scientificName": "Hyphessobrycon copelandi",
   "slug": "hyphessobrycon-copelandi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 24,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hyphessobrycon_copelandi_%28MZUEL_7814%29.png/960px-Hyphessobrycon_copelandi_%28MZUEL_7814%29.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

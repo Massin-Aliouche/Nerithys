@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pseudomugil_furcatus_m_Aquarium_DG.jpg/960px-Pseudomugil_furcatus_m_Aquarium_DG.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

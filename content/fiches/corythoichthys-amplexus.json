@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/45/Banded_Pipefish.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

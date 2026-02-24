@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "En cours de rédaction Très peu de données sont disponibles en ce qui concerne spécifiquement Carinotetraodon borneensis. C'est une espèce qui vit à l'état sauvage dans des eaux douces et acides. On se référera à la maintenance de son congénère C. salivator ou de C. lorteti.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tetrodon_borneensis.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

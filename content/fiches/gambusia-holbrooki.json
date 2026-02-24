@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovovivipare, difficulté: Courante",
   "notes": "Attention ! : L'espèce est prolifique et assez agressive, ce qui la rend peu populaire dans le passe-temps. Souvent introduite en poubellarium ou en bassin pour lutter contre les moustiques, on a cependant démontré que son impact était minime contre les moustiques et dévastateur pour la faune sauvage. G. holbrooki est abondant dans les milieux côtiers, à proximité d'une végétation dense, et pré...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/17944758/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

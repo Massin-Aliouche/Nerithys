@@ -2,7 +2,7 @@
   "name": "Corydoras à deux lignes",
   "scientificName": "Corydoras parallelus",
   "slug": "corydoras-parallelus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "On ne sait pas grand chose de ce Corydoras rare. On se référera donc à la maintenance des autres espèces du genre. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reproduire au mieux leur habitat. Un substrat constitué de sable fin nu sera indispensable ...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Corydoras_paleatus_in_current.jpg/960px-Corydoras_paleatus_in_current.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

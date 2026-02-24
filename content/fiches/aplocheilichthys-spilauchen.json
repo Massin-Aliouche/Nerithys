@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/23/FMIB_45849_Aplocheilichthys_typus.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dusky_anchovy_%28_Anchoa_lyolepis_%29.jpg/960px-Dusky_anchovy_%28_Anchoa_lyolepis_%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

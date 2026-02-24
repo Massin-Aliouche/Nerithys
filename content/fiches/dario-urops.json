@@ -2,7 +2,7 @@
   "name": "Dario Malabar",
   "scientificName": "Dario urops",
   "slug": "dario-urops",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 21,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "En cours de mise à jour : Pour la maintenance et la reproduction et en l'absence de données précises, on se référera à celles des autres badidés",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/209966/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

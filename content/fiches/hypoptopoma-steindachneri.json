@@ -2,7 +2,7 @@
   "name": "Hypoptopome de Steindachner",
   "scientificName": "Hypoptopoma steindachneri",
   "slug": "hypoptopoma-steindachneri",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 3,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Végétarien",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "On ne sait rien de cette espèce en aquarium, et on se reportera aux fiches des autres membres du genre susceptibles de fréquenter le même biotope pour assurer sa maintenance et son élevage. Prévoyez cependant des cachettes ombragées dans un réservoir planté avec des rochers ou des structures semblables à des grottes et un sol sableux. Le maintien des Hypoptopoma est comparable à celui des Otoci...",
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/48343704/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -2,7 +2,7 @@
   "name": "Corydoras du Rio Potaro",
   "scientificName": "Corydoras potaroensis",
   "slug": "corydoras-potaroensis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reproduire au mieux leur habitat. Un substrat constitué de sable fin nu sera indispensable à leur bien-être. Les corydoras sont des fouisseurs actifs muni de fragiles barbillons et un substrat coupant ou ab...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fish_species_collected_in_the_southern_Guiana_Shield_tributaries_of_the_Amazonas_River-2.jpg/960px-Fish_species_collected_in_the_southern_Guiana_Shield_tributaries_of_the_Amazonas_River-2.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

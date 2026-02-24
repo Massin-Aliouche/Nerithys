@@ -2,7 +2,7 @@
   "name": "Tétra à nageoires noires",
   "scientificName": "Alestopetersius nigropterus",
   "slug": "alestopetersius-nigropterus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 2,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "L'habitat naturel ou la biologie sont mal documentés mais cette espèce est fluviale et a besoin d'espace. On lui réservera un bac de type rivière (tout en longueur) d'au moins un mètre pour accueillir un groupe de six poissons. On privilégiera une température de l'eau assez stable comprise entre 24 à 26 °C, un pH plutôt acide à neutre, et une dureté faible à moyenne. Le bac idéal sera composé d...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/de/Gelber_kongosalmler.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

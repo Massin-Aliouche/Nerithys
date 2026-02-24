@@ -2,7 +2,7 @@
   "name": "Badis Soraya",
   "scientificName": "Badis soraya",
   "slug": "badis-soraya",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Les données de terrain ne sont pas disponibles et les comptes-rendus de maintenance inexistants. Le climat local est chaud et humide et soumis à une saison de pluies marquée et la rivière soumise au crues de printemps. On peut donc supposer que les poissons sont soumis à de fortes variations saisonnières. Pour le reste, on se référera à la maintenance d'autres Badis plus communs en aquariophilie.",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/243245/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

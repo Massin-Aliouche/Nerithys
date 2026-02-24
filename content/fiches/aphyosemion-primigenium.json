@@ -2,7 +2,7 @@
   "name": "Aphyosemion primigenium",
   "scientificName": "Aphyosemion primigenium",
   "slug": "aphyosemion-primigenium",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aphyosemion_primigenium_GEB_94-21_male.jpg/960px-Aphyosemion_primigenium_GEB_94-21_male.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

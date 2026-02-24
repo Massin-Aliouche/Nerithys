@@ -2,7 +2,7 @@
   "name": "Apistogramma lineata",
   "scientificName": "Apistogramma lineata",
   "slug": "apistogramma-lineata",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/137107923/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

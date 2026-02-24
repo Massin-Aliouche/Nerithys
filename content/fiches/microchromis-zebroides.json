@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cynotilapia_zebro%C3%AFde_Ndonga_Deep_%28Wild%29.jpg/960px-Cynotilapia_zebro%C3%AFde_Ndonga_Deep_%28Wild%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

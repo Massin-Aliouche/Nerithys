@@ -2,7 +2,7 @@
   "name": "Austrolebias varzeae",
   "scientificName": "Austrolebias varzeae",
   "slug": "austrolebias-varzeae",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 20,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/4566899/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

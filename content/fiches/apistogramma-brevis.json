@@ -2,7 +2,7 @@
   "name": "Apistogramma brevis",
   "scientificName": "Apistogramma brevis",
   "slug": "apistogramma-brevis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 25,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Apistogramma_bitaeniata.jpg/960px-Apistogramma_bitaeniata.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

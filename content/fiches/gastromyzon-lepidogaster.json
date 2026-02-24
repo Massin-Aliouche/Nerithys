@@ -2,7 +2,7 @@
   "name": "Gastromyzon lepidogaster",
   "scientificName": "Gastromyzon lepidogaster",
   "slug": "gastromyzon-lepidogaster",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/13836748/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovovivipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Belonesox_belizanus_%28Wroclaw_zoo%29.JPG/960px-Belonesox_belizanus_%28Wroclaw_zoo%29.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

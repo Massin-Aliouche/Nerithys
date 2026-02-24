@@ -2,7 +2,7 @@
   "name": "Characidium gomesi",
   "scientificName": "Characidium gomesi",
   "slug": "characidium-gomesi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e2/Characidium_gomesi_preserved.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

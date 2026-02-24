@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "L'espèce est territoriale",
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/85229548/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

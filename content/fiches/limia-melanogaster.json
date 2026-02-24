@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovovivipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Limia_melanogaster.jpg/960px-Limia_melanogaster.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Manjuba_%28Anchoviella_vaillant%29_by_Andr%C3%A9_Koehne.png/960px-Manjuba_%28Anchoviella_vaillant%29_by_Andr%C3%A9_Koehne.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

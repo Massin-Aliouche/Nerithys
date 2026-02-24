@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/27897380/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

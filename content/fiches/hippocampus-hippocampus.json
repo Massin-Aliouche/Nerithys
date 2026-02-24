@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/121381_kortsnuit_zeepaardje_hippocampus_hippo_zwanger_mannetje_eten572008zeelandbrug1754.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

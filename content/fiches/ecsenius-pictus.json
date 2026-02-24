@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecsenius_pictus.jpg/960px-Ecsenius_pictus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -2,7 +2,7 @@
   "name": "Rasbora nain rouge",
   "scientificName": "Microrasbora rubescens",
   "slug": "microrasbora-rubescens",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 3,
   "tempMin": 21,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Courante",
   "notes": "On trouve Microrasbora rubescens dans les eaux calmes et lentes, peu profonde, avec un fond densément végétalisé et une végétation flottante. L'eau du lac est claire, bien qu'elle puisse être localement boueuse et trouble lors de la saison des pluies, et le substrat limoneux est très fertile. La géologie locale est essentiellement karstique et le milieu est riche en carbonate de calcium. L'eau ...",
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/394773225/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

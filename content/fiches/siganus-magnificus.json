@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Siganus_magnificus_1.jpg/960px-Siganus_magnificus_1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

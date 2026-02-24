@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hypophthalmichthys_nobilis_%28Bighead_carp%29.jpg/960px-Hypophthalmichthys_nobilis_%28Bighead_carp%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

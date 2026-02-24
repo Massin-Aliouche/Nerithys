@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": null,
   "notes": "Il lui faut donc un substrat composé d'une couche de sable fin d'une épaisseur légèrement supérieure à sa taille qu'il conviendra d'augmenter au fur et à mesure de sa croissance. Le décor peut également être composé de galets et de racines sur lesquelles pourront être fixés des plantes épiphytes et des mousses, le tout sur une surface relativement restreinte. Les plantes à tiges sont à proscrir...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tetraodon_miurus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

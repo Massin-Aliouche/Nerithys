@@ -2,7 +2,7 @@
   "name": "Tétra de Savage",
   "scientificName": "Hyphessobrycon savagei",
   "slug": "hyphessobrycon-savagei",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/3714614/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

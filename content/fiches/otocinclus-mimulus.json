@@ -2,7 +2,7 @@
   "name": "Otocinclus imitateur",
   "scientificName": "Otocinclus mimulus",
   "slug": "otocinclus-mimulus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Algivore",
   "breeding": null,
   "notes": "Dans son biotope, la température en hiver varie entre 17 à 19 °C et augment assez peu en été, de 20 à 23,5 °C Il faudra tenir compte de cette particularité pour la maintenance en aquarium en évitant les coups de chaleur en été . Le pH varie dans l'habitat entre 6,52 à 7,73 selon les mesures effectuées par les descripteurs. La conductivité est extrêmement faible, de 9 à 21 µS/cm, la dureté quasi...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/17754072/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce"

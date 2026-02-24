@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pseudochromis_aldabraensis_-_Aldabra_Zwergbarsch.jpg/960px-Pseudochromis_aldabraensis_-_Aldabra_Zwergbarsch.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

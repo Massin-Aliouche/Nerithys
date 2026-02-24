@@ -2,7 +2,7 @@
   "name": "Macropode malais",
   "scientificName": "Belontia hasselti",
   "slug": "belontia-hasselti",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 21,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Potamodrome Qui migre exclusivement dans les cours d'eau douce.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/b0/Belont_hasselt_100523-1755_sap.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

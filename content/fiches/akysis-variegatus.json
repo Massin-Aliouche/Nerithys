@@ -2,7 +2,7 @@
   "name": "Akysis variegatus",
   "scientificName": "Akysis variegatus",
   "slug": "akysis-variegatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c8/Akysis_sp.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

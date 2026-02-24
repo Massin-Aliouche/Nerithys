@@ -2,7 +2,7 @@
   "name": "Pseudotropheus interruptus",
   "scientificName": "Pseudotropheus interruptus",
   "slug": "pseudotropheus-interruptus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 24,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/119848220/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

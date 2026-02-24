@@ -2,7 +2,7 @@
   "name": "Xiphophorus couchianus",
   "scientificName": "Xiphophorus couchianus",
   "slug": "xiphophorus-couchianus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 27,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovovivipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/28/016776F000199W000002.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

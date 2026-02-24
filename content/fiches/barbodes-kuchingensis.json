@@ -2,7 +2,7 @@
   "name": "Faux Barbus T",
   "scientificName": "Barbodes kuchingensis",
   "slug": "barbodes-kuchingensis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "On trouve principalement Barbodes kuchingensis dans les ruisseaux forestiers peu profonds contenant de l'eau claire, parfois dans les bassins qui se forment au pied des cascades. Les substrats peuvent comprendre des roches lisses et usées par l'eau et des rochers de différentes tailles, du sable ou du gravier, souvent avec des structures ligneuses submergées, de la litière de feuilles et des pl...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/4d/Puntius_kuchingensis.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

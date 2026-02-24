@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/2988639/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

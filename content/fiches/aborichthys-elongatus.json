@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "Il est recommandé de le maintenir dans un aquarium conçu pour ressembler à un cours d'eau de montagne avec un substrat composé de roches de taille variable, de sable, de gravier fin et de quelques gros rochers usés par l'eau. Ce substrat peut être complété par des branches de bois flotté disposées de manière à former un réseau de cachettes et d'endroits ombragés que cette espèce curieuse pourra...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/181206596/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

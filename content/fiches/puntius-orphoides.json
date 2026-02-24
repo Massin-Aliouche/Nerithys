@@ -2,7 +2,7 @@
   "name": "Puntius orphoides",
   "scientificName": "Puntius orphoides",
   "slug": "puntius-orphoides",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Punti_orpho_120127-22776_tsm.JPG/960px-Punti_orpho_120127-22776_tsm.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

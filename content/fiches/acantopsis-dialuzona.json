@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Impossible",
   "notes": "Il n'est pas difficile à maintenir, mais il faut lui fournir un substrat doux et sablonneux, car il passera une partie de son temps complètement enterré, ou avec seulement les yeux qui dépassent. Lorsqu'un matériau plus grossier est utilisé, il peut être stressé ou se blesser en essayant de creuser, et son comportement alimentaire peut être inhibé. D'autres éléments de décor peuvent être des ro...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Acantopsis_dialuzona.jpg/960px-Acantopsis_dialuzona.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -2,7 +2,7 @@
   "name": "Betta patoti",
   "scientificName": "Betta patoti",
   "slug": "betta-patoti",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/223937715/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

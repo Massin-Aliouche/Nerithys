@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/dc/Corroncho_del_lago_de_Valencia.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

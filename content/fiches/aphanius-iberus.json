@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peces_barr.JPG/960px-Peces_barr.JPG"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

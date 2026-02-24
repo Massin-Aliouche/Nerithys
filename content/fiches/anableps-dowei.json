@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f9/FMIB_51859_Four-eyed_Fish%2C_Anableps_dovii_Gill_Tehuantepee%2C_Mexico.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -2,7 +2,7 @@
   "name": "Neolamprologus pulcher",
   "scientificName": "Neolamprologus pulcher",
   "slug": "neolamprologus-pulcher",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/92608147/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -2,7 +2,7 @@
   "name": "Microglanis cottoides",
   "scientificName": "Microglanis cottoides",
   "slug": "microglanis-cottoides",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Freshwater_fish_species_of_the_Brazilian_coastal_drainages.png/960px-Freshwater_fish_species_of_the_Brazilian_coastal_drainages.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

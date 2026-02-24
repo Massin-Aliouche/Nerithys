@@ -2,7 +2,7 @@
   "name": "Characidium mirim",
   "scientificName": "Characidium mirim",
   "slug": "characidium-mirim",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/215865/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

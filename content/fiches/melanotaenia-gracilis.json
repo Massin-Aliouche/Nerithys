@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Peu d'informations sont disponibles concernant la biologie de l'espèce autre qu'une préférence pour les eaux claires et la reproduction a lieu entre 20 et 26°C (Leggett et Merrick 1987). Attention ! : Son habitat est soumis à des changements saisonniers en termes de température et de chimie de l'eau, ce qui en fait une espèce adaptable pour les uns, mais compliquée à satisfaire pour les autres....",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8d/Red_m_boesemani.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

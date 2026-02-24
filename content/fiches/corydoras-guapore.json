@@ -2,7 +2,7 @@
   "name": "Corydoras du Rio Guaporé",
   "scientificName": "Corydoras guapore",
   "slug": "corydoras-guapore",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 21,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "L'espèce est franchement grégaire et fluviale. Maintenez le plus grand groupe possible, au moins une douzaine si possible, mais beaucoup plus dans un grand bac \"rivière\" est préférable. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reproduire au mieux ...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/4551331/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

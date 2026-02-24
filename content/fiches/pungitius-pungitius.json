@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/122681_1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

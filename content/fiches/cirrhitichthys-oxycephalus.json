@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pez_halc%C3%B3n_de_coral_%28Cirrhitichthys_oxycephalus%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_08.jpg/960px-Pez_halc%C3%B3n_de_coral_%28Cirrhitichthys_oxycephalus%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_08.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

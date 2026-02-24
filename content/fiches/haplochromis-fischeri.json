@@ -2,7 +2,7 @@
   "name": "Haplochromis fischeri",
   "scientificName": "Haplochromis fischeri",
   "slug": "haplochromis-fischeri",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 20,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Alphonse_Milne-Edwards_par_Truchelut_et_Valkman_BNF_Gallica.jpg/960px-Alphonse_Milne-Edwards_par_Truchelut_et_Valkman_BNF_Gallica.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

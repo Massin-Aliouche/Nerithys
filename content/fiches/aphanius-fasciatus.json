@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Courante",
   "notes": "Un harem peut être conservé dans un aquarium d'un soixantaine de litres, mais comme pour les autres Aphanius, il est préférable de constituer un groupe plus large en adaptant le volume. Il est préférable de le maintenir en spécifique et vu sa rareté en aquariophilie, la reproduction doit être l'objectif absolu. Pour maintenir cette espèce, il est indispensable de fournir aux femelles et mâles s...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/243935513/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

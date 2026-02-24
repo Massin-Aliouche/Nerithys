@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Catfish_%28Monte_Alegre%2C_Teffe%2C_Brazil%2C_24_August_and_13_October_1865%3B_3_fish%29.jpg/960px-Catfish_%28Monte_Alegre%2C_Teffe%2C_Brazil%2C_24_August_and_13_October_1865%3B_3_fish%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

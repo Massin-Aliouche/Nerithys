@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bleeker%E2%80%99s_parrotfish_Chlorurus_bleekeri_%287569623234%29.jpg/960px-Bleeker%E2%80%99s_parrotfish_Chlorurus_bleekeri_%287569623234%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

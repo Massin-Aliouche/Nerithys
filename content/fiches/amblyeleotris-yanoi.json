@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gobi_and_shrimp.jpg/960px-Gobi_and_shrimp.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

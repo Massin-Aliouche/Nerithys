@@ -2,7 +2,7 @@
   "name": "Corydoras de Natterer",
   "scientificName": "Corydoras nattereri",
   "slug": "corydoras-nattereri",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 20,
   "tempMax": 24,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Corydoras nattereri se porte mieux à des températures légèrement fraîches, autour de 20 à 23 °C. Il peut être maintenu dans un réservoir non chauffé à condition que la pièce soit chauffée en hiver. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reprodui...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Corydoras_nattereri.JPG/960px-Corydoras_nattereri.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

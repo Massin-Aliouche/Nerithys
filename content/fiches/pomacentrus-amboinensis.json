@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pomacentrus_amboinensis.jpg/960px-Pomacentrus_amboinensis.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

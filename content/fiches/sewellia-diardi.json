@@ -2,7 +2,7 @@
   "name": "Loche de Diard*",
   "scientificName": "Sewellia diardi",
   "slug": "sewellia-diardi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 18,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Algivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Il n'existe pas de rapport de maintenance pour cette espèce mais, compte tenu de son milieu avéré, celle-ci ne doit pas différer de celle des autres membres du genre. Les Sewellia spp. sont principalement limitées aux sources et aux affluents peu profonds, à courant rapide et très oxygénés, caractérisés par des tronçons de rapides et de ruisseaux entrecoupés de bassins ou de cascades dans certa...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hillstream_Loach.JPG/960px-Hillstream_Loach.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce"

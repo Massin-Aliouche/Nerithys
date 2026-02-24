@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sailfin_Tang_%28Zebrasoma_veliferum%29_-_GRB.jpg/960px-Sailfin_Tang_%28Zebrasoma_veliferum%29_-_GRB.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

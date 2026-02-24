@@ -2,7 +2,7 @@
   "name": "Tatia boemia",
   "scientificName": "Tatia boemia",
   "slug": "tatia-boemia",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/5419972/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

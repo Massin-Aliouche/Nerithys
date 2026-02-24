@@ -2,7 +2,7 @@
   "name": "Potamotrygon scobina",
   "scientificName": "Potamotrygon scobina",
   "slug": "potamotrygon-scobina",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Vivipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/892755/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hoplolatilus_purpureus.jpg/960px-Hoplolatilus_purpureus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

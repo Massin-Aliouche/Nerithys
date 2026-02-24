@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fish_species_collected_from_sandy_beaches_of_the_Acre_river_Brazil_%283_of_5%29.png/960px-Fish_species_collected_from_sandy_beaches_of_the_Acre_river_Brazil_%283_of_5%29.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

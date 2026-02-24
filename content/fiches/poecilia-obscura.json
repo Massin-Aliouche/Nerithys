@@ -2,7 +2,7 @@
   "name": "Poecilia obscura",
   "scientificName": "Poecilia obscura",
   "slug": "poecilia-obscura",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/190847/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

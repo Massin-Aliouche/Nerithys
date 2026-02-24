@@ -2,7 +2,7 @@
   "name": "Egosuso",
   "scientificName": "Acanthodoras spinosissimus",
   "slug": "acanthodoras-spinosissimus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Acanthodoras_spinosissiums.jpg/960px-Acanthodoras_spinosissiums.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

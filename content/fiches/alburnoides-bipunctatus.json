@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/2a/Alburnoides_bipunctatus_sujt%C3%A1sos_k%C3%BCsz.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

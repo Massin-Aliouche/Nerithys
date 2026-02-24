@@ -2,7 +2,7 @@
   "name": "Anguille épineuse tachetée",
   "scientificName": "Macrognathus maculatus",
   "slug": "macrognathus-maculatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 3,
   "tempMin": 22,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Macrognathus maculatus fréquente les cours d'eau des zones de plaine et de hautes terres et les tourbières marécageuses. On la trouve dans les cours d'eau forestiers ombragés aux eaux acides et à la végétation dense submergée et aux lits de litière de feuilles. On la trouve aussi dans les eaux claires sur fond rocheux des cours d'eau vive.(Potamodrome Qui migre exclusivement dans les cours d'ea...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cuvier-55-Notacanthe-Mastacemble.jpg/960px-Cuvier-55-Notacanthe-Mastacemble.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

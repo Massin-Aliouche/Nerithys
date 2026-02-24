@@ -2,7 +2,7 @@
   "name": "Acaronia vultuosa",
   "scientificName": "Acaronia vultuosa",
   "slug": "acaronia-vultuosa",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 28,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Acaronia_vulpinus.jpg/960px-Acaronia_vulpinus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

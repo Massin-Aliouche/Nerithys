@@ -2,7 +2,7 @@
   "name": "Silure pointillé",
   "scientificName": "Ancistrus hoplogenys",
   "slug": "ancistrus-hoplogenys",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Végétarien",
   "breeding": "Ovipare",
   "notes": "Les Ancistrus hoplogenys ne sont pas agressifs envers les autres espèces. Les mâles peuvent néanmoins se battre pour un territoire s'ils sont gardés dans un réservoir trop petit ou possédant trop peu de territoires.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/52/NoImageBigSquare.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

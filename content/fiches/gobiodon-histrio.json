@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gobiodon_histrio.jpg/960px-Gobiodon_histrio.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

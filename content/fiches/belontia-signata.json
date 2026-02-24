@@ -2,7 +2,7 @@
   "name": "Macropode srilankais",
   "scientificName": "Belontia signata",
   "slug": "belontia-signata",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 3,
   "tempMin": 20,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Belontia signata fréquente les cours d’eau forestiers à débit lent, peu profonds et clairs, généralement avec un substrat de galets ou de sable. Un substrat meuble et sablonneux avec des racines et des branches de bois placées de manière à former de nombreux endroits ombragés et des grottes sera privilégié. L’ajout de litière de feuilles séchées (les feuilles de hêtre, de chêne ou autres accent...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/104005992/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

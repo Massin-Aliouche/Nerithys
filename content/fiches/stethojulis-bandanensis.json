@@ -19,7 +19,9 @@
   "diet": "Planctonivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stethojulis_bandanensis.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -2,7 +2,7 @@
   "name": "Potamotrygon tigrina",
   "scientificName": "Potamotrygon tigrina",
   "slug": "potamotrygon-tigrina",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/152827200/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

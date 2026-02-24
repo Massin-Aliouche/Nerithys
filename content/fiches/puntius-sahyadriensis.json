@@ -2,7 +2,7 @@
   "name": "Puntius sahyadriensis",
   "scientificName": "Puntius sahyadriensis",
   "slug": "puntius-sahyadriensis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 20,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8f/Puntius_sahyadriensis.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -2,7 +2,7 @@
   "name": "Brochet-characin tacheté",
   "scientificName": "Boulengerella maculata",
   "slug": "boulengerella-maculata",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 3,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/57964352/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

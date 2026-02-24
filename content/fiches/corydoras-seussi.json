@@ -2,7 +2,7 @@
   "name": "Corydoras de Seuss",
   "scientificName": "Corydoras seussi",
   "slug": "corydoras-seussi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Les trois espèces mentionnées plus avant, Corydoras seussi, C. gossei, CW069 qui fréquentent les mêmes lieux, aiment une température assez chaude dans l’aquarium. Ces Corydoras sont considérés comme thermophiles (26-30°C), ce qui en fait des compagnons idéaux pour les aquariums Discus. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/ce/Corydoras_seussi_01.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

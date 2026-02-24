@@ -2,7 +2,7 @@
   "name": "Aphyosemion bualanum",
   "scientificName": "Aphyosemion bualanum",
   "slug": "aphyosemion-bualanum",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 24,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/10629184/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

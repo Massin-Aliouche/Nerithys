@@ -2,7 +2,7 @@
   "name": "Poisson crayon doré",
   "scientificName": "Nannostomus beckfordi",
   "slug": "nannostomus-beckfordi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 24,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/923588/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

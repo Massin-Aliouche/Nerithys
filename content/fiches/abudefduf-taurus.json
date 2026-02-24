@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abudefduf_taurus_192647693.jpg/960px-Abudefduf_taurus_192647693.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

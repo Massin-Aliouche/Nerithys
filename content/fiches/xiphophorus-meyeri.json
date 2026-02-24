@@ -2,7 +2,7 @@
   "name": "Xiphophorus meyeri",
   "scientificName": "Xiphophorus meyeri",
   "slug": "xiphophorus-meyeri",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 18,
   "tempMax": 20,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovovivipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Xiphophorus_meyeri_%281%29.jpg/960px-Xiphophorus_meyeri_%281%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

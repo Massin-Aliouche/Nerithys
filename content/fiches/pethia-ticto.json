@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": "Vu la diversité et la taille de son aire de répartition, les paramètres de maintenance sont assez larges et l'espèce probablement très adaptable. Il est toutefois recommandé de se renseigner auprès du vendeur sur les paramètres qu'il utilise pour le maintenir. C'est une espèce pacifique, qui convient parfaitement à un aquarium communautaire. Grégaire, il est souhaitable de le maintenir en group...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d5/Puntius_ticto.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

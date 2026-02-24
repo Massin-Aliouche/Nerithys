@@ -2,7 +2,7 @@
   "name": "Hypoptopome inconnu",
   "scientificName": "Hypoptopoma incognitum",
   "slug": "hypoptopoma-incognitum",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 18,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Végétarien",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Le maintien des Hypoptopoma est comparable à celui des Otocinclus beaucoup plus fréquents en aquarium. Les grands Hypoptopoma ont cependant besoin de plus de nourriture que les Otocinclus et, au cas où il ne pousserait pas assez d'algues dans le bac de maintenance, il sera nécessaire de les nourrir avec des comprimés alimentaires à base de spiruline ou des tranches de légumes pochés ou crus pou...",
-  "images": [],
+  "images": [
+    "http://pwt.pensoft.net//showfigure.php?filename=big_6298.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce"

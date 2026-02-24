@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dischistodus_pseudochrysopoecilus_28937577.jpg/960px-Dischistodus_pseudochrysopoecilus_28937577.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

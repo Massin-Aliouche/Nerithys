@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Whitetail_surgeonfish_%28Acanthurus_thompsoni%29_%2846864394875%29.jpg/960px-Whitetail_surgeonfish_%28Acanthurus_thompsoni%29_%2846864394875%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -2,7 +2,7 @@
   "name": "Nothobranchius palmqvisti",
   "scientificName": "Nothobranchius palmqvisti",
   "slug": "nothobranchius-palmqvisti",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 18,
   "tempMax": 20,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Nothobranchius_palmqvisti.jpg/960px-Nothobranchius_palmqvisti.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

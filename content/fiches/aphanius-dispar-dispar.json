@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/The_fishes_of_the_Nile_%28Pl._LXXIX%29_%286961625285%29.jpg/960px-The_fishes_of_the_Nile_%28Pl._LXXIX%29_%286961625285%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

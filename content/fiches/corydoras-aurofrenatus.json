@@ -2,7 +2,7 @@
   "name": "Corydoras à joues dorées",
   "scientificName": "Corydoras aurofrenatus",
   "slug": "corydoras-aurofrenatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Courante",
   "notes": "Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reproduire au mieux leur habitat. Un substrat constitué de sable fin nu sera indispensable à leur bien-être. Les corydoras sont des fouisseurs actifs muni de fragiles barbillons et un substrat coupant ou ab...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Annals_of_the_Carnegie_Museum_%281906%29_%2818225673680%29.jpg/960px-Annals_of_the_Carnegie_Museum_%281906%29_%2818225673680%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

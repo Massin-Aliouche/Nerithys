@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/9c/DandaraDHred.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

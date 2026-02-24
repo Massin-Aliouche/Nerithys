@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Plectorhinchus_chaetodonoides.JPG/960px-Plectorhinchus_chaetodonoides.JPG"
+  ],
   "gallery": [],
   "tags": [
     "marin",

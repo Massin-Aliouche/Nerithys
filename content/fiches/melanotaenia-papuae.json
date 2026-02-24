@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "On trouve généralement l'arc-en-ciel papou dans les forêts tropicales humides et les cours d'eau douce côtiers, où ils coexistent souvent avec Melanotaenia goldiei. La température de l'eau dans ces sites était de 25 à 33 °C avec un pH de 7,3 à 7,8. Allen a cependant découvert que M. goldiei préférait les cours d'eau qui coulent assez rapidement, moins troubles et légèrement plus frais tandis qu...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Melanotaenia_papuae.jpg/960px-Melanotaenia_papuae.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

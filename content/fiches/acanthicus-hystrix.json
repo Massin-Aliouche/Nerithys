@@ -2,7 +2,7 @@
   "name": "Acanthicus hystrix",
   "scientificName": "Acanthicus hystrix",
   "slug": "acanthicus-hystrix",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Acanthicus_hystrix.jpg/960px-Acanthicus_hystrix.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

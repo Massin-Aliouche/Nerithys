@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aphanius_iberus.png/960px-Aphanius_iberus.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

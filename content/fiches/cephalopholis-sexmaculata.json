@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/2988535/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

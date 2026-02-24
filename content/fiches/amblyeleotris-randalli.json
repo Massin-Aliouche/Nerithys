@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Amblyeleotris_randalli.jpg/960px-Amblyeleotris_randalli.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

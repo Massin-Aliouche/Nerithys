@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Attention ! : Si on considère la biologie supposée de l'espèce, sa maintenance présente un défi. Qu'elle soit amphidrome ou anadrome, Se dit des poissons de mer qui remontent les fleuves pour y pondre.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ambassis_miops.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

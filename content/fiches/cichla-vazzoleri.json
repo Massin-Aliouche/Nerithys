@@ -2,7 +2,7 @@
   "name": "Cichla vazzoleri",
   "scientificName": "Cichla vazzoleri",
   "slug": "cichla-vazzoleri",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "Une maintenance en aquarium est peu conseillée de par sa taille et ses tendances fortement prédatrices, c’est un poisson plutôt à réserver à un aquarium public de plusieurs mètres cubes.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/REBIO_do_Uatuma_Cesar_Augusto_Chirosa_Horie_%2819%29.jpg/960px-REBIO_do_Uatuma_Cesar_Augusto_Chirosa_Horie_%2819%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

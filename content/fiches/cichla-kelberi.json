@@ -2,7 +2,7 @@
   "name": "Toukounaré amarela, Tukunaré comum (Brésil)",
   "scientificName": "Cichla kelberi",
   "slug": "cichla-kelberi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 24,
   "tempMax": 32,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "Une maintenance en aquarium est peu conseillée de par sa taille et ses tendances fortement prédatrices, c’est un poisson plutôt à réserver à un aquarium public de plusieurs mètres cubes.",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/3678465/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

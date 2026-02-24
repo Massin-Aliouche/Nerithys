@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/ed/Abudefduf_abdominalis_by_NPS.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

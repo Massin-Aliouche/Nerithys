@@ -2,7 +2,7 @@
   "name": "Synodontis alberti",
   "scientificName": "Synodontis alberti",
   "slug": "synodontis-alberti",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/162063291/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

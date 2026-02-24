@@ -2,7 +2,7 @@
   "name": "Puntius hemictenus",
   "scientificName": "Puntius hemictenus",
   "slug": "puntius-hemictenus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a8/FMIB_35656_Barbodes_hemictenus%2C_new_species_Type.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

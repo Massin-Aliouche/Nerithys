@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Naucrates_ductor1.jpg/960px-Naucrates_ductor1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

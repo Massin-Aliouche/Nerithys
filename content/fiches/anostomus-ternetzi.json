@@ -2,7 +2,7 @@
   "name": "Tête en bas de Ternetz",
   "scientificName": "Anostomus ternetzi",
   "slug": "anostomus-ternetzi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 3,
   "tempMin": 20,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Anostomus ternetzi est généralement présent dans les eaux noires ou claires, associées à la végétation aquatique, aux fonds sableux et aux eaux courantes. On le trouve dans les zones rocheuses, où il se nourrit d'algues et de petits invertébrés. Une installation de type biotope rivière (de forme allongée), pourrait consister en un substrat sablonneux, des assemblages de roches lisses (galets gr...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/71726659/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

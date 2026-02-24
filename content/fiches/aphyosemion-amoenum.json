@@ -2,7 +2,7 @@
   "name": "Killi à nageoires rouges",
   "scientificName": "Aphyosemion amoenum",
   "slug": "aphyosemion-amoenum",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 2,
   "tempMin": 18,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Il est recommandé de maintenir l'Aphyosemion amoenum en aquarium spécifique. Bien que très timide, il peut se monter agressif vis à vis de ses congénères. Il convient donc de proposer une plantation très dense, offrant nombreuses cachettes pour que les femelles puissent s'abriter du harcèlement du mâle. Il est fortement déconseillé de maintenir deux mâles dans un volume restreint. Le dominé ris...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aphyosemion_elberti_red_T.jpg/960px-Aphyosemion_elberti_red_T.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

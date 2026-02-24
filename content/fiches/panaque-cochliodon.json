@@ -2,7 +2,7 @@
   "name": "Panaque cochliodon",
   "scientificName": "Panaque cochliodon",
   "slug": "panaque-cochliodon",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 20,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Algivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Panaque_cochliodon_-_Blue-eyed_plec_%285936849425%29.jpg/960px-Panaque_cochliodon_-_Blue-eyed_plec_%285936849425%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

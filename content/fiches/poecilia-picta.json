@@ -2,7 +2,7 @@
   "name": "Poecilia picta",
   "scientificName": "Poecilia picta",
   "slug": "poecilia-picta",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Micropoecilia_picta_%282%29.jpg/960px-Micropoecilia_picta_%282%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

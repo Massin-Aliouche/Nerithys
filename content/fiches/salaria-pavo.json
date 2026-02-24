@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Salaria_pavo_male_2009_G1.jpg/960px-Salaria_pavo_male_2009_G1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

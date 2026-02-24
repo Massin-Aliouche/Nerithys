@@ -2,7 +2,7 @@
   "name": "Apistogramma commbrae",
   "scientificName": "Apistogramma commbrae",
   "slug": "apistogramma-commbrae",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 25,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Annals_of_the_Carnegie_Museum_%281906%29_%2818225692490%29.jpg/960px-Annals_of_the_Carnegie_Museum_%281906%29_%2818225692490%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

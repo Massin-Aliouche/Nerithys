@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Orange-socket_Surgeonfish%2C_Anantara_Kihavah%2C_Baa_Atoll%2C_Maldives_imported_from_iNaturalist_photo_295989494.jpg/960px-Orange-socket_Surgeonfish%2C_Anantara_Kihavah%2C_Baa_Atoll%2C_Maldives_imported_from_iNaturalist_photo_295989494.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

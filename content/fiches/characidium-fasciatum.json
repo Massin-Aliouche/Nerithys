@@ -2,7 +2,7 @@
   "name": "Characidium fasciatum",
   "scientificName": "Characidium fasciatum",
   "slug": "characidium-fasciatum",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://binary.pensoft.net/fig/573396"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

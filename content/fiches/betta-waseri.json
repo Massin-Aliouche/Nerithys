@@ -2,7 +2,7 @@
   "name": "Betta waseri",
   "scientificName": "Betta waseri",
   "slug": "betta-waseri",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Betta_albimarginata_060311_8.jpg/960px-Betta_albimarginata_060311_8.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

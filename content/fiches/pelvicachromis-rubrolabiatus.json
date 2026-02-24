@@ -2,7 +2,7 @@
   "name": "Pelvicachromis rubrolabiatus",
   "scientificName": "Pelvicachromis rubrolabiatus",
   "slug": "pelvicachromis-rubrolabiatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/168921/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

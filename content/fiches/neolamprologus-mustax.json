@@ -2,7 +2,7 @@
   "name": "Neolamprologus mustax",
   "scientificName": "Neolamprologus mustax",
   "slug": "neolamprologus-mustax",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/206214320/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

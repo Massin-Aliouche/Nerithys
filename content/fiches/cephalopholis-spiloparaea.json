@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/30744424/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

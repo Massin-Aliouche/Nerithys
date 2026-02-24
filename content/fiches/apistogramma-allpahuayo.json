@@ -2,7 +2,7 @@
   "name": "Apistogramma allpahuayo",
   "scientificName": "Apistogramma allpahuayo",
   "slug": "apistogramma-allpahuayo",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 25,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Il est préférable de maintenir cette espèce en harem (1 mâle / 2 à 4 femelles). L'espèce étant territoriale, il est souhaitable de ne pas héberger plusieurs mâles ensembles, sauf si la taille de l'aquarium le permet, afin d'éviter un comportement agressif. L'aquarium devra être fortement planté et très stable au niveau des paramètres.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Apistogramma_allpahoayo_%28male%29.jpg/960px-Apistogramma_allpahoayo_%28male%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/17941736/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/128089_kleine_modderkruiper_cobitis_taenia_20112002maarseveenseplasopzij.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

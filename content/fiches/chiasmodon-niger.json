@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/593122341/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

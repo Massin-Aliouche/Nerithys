@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Salvini4a.jpg/960px-Salvini4a.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -2,7 +2,7 @@
   "name": "Maylandia lombardoi",
   "scientificName": "Maylandia lombardoi",
   "slug": "maylandia-lombardoi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f1/Maylandia_lombardoi.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

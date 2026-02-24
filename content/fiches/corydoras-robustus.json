@@ -2,7 +2,7 @@
   "name": "Corydoras robuste",
   "scientificName": "Corydoras robustus",
   "slug": "corydoras-robustus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 21,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reproduire au mieux leur habitat. Un substrat constitué de sable fin nu sera indispensable à leur bien-être. Les corydoras sont des fouisseurs actifs muni de fragiles barbillons et un substrat coupant ou ab...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Species_of_fishes_from_the_Chasqueiro_Stream_%28Mirim_Lagoon_system%29.jpg/960px-Species_of_fishes_from_the_Chasqueiro_Stream_%28Mirim_Lagoon_system%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f4/Rondonacara-hoehnei-UFRJ-9408-tributary-of-the-das-Mortes-River-Araguaia-River-basin.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

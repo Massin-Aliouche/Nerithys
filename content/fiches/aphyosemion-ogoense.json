@@ -2,7 +2,7 @@
   "name": "Aphyosemion ogoense",
   "scientificName": "Aphyosemion ogoense",
   "slug": "aphyosemion-ogoense",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 18,
   "tempMax": 23,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aphyosemion_ogoense.png/960px-Aphyosemion_ogoense.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

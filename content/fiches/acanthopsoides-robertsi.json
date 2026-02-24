@@ -2,7 +2,7 @@
   "name": "Acanthopsoides robertsi",
   "scientificName": "Acanthopsoides robertsi",
   "slug": "acanthopsoides-robertsi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Acanthopsoides_molobrion.jpg/960px-Acanthopsoides_molobrion.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

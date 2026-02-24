@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Pour la maintenance de ce poissons si proche de Carinotetraodon travancoricus, on se rapportera à la fiche de celui. On se rapprochera au mieux de son milieu naturel en reproduisant un fleuve lent fortement végétalisé. Le bac devra être abondamment pourvu en mollusques et crustacés. L'abondance de nourriture disponible limite grandement l'agressivité. Note : Les Carinotetraodon sp. sont de pièt...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c4/Carinotetraodon_travancoricus_2.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

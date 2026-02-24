@@ -2,7 +2,7 @@
   "name": "Hemigrammus barrigonae",
   "scientificName": "Hemigrammus barrigonae",
   "slug": "hemigrammus-barrigonae",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hemigrammus_barrigonae_%28CAS-ICH_44368%29.jpg/960px-Hemigrammus_barrigonae_%28CAS-ICH_44368%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

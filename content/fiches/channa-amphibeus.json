@@ -2,7 +2,7 @@
   "name": "Barca snakehead (en)",
   "scientificName": "Channa amphibeus",
   "slug": "channa-amphibeus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/14798018/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

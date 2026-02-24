@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/125549_zwartbekgrondel_groot_4.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

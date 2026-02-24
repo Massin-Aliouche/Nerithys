@@ -19,7 +19,9 @@
   "diet": "Algivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pomacentrus_chrysurus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

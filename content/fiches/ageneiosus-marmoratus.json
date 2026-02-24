@@ -2,7 +2,7 @@
   "name": "Ageneiosus marmoratus",
   "scientificName": "Ageneiosus marmoratus",
   "slug": "ageneiosus-marmoratus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": "Idéalement, il est préférable d'utiliser un substrat mou et sableux, mais ce n'est pas essentiel. Le décor est avant tout une affaire de goût personnel. On pourra, par exemple, opter pour un décor reproduisant un biotope de grand fleuve amazonien, avec de grandes pièces de bois immergées, peu ou pas de plantes et une litière de feuilles. On veillera toutefois à laisser un large espace libre, ca...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/FMIB_38607_Hypothalmus_davalla.jpeg/960px-FMIB_38607_Hypothalmus_davalla.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

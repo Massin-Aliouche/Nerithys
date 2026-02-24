@@ -2,7 +2,7 @@
   "name": "Malapterurus electricus",
   "scientificName": "Malapterurus electricus",
   "slug": "malapterurus-electricus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Malapterurus_electricus_1.jpg/960px-Malapterurus_electricus_1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

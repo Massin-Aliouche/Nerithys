@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "http://pwt.pensoft.net//showfigure.php?filename=big_6295.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

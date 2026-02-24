@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovovivipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alligator_Pipefish_2.jpg/960px-Alligator_Pipefish_2.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

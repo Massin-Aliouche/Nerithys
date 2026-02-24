@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Melanotaenia wilsoni habite les eaux peu profondes des petits ruisseaux sablonneux et des marécages de Pandanus avec un abri abondant sous forme de végétation aquatique et de débris de bois. Les ruisseaux sont peu profond, moins de cinquante centimètres, et connecté avec des marécages de tourbe à végétation dense. Cet habitat de marécages et de chenaux peut être saisonnier. En effet, l'abondanc...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/3558001/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

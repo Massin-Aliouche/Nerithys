@@ -2,7 +2,7 @@
   "name": "Sundadanio goblinus",
   "scientificName": "Sundadanio goblinus",
   "slug": "sundadanio-goblinus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 24,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/65356710/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

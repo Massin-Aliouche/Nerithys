@@ -2,7 +2,7 @@
   "name": "Crossocheilus reticulatus",
   "scientificName": "Crossocheilus reticulatus",
   "slug": "crossocheilus-reticulatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 20,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Herbivore",
   "breeding": "Ovipare",
   "notes": "Les espèces de Crossocheilus vivent dans les cours d'eau et leurs affluents, sur des substrats de rochers, de galets, de gravier et de sable, souvent dans des zones où affleurent des bois flottés ou des racines d'arbres. L'eau claire, souvent peu profonde, permet à la lumière du soleil de pénétrer la surface et favorise le développement d'un biofilm riche recouvrant les surfaces immergées, sur ...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Holotylognathus_reticulatus_oder_Crossocheilus_reticulatus_-_Puzzlebarbe_%282%29.jpg/960px-Holotylognathus_reticulatus_oder_Crossocheilus_reticulatus_-_Puzzlebarbe_%282%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce"

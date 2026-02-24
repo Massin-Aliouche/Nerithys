@@ -2,7 +2,7 @@
   "name": "Demi-bec de Poso",
   "scientificName": "Nomorhamphus celebensis",
   "slug": "nomorhamphus-celebensis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/b5/Freshwater_halfbeak_in_aquarium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

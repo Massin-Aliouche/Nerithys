@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/54864983/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

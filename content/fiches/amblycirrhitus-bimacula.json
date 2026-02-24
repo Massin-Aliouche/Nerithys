@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/76/Amblycirrhitus_bimacula_GJ.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

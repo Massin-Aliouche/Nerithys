@@ -2,7 +2,7 @@
   "name": "Pangio doriae",
   "scientificName": "Pangio doriae",
   "slug": "pangio-doriae",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 3,
   "tempMin": 24,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://arpha.pensoft.net//showfigure.php?filename=big_791632.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

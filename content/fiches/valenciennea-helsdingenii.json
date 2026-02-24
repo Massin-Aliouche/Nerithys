@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/9f/Valenciennea_helsdingenii_-_two_stripe_goby_-_1086.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

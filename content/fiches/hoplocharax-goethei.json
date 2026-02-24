@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Hoplocharax goethei fréquente généralement les eaux noires et acides, à la dureté très faible des forêts inondées. On reproduira donc au mieux son milieu naturel en lui proposant une eau noire acide (pH 5 à 6), très peu minéralisée (GH 3 à 5), avec une température de 23 à 26°C (21 à 28°C). Les tétras épineux ne sont pas difficiles à maintenir, cependant, en tant qu’habitants des eaux noires, ce...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/289649859/medium.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

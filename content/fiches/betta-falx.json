@@ -2,7 +2,7 @@
   "name": "Betta falx",
   "scientificName": "Betta falx",
   "slug": "betta-falx",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "Le betta falx peut être maintenu dans un aquarium bien planté avec une lumière tamisée. On privilégiera donc des plantes à tige haute ou flottantes. Les Nymphaea, Cryptocoryne, Microsorum, Salvinia, Lemna minor,… sont donc un bon choix. Il appréciera aussi le bois flotté pour les refuges que cela peut créer, mais des petits pots en argile, des tuyaux en plastique peuvent également être utilisés...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Betta_falx.jpg/960px-Betta_falx.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

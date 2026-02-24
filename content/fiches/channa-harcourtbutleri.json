@@ -2,7 +2,7 @@
   "name": "Channa du lac Inlé",
   "scientificName": "Channa harcourtbutleri",
   "slug": "channa-harcourtbutleri",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Respiration aérienne obligatoire (Müller, J.: et al., 2022) Channa harcourtbutleri est présent en Birmanie, à haute altitude où il peut y faire assez frais. Il est donc préférable de ne pas garder cette espèce toute l'année à des températures tropicales élevées. Concernant l'eau, ce poisson est très peu exigeant, mais les eaux trop douces et acides sont à éviter. La longueur habituelle de C. ha...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Channa_harcourtbutleri.jpg/960px-Channa_harcourtbutleri.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

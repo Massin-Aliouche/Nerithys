@@ -19,7 +19,9 @@
   "diet": "Algivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e0/Scarus_scaber.JPG"
+  ],
   "gallery": [],
   "tags": [
     "marin",

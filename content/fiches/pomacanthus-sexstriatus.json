@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pomacanthus_sexstriatus.jpg/960px-Pomacanthus_sexstriatus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

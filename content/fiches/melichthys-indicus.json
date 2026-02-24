@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Melichthys_indicus_Maldives.JPG/960px-Melichthys_indicus_Maldives.JPG"
+  ],
   "gallery": [],
   "tags": [
     "marin",

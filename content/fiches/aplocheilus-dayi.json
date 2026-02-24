@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Courante",
   "notes": "Aplocheilus dayi fréquente généralement les ruisseaux forestiers peu profonds et très ombragés avec un substrat limoneux. On privilégiera donc un bac biotope de type \"ruisseaux forestier\" à l'écoulement lent et à la litière de feuilles importante. Ce poisson est assez timide et l'aquarium devra être aménagé de façon à ce qu'il y ait beaucoup de cachettes sous forme de branchages ou de plantatio...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/253724479/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Pseudochromis_aldabraensis.JPG/960px-Pseudochromis_aldabraensis.JPG"
+  ],
   "gallery": [],
   "tags": [
     "marin",

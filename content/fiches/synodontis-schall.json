@@ -2,7 +2,7 @@
   "name": "Synodontis schall",
   "scientificName": "Synodontis schall",
   "slug": "synodontis-schall",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Synodontis_schall.jpg/960px-Synodontis_schall.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

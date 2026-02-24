@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/StonogobXanthorhorangkucing.jpg/960px-StonogobXanthorhorangkucing.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

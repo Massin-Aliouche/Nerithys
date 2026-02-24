@@ -2,7 +2,7 @@
   "name": "Tétra pourpre",
   "scientificName": "Hyphessobrycon metae",
   "slug": "hyphessobrycon-metae",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hyphessobrycon_metae_%28holotype%29.jpg/960px-Hyphessobrycon_metae_%28holotype%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

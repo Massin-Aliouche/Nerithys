@@ -2,7 +2,7 @@
   "name": "Rasbora à queue jaune",
   "scientificName": "Rasbora dusonensis",
   "slug": "rasbora-dusonensis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 20,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Rasbora dusonensis est un poisson ubiquiste, capturé à la fois dans des ruisseaux forestiers à courant rapide avec des substrats de rochers, de petites pierres, de sable ou de gravier et dans des eaux noires plus calmes associées à des zones d'anciennes forêts marécageuses de tourbe qui sont généralement pleines de feuilles mortes, de brindilles et de branches. Dans le premier cas, l'eau a tend...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/223887/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

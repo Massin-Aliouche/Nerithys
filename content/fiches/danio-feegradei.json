@@ -2,7 +2,7 @@
   "name": "Danio yoma",
   "scientificName": "Danio feegradei",
   "slug": "danio-feegradei",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 18,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Tous les habitats de D. feegradei sont de nature saisonnière avec une saison des pluies marquée entre Mai et Octobre. Les cours d'eau gonflent alors et le débit devient beaucoup plus rapide. On lui réservera un bac rivière d'assez grande taille afin de reproduire au mieux son environnement naturel. Il est donc conseillé de le maintenir dans une configuration conçue pour ressembler à une rivière...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/243102/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

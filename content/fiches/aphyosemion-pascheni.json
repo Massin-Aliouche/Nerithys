@@ -2,7 +2,7 @@
   "name": "Aphyosemion pascheni",
   "scientificName": "Aphyosemion pascheni",
   "slug": "aphyosemion-pascheni",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/252676320/medium.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

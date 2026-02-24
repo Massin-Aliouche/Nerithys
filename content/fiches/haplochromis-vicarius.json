@@ -2,7 +2,7 @@
   "name": "Haplochromis vicarius",
   "scientificName": "Haplochromis vicarius",
   "slug": "haplochromis-vicarius",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/5b/Haplochromis_thereuterion.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

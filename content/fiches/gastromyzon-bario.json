@@ -2,7 +2,7 @@
   "name": "Gastromyzon bario",
   "scientificName": "Gastromyzon bario",
   "slug": "gastromyzon-bario",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gastromyzon_fasciatus.jpg/960px-Gastromyzon_fasciatus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Yellowjacket_Cichlids_%28Parachromis_friedrichsthalii%29_-_Carwash_Cenote_QR.jpg/960px-Yellowjacket_Cichlids_%28Parachromis_friedrichsthalii%29_-_Carwash_Cenote_QR.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a8/Epinephelus_hexagonatus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

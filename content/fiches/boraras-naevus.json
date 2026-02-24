@@ -2,7 +2,7 @@
   "name": "Rasbora Nain Naevus",
   "scientificName": "Boraras naevus",
   "slug": "boraras-naevus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 25,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/201021/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

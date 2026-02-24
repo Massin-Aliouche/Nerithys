@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/csr%2FCentropyge%20argi%20Woods%20%26%20Kanazawa%201951%20-%20JT%20Williams%20-%20Saba%20Bank.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

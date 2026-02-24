@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a7/Canthigaster_jactator_by_NPS.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -2,7 +2,7 @@
   "name": "Loche du Myanmar",
   "scientificName": "Homalopteroides modestus",
   "slug": "homalopteroides-modestus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Homalopterus_tweediei.jpg/960px-Homalopterus_tweediei.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

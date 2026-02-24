@@ -2,7 +2,7 @@
   "name": "Badis pyema",
   "scientificName": "Badis pyema",
   "slug": "badis-pyema",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 15,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Badis pyema a été collecté dans un petit cours d'eau à débit rapide qui traverse les collines boisées. Ce ruisseau coulait sur un lit constitué de roches, de gravier ou de sable, avec de l'herbe et des arbustes près de la rive, fournissant une ombre certaine, et aucune végétation aquatique. Les fluctuations saisonnières de température sont importantes avec des températures fraiches allant de 15...",
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/489270581/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

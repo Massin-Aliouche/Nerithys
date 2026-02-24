@@ -2,7 +2,7 @@
   "name": "Corydoras barbus",
   "scientificName": "Scleromystax barbatus",
   "slug": "scleromystax-barbatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 16,
   "tempMax": 24,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Les mâles sont agressifs territoriaux les uns envers les autres et ne peuvent pas être maintenus ensemble dans des aquariums plus petits, autrement paisibles. Parfois, les mâles des espèces Scleromystax peuvent devenir agressifs envers les autres mâles, alors peut-être qu'un mâle par groupe peut être la meilleure solution en cas de conflits dans l'aquarium. Comme la plupart des Callichthyidae,i...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/13361720/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Végétarien",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/256461859/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

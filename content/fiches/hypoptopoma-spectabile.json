@@ -2,7 +2,7 @@
   "name": "Hypoptopome remarquable",
   "scientificName": "Hypoptopoma spectabile",
   "slug": "hypoptopoma-spectabile",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 3,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Végétarien",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hypoptopoma_inexspectatum.jpg/960px-Hypoptopoma_inexspectatum.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

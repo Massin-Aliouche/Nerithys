@@ -2,7 +2,7 @@
   "name": "Aphyosemion ahli",
   "scientificName": "Aphyosemion ahli",
   "slug": "aphyosemion-ahli",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/267128136/medium.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

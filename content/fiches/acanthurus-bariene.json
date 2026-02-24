@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Acanthurus_bariene.jpg/960px-Acanthurus_bariene.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

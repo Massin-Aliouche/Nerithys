@@ -2,7 +2,7 @@
   "name": "Pseudorinelepis genibarbis",
   "scientificName": "Pseudorinelepis genibarbis",
   "slug": "pseudorinelepis-genibarbis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 34,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/3998522/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

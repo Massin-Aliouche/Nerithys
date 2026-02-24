@@ -2,7 +2,7 @@
   "name": "Boraras micros",
   "scientificName": "Boraras micros",
   "slug": "boraras-micros",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 3,
   "tempMin": 24,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "Il est préférable de le maintenir dans un aquarium densément planté. L'ajout de quelques plantes flottantes et de racines ou branches de bois flotté pour diffuser la lumière entrant dans l'aquarium semble également être apprécié et ajoute une touche plus naturelle. La filtration n'a pas besoin d'être particulièrement forte, car il provient principalement d'eaux calmes et peut avoir des difficul...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/3d/Boraras-brigittae-3191524164.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -2,7 +2,7 @@
   "name": "Badis d'automne",
   "scientificName": "Badis autumnum",
   "slug": "badis-autumnum",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 14,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Badis Autumnum est originaire du nord de l’Inde et ne nécessite aucun chauffage supplémentaire la majeure partie de l’année. La majeure partie de l'année, 18-22°C suffisent, et en hiver les températures peuvent même descendre jusqu'à 14-16°C. Pour la reproduction, la température doit cependant être élevée à 24-26°C et sera réservé aux mois les plus chauds. Dans le cadre d'une aquariophilie resp...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/243245/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

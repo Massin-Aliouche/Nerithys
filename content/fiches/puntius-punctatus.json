@@ -2,7 +2,7 @@
   "name": "Puntius punctatus",
   "scientificName": "Puntius punctatus",
   "slug": "puntius-punctatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/11/PuntiusPunctatusDay.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

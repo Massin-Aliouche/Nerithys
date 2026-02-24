@@ -2,7 +2,7 @@
   "name": "Devario Sondhii",
   "scientificName": "Devario Sondhii",
   "slug": "devario-sondhii",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/256002550/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

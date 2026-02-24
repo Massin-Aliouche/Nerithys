@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Feshwater_sole.jpg/960px-Feshwater_sole.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

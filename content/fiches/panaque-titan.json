@@ -2,7 +2,7 @@
   "name": "Panaque titan",
   "scientificName": "Panaque titan",
   "slug": "panaque-titan",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 24,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a0/Panaque_titan.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

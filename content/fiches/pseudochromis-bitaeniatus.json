@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Doublestriped_dottyback_%28Pseudochromis_bitaeniatus%29_%2846422564555%29.jpg/960px-Doublestriped_dottyback_%28Pseudochromis_bitaeniatus%29_%2846422564555%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

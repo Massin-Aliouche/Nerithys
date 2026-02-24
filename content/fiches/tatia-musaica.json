@@ -2,7 +2,7 @@
   "name": "Tatia musaica",
   "scientificName": "Tatia musaica",
   "slug": "tatia-musaica",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "http://pwt.pensoft.net//showfigure.php?filename=big_6867.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

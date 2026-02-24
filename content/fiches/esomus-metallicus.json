@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://arpha.pensoft.net//showfigure.php?filename=big_791658.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

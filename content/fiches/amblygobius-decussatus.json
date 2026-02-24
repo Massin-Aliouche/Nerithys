@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Orange-striped_goby_%28Amblygobius_decussatus%29_%2846386884174%29.jpg/960px-Orange-striped_goby_%28Amblygobius_decussatus%29_%2846386884174%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

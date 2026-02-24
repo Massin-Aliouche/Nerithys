@@ -2,7 +2,7 @@
   "name": "Mormyrus Rume",
   "scientificName": "Mormyrus Rume",
   "slug": "mormyrus-rume",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mormyrus_rume.jpg/960px-Mormyrus_rume.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

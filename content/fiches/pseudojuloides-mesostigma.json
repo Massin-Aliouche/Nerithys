@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8e/OtohimeBR.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

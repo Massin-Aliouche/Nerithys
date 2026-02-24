@@ -19,7 +19,9 @@
   "diet": "Végétarien",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/3563654/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Parachaetodon_ocellatusRLS.jpg/960px-Parachaetodon_ocellatusRLS.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

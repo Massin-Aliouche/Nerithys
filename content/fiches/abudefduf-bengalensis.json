@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Abudefduf_bengalensis.jpg/960px-Abudefduf_bengalensis.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

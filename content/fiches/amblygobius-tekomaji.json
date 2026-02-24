@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amblygobius_semicinctus.jpg/960px-Amblygobius_semicinctus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

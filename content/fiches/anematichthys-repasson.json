@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Anemat_apog_100614-3510_awr.JPG/960px-Anemat_apog_100614-3510_awr.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -2,7 +2,7 @@
   "name": "Pseudacanthicus leopardus",
   "scientificName": "Pseudacanthicus leopardus",
   "slug": "pseudacanthicus-leopardus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 25,
   "tempMax": 29,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pseudacanthicus_leopardus.JPG/960px-Pseudacanthicus_leopardus.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

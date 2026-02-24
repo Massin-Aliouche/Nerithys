@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/csr%2F124509_moray_viper_2761.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

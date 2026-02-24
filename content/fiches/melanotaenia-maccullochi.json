@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Courante",
   "notes": "Les habitats naturels de M. maccullochi sont influencés par les conditions saisonnières. On le trouve sur une gamme étonnamment large de biotopes, des ruisseaux clairs et fluides aux étangs calmes et troubles tachés de tanins. La chimie de l'eau varie également énormément dans ces habitats, ce qui en fait une espèce très adaptable. Les poissons se rassemblent généralement autour des zones couve...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/3558001/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

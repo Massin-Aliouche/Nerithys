@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Batrochoglanis_raninus_and_Batrochoglanis_villosus_%28Tajapuru%2C_Brazil%2C_22_August_1865%3B_Teffe%2C_Brazil%2C_30_September_1865%29.jpg/960px-Batrochoglanis_raninus_and_Batrochoglanis_villosus_%28Tajapuru%2C_Brazil%2C_22_August_1865%3B_Teffe%2C_Brazil%2C_30_September_1865%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

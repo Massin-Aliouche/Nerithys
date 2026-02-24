@@ -2,7 +2,7 @@
   "name": "Aulonocara stuartgranti",
   "scientificName": "Aulonocara stuartgranti",
   "slug": "aulonocara-stuartgranti",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 2,
   "tempMin": 23,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": "L'agencement de l'aquarium est typique des aquarium 'Malawi'. Des pierres sont disposées plutôt sur l'arrière et les cotés de l'aquarium laissant de larges espaces ouverts de sable. Ce dernier doit être relativement fin pour permettre aux poissons de se nourrir de façon naturelle. Les sables grossiers, le gravier ou les petits cailloux peuvent empêcher l'alimentation, endommager les branchies e...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Frankfurt_Zoo_-_Aulonocara_stuartgranti_Usisya_male_beta.jpg/960px-Frankfurt_Zoo_-_Aulonocara_stuartgranti_Usisya_male_beta.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

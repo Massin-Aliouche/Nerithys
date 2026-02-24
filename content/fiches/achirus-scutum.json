@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/58/Achirus_scutum_SI3.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

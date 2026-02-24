@@ -2,7 +2,7 @@
   "name": "Tanichthys de Thác Bà",
   "scientificName": "Tanichthys thacbaensis",
   "slug": "tanichthys-thacbaensis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 18,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Tanichthys thacbaensis n'est pas encore couramment maintenu en aquarium et ne bénéficie pas de retour d'expérience crédible (2023). Si on a l'opportunité d'acquérir ce poisson, on se reportera donc à la maintenance des Tanichthys plus couramment importés comme T. albonubes ou T. micagemmae et à l'imitation de son biotope cité plus avant. Attention ! : Il y a de fortes chances que le milieu natu...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Tanichthys_kuehnei.jpg/960px-Tanichthys_kuehnei.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

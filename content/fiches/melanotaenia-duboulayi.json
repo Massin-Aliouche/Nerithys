@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Courante",
   "notes": "Melanotaenia duboulayi habite une gamme variée d'environnements d'eau calme et claire, y compris les rivières, les ruisseaux, les drains, les étangs, les lacs dunaires et les réservoirs dans les zones côtières sablonneuses et les habitats forestiers intérieurs, avec une préférence pour la végétation aquatique dense. Leur environnement naturel est soumis à des variations saisonnières avec des ni...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/181010441/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

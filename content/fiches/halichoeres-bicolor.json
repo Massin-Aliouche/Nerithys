@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Platyglossus_hyrtlii_Mintern_88.jpg/960px-Platyglossus_hyrtlii_Mintern_88.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

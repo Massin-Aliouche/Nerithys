@@ -2,7 +2,7 @@
   "name": "\"Frontosa\"",
   "scientificName": "Cyphotilapia frontosa",
   "slug": "cyphotilapia-frontosa",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 2,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "Comme pour les autres cichlidés du Tanganyika, on aménagera un espace rocheux afin que le Frontosa puisse s'y cacher. On choisira un lumière tamisée si possible, l'espèce vivant en profondeur, ils aiment l'obscurité. Le courant sera donc plutôt faible pour la même raison mais suffisant pour assurer une bonne qualité d'eau. C'est un poisson qui bouge très peu mais peut facilement en s'agaçant, b...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cyphotilapia_frontosa_-_Tanganjika-Beulenkopf.jpg/960px-Cyphotilapia_frontosa_-_Tanganjika-Beulenkopf.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

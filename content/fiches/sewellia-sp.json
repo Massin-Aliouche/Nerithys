@@ -2,7 +2,7 @@
   "name": "Sewellia mystère *",
   "scientificName": "Sewellia sp.",
   "slug": "sewellia-sp",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 18,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Algivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "On ne sait rien du milieu fréquenté par cette espèce non décrite, mais il y a de fortes chances qu'il ne diffère pas de celui des autres membres vietnamiens du genre. Les Sewellia spp. sont principalement limitées aux sources et aux affluents peu profonds, à courant rapide et très oxygénés, caractérisés par des tronçons de rapides et de ruisseaux entrecoupés de bassins ou de cascades dans certa...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/5628453/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce"

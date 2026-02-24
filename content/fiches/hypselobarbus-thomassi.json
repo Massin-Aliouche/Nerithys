@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Barbus_thomassi_Mintern_137.jpg/960px-Barbus_thomassi_Mintern_137.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

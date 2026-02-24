@@ -2,7 +2,7 @@
   "name": "Serrasalmus maculatus",
   "scientificName": "Serrasalmus maculatus",
   "slug": "serrasalmus-maculatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/3678425/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

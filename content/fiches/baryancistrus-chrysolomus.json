@@ -2,7 +2,7 @@
   "name": "Baryancistrus chrysolomus",
   "scientificName": "Baryancistrus chrysolomus",
   "slug": "baryancistrus-chrysolomus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 26,
   "tempMax": 29,
@@ -19,7 +19,9 @@
   "diet": "Algivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/4647494/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/105494790/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

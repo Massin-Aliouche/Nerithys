@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/bd/Aboma_etheostoma_male.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

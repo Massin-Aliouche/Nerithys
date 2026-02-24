@@ -2,7 +2,7 @@
   "name": "Scalaire de Léopold",
   "scientificName": "Pterophyllum leopoldi",
   "slug": "pterophyllum-leopoldi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 22,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Connue également sous le nom de scalaire nain, P. leopoldi est la plus petite espèce du genre et est probablement l'espèce la mieux adaptée à la vie dans un aquarium communautaire en raison de sa taille gérable. C'est la plus petite espèce, certes, mais aussi la plus agressive du genre. Comme la plupart des P. leopoldi sont capturés dans la nature dans le cadre du commerce des aquariums, il est...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/350647659/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

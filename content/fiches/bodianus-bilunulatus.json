@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/68/Bodianus_albotaeniatus_by_NPS.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

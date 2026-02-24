@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/FMIB_40096_Etheostoma_micropterus_Gilbert_Chihuahua%2C_Mexico.jpeg/960px-FMIB_40096_Etheostoma_micropterus_Gilbert_Chihuahua%2C_Mexico.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

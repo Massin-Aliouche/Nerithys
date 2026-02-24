@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fishes_of_India._Atlas._Plate_XV.jpg/960px-Fishes_of_India._Atlas._Plate_XV.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

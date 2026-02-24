@@ -2,7 +2,7 @@
   "name": "Parosphromenus parvulus",
   "scientificName": "Parosphromenus parvulus",
   "slug": "parosphromenus-parvulus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Parosphromenus_spec_Langgam1.jpg/960px-Parosphromenus_spec_Langgam1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

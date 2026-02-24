@@ -2,7 +2,7 @@
   "name": "Fenestratus",
   "scientificName": "Protomelas fenestratus",
   "slug": "protomelas-fenestratus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 2,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Le décor doit être constitué de piles de rochers formant des cavités avec de larges espace de nages. Le substrat sera constitué de préférence de sable fin. Les Protomelas fenestratus sont paisibles et peu adaptés à un aquarium communautaire constitué de poissons turbulents comme des mbuna. Il pourra être associé à des Aulonocara, des Copadichromis et d'autres espèces paisibles du lac Malawi. Le...",
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/106396721/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

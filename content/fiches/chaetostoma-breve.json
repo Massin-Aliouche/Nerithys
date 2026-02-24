@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Chaetostoma_breve.jpg/960px-Chaetostoma_breve.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

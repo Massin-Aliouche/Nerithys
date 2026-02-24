@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Courante",
   "notes": "Laubuka laubuca fréquente la zone de profondeur moyenne des ruisseaux, des étangs. Il est présent dans les zones peu profondes et relativement profondes des cours d’eau, à la fois dans les eaux calmes et à courant relativement rapide. Il forme des bancs de quinze à trente individus et fraie au crépuscule ou à l'aube dans les eaux peu profondes (Pethiyagoda, R., 1991), et dans les zones humides ...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/15217623/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

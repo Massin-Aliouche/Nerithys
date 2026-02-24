@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/112617_127023-scomber_scombrus-makreel-mackerel-ibts2011-img_4098-henk_heessen.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

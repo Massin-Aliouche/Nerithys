@@ -19,7 +19,9 @@
   "diet": "Algivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/83/Pez_Cucho.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

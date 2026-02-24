@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/86/Amblygobius_sp.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

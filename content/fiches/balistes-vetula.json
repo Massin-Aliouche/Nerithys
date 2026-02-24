@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/csr%2F122899_queen_triggerfish_bonaire_2019_fb.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

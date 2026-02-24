@@ -2,7 +2,7 @@
   "name": "Puntius anchisporus",
   "scientificName": "Puntius anchisporus",
   "slug": "puntius-anchisporus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/fd/Puntius_anchisporus_VAILLANT.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

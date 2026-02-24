@@ -2,7 +2,7 @@
   "name": "Maylandia aurora",
   "scientificName": "Maylandia aurora",
   "slug": "maylandia-aurora",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 24,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Maylandia_aurora_-_Zoo_Frankfurt.jpg/960px-Maylandia_aurora_-_Zoo_Frankfurt.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

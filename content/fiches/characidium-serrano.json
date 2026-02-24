@@ -2,7 +2,7 @@
   "name": "Characidium serrano",
   "scientificName": "Characidium serrano",
   "slug": "characidium-serrano",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/fd/Characidium_fasciatum.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

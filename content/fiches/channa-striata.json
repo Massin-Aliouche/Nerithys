@@ -2,7 +2,7 @@
   "name": "Channa striata",
   "scientificName": "Channa striata",
   "slug": "channa-striata",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/11659251/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

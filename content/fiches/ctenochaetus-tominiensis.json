@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ctenochaetus_tominiensis_3.JPG/960px-Ctenochaetus_tominiensis_3.JPG"
+  ],
   "gallery": [],
   "tags": [
     "marin",

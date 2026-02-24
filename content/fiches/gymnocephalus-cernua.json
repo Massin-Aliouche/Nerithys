@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gymnocephalus_cernuus_P%C3%A4rnu_River_Estonia_2010-01-06.jpg/960px-Gymnocephalus_cernuus_P%C3%A4rnu_River_Estonia_2010-01-06.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

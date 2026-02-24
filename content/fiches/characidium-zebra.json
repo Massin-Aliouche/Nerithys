@@ -2,7 +2,7 @@
   "name": "Characidium zebra",
   "scientificName": "Characidium zebra",
   "slug": "characidium-zebra",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/5587552/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

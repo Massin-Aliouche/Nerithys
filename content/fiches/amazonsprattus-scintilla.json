@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/DSCN6719_%286260222699%29.jpg/960px-DSCN6719_%286260222699%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

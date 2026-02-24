@@ -2,7 +2,7 @@
   "name": "Danio xyrops",
   "scientificName": "Devario xyrops",
   "slug": "devario-xyrops",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 18,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "L'État de Rakhine est situé dans une région tropicale de mousson et connaît une saison des pluies marquée entre mai et octobre, tandis qu'à d'autres moments, il peut y faire assez sec. D. xyrops vit dans les petits ruisseaux saisonniers et les petites rivières dont le substrat est composé de roches, de galets et de gravier et qui se réduisent généralement à une série de petites mares interconne...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/5323425/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

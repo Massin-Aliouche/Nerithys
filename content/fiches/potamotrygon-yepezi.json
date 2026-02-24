@@ -2,7 +2,7 @@
   "name": "Potamotrygon yepezi",
   "scientificName": "Potamotrygon yepezi",
   "slug": "potamotrygon-yepezi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Potamotrygon_adventure_aquarium.jpg/960px-Potamotrygon_adventure_aquarium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

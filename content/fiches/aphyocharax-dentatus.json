@@ -2,7 +2,7 @@
   "name": "Aphyocharax dentatus",
   "scientificName": "Aphyocharax dentatus",
   "slug": "aphyocharax-dentatus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 20,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/467231536/medium.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

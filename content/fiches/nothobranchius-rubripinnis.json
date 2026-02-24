@@ -2,7 +2,7 @@
   "name": "Nothobranchius rubripinnis",
   "scientificName": "Nothobranchius rubripinnis",
   "slug": "nothobranchius-rubripinnis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 18,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nothobranchius_rubripinnis.jpg/960px-Nothobranchius_rubripinnis.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bep_chaetodon_selene.jpg/960px-Bep_chaetodon_selene.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

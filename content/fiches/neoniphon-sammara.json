@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Candil_samara_%28Neoniphon_sammara%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-16%2C_DD_13.jpg/960px-Candil_samara_%28Neoniphon_sammara%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-16%2C_DD_13.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

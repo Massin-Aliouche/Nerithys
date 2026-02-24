@@ -2,7 +2,7 @@
   "name": "Cichla melaniae",
   "scientificName": "Cichla melaniae",
   "slug": "cichla-melaniae",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 30,
   "tempMax": 0,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "Une maintenance en aquarium est peu conseillée de par sa taille et ses tendances fortement prédatrices, c’est un poisson plutôt à réserver à un aquarium public de plusieurs mètres cubes.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Xingu-Kammbuntbarsch_%28Cichla_melaniae%29.jpg/960px-Xingu-Kammbuntbarsch_%28Cichla_melaniae%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

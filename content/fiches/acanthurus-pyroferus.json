@@ -19,7 +19,9 @@
   "diet": "Algivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mimic_surgeonfish_%28Acanthurus_Pyroferus%29_%2846991497534%29.jpg/960px-Mimic_surgeonfish_%28Acanthurus_Pyroferus%29_%2846991497534%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

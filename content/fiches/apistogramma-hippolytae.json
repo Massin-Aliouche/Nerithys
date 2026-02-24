@@ -2,7 +2,7 @@
   "name": "Apistogramma hippolytae",
   "scientificName": "Apistogramma hippolytae",
   "slug": "apistogramma-hippolytae",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 25,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/457304263/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

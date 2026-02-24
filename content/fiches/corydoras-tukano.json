@@ -2,7 +2,7 @@
   "name": "Corydoras Tukano",
   "scientificName": "Corydoras tukano",
   "slug": "corydoras-tukano",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 3,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Les Corydoras tukano ne doivent être conservés que par des aquariophiles expérimentés, car ils sont plutôt délicats et suffisamment rares pour n'être maintenus que dans le cadre de reproduction et de diffusion. Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettr...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/16876717/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

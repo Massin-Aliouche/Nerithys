@@ -2,7 +2,7 @@
   "name": "Betta renata",
   "scientificName": "Betta renata",
   "slug": "betta-renata",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/409694941/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

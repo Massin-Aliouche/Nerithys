@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Batasio elongatus habite les ruisseaux de montagne dont le fond est principalement rocheux, parsemé de zones de sable (Ng 2004). On lui proposera donc un bac rivière, des variations saisonnières marquées avec une eau fraiche, douce, et légèrement acide. L'État de Rakhine est situé dans une région tropicale de mousson et connaît une saison des pluies marquée entre mai et octobre, tandis qu'à d'a...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hemibagrus_elongatus_Vi%E1%BB%87t_Tr%C3%AC.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

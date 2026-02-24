@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wirecoral_goby.jpg/960px-Wirecoral_goby.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -2,7 +2,7 @@
   "name": "Apistogramma diplotaenia",
   "scientificName": "Apistogramma diplotaenia",
   "slug": "apistogramma-diplotaenia",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 26,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/331478489/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

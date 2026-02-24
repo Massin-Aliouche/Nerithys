@@ -2,7 +2,7 @@
   "name": "Barbudito (esp)",
   "scientificName": "Centromochlus heckelii",
   "slug": "centromochlus-heckelii",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/203092793/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

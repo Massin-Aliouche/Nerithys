@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Attention ! : On considère souvent qu'un poisson potamodrome Qui migre exclusivement dans les cours d'eau douce.",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/261839046/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

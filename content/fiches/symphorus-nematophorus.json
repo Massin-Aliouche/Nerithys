@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/SymphorusNematophorusRLS.jpg/960px-SymphorusNematophorusRLS.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

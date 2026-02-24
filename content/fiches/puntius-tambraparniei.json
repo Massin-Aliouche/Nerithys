@@ -2,7 +2,7 @@
   "name": "Puntius tambraparniei",
   "scientificName": "Puntius tambraparniei",
   "slug": "puntius-tambraparniei",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dawkinsia_Tambraparniei.jpg/960px-Dawkinsia_Tambraparniei.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

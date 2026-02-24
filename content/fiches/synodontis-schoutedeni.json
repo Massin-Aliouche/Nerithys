@@ -2,7 +2,7 @@
   "name": "Synodontis schoutedeni",
   "scientificName": "Synodontis schoutedeni",
   "slug": "synodontis-schoutedeni",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Synodontis_schoutedeni_David%2C_1936_3044607443.jpg/960px-Synodontis_schoutedeni_David%2C_1936_3044607443.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

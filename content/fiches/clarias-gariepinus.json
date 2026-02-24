@@ -2,7 +2,7 @@
   "name": "Clarias gariepinus",
   "scientificName": "Clarias gariepinus",
   "slug": "clarias-gariepinus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 8,
   "tempMax": 35,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Clarias_gariepinus.jpg/960px-Clarias_gariepinus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

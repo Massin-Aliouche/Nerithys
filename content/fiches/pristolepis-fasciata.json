@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pristolepis_fasciata.jpg/960px-Pristolepis_fasciata.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -2,7 +2,7 @@
   "name": "Rhinogobius henchuenensis",
   "scientificName": "Rhinogobius henchuenensis",
   "slug": "rhinogobius-henchuenensis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 15,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/369496762/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

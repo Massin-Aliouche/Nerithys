@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "B. cheeya fréquente les zones marécageuses et les petits affluents de rivières des forêts de bruyères côtières et des peuplements de Melaleuca poussant sur des substrats tourbeux et sableux. Les conditions de ce biotope sont faites d’eau acide (pH 4,5 en février 2009), colorée par les tanins, qui s’écoulent lentement. On privilégiera donc un bac biotope de type \"marécage forestier\", d'eau acide...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/339339339/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

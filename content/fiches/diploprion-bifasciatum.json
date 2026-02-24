@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Diploprion_bifasciatum_by_OpenCage.jpg/960px-Diploprion_bifasciatum_by_OpenCage.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -2,7 +2,7 @@
   "name": "Xiphophorus continens",
   "scientificName": "Xiphophorus continens",
   "slug": "xiphophorus-continens",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovovivipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Xiphophorus_Continens_Young_Alpha_Male_%28119157163%29.jpeg/960px-Xiphophorus_Continens_Young_Alpha_Male_%28119157163%29.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

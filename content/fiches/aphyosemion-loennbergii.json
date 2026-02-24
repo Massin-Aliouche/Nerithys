@@ -2,7 +2,7 @@
   "name": "Aphyosemion loennbergii",
   "scientificName": "Aphyosemion loennbergii",
   "slug": "aphyosemion-loennbergii",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 24,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/279267245/medium.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

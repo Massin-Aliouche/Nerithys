@@ -2,7 +2,7 @@
   "name": "Lamprologus lethops",
   "scientificName": "Lamprologus lethops",
   "slug": "lamprologus-lethops",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/14095992/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

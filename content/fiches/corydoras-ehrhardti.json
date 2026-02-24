@@ -2,7 +2,7 @@
   "name": "Corydoras de Ehrhardt",
   "scientificName": "Corydoras ehrhardti",
   "slug": "corydoras-ehrhardti",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 18,
   "tempMax": 24,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Les Corydoras sont, dans leur très grande majorité, des poissons fréquentant les fleuves et leur affluents. Un aquarium biotope \"amazonien fluvial\", de forme \"rivière\" (allongé) permettra de reproduire au mieux leur habitat. Un substrat constitué de sable fin nu sera indispensable à leur bien-être. Les corydoras sont des fouisseurs actifs muni de fragiles barbillons et un substrat coupant ou ab...",
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/15724682/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

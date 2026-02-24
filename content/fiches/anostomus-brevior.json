@@ -2,7 +2,7 @@
   "name": "Tête en bas de Guyane",
   "scientificName": "Anostomus brevior",
   "slug": "anostomus-brevior",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 3,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Cette espèce se trouve dans les eaux à mouvement rapide, généralement associées aux substrats rocheux ou sableux. Les adultes fréquentent les zones peu profondes des rivières et des ruisseaux, avec un substrat sableux et un fort courant. Une installation de type biotope rivière (de forme allongée), pourrait consister en un substrat sablonneux, des assemblages de roches lisses (galets grossiers)...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Anostomus_brevior_5587780.jpg/960px-Anostomus_brevior_5587780.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

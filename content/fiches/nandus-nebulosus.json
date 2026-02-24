@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Souvent, Nandus nebulosus est présenté comme solitaire, voire agressif. On préconise son maintient seul pour éviter les désagrément. On peut toutefois aisément déduire que ce poisson-feuille n'est solitaire qu'adulte et en période inter-nuptiale. Les jeunes sont sans doute plus grégaires et les adultes plus conciliants au moment du frai. (NDLA) On peut donc déduire que, dans un bac très planté ...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/311833312/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

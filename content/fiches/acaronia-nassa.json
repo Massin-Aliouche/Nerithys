@@ -2,7 +2,7 @@
   "name": "Cichlidé à grands yeux",
   "scientificName": "Acaronia nassa",
   "slug": "acaronia-nassa",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 25,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/668649/medium.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

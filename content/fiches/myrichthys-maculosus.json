@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tieso_ocelado_%28Myrichthys_maculosus%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-31%2C_DD_77.jpg/960px-Tieso_ocelado_%28Myrichthys_maculosus%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-31%2C_DD_77.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

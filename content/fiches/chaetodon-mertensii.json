@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/78/Chaetodon_mertensii.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

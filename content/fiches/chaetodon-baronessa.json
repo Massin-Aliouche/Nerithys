@@ -19,7 +19,9 @@
   "diet": "Coralivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/244485545/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

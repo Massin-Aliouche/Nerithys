@@ -2,7 +2,7 @@
   "name": "Lamprologus lemairii",
   "scientificName": "Lamprologus lemairii",
   "slug": "lamprologus-lemairii",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lamprologus_lemairii.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8e/AburaYakkoAd.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

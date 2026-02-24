@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/124504_ruisvoorns_zijn_ook_jagers.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

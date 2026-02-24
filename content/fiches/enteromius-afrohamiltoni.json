@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/2f/Enteromius_afrohamiltoni.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

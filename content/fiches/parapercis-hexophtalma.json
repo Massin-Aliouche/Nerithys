@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/172574214/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

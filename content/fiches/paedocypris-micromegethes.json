@@ -2,7 +2,7 @@
   "name": "Paedocypris micromegethes",
   "scientificName": "Paedocypris micromegethes",
   "slug": "paedocypris-micromegethes",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 3,
   "tempMin": 25,
   "tempMax": 0,
@@ -19,7 +19,9 @@
   "diet": "Planctonivore",
   "breeding": "difficulté: Difficile",
   "notes": "Ces poissons, sérieusement menacés dans leur milieu, nécessitent un aquarium très particulier, à pH très bas, eau très douce riche en tanins. De plus leur disponibilité commerciale, à juste titre, est très rare. Leur maintenance sera réservée à des aquariophiles avertis, soucieux de leur fournir cet habitat complexe, qui soit de surcroit capable d’assurer leur reproduction. A ce sujet, il faudr...",
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/590099514/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

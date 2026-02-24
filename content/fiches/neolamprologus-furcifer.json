@@ -2,7 +2,7 @@
   "name": "Neolamprologus furcifer",
   "scientificName": "Neolamprologus furcifer",
   "slug": "neolamprologus-furcifer",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 23,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/9a/Neolamprologus_furcifer.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

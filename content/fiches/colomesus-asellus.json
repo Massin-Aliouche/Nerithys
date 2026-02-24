@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Assel-Kugelfisch_2.jpg/960px-Assel-Kugelfisch_2.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

@@ -2,7 +2,7 @@
   "name": "Badis tigré",
   "scientificName": "Badis kyar",
   "slug": "badis-kyar",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 15,
   "tempMax": 25,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Badis kyar fréquente les cours d'eau peu profonds et clair avec un substrat de sable et de galets qui traverse à la fois une forêt secondaire et des terres agricoles. Le courant y est modéré avec une végétation marginale herbeuse et une espèce Cryptocoryne. Cette espèce est soumise aux fluctuations saisonnières de température dans la nature et se sent à l'aise entre 15 et 25 °C, des extrêmes en...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Badis_kyar_in_the_aquarium_male.png/960px-Badis_kyar_in_the_aquarium_male.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

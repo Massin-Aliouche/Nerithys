@@ -2,7 +2,7 @@
   "name": "Gourami grogneur du Mékong",
   "scientificName": "Trichopsis schalleri",
   "slug": "trichopsis-schalleri",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 20,
   "tempMax": 30,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Courante",
   "notes": "On le trouve dans tous les types d'habitats calmes à lents, principalement de plaine, y compris les forêts marécageuses, les marécages tourbeux, les plaines inondables, les affluents des rivières, les canaux d'irrigation, les rizières et les fossés en bordure de route. L'espèce affiche une nette préférence pour les environnements avec des croissances denses de végétation aquatique ou riveraine....",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/19391208/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

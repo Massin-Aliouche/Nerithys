@@ -2,7 +2,7 @@
   "name": "Ancistrus temminckii",
   "scientificName": "Ancistrus temminckii",
   "slug": "ancistrus-temminckii",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 21,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://static.inaturalist.org/photos/32174964/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

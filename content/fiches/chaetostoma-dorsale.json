@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f7/Chaetostoma_Loborhynchos_Tschudi_top.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

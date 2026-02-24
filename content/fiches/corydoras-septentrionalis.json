@@ -2,7 +2,7 @@
   "name": "Corydoras septentrional",
   "scientificName": "Corydoras septentrionalis",
   "slug": "corydoras-septentrionalis",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 2,
   "tempMin": 20,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "C. septentrionalis est très adaptable du fait de son aire de répartition étendue et il ne nécessite pas de conditions spéciales de l'eau. Une eau acide avec pH inf 6,8, plutôt douce avec GH inf 8 et une température subtropicale comprise entre 22 à 26 °C est cependant nécessaire. Il faut cependant savoir que ce Corydoras est soumis à de fortes variations saisonnières et qu'au cours de la saison ...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/5c/Corydoras_septentrionalis_5.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

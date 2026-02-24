@@ -2,7 +2,7 @@
   "name": "Parotocinclus haroldoi",
   "scientificName": "Parotocinclus haroldoi",
   "slug": "parotocinclus-haroldoi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/3713144/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

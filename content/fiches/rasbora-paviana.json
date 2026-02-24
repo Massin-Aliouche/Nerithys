@@ -2,7 +2,7 @@
   "name": "Rasbora de Pavie",
   "scientificName": "Rasbora paviana",
   "slug": "rasbora-paviana",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 2,
   "tempMin": 22,
   "tempMax": 28,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Rasbora paviana fréquente les cours d'eau clairs, généralement peu profonds et à débit modéré. Il s'agit clairement d'un poisson adaptable, et vraisemblablement potamodrome Qui migre exclusivement dans les cours d'eau douce.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/200105o05.jpg/960px-200105o05.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

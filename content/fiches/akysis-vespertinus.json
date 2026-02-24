@@ -2,7 +2,7 @@
   "name": "Poissons-chat de l'ouest*",
   "scientificName": "Akysis vespertinus",
   "slug": "akysis-vespertinus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 3,
   "tempMin": 15,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Bien que mal connue, cette espèce semble habiter des torrents de montagne à courant rapide avec une eau claire et un substrat sableux et rocheux. Il est impératif de lui fournir un substrat fin et sableux, car il passe une partie de son temps complètement enfoui, ou ne laissant dépasser que ses yeux. En captivité, il semble également apprécier se faufiler dans les anfractuosités entre les roche...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c8/Akysis_sp.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

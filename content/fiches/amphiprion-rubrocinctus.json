@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Amphiprion_rubrocinctus_RLS.jpg/960px-Amphiprion_rubrocinctus_RLS.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

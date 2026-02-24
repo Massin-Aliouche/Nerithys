@@ -2,7 +2,7 @@
   "name": "Phractura ansorgii",
   "scientificName": "Phractura ansorgii",
   "slug": "phractura-ansorgii",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 20,
   "tempMax": 24,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/171924390/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

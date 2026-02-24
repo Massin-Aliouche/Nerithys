@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/112638_127405-mola_mola-maanvis-sun_fish-2006-139-3913_img-henk_heessen.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Parailia pellucida est un poisson vivant en groupe important qui doit être maintenu impérativement en groupe d'au moins six individus. Un groupe plus nombreux étant tout de même préférable. C'est un grand poissons qui, malgré son apparente immobilité, a besoin de place. Il aura besoin d'une hauteur d'eau permettant des déplacement verticaux, et d'une longueur de bac pouvant convenir à ses chass...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Siluro_de_cristal_-_Glass_Catfish_%2814059368040%29.jpg/960px-Siluro_de_cristal_-_Glass_Catfish_%2814059368040%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

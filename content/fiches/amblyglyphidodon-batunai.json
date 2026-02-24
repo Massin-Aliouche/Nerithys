@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Batuna%27s_damselfish_%28Amblyglyphidodon_batunai%29_%2840321712202%29.jpg/960px-Batuna%27s_damselfish_%28Amblyglyphidodon_batunai%29_%2840321712202%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

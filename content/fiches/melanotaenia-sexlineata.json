@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Melanotaenia sexlineata fréquente les cours d'eau à écoulement lent, généralement petits, de la forêt pluviale. L'eau y est claire, mais souvent teintée de tanin avec des valeurs de pH allant de 6,1 à 6,5 et une température de 25°C Ses cours d'eau sont , et. (Munro 1964, GR Allen comm. pers. 2019). Il n'y a peu de rapport sérieux de maintenance et d'élevage pour cette espèce et on ne pourra ici...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/111180390/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

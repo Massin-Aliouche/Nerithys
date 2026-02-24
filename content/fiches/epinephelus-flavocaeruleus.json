@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/ab/Epinephelus_flavocaeruleus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

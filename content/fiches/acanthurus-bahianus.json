@@ -19,7 +19,9 @@
   "diet": "Végétarien",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brazilian_Ocean_Surgeonfish%2C_Arraial_do_Cabo%2C_RJ%2C_28930-000%2C_Brasil_imported_from_iNaturalist_photo_107515505.jpg/960px-Brazilian_Ocean_Surgeonfish%2C_Arraial_do_Cabo%2C_RJ%2C_28930-000%2C_Brasil_imported_from_iNaturalist_photo_107515505.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

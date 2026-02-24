@@ -2,7 +2,7 @@
   "name": "Characidium tenue",
   "scientificName": "Characidium tenue",
   "slug": "characidium-tenue",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Characidium_tenue_specimens.jpg/960px-Characidium_tenue_specimens.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Courante",
   "notes": "La plupart des spécimens de Melanotaenia parva ont été collectés le long du rivage du lac parmi une végétation aquatique dense. Les rives du lac sont principalement boueuse et l'eau est très trouble. Dans certains endroits du lac, on note une croissance dense de Ceratophyllum demersum. Malgré un endémisme à l'aire très restreinte, Melanotaenia parva semble tolérer une grande variété de paramètr...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/17504669/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

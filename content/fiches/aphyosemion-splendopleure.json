@@ -2,7 +2,7 @@
   "name": "Aphyosemion Splendopleure",
   "scientificName": "Aphyosemion Splendopleure",
   "slug": "aphyosemion-splendopleure",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/4807285/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

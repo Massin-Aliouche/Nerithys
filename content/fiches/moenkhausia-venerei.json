@@ -2,7 +2,7 @@
   "name": "Moenkhausia venerei",
   "scientificName": "Moenkhausia venerei",
   "slug": "moenkhausia-venerei",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Stream_fish_from_Araguaia_and_Rio_da_Mortes_basin.png/960px-Stream_fish_from_Araguaia_and_Rio_da_Mortes_basin.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

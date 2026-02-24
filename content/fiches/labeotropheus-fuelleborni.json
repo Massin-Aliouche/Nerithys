@@ -2,7 +2,7 @@
   "name": "Labeotropheus fuelleborni",
   "scientificName": "Labeotropheus fuelleborni",
   "slug": "labeotropheus-fuelleborni",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 27,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/55346159/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

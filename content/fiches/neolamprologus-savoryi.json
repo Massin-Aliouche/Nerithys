@@ -2,7 +2,7 @@
   "name": "Neolamprologus savoryi",
   "scientificName": "Neolamprologus savoryi",
   "slug": "neolamprologus-savoryi",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Afrique",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neolamprologus_pulcher_%28Wroclaw_zoo%29.JPG/960px-Neolamprologus_pulcher_%28Wroclaw_zoo%29.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

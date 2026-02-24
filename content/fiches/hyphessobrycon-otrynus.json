@@ -2,7 +2,7 @@
   "name": "Hyphessobrycon otrynus",
   "scientificName": "Hyphessobrycon otrynus",
   "slug": "hyphessobrycon-otrynus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/181687/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

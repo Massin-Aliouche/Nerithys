@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/7119449/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

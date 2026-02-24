@@ -2,7 +2,7 @@
   "name": "Perche grimpeuse",
   "scientificName": "Anabas cobojius",
   "slug": "anabas-cobojius",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/85249821/medium.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -2,7 +2,7 @@
   "name": "Tétra maya",
   "scientificName": "Hyphessobrycon compressus",
   "slug": "hyphessobrycon-compressus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Amazonie",
   "difficulty": 1,
   "tempMin": 22,
   "tempMax": 26,
@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/12718024/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

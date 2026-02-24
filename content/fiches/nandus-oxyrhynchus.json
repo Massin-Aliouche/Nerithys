@@ -2,7 +2,7 @@
   "name": "Nandus oxyrhynchus",
   "scientificName": "Nandus oxyrhynchus",
   "slug": "nandus-oxyrhynchus",
-  "biotope": "Eau douce",
+  "biotope": "Eau douce — Asie",
   "difficulty": 1,
   "tempMin": null,
   "tempMax": null,
@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": "pour les conserver en aquarium, une litière de feuille couvrant le substrat est conseillée.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/ec/Nandus_nandus_Hamilton_1822.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/10966863/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

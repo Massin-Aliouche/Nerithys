@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Lizard_fish_Synodus_binotatus_Schultz_1953_in_Kona_Hawaii.jpg/960px-Lizard_fish_Synodus_binotatus_Schultz_1953_in_Kona_Hawaii.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

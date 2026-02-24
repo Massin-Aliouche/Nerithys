@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://zenodo.org/record/3563590/files/figure.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

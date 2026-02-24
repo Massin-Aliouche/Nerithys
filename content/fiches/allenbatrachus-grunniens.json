@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": null,
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Allenbatrachus_grunniens_-_Grunniens_S%C3%BC%C3%9Fwasser_Kr%C3%B6tenfisch_%282%29.jpg/960px-Allenbatrachus_grunniens_-_Grunniens_S%C3%BC%C3%9Fwasser_Kr%C3%B6tenfisch_%282%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

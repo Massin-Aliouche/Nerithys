@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://images.naturalis.nl/original/137277_9.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

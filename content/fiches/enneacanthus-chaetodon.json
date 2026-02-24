@@ -19,7 +19,9 @@
   "diet": "Non renseigné",
   "breeding": "Ovipare",
   "notes": null,
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Enneacanthus_chaetodon_Natural_History_Museum_University_of_Pisa.jpg/960px-Enneacanthus_chaetodon_Natural_History_Museum_University_of_Pisa.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

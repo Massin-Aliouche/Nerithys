@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "On trouve Carinotetraodon lorteti dans les eaux lentes à stagnantes dans les ruisseaux forestiers ombragés, les affluents mineurs et les plaines inondables. La végétation aquatique ou riveraine y est dense, tandis que le substrat peut être recouvert de feuilles et de branches tombées. La maintenance de Carinotetraodon lorteti nécessitera donc un aquarium bien agencé, avec des racines ou des bra...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/248508857/medium.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",
