@@ -1,62 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
-  <title>Nerithys — Fiches poissons</title>
-  <link>https://massin-aliouche.github.io/Nerithys/</link>
-  <description>Fiches d'espèces aquatiques</description>
-  <lastBuildDate>Tue, 24 Feb 2026 10:22:27 GMT</lastBuildDate>
-  <item>
-    <title>Chirurgien bleu (Dory)</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/paracanthurus-hepatus/</link>
-    <description>Actif, parfois grégaire; requiert espace important.</description>
-  </item>
-  <item>
-    <title>Corydoras léopard</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/corydoras-julii/</link>
-    <description>Poisson de fond, vit en banc.</description>
-  </item>
-  <item>
-    <title>Fundulopanchax gardneri nigerianus</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/fundulopanchax-gardneri-nigerianus/</link>
-    <description>Paisible, petit carnivore opportuniste. Aime les bancs et les zones plantées.</description>
-  </item>
-  <item>
-    <title>Guppy Endler</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/poecilia-wingei/</link>
-    <description>Petit vivipare, vit en groupe.</description>
-  </item>
-  <item>
-    <title>Microrasbora Galaxy (Danio margaritatus)</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/danio-margaritatus/</link>
-    <description>Vif, vit en bancs serrés.</description>
-  </item>
-  <item>
-    <title>Néon bleu</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/paracheirodon-innesi/</link>
-    <description>Paisible, vit en banc.</description>
-  </item>
-  <item>
-    <title>Pelmato</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/pelvicachromis-pulcher/</link>
-    <description>Cichlidé nain, monogame, territorial en période de reproduction.</description>
-  </item>
-  <item>
-    <title>Platy</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/xiphophorus-maculatus/</link>
-    <description>Pacifique, vit en petits groupes.</description>
-  </item>
-  <item>
-    <title>Pléco (Pléco commun)</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/hypostomus-plecostomus/</link>
-    <description>Détritivore, souvent benthique; peut devenir territorial.</description>
-  </item>
-  <item>
-    <title>Poisson-clown (Némo)</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/amphiprion-ocellaris/</link>
-    <description>Vit en couple ou colonie, territorial autour de l'anémone.</description>
-  </item>
-  <item>
-    <title>Scalaire</title>
-    <link>https://massin-aliouche.github.io/Nerithys/fiches/pterophyllum-scalare/</link>
-    <description>Comportement grégaire, peut devenir territorial.</description>
-  </item>
+<title>Nerithys</title><link>https://massin-aliouche.github.io/Nerithys/</link><description>Fiches aquatiques</description>
+<item><title>Chirurgien bleu (Dory)</title><link>https://massin-aliouche.github.io/Nerithys/fiches/paracanthurus-hepatus/</link></item>
+<item><title>Corydoras léopard</title><link>https://massin-aliouche.github.io/Nerithys/fiches/corydoras-julii/</link></item>
+<item><title>Fundulopanchax gardneri nigerianus</title><link>https://massin-aliouche.github.io/Nerithys/fiches/fundulopanchax-gardneri-nigerianus/</link></item>
+<item><title>Guppy Endler</title><link>https://massin-aliouche.github.io/Nerithys/fiches/poecilia-wingei/</link></item>
+<item><title>Microrasbora Galaxy (Danio margaritatus)</title><link>https://massin-aliouche.github.io/Nerithys/fiches/danio-margaritatus/</link></item>
+<item><title>Néon bleu</title><link>https://massin-aliouche.github.io/Nerithys/fiches/paracheirodon-innesi/</link></item>
+<item><title>Pelmato</title><link>https://massin-aliouche.github.io/Nerithys/fiches/pelvicachromis-pulcher/</link></item>
+<item><title>Platy</title><link>https://massin-aliouche.github.io/Nerithys/fiches/xiphophorus-maculatus/</link></item>
+<item><title>Pléco (Pléco commun)</title><link>https://massin-aliouche.github.io/Nerithys/fiches/hypostomus-plecostomus/</link></item>
+<item><title>Poisson-clown (Némo)</title><link>https://massin-aliouche.github.io/Nerithys/fiches/amphiprion-ocellaris/</link></item>
+<item><title>Scalaire</title><link>https://massin-aliouche.github.io/Nerithys/fiches/pterophyllum-scalare/</link></item>
 </channel></rss>
