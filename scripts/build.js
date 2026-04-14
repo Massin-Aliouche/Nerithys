@@ -84,7 +84,7 @@ function buildContent(d, ap) {
 
   // Hero image
   if (img) {
-    h += '<img class="fiche-hero-img" src="' + img + '" alt="' + esc(d.name) + '" loading="lazy" onerror="this.style.display=\'none\'">';
+    h += '<img class="fiche-hero-img" src="' + esc(img) + '" alt="' + esc(d.name) + '" loading="lazy" onerror="this.style.display=\'none\'">';
   }
 
   // Badges
@@ -132,7 +132,7 @@ function buildContent(d, ap) {
     h += '<div class="fiche-section"><h3>Galerie</h3>';
     h += '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.75rem;margin-top:.75rem">';
     d.gallery.forEach(function (g) {
-      h += '<img class="fiche-hero-img" src="' + resolveImg(g, ap) + '" alt="" loading="lazy" style="max-height:180px" onerror="this.style.display=\'none\'">';
+      h += '<img class="fiche-hero-img" src="' + esc(resolveImg(g, ap)) + '" alt="" loading="lazy" style="max-height:180px" onerror="this.style.display=\'none\'">';
     });
     h += '</div></div>';
   }
@@ -164,7 +164,7 @@ function buildFiche(d) {
     .replace(/\{\{ASSET_PATH\}\}/g, ap)
     .replace(/\{\{TITLE\}\}/g, esc(d.name + ' — Nerithys'))
     .replace(/\{\{DESCRIPTION\}\}/g, esc((d.behavior || d.name || '') + ' | Nerithys'))
-    .replace(/\{\{OG_IMAGE\}\}/g, img)
+    .replace(/\{\{OG_IMAGE\}\}/g, esc(img))
     .replace(/\{\{JSON_LD\}\}/g, jsonLd(d))
     .replace(/\{\{CONTENT\}\}/g, content);
 
@@ -259,7 +259,7 @@ function build() {
   ensureDir(path.join(PUB, 'js'));
   copyFile(path.join(ROOT, 'js', 'main.js'), path.join(PUB, 'js', 'main.js'));
   copyFile(path.join(ROOT, 'js', 'ui.js'), path.join(PUB, 'js', 'ui.js'));
-  copyFile(path.join(ROOT, 'js', 'species.js'), path.join(PUB, 'js', 'species.js'));
+  // species.js is legacy dead code — not copied
 
   // Content assets (images, not source JSON)
   if (fs.existsSync(path.join(ROOT, 'content'))) {
