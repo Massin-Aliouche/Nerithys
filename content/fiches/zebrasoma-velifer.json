@@ -16,9 +16,9 @@
   "minLengthCm": 40,
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité.",
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sailfin_Tang_%28Zebrasoma_veliferum%29_-_GRB.jpg/960px-Sailfin_Tang_%28Zebrasoma_veliferum%29_-_GRB.jpg"
   ],

@@ -16,9 +16,9 @@
   "minLengthCm": 6,
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Micro-prédateur : artémias, daphnies, vers grindal, moustiques, nourriture vivante préférée.",
+  "breeding": "Ovipare, pondeur en mousse ou tourbe. Incubation des œufs variable selon l'espèce (2-6 semaines).",
+  "notes": "Eau douce et acide. Bac sombre avec plantes flottantes. Couvercle obligatoire (sauteur).",
   "images": [
     "https://www.b-aqua.com/photos/1/1652.jpg"
   ],

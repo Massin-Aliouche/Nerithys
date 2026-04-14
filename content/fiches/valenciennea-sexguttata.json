@@ -16,10 +16,12 @@
   "minLengthCm": 14,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité.",
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Valenciennea_sexguttata-6_Spot_Sleeper_Goby.jpg/960px-Valenciennea_sexguttata-6_Spot_Sleeper_Goby.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

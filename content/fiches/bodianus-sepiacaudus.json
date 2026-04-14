@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 8,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Robuste, actif, territorial avec l'âge. Fouille les roches à la recherche de nourriture.",
+  "compatibility": "Compatible avec des poissons de taille moyenne à grande. Peut manger les petits invertébrés.",
+  "diet": "Carnivore : crevettes, mysis, morceaux de poisson, moules, nourriture congelée marine.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Devient grand pour certaines espèces. Vérifier la taille adulte avant l'achat.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/74/Bodianus_sepiacaudus.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

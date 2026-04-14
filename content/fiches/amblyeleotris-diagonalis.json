@@ -16,9 +16,9 @@
   "minLengthCm": 11,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Carnivore : mysis, artémias, cyclopes, nourriture congelée fine.",
+  "breeding": "Ovipare. Reproduction rare en captivité.",
+  "notes": "Introduction avec une crevette Alpheus recommandée. Substrat de sable fin pour le terrier.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/0/03/HachimakiDHZ.jpg"
   ],

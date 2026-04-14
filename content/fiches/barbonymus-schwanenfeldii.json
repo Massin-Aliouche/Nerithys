@@ -18,8 +18,10 @@
   "compatibility": "Zone inférieure, centrale.",
   "diet": "Omnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/27/Tinfoil_Barb_700.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

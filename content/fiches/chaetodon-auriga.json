@@ -16,9 +16,9 @@
   "minLengthCm": 23,
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore à corallivore : artémias, mysis, moules, éponges. Certaines espèces sont très difficiles à nourrir.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Espèce souvent difficile à maintenir (régime spécialisé). Choisir les espèces réputées faciles (C. auriga, C. lunula).",
   "images": [
     "https://zenodo.org/record/2988723/files/figure.png"
   ],

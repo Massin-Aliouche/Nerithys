@@ -17,8 +17,8 @@
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
   "diet": "Omnivore",
-  "breeding": null,
-  "notes": null,
+  "breeding": "Ovipare, disperseur d'œufs. Reproduction possible en eau douce et acide avec éclairage tamisé.",
+  "notes": "Bac planté avec zones ombragées. Eau douce et légèrement acide. Filtration sur tourbe appréciée.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hyphessobrycon_metae_%28holotype%29.jpg/960px-Hyphessobrycon_metae_%28holotype%29.jpg"
   ],

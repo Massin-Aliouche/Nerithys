@@ -17,9 +17,11 @@
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
   "diet": "Carnivore",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "breeding": "Ovipare, disperse des œufs dans la mousse ou les plantes fines. Eau douce et acide.",
+  "notes": "Bac très planté avec éclairage tamisé et plantes flottantes. Eau douce d'Asie.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/530529285/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -16,9 +16,9 @@
   "minLengthCm": 15,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Syncrossus_hymenophysa_Bleeker.jpg/960px-Syncrossus_hymenophysa_Bleeker.jpg"
   ],

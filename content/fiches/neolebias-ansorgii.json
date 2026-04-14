@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "C'est un poisson très timide qu'il vaut mieux maintenir en groupe, et en bac spécifique. Il apprécie la lumière tamisée. Plantez le bac de manière dense et ajoutez de la végétation flottante pour plus d'ombre. Un substrat sombre est également bénéfique avec quelques petits morceaux de bois flotté pour fournir des cachettes. L'eau sur une grande partie de son aire de répartition naturelle est ac...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/407710816/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

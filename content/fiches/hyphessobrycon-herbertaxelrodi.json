@@ -17,8 +17,8 @@
   "behavior": "Population: 10 minimum. Zone: Centrale",
   "compatibility": "Zone centrale.",
   "diet": "Omnivore",
-  "breeding": null,
-  "notes": null,
+  "breeding": "Ovipare, disperseur d'œufs. Reproduction possible en eau douce et acide avec éclairage tamisé.",
+  "notes": "Bac planté avec zones ombragées. Eau douce et légèrement acide. Filtration sur tourbe appréciée.",
   "images": [
     "https://www.b-aqua.com/photos/1/1982.jpg"
   ],

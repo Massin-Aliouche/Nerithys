@@ -16,10 +16,12 @@
   "minLengthCm": 15,
   "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore : paillettes pour cichlidés, artémias, mysis, spiruline.",
+  "breeding": "Généralement incubateur buccal. Soins parentaux développés.",
+  "notes": "Eau dure et alcaline. Décor rocheux avec de nombreux territoires.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Labeotropheus_trewawasae_-_Zoo_Frankfurt.jpg/960px-Labeotropheus_trewawasae_-_Zoo_Frankfurt.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

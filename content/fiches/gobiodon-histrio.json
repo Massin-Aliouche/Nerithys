@@ -16,9 +16,9 @@
   "minLengthCm": 3.5,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gobiodon_histrio.jpg/960px-Gobiodon_histrio.jpg"
   ],

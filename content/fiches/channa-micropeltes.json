@@ -16,10 +16,12 @@
   "minLengthCm": 130,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Carnivore/piscivore : poissons, crevettes, vers de terre, insectes, morceaux de poisson frais.",
+  "breeding": "Ovipare. Nid de bulles ou soins buccaux selon l'espèce. Soins parentaux développés.",
+  "notes": "Couvercle hermétique obligatoire (peut sortir de l'eau). Volume adapté à la taille adulte de l'espèce.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/194839983/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

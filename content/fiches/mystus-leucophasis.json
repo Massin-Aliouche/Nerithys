@@ -16,10 +16,12 @@
   "minLengthCm": 20,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/535166319/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

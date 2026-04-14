@@ -16,9 +16,9 @@
   "minLengthCm": 25,
   "behavior": "Population: 1 minimum. Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Carnivore/piscivore : poissons, crevettes, vers de terre, insectes, morceaux de poisson frais.",
+  "breeding": "Ovipare. Nid de bulles ou soins buccaux selon l'espèce. Soins parentaux développés.",
+  "notes": "Couvercle hermétique obligatoire (peut sortir de l'eau). Volume adapté à la taille adulte de l'espèce.",
   "images": [
     "https://www.b-aqua.com/photos/1/986.jpg"
   ],

@@ -16,9 +16,9 @@
   "minLengthCm": 9,
   "behavior": "Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pachypanchax_omalonotus_01.jpg/960px-Pachypanchax_omalonotus_01.jpg"
   ],

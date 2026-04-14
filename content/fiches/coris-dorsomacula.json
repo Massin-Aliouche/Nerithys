@@ -16,10 +16,12 @@
   "minLengthCm": 38,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
+  "images": [
+    "https://static.inaturalist.org/photos/537487680/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

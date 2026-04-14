@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Il n'existe pas de retour d'expérience concernant cette loche. On sait cependant que Botia birdi fréquente les eaux lentiques une partie de l'année mais, adaptée aux cours d'eau torrentiels, migre dans les torrents en amont pour frayer. On composera donc un bac rivière de grande taille pouvant simuler saisonnièrement les deux milieux. Autant dire que la maintenance et qui plus est l'élevage de ...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c5/Botia_birdi.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

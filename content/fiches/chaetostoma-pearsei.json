@@ -16,9 +16,9 @@
   "minLengthCm": 15,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
+  "diet": "Herbivore : algues, spiruline, courgettes blanchies, repas d'algues. Courant fort si possible.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Nécessite un fort courant et une eau bien oxygénée. Galets et roches lisses.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/d/dc/Corroncho_del_lago_de_Valencia.jpg"
   ],

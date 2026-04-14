@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Idéalement, on choisira un aquarium peu profond mais proposant une grande surface au sol. Il devra être correctement fermé, car, comme la plupart des Betta, c'est un bon sauteur. La filtration doit générer un courant le plus faible possible, et peut donc se limiter à un simple filtre exhausteur. L'aquarium sera fortement planté. L'ajout de plantes flottantes est conseillé pour tamiser la lumièr...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Betta_livida_250688684.jpg/960px-Betta_livida_250688684.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -17,9 +17,11 @@
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
   "diet": "Omnivore",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/258219200/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -16,9 +16,9 @@
   "minLengthCm": 4.5,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
+  "diet": "Herbivore/périphyton : algues, biofilm, spiruline, courgettes blanchies.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Exige un fort courant, eau bien oxygénée et fraîche. Substrat de galets. Éviter les eaux trop chaudes.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/350974348/medium.jpg"
   ],

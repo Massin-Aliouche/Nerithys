@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": 120,
   "minLengthCm": 7,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Actif et territorial. Peut devenir agressif dans un petit volume. Nage activement dans le récif.",
+  "compatibility": "Compatible avec des poissons récifaux de taille similaire. Éviter les espèces très dociles dans un petit bac.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Hardy et coloré. Bon choix pour débuter en récifal. Certaines espèces peuvent devenir dominantes.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/db/Chrysiptera_rollandi_%28Whitley%2C_1961%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

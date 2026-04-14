@@ -16,9 +16,9 @@
   "minLengthCm": 3,
   "behavior": "Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Micro-prédateur exigeant : artémias nauplies, micro-vers, grindal. Refuse souvent la nourriture sèche.",
+  "breeding": "Nid de bulles en cavité (tube, noix de coco). Le mâle garde les œufs. Eau très douce et acide.",
+  "notes": "Espèce en danger dans la nature. Eau très douce (GH < 3) et acide (pH < 5.5). Éclairage très tamisé.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Parosphromenus_spec_Langgam1.jpg/960px-Parosphromenus_spec_Langgam1.jpg"
   ],

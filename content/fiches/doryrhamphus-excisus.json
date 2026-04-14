@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 6,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "behavior": "Actif, nage parmi les coraux et roches du récif.",
+  "compatibility": "Compatible avec les poissons récifaux de tempérament similaire.",
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité.",
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%E9%BB%91%E8%85%B9%E6%B5%B7%E9%BE%8D.jpg/960px-%E9%BB%91%E8%85%B9%E6%B5%B7%E9%BE%8D.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

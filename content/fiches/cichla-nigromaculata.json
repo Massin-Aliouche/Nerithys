@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 28.3,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Prédateur actif, territorial, puissant. Nécessite un très grand aquarium. Nage en pleine eau.",
+  "compatibility": "Uniquement avec des poissons de grande taille qu'il ne peut pas avaler. Cohabitation délicate.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "Une maintenance en aquarium est peu conseillée de par sa taille et ses tendances fortement prédatrices, c’est un poisson plutôt à réserver à un aquarium public de plusieurs mètres cubes.",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/337777687/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

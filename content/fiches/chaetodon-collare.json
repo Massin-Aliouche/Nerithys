@@ -16,10 +16,12 @@
   "minLengthCm": 16,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore à corallivore : artémias, mysis, moules, éponges. Certaines espèces sont très difficiles à nourrir.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Espèce souvent difficile à maintenir (régime spécialisé). Choisir les espèces réputées faciles (C. auriga, C. lunula).",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/3b/Chaetodon_collare_1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

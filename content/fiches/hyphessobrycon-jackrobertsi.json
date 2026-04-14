@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 3.3,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Paisible, grégaire, vit en banc de 8 minimum. Nage en pleine eau.",
+  "compatibility": "Excellent en communautaire avec d'autres tétras, Corydoras, petits cichlidés nains.",
+  "diet": "Omnivore : paillettes fines, artémias, daphnies, cyclopes, micro-vers.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac planté avec zones ombragées. Eau douce et légèrement acide. Filtration sur tourbe appréciée.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hyphessobrycon_jackrobertsi_%E2%99%82.jpg/960px-Hyphessobrycon_jackrobertsi_%E2%99%82.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

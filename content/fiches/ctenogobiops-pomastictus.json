@@ -16,10 +16,12 @@
   "minLengthCm": 8,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité.",
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
+  "images": [
+    "https://static.inaturalist.org/photos/59055209/large.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -16,10 +16,12 @@
   "minLengthCm": 6,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore à carnivore : artémias, mysis, cyclopes, nourriture congelée, paillettes pour cichlidés.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Eau dure et alcaline (pH 7.5-9). Décor de roches empilées et/ou coquilles d'escargots vides.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/92/Lamprologusstappersimalemcl.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

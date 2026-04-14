@@ -16,9 +16,9 @@
   "minLengthCm": 12,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
+  "breeding": "Ovipare, pondeur sur substrat. Soins biparentaux dans la plupart des cas.",
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://www.b-aqua.com/photos/1/786.jpg"
   ],

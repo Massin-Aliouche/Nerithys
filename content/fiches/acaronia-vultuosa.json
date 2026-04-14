@@ -16,9 +16,9 @@
   "minLengthCm": 18,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
+  "breeding": "Ovipare, pondeur sur substrat. Soins biparentaux dans la plupart des cas.",
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Acaronia_vulpinus.jpg/960px-Acaronia_vulpinus.jpg"
   ],

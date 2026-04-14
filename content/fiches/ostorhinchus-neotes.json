@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 2.5,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Paisible, nocturne, vit en groupe. Se cache dans les branchiaux le jour.",
+  "compatibility": "Très reef-safe et paisible. Compatible avec la plupart des poissons récifaux.",
+  "diet": "Carnivore : mysis, artémias, cyclopes, nourriture congelée fine.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bonne espèce pour débuter en récifal. Groupe de 5+ recommandé. Éclairage avec zones ombragées.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/OstorhinchNeotesRLS.jpg/960px-OstorhinchNeotesRLS.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

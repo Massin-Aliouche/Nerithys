@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 60,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Actif, nage parmi les coraux et roches du récif.",
+  "compatibility": "Compatible avec les poissons récifaux de tempérament similaire.",
   "diet": "Carnivore",
-  "breeding": null,
-  "notes": null,
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité.",
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Echidna_polyzona.JPG/960px-Echidna_polyzona.JPG"
   ],

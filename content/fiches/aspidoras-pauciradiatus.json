@@ -18,8 +18,10 @@
   "compatibility": "Zone inférieure.",
   "diet": "Omnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Substrat sableux conseillé. Plus petit et plus timide que les Corydoras.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aspidoras_pauciradiatus_3_DSC_0908.jpg/960px-Aspidoras_pauciradiatus_3_DSC_0908.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

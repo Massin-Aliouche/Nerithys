@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Cette espèce fréquente principalement les ruisseaux forestiers contenant de l’eau claire, où les substrats peuvent comprendre des roches lisses et usées par l'eau et des rochers de différentes tailles, du sable ou du gravier, souvent avec des structures ligneuses submergées, de la litière de feuilles et des plantes aquatiques appartenant à des genres tels que Cryptocoryne ou Barclaya. On compos...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Punti_lateri_080503_8415_napo.jpg/960px-Punti_lateri_080503_8415_napo.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

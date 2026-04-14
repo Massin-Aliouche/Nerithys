@@ -16,10 +16,12 @@
   "minLengthCm": 4.5,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blenny_komodo.jpg/960px-Blenny_komodo.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

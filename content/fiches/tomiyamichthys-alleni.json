@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 4.2,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Vit en symbiose avec une crevette. Discret, reste près de son terrier.",
+  "compatibility": "Paisible et reef-safe. Compatible avec les poissons récifaux calmes.",
+  "diet": "Carnivore : mysis, artémias, nourriture congelée fine.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Gobie symbiotique peu courant. Substrat de sable fin nécessaire.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/258076355/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

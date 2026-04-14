@@ -18,8 +18,10 @@
   "compatibility": "Zone inférieure, centrale.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/fc/XRF-Coris_formosa.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Le Dawkinsia assimilis est assez adaptable et n'est pas difficile à maintenir dans un aquarium bien entretenue. Idéalement, l'aquarium peut être aménager pour qu'il ressemble à un ruisseau ou une rivière avec un substrat de roches de taille variable, usées par l'eau, du sable, du gravier fin et peut-être quelques petits rochers. Ce substrat peut être complété par des racines ou des branches de ...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/42/Puntius_filamentosus_and_P._assimilis.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

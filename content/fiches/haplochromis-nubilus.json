@@ -16,9 +16,9 @@
   "minLengthCm": 10,
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : paillettes pour cichlidés, artémias, mysis, spiruline selon l'espèce.",
+  "breeding": "Incubateur buccal maternel. La femelle porte les œufs et alevins en bouche pendant 2-3 semaines.",
+  "notes": "Bac spacieux avec beaucoup de roches formant des territoires. Eau dure et alcaline de type lac africain.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_fishes_of_the_Nile_%28Pl._XCI%29_%286961628691%29.jpg/960px-The_fishes_of_the_Nile_%28Pl._XCI%29_%286961628691%29.jpg"
   ],

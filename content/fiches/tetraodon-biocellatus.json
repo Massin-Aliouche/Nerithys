@@ -18,8 +18,10 @@
   "compatibility": "Zone inférieure, centrale.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/98/Tetraodonbiocellatus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

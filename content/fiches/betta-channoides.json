@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare",
   "notes": "Le betta channoides demande un aquarium bien planté et une lumière tamisée. On privilégiera donc des plantes à tige haute ou flottantes. Les Nymphaea, Cryptocoryne, Microsorum, Salvinia, Lemna minor,… sont donc un bon choix. Il appréciera aussi le bois flotté pour les refuges que cela peut créer, mais des petits pots en argile, des tuyaux en plastique peuvent également être utilisés. L'ajout de...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/604841300/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

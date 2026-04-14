@@ -18,8 +18,10 @@
   "compatibility": "Zone centrale.",
   "diet": "Omnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac planté avec zones ombragées. Eau douce et légèrement acide. Filtration sur tourbe appréciée.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kirschflecksalmler-M.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

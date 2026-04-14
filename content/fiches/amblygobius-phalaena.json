@@ -16,9 +16,9 @@
   "minLengthCm": 15,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité.",
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Amblygobius_phalaena.jpg/960px-Amblygobius_phalaena.jpg"
   ],

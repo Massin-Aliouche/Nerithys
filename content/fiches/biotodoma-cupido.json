@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Comme on l'a vu plus avant, du fait de l'étendue de son aire de répartition, cette espèce a visiblement un habitat généraliste, même si les conditions torrentielles sont probablement évitées par l'espèce. Beaucoup de ses habitats sont soumis à des variations saisonnières significatives de la profondeur de l'eau, de la turbidité et du débit en raison du cycle annuel d'inondations qui a lieu dans...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/7e/Biotodoma_cupido.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

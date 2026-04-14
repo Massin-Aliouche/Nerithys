@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 15,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Territorial, intelligent. Peut creuser le substrat et réarranger le décor.",
+  "compatibility": "Compatible avec des poissons de taille adaptée. Éviter les espèces trop petites.",
   "diet": "Omnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/63402640/large.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

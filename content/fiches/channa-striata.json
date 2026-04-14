@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 600,
   "minLengthCm": 100,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Prédateur intelligent et personnalité marquée. Territorial, peut être agressif. Respire de l'air atmosphérique.",
+  "compatibility": "Souvent maintenu seul ou en couple. Peut attaquer ou avaler les poissons plus petits.",
+  "diet": "Carnivore/piscivore : poissons, crevettes, vers de terre, insectes, morceaux de poisson frais.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Couvercle hermétique obligatoire (peut sortir de l'eau). Volume adapté à la taille adulte de l'espèce.",
   "images": [
     "https://zenodo.org/record/11659251/files/figure.png"
   ],

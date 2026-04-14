@@ -16,10 +16,12 @@
   "minLengthCm": 30,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
+  "diet": "Carnivore/piscivore : poissons, crevettes, calamars, morceaux de poisson frais.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Peut devenir assez grand. Bac spacieux avec cachettes rocheuses. FO (fish-only) recommandé.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1c/Cephalopholis_boenak.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 12,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Paisible, nage lentement et élégamment. Souvent en couple. Fouille les roches et coraux.",
+  "compatibility": "Compatible avec de nombreux poissons récifaux. Attention : beaucoup d'espèces mangent les coraux (corallivores).",
+  "diet": "Omnivore à corallivore : artémias, mysis, moules, éponges. Certaines espèces sont très difficiles à nourrir.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Espèce souvent difficile à maintenir (régime spécialisé). Choisir les espèces réputées faciles (C. auriga, C. lunula).",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bep_chaetodon_trifasciatus.jpg/960px-Bep_chaetodon_trifasciatus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

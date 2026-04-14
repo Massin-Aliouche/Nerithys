@@ -16,9 +16,9 @@
   "minLengthCm": 2,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/65356710/medium.jpg"
   ],

@@ -18,8 +18,10 @@
   "compatibility": "Zone inférieure, centrale.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac chauffé (24-28°C), faible courant. Le mâle ne doit JAMAIS voir un autre mâle. Plantes flottantes appréciées.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d7/Betta_dimidiata_M005.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

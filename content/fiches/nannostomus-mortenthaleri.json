@@ -16,10 +16,12 @@
   "minLengthCm": 4,
   "behavior": "Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Micro-prédateur : artémias nauplies, cyclopes, micro-vers, nourriture fine congelée.",
+  "breeding": "Ovipare, disperse quelques œufs par jour dans la mousse de Java.",
+  "notes": "Bac très planté avec éclairage tamisé. Eau douce et acide. Espèce d'Amérique du Sud.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/4275355/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

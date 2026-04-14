@@ -16,10 +16,12 @@
   "minLengthCm": 4,
   "behavior": "Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore : paillettes, spiruline, artémias, vers de vase, complément végétal apprécié.",
   "breeding": "Ovovivipare",
-  "notes": null,
-  "images": [],
+  "notes": "Eau plutôt dure et alcaline (pH 7-8). Variétés nombreuses (Platy, Xipho). 2-3 femelles par mâle.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c7/Xiphophorus_pygmaeus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

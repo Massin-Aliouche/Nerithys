@@ -16,9 +16,9 @@
   "minLengthCm": 3,
   "behavior": "Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Micro-prédateur : artémias nauplies, cyclopes, micro-vers, nourriture fine en paillettes.",
+  "breeding": "Ovipare, pond des œufs adhésifs dans la mousse ou plantes fines. Incubation 10-15 jours.",
+  "notes": "Petit bac planté avec éclairage modéré. Eau propre. Magnifiques nageoires chez les mâles.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/369251107/medium.jpg"
   ],

@@ -17,8 +17,8 @@
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
   "diet": "Omnivore",
-  "breeding": null,
-  "notes": null,
+  "breeding": "Ovipare, pondeur sur substrat. Soins biparentaux dans la plupart des cas.",
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aequidens_tetramerus1.jpg/960px-Aequidens_tetramerus1.jpg"
   ],

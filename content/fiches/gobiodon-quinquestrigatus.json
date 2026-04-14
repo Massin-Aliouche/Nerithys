@@ -16,9 +16,9 @@
   "minLengthCm": 4.5,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
   "images": [
     "https://zenodo.org/record/17893205/files/figure.png"
   ],

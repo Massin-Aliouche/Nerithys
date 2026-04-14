@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Courante",
   "notes": "Les populations méridionales de cette espèce sont les poissons arc-en-ciel les plus au sud et sont adaptées aux basses températures hivernales. Il habite les parties lentes des rivières et des eaux calmes telles que les étangs, les fossés et les lacs. Ses habitats sont généralement caractérisés par une eau claire, épaisse de végétation aquatique . *Bon nombre de ces habitats sont soumis à des c...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/6567204/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

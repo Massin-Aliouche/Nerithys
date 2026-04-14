@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "La plupart des spécimens ont été collectés dans des cours d'eau à débit lent à modéré et aux eaux troubles ou claires selon la saison. Badis khwae fréquente de petits ruisseaux peu profond avec un fond sablonneux avec un peu de végétation aquatique, sous le couvert des arbres ou dans un ruisseau relativement grand et dans un réservoir alimenté par une source où l'eau y était très claire et froi...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/601755485/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 15,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Paisible, nage lentement et élégamment. Souvent en couple. Fouille les roches et coraux.",
+  "compatibility": "Compatible avec de nombreux poissons récifaux. Attention : beaucoup d'espèces mangent les coraux (corallivores).",
   "diet": "Coralivore",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Espèce souvent difficile à maintenir (régime spécialisé). Choisir les espèces réputées faciles (C. auriga, C. lunula).",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/485222930/medium.jpeg"
   ],

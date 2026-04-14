@@ -16,12 +16,10 @@
   "minLengthCm": 14,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [
-    "https://zenodo.org/record/16050895/files/figure.png"
-  ],
+  "diet": "Omnivore à tendance herbivore : bois, algues, courgettes, pastilles de fond, vers de vase.",
+  "breeding": "Ovipare. Le mâle garde les œufs dans une cavité. Reproduction possible mais peu fréquente.",
+  "notes": "Racines et bois indispensables dans le décor. Cachettes multiples nécessaires.",
+  "images": [],
   "gallery": [],
   "tags": [
     "eau-douce",

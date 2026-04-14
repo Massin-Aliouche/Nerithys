@@ -15,12 +15,12 @@
   "minVolumeL": 80,
   "minLengthCm": 67.9,
   "behavior": "Population: 6 minimum",
-  "compatibility": "Non renseigné",
+  "compatibility": "Compatible avec les poissons de rivière rapide. Éviter les espèces de fond territoriales.",
   "diet": "Végétarien",
-  "breeding": null,
+  "breeding": "Ovipare. Reproduction possible en aquarium avec fort courant et eau fraîche.",
   "notes": "Voir G.scitulus pour l'alimentation et mode de vie. Oxygénation très forte requise, substrat de galets et graviers lisses pour recréer un biotope de type rivière, dans un bac mature, riche en algues le long des vitres et sur les galets (non filamenteuses).",
   "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gastromyzon_fasciatus.jpg/960px-Gastromyzon_fasciatus.jpg"
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/350974220/large.jpg"
   ],
   "gallery": [],
   "tags": [

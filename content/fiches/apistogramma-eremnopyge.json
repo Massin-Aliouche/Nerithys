@@ -16,9 +16,9 @@
   "minLengthCm": 4,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore à tendance carnivore : artémias, vers de vase, daphnies, cyclopes, nourriture congelée de qualité.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Eau douce et acide recommandée. Bac densément planté avec nombreuses cachettes (noix de coco, cavernes).",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/18885543/medium.jpg"
   ],

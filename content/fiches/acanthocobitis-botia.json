@@ -17,8 +17,8 @@
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
   "diet": "Carnivore",
-  "breeding": null,
-  "notes": null,
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Nemacheilus_botia_Day_156.jpg/960px-Nemacheilus_botia_Day_156.jpg"
   ],

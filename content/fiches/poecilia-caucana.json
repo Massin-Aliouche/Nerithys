@@ -16,10 +16,12 @@
   "minLengthCm": 6,
   "behavior": "Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore à tendance herbivore : paillettes, spiruline, algues, artémias, complément végétal.",
   "breeding": "Ovovivipare",
-  "notes": null,
-  "images": [],
+  "notes": "Eau dure et alcaline préférée (pH 7-8.5). Guppy Endler, Molly, Guppy : multiples variétés.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/32/Poecilia_caucana_%2816609670050%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

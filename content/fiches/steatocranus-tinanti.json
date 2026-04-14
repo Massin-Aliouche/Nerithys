@@ -16,10 +16,12 @@
   "minLengthCm": 12,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore : paillettes pour cichlidés, artémias, mysis, spiruline.",
+  "breeding": "Généralement incubateur buccal. Soins parentaux développés.",
+  "notes": "Eau dure et alcaline. Décor rocheux avec de nombreux territoires.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/111041340/large.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

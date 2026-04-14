@@ -16,10 +16,12 @@
   "minLengthCm": 10,
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore : paillettes, artémias, daphnies, moustiques, insectes de surface.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation.",
+  "notes": "Bac couvert (sauteur). Courant modéré apprécié. Robuste et facile.",
+  "images": [
+    "https://static.inaturalist.org/photos/292882524/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

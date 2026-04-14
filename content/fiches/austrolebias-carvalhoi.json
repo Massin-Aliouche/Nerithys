@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 3.8,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Territorial, intelligent. Peut creuser le substrat et réarranger le décor.",
+  "compatibility": "Compatible avec des poissons de taille adaptée. Éviter les espèces trop petites.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/0f/Austrolebias_carvalhoi_-_distribuci%C3%B3n.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

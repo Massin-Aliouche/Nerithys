@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 18,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Robuste, actif, territorial avec l'âge. Fouille les roches à la recherche de nourriture.",
+  "compatibility": "Compatible avec des poissons de taille moyenne à grande. Peut manger les petits invertébrés.",
+  "diet": "Carnivore : crevettes, mysis, morceaux de poisson, moules, nourriture congelée marine.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Devient grand pour certaines espèces. Vérifier la taille adulte avant l'achat.",
   "images": [
     "https://static.inaturalist.org/photos/258698670/medium.jpg"
   ],

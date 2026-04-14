@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 5,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Cichlidé nain paisible, territorial uniquement pendant la reproduction. Couple stable et fidèle.",
+  "compatibility": "Excellent en communautaire avec tétras, Corydoras, petits poissons paisibles.",
+  "diet": "Omnivore : paillettes, artémias, vers de vase, daphnies, nourriture congelée variée.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac planté avec cavités (noix de coco, grottes). Eau légèrement acide à neutre.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pelvicachromis_pulcher_%28aka%29.jpg/960px-Pelvicachromis_pulcher_%28aka%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

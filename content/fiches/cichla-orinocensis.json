@@ -17,9 +17,11 @@
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
   "diet": "Carnivore",
-  "breeding": null,
+  "breeding": "Ovipare, pondeur sur substrat. Les deux parents gardent la ponte et les alevins.",
   "notes": "Une maintenance en aquarium est peu conseillée de par sa taille et ses tendances fortement prédatrices, c’est un poisson plutôt à réserver à un aquarium public de plusieurs mètres cubes.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cichla_orinocensis.png/960px-Cichla_orinocensis.png"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

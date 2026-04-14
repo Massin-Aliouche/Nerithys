@@ -16,10 +16,12 @@
   "minLengthCm": 15,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
+  "breeding": "Ovipare, pondeur sur substrat. Soins biparentaux dans la plupart des cas.",
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_complete_aquarium_book%3B_the_care_and_breeding_of_goldfish_and_tropical_fishes_%281936%29_%2820049218654%29.jpg/960px-The_complete_aquarium_book%3B_the_care_and_breeding_of_goldfish_and_tropical_fishes_%281936%29_%2820049218654%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

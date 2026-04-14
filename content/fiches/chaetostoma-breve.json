@@ -16,9 +16,9 @@
   "minLengthCm": 30,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Herbivore : algues, spiruline, courgettes blanchies, repas d'algues. Courant fort si possible.",
+  "breeding": "Ovipare. Reproduction rare en captivité. Pond dans des cavités.",
+  "notes": "Nécessite un fort courant et une eau bien oxygénée. Galets et roches lisses.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Chaetostoma_breve.jpg/960px-Chaetostoma_breve.jpg"
   ],

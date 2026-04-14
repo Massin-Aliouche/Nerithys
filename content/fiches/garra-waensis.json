@@ -16,9 +16,9 @@
   "minLengthCm": 8,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore à tendance herbivore : algues, spiruline, courgettes, pastilles de fond, artémias.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Bac avec courant modéré à fort. Roches et surfaces pour le broutage.",
   "images": [
     "https://zenodo.org/record/225480/files/figure.png"
   ],

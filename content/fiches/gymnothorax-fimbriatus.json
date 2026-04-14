@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 80,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Nocturne, se cache dans les roches le jour. Prédateur embusqué, calme mais imprévisible.",
+  "compatibility": "Uniquement avec de gros poissons qu'il ne peut pas avaler. Peut mordre les doigts !",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Évasion fréquente : couvercle parfaitement hermétique obligatoire. Volume adapté à la taille adulte.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/108488683/medium.jpg"
   ],

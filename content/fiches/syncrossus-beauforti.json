@@ -16,10 +16,12 @@
   "minLengthCm": 25,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Syncrossus_beauforti.jpg/960px-Syncrossus_beauforti.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

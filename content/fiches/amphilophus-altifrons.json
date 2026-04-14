@@ -16,9 +16,9 @@
   "minLengthCm": 22,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/D%C3%A4hlh%C3%B6lzli_-_Zitronen_Buntbarsch_3.jpg/960px-D%C3%A4hlh%C3%B6lzli_-_Zitronen_Buntbarsch_3.jpg"
   ],

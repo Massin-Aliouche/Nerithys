@@ -17,8 +17,8 @@
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
   "diet": "Omnivore",
-  "breeding": null,
-  "notes": null,
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation. Reproduction assez facile en bac dédié.",
+  "notes": "Bac spacieux avec plantation et zones de nage libre. Eau neutre à légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Punti_orpho_120127-22776_tsm.JPG/960px-Punti_orpho_120127-22776_tsm.JPG"
   ],

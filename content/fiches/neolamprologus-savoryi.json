@@ -16,9 +16,9 @@
   "minLengthCm": 10,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore à carnivore : artémias, mysis, cyclopes, nourriture congelée, paillettes pour cichlidés.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Eau dure et alcaline (pH 7.5-9). Décor de roches empilées et/ou coquilles d'escargots vides.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neolamprologus_pulcher_%28Wroclaw_zoo%29.JPG/960px-Neolamprologus_pulcher_%28Wroclaw_zoo%29.JPG"
   ],

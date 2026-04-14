@@ -16,10 +16,12 @@
   "minLengthCm": 4.5,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité.",
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bartels_dragonet_%28Synchiropus_bartelsi%29.jpg/960px-Bartels_dragonet_%28Synchiropus_bartelsi%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

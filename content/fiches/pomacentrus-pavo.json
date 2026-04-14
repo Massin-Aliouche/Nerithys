@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 8,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Territorial et actif. Défend vigoureusement son territoire contre les intrus.",
+  "compatibility": "Compatible avec des poissons récifaux robustes. Peut harceler les nouveaux arrivants.",
+  "diet": "Omnivore : paillettes marines, artémias, mysis, spiruline, algues.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Robuste et coloré mais tempérament affirmé. Prévoir suffisamment de cachettes dans le récif.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pomacentrus_pavo_Polynesia.jpg/960px-Pomacentrus_pavo_Polynesia.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

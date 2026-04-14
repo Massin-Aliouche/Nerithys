@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 14,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Paisible, vit fixé aux roches dans les cours d'eau rapides. Algavore dévoué.",
+  "compatibility": "Compatible avec poissons de courant (Gastromyzon, Sewellia). Pas de poissons lents ou agressifs.",
   "diet": "Algivore",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Nécessite un fort courant et une eau bien oxygénée. Galets et roches lisses.",
   "images": [
     "https://zenodo.org/record/267881/files/figure.png"
   ],

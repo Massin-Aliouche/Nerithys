@@ -18,8 +18,10 @@
   "compatibility": "Zone centrale.",
   "diet": "Omnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac planté avec zones ombragées. Eau douce et légèrement acide. Filtration sur tourbe appréciée.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hyphessobrycon_colombianus.jpg/960px-Hyphessobrycon_colombianus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -14,14 +14,12 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 40,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Calme, benthique, fouille le substrat. Peut être timide au début puis s'habitue. Venimeux (aiguillon caudal).",
+  "compatibility": "Grand bac spécifique recommandé. Compatible avec de gros poissons de surface (Arowana, grands cichlidés).",
   "diet": "Omnivore",
-  "breeding": null,
-  "notes": null,
-  "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Potamotrygon_adventure_aquarium.jpg/960px-Potamotrygon_adventure_aquarium.jpg"
-  ],
+  "breeding": "Vivipare. Reproduction possible en grand aquarium. Gestation de 3-4 mois.",
+  "notes": "ATTENTION : aiguillon venimeux. Substrat de sable fin. Volume minimum 500L+. Expert uniquement.",
+  "images": [],
   "gallery": [],
   "tags": [
     "eau-douce",

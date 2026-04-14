@@ -16,9 +16,9 @@
   "minLengthCm": 24,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Blackspot_sargeant_%28Abudefduf_sordidus%29_and_Pacific_sailfin_tang_%28Zebrasoma_velifer%29_Moorea.jpg/960px-Blackspot_sargeant_%28Abudefduf_sordidus%29_and_Pacific_sailfin_tang_%28Zebrasoma_velifer%29_Moorea.jpg"
   ],

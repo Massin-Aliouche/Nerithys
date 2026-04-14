@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 7,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Actif et territorial. Peut devenir agressif dans un petit volume. Nage activement dans le récif.",
+  "compatibility": "Compatible avec des poissons récifaux de taille similaire. Éviter les espèces très dociles dans un petit bac.",
+  "diet": "Omnivore : paillettes marines, artémias, mysis, algues, nourriture congelée marine.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Hardy et coloré. Bon choix pour débuter en récifal. Certaines espèces peuvent devenir dominantes.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/86/Chrysiptera_annulata.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

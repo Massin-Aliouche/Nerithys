@@ -17,8 +17,8 @@
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
   "diet": "Omnivore",
-  "breeding": null,
-  "notes": null,
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://www.b-aqua.com/photos/1/2502.jpg"
   ],

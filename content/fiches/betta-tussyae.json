@@ -18,8 +18,10 @@
   "compatibility": "Zone inférieure, centrale.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac chauffé (24-28°C), faible courant. Le mâle ne doit JAMAIS voir un autre mâle. Plantes flottantes appréciées.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Betta_tussyae_%28male%29_2010-04-01.JPG/960px-Betta_tussyae_%28male%29_2010-04-01.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

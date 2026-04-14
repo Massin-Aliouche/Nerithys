@@ -16,9 +16,9 @@
   "minLengthCm": 6.7,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Micro-prédateur : petits invertébrés, vers, insectes aquatiques, artémias.",
+  "breeding": "Ovipare. Reproduction peu documentée en captivité.",
+  "notes": "Bac de type rivière avec courant et substrat de galets. Eau bien oxygénée.",
   "images": [
     "https://binary.pensoft.net/fig/573396"
   ],

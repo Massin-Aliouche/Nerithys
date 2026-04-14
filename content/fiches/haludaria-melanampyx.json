@@ -16,8 +16,8 @@
   "minLengthCm": 7.5,
   "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
+  "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
   "notes": "En cours de mise à jour :",
   "images": [
     "https://www.b-aqua.com/photos/1/1785.jpg"

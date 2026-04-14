@@ -16,10 +16,12 @@
   "minLengthCm": 10,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Canthigaster_valentini_1.jpg/960px-Canthigaster_valentini_1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

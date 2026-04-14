@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Bien que de nombreux éleveurs préfèrent ne pas utiliser de substrat pour faciliter l'entretien, un aquarium fortement planté conviendra parfaitement au Betta picta. Les racines et les branches de bois flotté peuvent être utilisées et placées de manière à former quelques points ombragés, tandis que des pots en argile ou des morceaux de tuyaux peuvent également être inclus pour fournir un abri su...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Aplo_male.jpg/960px-Aplo_male.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

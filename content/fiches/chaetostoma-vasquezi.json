@@ -16,12 +16,10 @@
   "minLengthCm": 19,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/f/f7/Chaetostoma_Loborhynchos_Tschudi_top.jpg"
-  ],
+  "diet": "Herbivore : algues, spiruline, courgettes blanchies, repas d'algues. Courant fort si possible.",
+  "breeding": "Ovipare. Reproduction rare en captivité. Pond dans des cavités.",
+  "notes": "Nécessite un fort courant et une eau bien oxygénée. Galets et roches lisses.",
+  "images": [],
   "gallery": [],
   "tags": [
     "eau-douce",

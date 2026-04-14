@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 9.1,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Paisible, vit fixé aux roches. Se déplace en se collant aux surfaces. Grégaire, préfère un groupe.",
+  "compatibility": "Compatible avec les poissons de rivière rapide. Éviter les espèces de fond territoriales.",
+  "diet": "Herbivore/périphyton : algues, biofilm, spiruline, courgettes blanchies.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Exige un fort courant, eau bien oxygénée et fraîche. Substrat de galets. Éviter les eaux trop chaudes.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gastromyzon_fasciatus.jpg/960px-Gastromyzon_fasciatus.jpg"
   ],

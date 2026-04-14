@@ -18,8 +18,10 @@
   "compatibility": "Zone inférieure, centrale.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bonne espèce pour débuter en récifal. Groupe de 5+ recommandé. Éclairage avec zones ombragées.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a0/Apogon_angustatus1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

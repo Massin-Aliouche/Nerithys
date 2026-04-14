@@ -16,10 +16,12 @@
   "minLengthCm": 8,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore : artémias, mysis, vers de vase, paillettes, granulés pour cichlidés.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Substrat de sable fin pour le comportement de fouille. Eau dure et alcaline, roches modérées.",
+  "images": [
+    "https://static.inaturalist.org/photos/119511972/large.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

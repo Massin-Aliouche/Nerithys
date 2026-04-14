@@ -17,8 +17,8 @@
   "behavior": "Zone: Supérieure",
   "compatibility": "Zone supérieure.",
   "diet": "Omnivore",
-  "breeding": null,
-  "notes": null,
+  "breeding": "Généralement incubateur buccal. Soins parentaux développés.",
+  "notes": "Eau dure et alcaline. Décor rocheux avec de nombreux territoires.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/210375661/medium.jpg"
   ],

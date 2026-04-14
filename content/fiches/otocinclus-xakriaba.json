@@ -16,9 +16,9 @@
   "minLengthCm": 4,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Principalement herbivore : algues, spiruline, courgettes blanchies, pastilles d'algues. Complément avec nourriture végétale.",
+  "breeding": "Ovipare. Reproduction rare en aquarium. Pond de petits œufs adhésifs sur les feuilles.",
+  "notes": "Très sensible à la qualité de l'eau. Acclimatation prudente nécessaire. Bac mature avec biofilm algal.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Otocinclus_arnoldi_%281%29.JPG/960px-Otocinclus_arnoldi_%281%29.JPG"
   ],

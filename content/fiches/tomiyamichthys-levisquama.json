@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 6.9,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Vit en symbiose avec une crevette. Discret, reste près de son terrier.",
+  "compatibility": "Paisible et reef-safe. Compatible avec les poissons récifaux calmes.",
+  "diet": "Carnivore : mysis, artémias, nourriture congelée fine.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Gobie symbiotique peu courant. Substrat de sable fin nécessaire.",
   "images": [
     "https://zenodo.org/record/1051356/files/figure.png"
   ],

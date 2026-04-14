@@ -16,9 +16,9 @@
   "minLengthCm": 15,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
+  "diet": "Carnivore/piscivore : poissons vivants, crevettes. Peut être sevré sur du congelé avec patience.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Bac spécifique recommandé. Ne bouge quasiment pas. Fascinant mais exigeant.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/32218160/medium.jpg"
   ],

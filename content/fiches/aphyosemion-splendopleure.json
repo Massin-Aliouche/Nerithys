@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 5,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Calme, discret, territorial entre mâles. Nage principalement dans le tiers supérieur.",
+  "compatibility": "Compatible avec des espèces très paisibles de petite taille. Éviter les poissons vifs.",
+  "diet": "Micro-prédateur : artémias, daphnies, vers grindal, cyclopes, micro-vers. Préfère la nourriture vivante.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Bac spécifique recommandé. Eau douce et acide. Éclairage tamisé, couvert (sauteur).",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/4807285/medium.jpeg"
   ],

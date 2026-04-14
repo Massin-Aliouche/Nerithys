@@ -17,9 +17,11 @@
   "behavior": "Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
   "diet": "Herbivore",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Osphronemus_exodon.jpg/960px-Osphronemus_exodon.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

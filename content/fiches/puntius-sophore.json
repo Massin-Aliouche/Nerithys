@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 18,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "behavior": "Actif, grégaire, vit en banc de 6 minimum. Nageur rapide et joueur.",
+  "compatibility": "Compatible en communautaire. Certaines espèces peuvent mordiller les nageoires des poissons lents.",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers de vase, nourriture végétale en complément.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation. Reproduction assez facile en bac dédié.",
+  "notes": "Bac spacieux avec plantation et zones de nage libre. Eau neutre à légèrement acide.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/80673629/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

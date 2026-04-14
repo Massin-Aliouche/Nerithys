@@ -19,7 +19,9 @@
   "diet": "Omnivore",
   "breeding": "Ovipare",
   "notes": "Le Centropyge flavissima s'hybride avec plusieurs de ces congénères, aussi il ne doit pas être maintenu avec d'autres Centropyges.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Centropyge_flavissima.JPG/960px-Centropyge_flavissima.JPG"
+  ],
   "gallery": [],
   "tags": [
     "marin",

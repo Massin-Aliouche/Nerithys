@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Les Botia dario sont grégaires. Elles forment des hiérarchies sociales complexes et doivent être maintenus en groupes d'au moins cinq ou six individus, mais de préférence dix ou douze. Lorsqu'elles sont gardées seules, ces loches peuvent devenir renfermées ou agressives envers les poissons de forme similaire, et si seulement un couple ou un trio sont maintenus, le dominant peut stresser les aut...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/272477622/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

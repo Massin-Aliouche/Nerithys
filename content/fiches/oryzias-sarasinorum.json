@@ -16,9 +16,9 @@
   "minLengthCm": 8,
   "behavior": "Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Xenopoecilus_sarasinorum_%28Wroclaw_Zoo%29.JPG/960px-Xenopoecilus_sarasinorum_%28Wroclaw_Zoo%29.JPG"
   ],

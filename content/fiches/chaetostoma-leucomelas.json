@@ -18,8 +18,10 @@
   "compatibility": "Zone inférieure.",
   "diet": "Algivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Nécessite un fort courant et une eau bien oxygénée. Galets et roches lisses.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Chaetostoma_leucomelas_%2816519764731%29.jpg/960px-Chaetostoma_leucomelas_%2816519764731%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

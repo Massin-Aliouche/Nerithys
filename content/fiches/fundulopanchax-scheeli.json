@@ -16,9 +16,9 @@
   "minLengthCm": 5,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Micro-prédateur : artémias, daphnies, vers grindal, moustiques, nourriture vivante préférée.",
+  "breeding": "Ovipare, pondeur en mousse ou tourbe. Incubation des œufs variable selon l'espèce (2-6 semaines).",
+  "notes": "Eau douce et acide. Bac sombre avec plantes flottantes. Couvercle obligatoire (sauteur).",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/c/c9/Fundulopanchax_scheeli.png"
   ],

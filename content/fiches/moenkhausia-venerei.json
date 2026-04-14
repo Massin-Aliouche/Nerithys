@@ -16,11 +16,11 @@
   "minLengthCm": 4,
   "behavior": "Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore : paillettes, artémias, daphnies, vers de vase, nourriture végétale en complément.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Bac spacieux avec espace de nage. Eau douce d'Amazonie.",
   "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Stream_fish_from_Araguaia_and_Rio_da_Mortes_basin.png/960px-Stream_fish_from_Araguaia_and_Rio_da_Mortes_basin.png"
+    "https://zenodo.org/record/258038/files/figure.png"
   ],
   "gallery": [],
   "tags": [

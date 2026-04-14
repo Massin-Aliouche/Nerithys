@@ -18,8 +18,10 @@
   "compatibility": "Zone inférieure.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac chauffé (24-28°C), faible courant. Le mâle ne doit JAMAIS voir un autre mâle. Plantes flottantes appréciées.",
+  "images": [
+    "https://static.inaturalist.org/photos/92542938/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -16,9 +16,9 @@
   "minLengthCm": 20,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore à corallivore : artémias, mysis, moules, éponges. Certaines espèces sont très difficiles à nourrir.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Espèce souvent difficile à maintenir (régime spécialisé). Choisir les espèces réputées faciles (C. auriga, C. lunula).",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Raccoon_butterflyfish%2C_Chaetodon_lunula.jpg/960px-Raccoon_butterflyfish%2C_Chaetodon_lunula.jpg"
   ],

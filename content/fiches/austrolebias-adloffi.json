@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 5,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Territorial, intelligent. Peut creuser le substrat et réarranger le décor.",
+  "compatibility": "Compatible avec des poissons de taille adaptée. Éviter les espèces trop petites.",
+  "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/6/66/Austrolebias_adloffi_-_distribuci%C3%B3n.jpg"
   ],

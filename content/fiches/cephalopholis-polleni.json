@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 40,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Prédateur embusqué, reste posé et attend sa proie. Calme mais vorace.",
+  "compatibility": "Ne pas mélanger avec des poissons qu'il peut avaler. Compatible avec de gros poissons.",
+  "diet": "Carnivore/piscivore : poissons, crevettes, calamars, morceaux de poisson frais.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Peut devenir assez grand. Bac spacieux avec cachettes rocheuses. FO (fish-only) recommandé.",
   "images": [
     "https://zenodo.org/record/2988531/files/figure.png"
   ],

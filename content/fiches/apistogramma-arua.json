@@ -16,12 +16,10 @@
   "minLengthCm": 4,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore à tendance carnivore : artémias, vers de vase, daphnies, cyclopes, nourriture congelée de qualité.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Apistogramma_bitaeniata.jpg/960px-Apistogramma_bitaeniata.jpg"
-  ],
+  "notes": "Eau douce et acide recommandée. Bac densément planté avec nombreuses cachettes (noix de coco, cavernes).",
+  "images": [],
   "gallery": [],
   "tags": [
     "eau-douce",

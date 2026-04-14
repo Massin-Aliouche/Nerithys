@@ -18,8 +18,10 @@
   "compatibility": "Zone centrale, supérieure.",
   "diet": "Algivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Classique du lac Malawi. L. caeruleus (Yellow) est l'un des cichlidés les plus populaires.",
+  "images": [
+    "https://static.inaturalist.org/photos/164033886/large.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -16,10 +16,12 @@
   "minLengthCm": 63,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore : paillettes pour cichlidés, artémias, mysis, spiruline.",
+  "breeding": "Généralement incubateur buccal. Soins parentaux développés.",
+  "notes": "Eau dure et alcaline. Décor rocheux avec de nombreux territoires.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a7/Polypterus_endlicheri_endlicheri.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

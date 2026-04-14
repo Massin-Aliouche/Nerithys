@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Attention ! : Mastacembelus armatus est un poisson potamodrome Qui migre exclusivement dans les cours d'eau douce.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/10/Tire_Track_Eel.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

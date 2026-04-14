@@ -16,10 +16,12 @@
   "minLengthCm": 5,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore à tendance carnivore : artémias, vers de vase, daphnies, cyclopes, nourriture congelée de qualité.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Eau douce et acide recommandée. Bac densément planté avec nombreuses cachettes (noix de coco, cavernes).",
+  "images": [
+    "https://static.inaturalist.org/photos/6184021/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

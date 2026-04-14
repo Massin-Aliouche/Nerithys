@@ -17,9 +17,11 @@
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
   "diet": "Carnivore",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "breeding": "Incubateur buccal maternel. Reproduction assez facile en aquarium. 1 mâle pour 3-4 femelles.",
+  "notes": "Substrat de sable fin pour le comportement de fouille. Eau dure et alcaline, roches modérées.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/127773763/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

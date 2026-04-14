@@ -16,10 +16,12 @@
   "minLengthCm": 10,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
+  "diet": "Carnivore : mysis, artémias, cyclopes, nourriture congelée fine.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bonne espèce pour débuter en récifal. Groupe de 5+ recommandé. Éclairage avec zones ombragées.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6f/XRF-Apogon_apogonoides.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

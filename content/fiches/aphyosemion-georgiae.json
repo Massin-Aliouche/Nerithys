@@ -16,12 +16,10 @@
   "minLengthCm": 3.5,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
+  "diet": "Micro-prédateur : artémias, daphnies, vers grindal, cyclopes, micro-vers. Préfère la nourriture vivante.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aphyosemion_elberti_red_T.jpg/960px-Aphyosemion_elberti_red_T.jpg"
-  ],
+  "notes": "Bac spécifique recommandé. Eau douce et acide. Éclairage tamisé, couvert (sauteur).",
+  "images": [],
   "gallery": [],
   "tags": [
     "eau-douce",

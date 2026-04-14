@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 7.6,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "behavior": "Paisible, vit fixé aux roches. Se déplace en se collant aux surfaces. Grégaire, préfère un groupe.",
+  "compatibility": "Compatible avec les poissons de rivière rapide. Éviter les espèces de fond territoriales.",
+  "diet": "Herbivore/périphyton : algues, biofilm, spiruline, courgettes blanchies.",
+  "breeding": "Ovipare. Reproduction possible en aquarium avec fort courant et eau fraîche.",
+  "notes": "Exige un fort courant, eau bien oxygénée et fraîche. Substrat de galets. Éviter les eaux trop chaudes.",
   "images": [
     "https://static.inaturalist.org/photos/247634882/medium.jpg"
   ],

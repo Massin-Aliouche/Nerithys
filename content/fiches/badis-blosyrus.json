@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Possible",
   "notes": "Badis blosyrus fréquente les eaux courantes, fraîches et peu profondes sur avec un substrat composé principalement de petites roches avec quelques plages de sable. La végétation marginale y pousse de manière dense. Afin de reproduire au mieux son milieu, l'aquarium sera aménagé avec un substrat de sable ou de gravier fin, ainsi que des galets agencées afin de fournir de nombreuses caches pouvan...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/39/Badis_blosyrus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

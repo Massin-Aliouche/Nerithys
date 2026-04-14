@@ -18,8 +18,10 @@
   "compatibility": "Zone fond.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/NemacheilusTriangularisDay.jpg/960px-NemacheilusTriangularisDay.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

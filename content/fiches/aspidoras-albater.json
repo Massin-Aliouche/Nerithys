@@ -16,10 +16,12 @@
   "minLengthCm": 3.5,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
+  "diet": "Omnivore benthique : pastilles de fond, artémias, vers de vase, micro-vers.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Substrat sableux conseillé. Plus petit et plus timide que les Corydoras.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Aspidoras_albater_346366987.jpg/960px-Aspidoras_albater_346366987.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

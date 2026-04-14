@@ -16,10 +16,12 @@
   "minLengthCm": 11,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
+  "diet": "Carnivore à omnivore : granulés pour Betta, artémias, vers de vase, daphnies, nourriture congelée.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac chauffé (24-28°C), faible courant. Le mâle ne doit JAMAIS voir un autre mâle. Plantes flottantes appréciées.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Betta_enisae.jpg/960px-Betta_enisae.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

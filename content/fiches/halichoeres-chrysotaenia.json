@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 11,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Actif, nageur rapide, fouille le sable. S'enfouit dans le sable pour dormir. Curieux et sociable.",
+  "compatibility": "Bon compagnon récifal. Peut manger les petits invertébrés (crevettes, vers).",
+  "diet": "Carnivore : mysis, artémias, vers, petits crustacés, nourriture congelée marine.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Substrat de sable fin obligatoire (s'y enfouit la nuit). Couvercle obligatoire (sauteur).",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/f/f0/Halichoeres_vrolikii.jpg"
   ],

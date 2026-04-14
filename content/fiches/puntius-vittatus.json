@@ -16,9 +16,9 @@
   "minLengthCm": 6,
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : paillettes, granulés, artémias, vers de vase, nourriture végétale en complément.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation. Reproduction assez facile en bac dédié.",
+  "notes": "Bac spacieux avec plantation et zones de nage libre. Eau neutre à légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/b/be/PuntiusVittatusDay.jpg"
   ],

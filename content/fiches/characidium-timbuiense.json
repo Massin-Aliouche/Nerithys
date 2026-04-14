@@ -16,10 +16,12 @@
   "minLengthCm": 5.7,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Micro-prédateur : petits invertébrés, vers, insectes aquatiques, artémias.",
+  "breeding": "Ovipare. Reproduction peu documentée en captivité.",
+  "notes": "Bac de type rivière avec courant et substrat de galets. Eau bien oxygénée.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d2/Characidium_timbuiense_specimen_1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

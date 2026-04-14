@@ -16,9 +16,9 @@
   "minLengthCm": 18,
   "behavior": "Zone: Inférieure, Centrale",
   "compatibility": "Zone inférieure, centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Carnivore : petits poissons, crevettes, vers de vase, artémias, insectes aquatiques.",
+  "breeding": "Ovipare, pondeur sur substrat caché. Soins biparentaux intenses.",
+  "notes": "Grand bac avec nombreuses cachettes (roches, bois). Certaines espèces naines sont plus faciles à maintenir.",
   "images": [],
   "gallery": [],
   "tags": [

@@ -18,8 +18,10 @@
   "compatibility": "Zone fond.",
   "diet": "Algivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/219252106/large.jpeg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

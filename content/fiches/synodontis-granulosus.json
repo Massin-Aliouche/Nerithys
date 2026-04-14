@@ -16,9 +16,9 @@
   "minLengthCm": 25,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : pastilles de fond, vers de vase, artémias, nourriture congelée, petits insectes aquatiques.",
+  "breeding": "Ovipare. Certaines espèces sont des parasites du couvain des cichlidés (coucou). Reproduction rare en captivité.",
+  "notes": "Cachettes indispensables (roches, racines). Préfère un éclairage tamisé.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Synodontis_granulosus_boulenger.jpg/960px-Synodontis_granulosus_boulenger.jpg"
   ],

@@ -16,9 +16,9 @@
   "minLengthCm": 70,
   "behavior": "Zone: Inférieure",
   "compatibility": "Zone inférieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
+  "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
+  "breeding": "Ovipare, pondeur sur substrat. Soins biparentaux dans la plupart des cas.",
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Acanthicus_hystrix.jpg/960px-Acanthicus_hystrix.jpg"
   ],

@@ -16,10 +16,12 @@
   "minLengthCm": 30,
   "behavior": "Zone: Centrale",
   "compatibility": "Zone centrale.",
-  "diet": "Non renseigné",
+  "diet": "Carnivore : mysis, artémias, crevettes, petits crustacés, nourriture congelée.",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac spacieux avec zones de nage ouvertes. Courant modéré. Couvercle obligatoire.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Thalassoma_lutescens.jpg/960px-Thalassoma_lutescens.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Nemacheilus selangoricus n'est pas très difficile à maintenir dans de bonnes conditions mais il est fortement recommandé de l'accueillir dans un bac conçu pour ressembler à un ruisseau ou une rivière forestière avec un substrat de roches usés par l'eau (galets) de taille variable, d'un substrat de sable, de gravier fin et de bois flottés. Des branches disposées pour former un réseau de caches, ...",
-  "images": [],
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/251556576/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

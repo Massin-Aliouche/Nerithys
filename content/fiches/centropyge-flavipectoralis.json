@@ -16,10 +16,12 @@
   "minLengthCm": 10,
   "behavior": "Population: 3 minimum. Zone: Centrale. Ratio M/F: 1 / 2",
   "compatibility": "Zone centrale.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore à tendance herbivore : spiruline, algues, artémias, mysis, paillettes marines enrichies.",
+  "breeding": "Ovipare. Reproduction en aquarium très rare. Hermaphrodisme protogyne.",
+  "notes": "Bac récifal mature avec algues coralliennes. Certaines espèces sont reef-safe, d'autres non.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/436919041/large.png"
+  ],
   "gallery": [],
   "tags": [
     "marin",

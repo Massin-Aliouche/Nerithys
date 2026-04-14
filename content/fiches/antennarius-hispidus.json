@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 16,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "behavior": "Immobile, prédateur embusqué. Utilise un leurre (illicium) pour attirer les proies. Maître du camouflage.",
+  "compatibility": "Uniquement avec des poissons trop gros pour être avalés. Peut avaler des proies aussi grosses que lui.",
+  "diet": "Carnivore/piscivore : poissons vivants, crevettes. Peut être sevré sur du congelé avec patience.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Bac spécifique recommandé. Ne bouge quasiment pas. Fascinant mais exigeant.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/6/6c/Antennarius-hispidus-2.jpg"
   ],

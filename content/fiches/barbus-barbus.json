@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 60,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Paisible, grégaire, vit en banc de 6 minimum. Nage en pleine eau.",
+  "compatibility": "Excellent en communautaire avec des espèces paisibles.",
   "diet": "Omnivore",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
+  "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/81/Barbel.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

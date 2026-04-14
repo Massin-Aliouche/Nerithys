@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 12,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "behavior": "Actif, grégaire, vit en banc. Explores activement l'aquarium.",
+  "compatibility": "Compatible avec des poissons de taille similaire. Peut être turbulent pour les espèces calmes.",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers, nourriture végétale.",
+  "breeding": "Ovipare, disperseur d'œufs. Reproduction assez facile.",
+  "notes": "Bac planté avec espace de nage. Originaire d'Asie du Sud-Est.",
+  "images": [
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/350170803/large.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

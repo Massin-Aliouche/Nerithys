@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 70,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Calme, benthique, fouille le substrat. Peut être timide au début puis s'habitue. Venimeux (aiguillon caudal).",
+  "compatibility": "Grand bac spécifique recommandé. Compatible avec de gros poissons de surface (Arowana, grands cichlidés).",
   "diet": "Carnivore",
   "breeding": "Vivipare",
-  "notes": null,
+  "notes": "ATTENTION : aiguillon venimeux. Substrat de sable fin. Volume minimum 500L+. Expert uniquement.",
   "images": [
     "https://zenodo.org/record/892755/files/figure.png"
   ],

@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 8,
-  "behavior": "Non renseigné",
-  "compatibility": "Non renseigné",
+  "behavior": "Territorial et parfois agressif malgré sa petite taille. Vif et coloré.",
+  "compatibility": "Compatible avec des poissons récifaux robustes. Peut harceler les petits poissons timides.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bon déparasiteur naturel (mange les vers plats parasites). Cachettes nécessaires dans le récif.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pseudochromis_melas.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

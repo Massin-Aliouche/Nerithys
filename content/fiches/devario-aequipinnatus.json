@@ -16,10 +16,12 @@
   "minLengthCm": 15,
   "behavior": "Zone: Centrale, Supérieure",
   "compatibility": "Zone centrale, supérieure.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore : paillettes, artémias, daphnies, moustiques, insectes de surface.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation.",
+  "notes": "Bac couvert (sauteur). Courant modéré apprécié. Robuste et facile.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Devario_aequipinnatus.JPG/960px-Devario_aequipinnatus.JPG"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

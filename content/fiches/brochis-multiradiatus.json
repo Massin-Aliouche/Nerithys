@@ -18,8 +18,10 @@
   "compatibility": "Zone inférieure.",
   "diet": "Omnivore",
   "breeding": "Ovipare, difficulté: Possible",
-  "notes": null,
-  "images": [],
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fish_at_Louisville_Zoo_025.jpg/960px-Fish_at_Louisville_Zoo_025.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

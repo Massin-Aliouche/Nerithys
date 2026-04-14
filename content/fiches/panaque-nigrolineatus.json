@@ -16,10 +16,12 @@
   "minLengthCm": 25,
   "behavior": "Zone: Fond",
   "compatibility": "Zone fond.",
-  "diet": "Non renseigné",
-  "breeding": null,
-  "notes": null,
-  "images": [],
+  "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
+  "breeding": "Ovipare, pondeur sur substrat. Soins biparentaux dans la plupart des cas.",
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1a/Panaque_nigrolineatus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

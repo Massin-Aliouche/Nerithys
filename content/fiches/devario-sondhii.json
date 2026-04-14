@@ -15,10 +15,10 @@
   "minVolumeL": null,
   "minLengthCm": 6,
   "behavior": "Population: 10 minimum",
-  "compatibility": "Non renseigné",
-  "diet": "Non renseigné",
+  "compatibility": "Compatible avec des poissons actifs de taille similaire. Trop rapide pour les espèces très calmes.",
+  "diet": "Omnivore : paillettes, artémias, daphnies, moustiques, insectes de surface.",
   "breeding": "Ovipare",
-  "notes": null,
+  "notes": "Bac couvert (sauteur). Courant modéré apprécié. Robuste et facile.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/256002550/medium.jpeg"
   ],

@@ -19,7 +19,9 @@
   "diet": "Carnivore",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Les Botia histrionica sont grégaires. Elles forment des hiérarchies sociales complexes et doivent être maintenus en groupes d'au moins cinq ou six individus, mais de préférence dix ou douze. Lorsqu'elles sont gardées seules, ces loches peuvent devenir renfermées ou agressives envers les poissons de forme similaire, et si seulement un couple ou un trio sont maintenus, le dominant peut stresser l...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Botia_histrionica.jpg/960px-Botia_histrionica.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

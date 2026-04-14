@@ -18,8 +18,10 @@
   "compatibility": "Zone centrale, supérieure.",
   "diet": "Carnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Bac chauffé (24-28°C), faible courant. Le mâle ne doit JAMAIS voir un autre mâle. Plantes flottantes appréciées.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/07/Betta_pi.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

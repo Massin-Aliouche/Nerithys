@@ -18,8 +18,10 @@
   "compatibility": "Zone centrale.",
   "diet": "Omnivore",
   "breeding": "Ovipare",
-  "notes": null,
-  "images": [],
+  "notes": "Eau dure et alcaline. Décor rocheux avec de nombreux territoires.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Brycinus_imberi_70328476.jpg/960px-Brycinus_imberi_70328476.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",
