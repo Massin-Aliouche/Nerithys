@@ -1,0 +1,32 @@
+{
+  "name": "Austrolebias carvalhoi",
+  "scientificName": "Austrolebias carvalhoi",
+  "slug": "austrolebias-carvalhoi",
+  "biotope": "Eau douce — Amazonie",
+  "difficulty": 1,
+  "tempMin": 10,
+  "tempMax": 27,
+  "phMin": 6,
+  "phMax": 7,
+  "ghMin": 5,
+  "ghMax": 12,
+  "khMin": null,
+  "khMax": null,
+  "minVolumeL": null,
+  "minLengthCm": 3.8,
+  "behavior": "Territorial, intelligent. Peut creuser le substrat et réarranger le décor.",
+  "compatibility": "Compatible avec des poissons de taille adaptée. Éviter les espèces trop petites.",
+  "diet": "Carnivore : artémias, daphnies, vers de vase, vers grindal, tubifex.",
+  "breeding": "Ovipare annuel. Ponte en tourbe. Les œufs nécessitent une diapause de 3-6 mois en tourbe humide.",
+  "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/0f/Austrolebias_carvalhoi_-_distribuci%C3%B3n.jpg"
+  ],
+  "gallery": [],
+  "tags": [
+    "eau-douce",
+    "carnivore",
+    "nano",
+    "facile"
+  ]
+}
