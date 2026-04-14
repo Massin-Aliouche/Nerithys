@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": 300,
   "minLengthCm": 15,
-  "behavior": "Population: 4 minimum (6 recommandé).",
+  "behavior": "",
   "compatibility": "Excellent en communautaire avec des espèces paisibles.",
   "diet": "Herbivore/omnivore : algues, spiruline, paillettes, courgettes, artémias en complément.",
-  "breeding": "Ovipare, difficulté: Difficile",
+  "breeding": "Ovipare, difficulté: Difficile.",
   "notes": "En cours de rédaction : Exposant : 2 Attention ! : Note : (Cette information demande confirmation car non sourcée) Les espèces de Crossocheilus vivent dans les cours d'eau et leurs affluents, sur des substrats de rochers, de galets, de gravier et de sable, souvent dans des zones où affleurent des bois flottés ou des racines d'arbres.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/410903033/medium.jpg"

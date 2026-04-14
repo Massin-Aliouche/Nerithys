@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 12,
-  "behavior": "Population: 6 minimum (12 recommandé).",
+  "behavior": "",
   "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
   "diet": "Omnivore benthique : micro-vers, tubifex, vers de vase, nourriture congelée fine, pastilles de fond.",
-  "breeding": "Ovipare, difficulté: Difficile",
+  "breeding": "Ovipare, difficulté: Difficile.",
   "notes": "Substrat de sable fin obligatoire. Nombreuses cachettes (feuilles mortes, racines). Couverture végétale dense.",
   "images": [
     "https://arpha.pensoft.net//showfigure.php?filename=big_791632.jpg"

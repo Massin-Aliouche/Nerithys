@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": 250,
   "minLengthCm": 15,
-  "behavior": "Population: 5 minimum (10 recommandé).",
+  "behavior": "",
   "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
   "diet": "Omnivore : paillettes, artémias, daphnies, vers de vase, nourriture congelée fine.",
-  "breeding": "Ovipare, difficulté: Difficile",
+  "breeding": "Ovipare, difficulté: Difficile.",
   "notes": "Les Botia dario sont grégaires. Elles forment des hiérarchies sociales complexes et doivent être maintenus en groupes d'au moins cinq ou six individus, mais de préférence dix ou douze.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/272477622/large.jpg"

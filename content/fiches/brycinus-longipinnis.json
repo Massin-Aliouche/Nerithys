@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": 250,
   "minLengthCm": 15,
-  "behavior": "Population: 6 minimum (12 recommandé).",
+  "behavior": "",
   "compatibility": "Compatible avec les espèces tolérant les mêmes conditions saumâtres.",
   "diet": "Omnivore : paillettes, granulés, artémias, vers de vase, nourriture congelée variée.",
-  "breeding": "Ovipare, difficulté: Difficile",
+  "breeding": "Ovipare, difficulté: Difficile.",
   "notes": "Bien qu'il s'agisse essentiellement d'un poisson d'eau douce, Brycinus longipinnis peut vivre dans les eaux saumâtres. C'est un poisson amphidrome qu'on trouve dans le cours supérieur des rivières mais aussi dans les eaux estuariennes. Espèce grégaire, il vit en groupe important.",
   "images": [
     "https://www.b-aqua.com/photos/1/782.jpg"

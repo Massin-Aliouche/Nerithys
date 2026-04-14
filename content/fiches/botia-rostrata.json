@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 300,
   "minLengthCm": 25,
-  "behavior": "Population: 6 minimum (12 recommandé).",
+  "behavior": "",
   "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
   "diet": "Omnivore : paillettes, artémias, daphnies, vers de vase, nourriture congelée fine.",
-  "breeding": "Ovipare, difficulté: Impossible",
-  "notes": "Présente dans les ruisseaux des collines et les rivières principales, l'espèce est potamodrome. Qui migre exclusivement dans les cours d'eau douce.",
+  "breeding": "Ovipare, difficulté: Impossible.",
+  "notes": "Présente dans les ruisseaux des collines et les rivières principales, l'espèce est migrateur en eau douce. Qui migre exclusivement dans les cours d'eau douce.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/8/8d/Botia_rostrata_2.jpg"
   ],

@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 200,
   "minLengthCm": 10,
-  "behavior": "Population: 6 minimum.",
+  "behavior": "",
   "compatibility": "Compatible avec les espèces paisibles. Éviter les gros poissons turbulents.",
   "diet": "Herbivore : algues, spiruline, courgettes blanchies, pastilles d'algues, biofilm.",
-  "breeding": "Ovipare, difficulté: Difficile",
-  "notes": "On ne sait rien de cette espèce en aquarium, et on se reportera aux fiches des autres membres du genre susceptibles de fréquenter le même biotope pour assurer sa maintenance et son élevage. Prévoyez cependant des cachettes ombragées dans un réservoir planté avec des rochers ou des structures semblables à des grottes et un sol sableux.",
+  "breeding": "Ovipare, difficulté: Difficile.",
+  "notes": "On ne sait rien de cette espèce en aquarium, et La maintenance est similaire à celle des espèces proches du genre. Prévoyez cependant des cachettes ombragées dans un réservoir planté avec des rochers ou des structures semblables à des grottes et un sol sableux.",
   "images": [
     "https://static.inaturalist.org/photos/48343704/medium.jpeg"
   ],

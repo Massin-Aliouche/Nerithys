@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 400,
   "minLengthCm": 21,
-  "behavior": "Population: 2 minimum (6 recommandé).",
+  "behavior": "",
   "compatibility": "Compatible en bac communautaire amazonien avec des espèces de taille et tempérament similaires.",
   "diet": "Omnivore : paillettes, artémias, daphnies, vers de vase, nourriture congelée variée.",
   "breeding": "Ovipare. Mode de reproduction variable selon l'espèce (disperseur, substrat, cavité).",
-  "notes": "L'Acara de Heckel, fréquente les basses terres des bassins fluviaux et pénètre dans les savanes ou les forêts inondées pendant la saison des pluies pour s'y reproduire. C'est donc un potamodrome Qui migre exclusivement dans les cours d'eau douce.",
+  "notes": "L'Acara de Heckel, fréquente les basses terres des bassins fluviaux et pénètre dans les savanes ou les forêts inondées pendant la saison des pluies pour s'y reproduire. Cette espèce effectue des migrations en eau douce.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/7/7b/Acarichthys_heckeli.JPG"
   ],

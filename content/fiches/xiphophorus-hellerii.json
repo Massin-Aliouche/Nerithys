@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 200,
   "minLengthCm": 12,
-  "behavior": "Population: 6 minimum.",
+  "behavior": "",
   "compatibility": "Excellent en communautaire. Compatible avec la plupart des espèces paisibles.",
   "diet": "Omnivore : paillettes, spiruline, artémias, vers de vase, complément végétal apprécié.",
-  "breeding": "Ovovivipare, difficulté: Courante",
-  "notes": "Ce xipho est grégaire et doit être maintenu en groupe d'au moins six individus. Il est préférable d'éviter de le maintenir avec d'autres Poecillidés (platy, guppy, molly,...) car il y a des risques d'hybridation.",
+  "breeding": "Ovovivipare, difficulté: Courante.",
+  "notes": "Ce xipho est grégaire et doit être maintenu en groupe d'au moins six individus. Il est préférable d'éviter de le maintenir avec d'autres Poecillidés (platy, guppy, molly,.) car il y a des risques d'hybridation.",
   "images": [
     "https://www.b-aqua.com/photos/1/3427.jpg"
   ],

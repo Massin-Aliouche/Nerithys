@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": 250,
   "minLengthCm": 15,
-  "behavior": "Population: 5 minimum (10 recommandé).",
+  "behavior": "",
   "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
   "diet": "Omnivore : paillettes, artémias, daphnies, vers de vase, nourriture congelée fine.",
-  "breeding": "Ovipare, difficulté: Difficile",
+  "breeding": "Ovipare, difficulté: Difficile.",
   "notes": "Les Botia kubotai sont grégaires. Elles forment des hiérarchies sociales complexes et doivent être maintenues en groupes d'au moins cinq ou six individus, mais de préférence dix ou douze.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/b/b0/Botia_kubotai.jpg"

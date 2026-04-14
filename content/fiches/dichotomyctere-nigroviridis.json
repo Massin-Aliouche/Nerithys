@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": 150,
   "minLengthCm": 15,
-  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
+  "behavior": "",
   "compatibility": "Compatible avec les espèces tolérant les mêmes conditions saumâtres.",
   "diet": "Omnivore : paillettes, granulés, artémias, vers de vase, nourriture congelée variée.",
-  "breeding": "Ovipare, difficulté: Difficile",
+  "breeding": "Ovipare, difficulté: Difficile.",
   "notes": "Bien qu'il puisse vivre en eau douce, voir sur une courte période en eau de mer, il convient de le maintenir en eau saumâtre, avec un densité comprise entre 1005 et 1015. En effet, son espérance de vie en eau douce n'est que de deux à trois ans, tandis qu'elle est de huit à dix ans en eau saumâtre. Le pH moyen devra impérativement être supérieur à 8.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/30363276/large.jpg"

@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 120,
   "minLengthCm": 10,
-  "behavior": "Population: 6 minimum (12 recommandé).",
+  "behavior": "",
   "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
   "diet": "Omnivore : paillettes, artémias, daphnies, vers de vase, nourriture congelée fine.",
-  "breeding": "Ovipare, difficulté: Difficile",
-  "notes": "Ambastaia nigrolineata fréquente les rapides, dans les eaux claires à courant vif. On le trouve aussi dans les petits ruisseaux au fond sableux et au courant modéré. Il semble que cette espèce soit migratrice (potamodrome) Qui migre exclusivement dans les cours d'eau douce.",
+  "breeding": "Ovipare, difficulté: Difficile.",
+  "notes": "Ambastaia nigrolineata fréquente les rapides, dans les eaux claires à courant vif. On le trouve aussi dans les petits ruisseaux au fond sableux et au courant modéré. Il semble que cette espèce soit migratrice et effectue des migrations en eau douce.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Yasuhikotakia_nigrolineata.jpg/960px-Yasuhikotakia_nigrolineata.jpg"
   ],

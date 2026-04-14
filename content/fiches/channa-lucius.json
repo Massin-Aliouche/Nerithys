@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 500,
   "minLengthCm": 55,
-  "behavior": "Population: 2 minimum.",
+  "behavior": "",
   "compatibility": "Souvent maintenu seul ou en couple. Peut attaquer ou avaler les poissons plus petits.",
   "diet": "Carnivore/piscivore : poissons, crevettes, vers de terre, insectes, morceaux de poisson frais.",
   "breeding": "Ovipare. Nid de bulles ou soins buccaux selon l'espèce. Soins parentaux très développés.",
-  "notes": "Channa lucius est un potamodrome Qui migre exclusivement dans les cours d'eau douce.",
+  "notes": "Channa lucius est un migrateur en eau douce Qui migre exclusivement dans les cours d'eau douce.",
   "images": [
     "https://static.inaturalist.org/photos/237923553/medium.jpg"
   ],
