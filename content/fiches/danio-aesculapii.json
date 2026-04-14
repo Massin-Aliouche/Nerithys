@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 100,
   "minLengthCm": 3.5,
-  "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "behavior": "Population: 10 minimum (20 recommandé).",
   "compatibility": "Compatible avec la plupart des espèces communautaires. Trop vif pour les poissons très calmes.",
   "diet": "Omnivore : paillettes flottantes, artémias, daphnies, vers de vase, nourriture congelée variée.",
   "breeding": "Ovipare, disperseur d'œufs. Reproduction facile : changement d'eau et lumière du matin la déclenchent.",
-  "notes": "La température de l'eau dans son milieu a été enregistrée entre 22 à 27 °C pendant les mois chauds de l'année. On peut supposer que les conditions sont plus fraîches pendant les mois humides de la mousson, mais nous ne savons pas dans quelle mesure. Le pH dans les eaux naturelles a été mesuré de 6,9 à 7,1 et des valeurs similaires sont recommandées en aquarium. La dureté totale était faible. La...",
+  "notes": "La température de l'eau dans son milieu a été enregistrée entre 22 à 27 °C pendant les mois chauds de l'année. On peut supposer que les conditions sont plus fraîches pendant les mois humides de la mousson, mais nous ne savons pas dans quelle mesure. Le pH dans les eaux naturelles a été mesuré de 6,9 à 7,1 et des valeurs similaires sont recommandées en aquarium. La dureté totale était faible.",
   "images": [
     "https://zenodo.org/record/189032/files/figure.png"
   ],

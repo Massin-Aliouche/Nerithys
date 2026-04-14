@@ -654,6 +654,47 @@ h3 { font-size: 1rem }
 .empty-state {
   text-align: center;
   padding: 3rem 1rem;
+}
+
+/* ══════════════════════════════════════════════════════════
+   CATEGORIES GRID
+   ══════════════════════════════════════════════════════════ */
+.categories-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+}
+.category-card {
+  display: block;
+  background: #fff;
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  text-decoration: none;
+  color: var(--ink);
+  border: 1px solid var(--border);
+  transition: transform .2s, box-shadow .2s, border-color .2s;
+}
+.category-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--ocean);
+}
+.cat-icon {
+  font-size: 2rem;
+  margin-bottom: .5rem;
+}
+.category-card h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: .35rem;
+  color: var(--ink);
+}
+.category-card p {
+  font-size: .85rem;
+  color: var(--muted);
+  line-height: 1.5;
+  margin: 0;
+}
   color: var(--muted);
   grid-column: 1 / -1;
 }

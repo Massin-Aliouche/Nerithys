@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 250,
   "minLengthCm": 8,
-  "behavior": "Population: 10 minimum (15 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "behavior": "Population: 10 minimum (15 recommandé).",
   "compatibility": "Compatible avec des poissons actifs de taille similaire. Trop rapide pour les espèces très calmes.",
   "diet": "Omnivore : paillettes, artémias, daphnies, moustiques, insectes de surface.",
   "breeding": "Ovipare, disperseur d'œufs dans la végétation. Reproduction facile en bac dédié.",
-  "notes": "L'État de Rakhine est situé dans une région tropicale de mousson et connaît une saison des pluies marquée entre mai et octobre, tandis qu'à d'autres moments, il peut y faire assez sec. D. xyrops vit dans les petits ruisseaux saisonniers et les petites rivières dont le substrat est composé de roches, de galets et de gravier et qui se réduisent généralement à une série de petites mares interconne...",
+  "notes": "L'État de Rakhine est situé dans une région tropicale de mousson et connaît une saison des pluies marquée entre mai et octobre, tandis qu'à d'autres moments, il peut y faire assez sec. D.",
   "images": [
     "https://zenodo.org/record/5323425/files/figure.png"
   ],

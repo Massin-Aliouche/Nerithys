@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 250,
   "minLengthCm": 20,
-  "behavior": "Population: 3 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "behavior": "Population: 3 minimum.",
   "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
   "diet": "Omnivore/carnivore : granulés, artémias, vers de vase, petits poissons, insectes.",
   "breeding": "Nid de bulles. Le mâle garde les œufs et alevins. Reproduction possible.",
-  "notes": "Belontia signata fréquente les cours d’eau forestiers à débit lent, peu profonds et clairs, généralement avec un substrat de galets ou de sable. Un substrat meuble et sablonneux avec des racines et des branches de bois placées de manière à former de nombreux endroits ombragés et des grottes sera privilégié. L’ajout de litière de feuilles séchées (les feuilles de hêtre, de chêne ou autres accent...",
+  "notes": "Belontia signata fréquente les cours d’eau forestiers à débit lent, peu profonds et clairs, généralement avec un substrat de galets ou de sable. Un substrat meuble et sablonneux avec des racines et des branches de bois placées de manière à former de nombreux endroits ombragés et des grottes sera privilégié.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/104005992/medium.jpeg"
   ],

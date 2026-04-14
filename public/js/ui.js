@@ -243,7 +243,16 @@
       if (statEl && state.all.length) statEl.textContent = state.all.length;
 
       populateBiotopes(state.all);
-      renderList(state.filtered);
+
+      // Apply URL params (e.g. ?biotope=Eau+de+mer)
+      var urlParams = new URLSearchParams(window.location.search);
+      var urlBio = urlParams.get('biotope');
+      if (urlBio) {
+        var bioSelect = qs('#biotope');
+        if (bioSelect) bioSelect.value = urlBio;
+      }
+
+      applyFilters();
 
       var qInput = qs('#q');
       var bioSelect = qs('#biotope');

@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 200,
   "minLengthCm": 7,
-  "behavior": "Population: 6 minimum (12 recommandé). Zone: Supérieure. Ratio M/F: 1 / 1",
+  "behavior": "Population: 6 minimum (12 recommandé).",
   "compatibility": "Compatible en bac communautaire amazonien avec des espèces de taille et tempérament similaires.",
   "diet": "Insectivore de surface : mouches, moustiques, artémias, paillettes flottantes, nourriture lyophilisée.",
   "breeding": "Ovipare, difficulté: Difficile",
-  "notes": "Cette espèce est présente dans les rivières et les ruisseaux caractérisés par une faible turbidité et des températures allant de 21 à 27,6 °C. Le substrat se compose généralement de sable et de végétation en décomposition. Il est donc préférable qu'une bonne partie de la surface de l'eau soit occupée par des plantes flottantes, ce qui contribuera à rendre cette espèce craintive moins nerveuse. ...",
+  "notes": "Cette espèce est présente dans les rivières et les ruisseaux caractérisés par une faible turbidité et des températures allant de 21 à 27,6 °C. Le substrat se compose généralement de sable et de végétation en décomposition.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/32408095/medium.jpg"
   ],

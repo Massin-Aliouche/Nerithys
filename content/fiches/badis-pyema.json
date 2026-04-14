@@ -14,11 +14,11 @@
   "khMax": null,
   "minVolumeL": 80,
   "minLengthCm": 4.5,
-  "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
+  "behavior": "Population: 3 minimum.",
   "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
   "diet": "Micro-prédateur : artémias, daphnies, vers de vase, cyclopes. Refuse souvent la nourriture sèche.",
   "breeding": "Ovipare, pondeur en cavité. Le mâle garde les œufs dans un petit abri (roche, noix de coco).",
-  "notes": "Badis pyema a été collecté dans un petit cours d'eau à débit rapide qui traverse les collines boisées. Ce ruisseau coulait sur un lit constitué de roches, de gravier ou de sable, avec de l'herbe et des arbustes près de la rive, fournissant une ombre certaine, et aucune végétation aquatique. Les fluctuations saisonnières de température sont importantes avec des températures fraiches allant de 15...",
+  "notes": "Badis pyema a été collecté dans un petit cours d'eau à débit rapide qui traverse les collines boisées. Ce ruisseau coulait sur un lit constitué de roches, de gravier ou de sable, avec de l'herbe et des arbustes près de la rive, fournissant une ombre certaine, et aucune végétation aquatique.",
   "images": [
     "https://static.inaturalist.org/photos/489270581/medium.jpg"
   ],
