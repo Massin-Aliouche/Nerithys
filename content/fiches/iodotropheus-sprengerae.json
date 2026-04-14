@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": 250,
   "minLengthCm": 10,
-  "behavior": "Zone: Inférieure",
-  "compatibility": "Zone inférieure.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "behavior": "Territorial, comportement social marqué. Hiérarchie intra-spécifique chez les cichlidés.",
+  "compatibility": "Compatible avec des espèces africaines de biotope et tempérament similaires. Prévoir un espace suffisant.",
+  "diet": "Omnivore : paillettes pour cichlidés, artémias, mysis, spiruline, nourriture congelée.",
+  "breeding": "Incubateur buccal ou ovipare selon l'espèce. Soins parentaux développés.",
   "notes": "Eau dure et alcaline. Décor rocheux avec de nombreux territoires.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c7/Iodotropheus_sprengerae.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

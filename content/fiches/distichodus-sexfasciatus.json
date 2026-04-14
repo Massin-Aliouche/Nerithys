@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": 1,
   "minLengthCm": 76,
-  "behavior": "Zone: Inférieure",
-  "compatibility": "Zone inférieure.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "behavior": "Territorial, actif. Les mâles établissent des hiérarchies sociales.",
+  "compatibility": "Compatible avec d'autres cichlidés africains de taille similaire.",
+  "diet": "Omnivore : paillettes pour cichlidés, artémias, mysis, spiruline, nourriture congelée.",
+  "breeding": "Incubateur buccal ou ovipare selon l'espèce. Soins parentaux développés.",
   "notes": "Eau dure et alcaline. Décor rocheux avec de nombreux territoires.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/5887201/medium.jpeg"

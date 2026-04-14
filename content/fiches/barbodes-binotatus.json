@@ -15,9 +15,9 @@
   "minVolumeL": 300,
   "minLengthCm": 20,
   "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 1",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible avec des poissons de taille similaire. Peut être turbulent pour les espèces calmes.",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers, nourriture végétale en complément.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation. Reproduction relativement facile.",
   "notes": "On trouve couramment Barbodes binotatus sous les cascades dans les ruisseaux de montagne. Il fréquente les rivières de taille moyenne à grande, mais aussi les plans d'eau stagnants. Les substrats de ces habitats peuvent être composés de boue, de sable, de cailloux, de rochers émoussés, avec des structures ligneuses submergées telles que des branches de bois flotté ou des racines d'arbres ainsi ...",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/350163083/medium.jpeg"

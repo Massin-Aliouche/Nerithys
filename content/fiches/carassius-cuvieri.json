@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 35,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
+  "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
   "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
   "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Carassius_cuvieri_by_OpenCage.jpg/800px-Carassius_cuvieri_by_OpenCage.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

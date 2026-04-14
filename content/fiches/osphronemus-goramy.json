@@ -14,9 +14,9 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 80,
-  "behavior": "Zone: Centrale",
-  "compatibility": "Zone centrale.",
-  "diet": "Omnivore",
+  "behavior": "Adapté aux eaux saumâtres, souvent actif et robuste. Peut tolérer des variations de salinité.",
+  "compatibility": "Compatible avec les espèces tolérant les mêmes conditions saumâtres.",
+  "diet": "Omnivore vorace : granulés, fruits, légumes, poissons, vers de terre — mange de tout.",
   "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [

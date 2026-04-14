@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 10,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "behavior": "Actif, nage parmi les coraux et roches du récif.",
+  "compatibility": "Compatible avec les poissons récifaux de tempérament similaire.",
+  "diet": "Omnivore : mysis, artémias, moules, algues, petits crustacés coral. Attention : peut grignoter les coraux.",
+  "breeding": "Ovipare. Reproduction rare en captivité.",
   "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
   "images": [
     "https://www.b-aqua.com/photos/1/820.jpg"

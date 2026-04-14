@@ -17,7 +17,7 @@
   "behavior": "Immobile, prédateur embusqué. Utilise un leurre (illicium) pour attirer les proies. Maître du camouflage.",
   "compatibility": "Uniquement avec des poissons trop gros pour être avalés. Peut avaler des proies aussi grosses que lui.",
   "diet": "Carnivore/piscivore : poissons vivants, crevettes. Peut être sevré sur du congelé avec patience.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité. Ponte pélagique ou sur substrat selon l'espèce.",
   "notes": "Bac spécifique recommandé. Ne bouge quasiment pas. Fascinant mais exigeant.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/1/1f/Antennarius-coccineus2.jpg"

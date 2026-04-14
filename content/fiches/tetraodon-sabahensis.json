@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 10,
-  "behavior": "Zone: Centrale",
-  "compatibility": "Zone centrale.",
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Compatible en communautaire avec des espèces de taille et tempérament similaires.",
   "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare. Reproduction rare en captivité. Certaines espèces pondent sur substrat.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/8/81/Sabahensis.jpg"

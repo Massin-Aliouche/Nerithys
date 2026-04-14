@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 10,
-  "behavior": "Zone: Fond",
-  "compatibility": "Zone fond.",
+  "behavior": "Actif, vit en groupe pour la plupart des espèces. Préfère un bac planté avec courant léger à modéré.",
+  "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
   "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
   "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Homaloptera_zollingeri_Bleeker.jpg/800px-Homaloptera_zollingeri_Bleeker.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

@@ -15,9 +15,9 @@
   "minVolumeL": 200,
   "minLengthCm": 20,
   "behavior": "Population: 1 minimum (2 recommandé). Zone: Fond. Ratio M/F: 1 / 1",
-  "compatibility": "Zone fond.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare, difficulté: Courante",
+  "compatibility": "Souvent maintenu seul ou en couple. Peut attaquer ou avaler les poissons plus petits.",
+  "diet": "Carnivore/piscivore : poissons, crevettes, vers de terre, insectes, morceaux de poisson frais.",
+  "breeding": "Ovipare. Nid de bulles ou soins buccaux selon l'espèce. Soins parentaux très développés.",
   "notes": "Attention ! : C. bleheri ne doit pas être maintenu à une température constante mais doit bénéficier d'une variation saisonnière naturelle sous la forme de périodes hivernales et estivales bien définies. Pendant la période \"froide\", les poissons n'ont pas besoin de beaucoup de nourriture et le niveau de l'eau peut baisser sans ajout supplémentaire. La température de l’eau en hiver peut être proc...",
   "images": [
     "https://www.b-aqua.com/photos/1/979.jpg"

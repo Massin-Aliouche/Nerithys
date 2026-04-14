@@ -15,8 +15,8 @@
   "minVolumeL": 600,
   "minLengthCm": 100,
   "behavior": "Population: 6 minimum. Zone: Inférieure. Ratio M/F: 1 / 1",
-  "compatibility": "Zone inférieure.",
-  "diet": "Carnivore",
+  "compatibility": "Compatible avec les espèces tolérant les mêmes conditions saumâtres.",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers de vase, nourriture congelée variée.",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Attention ! : Mastacembelus armatus est un poisson potamodrome Qui migre exclusivement dans les cours d'eau douce.",
   "images": [

@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 25,
-  "behavior": "Zone: Fond",
-  "compatibility": "Zone fond.",
+  "behavior": "Territorial, intelligent. Peut creuser le substrat et réarranger le décor.",
+  "compatibility": "Compatible avec des poissons de taille adaptée. Éviter les espèces trop petites.",
   "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare. Mode de reproduction variable selon l'espèce (disperseur, substrat, cavité).",
   "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_freshwater_fishes_of_British_Guiana%2C_including_a_study_of_the_ecological_grouping_of_species_and_the_relation_of_the_fauna_of_the_plateau_to_that_of_the_lowlands_%281912%29_%2814756897816%29.jpg/960px-thumbnail.jpg"

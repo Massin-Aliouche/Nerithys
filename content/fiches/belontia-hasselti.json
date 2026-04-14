@@ -15,9 +15,9 @@
   "minVolumeL": 250,
   "minLengthCm": 20,
   "behavior": "Population: 3 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
+  "diet": "Omnivore/carnivore : granulés, artémias, vers de vase, petits poissons, insectes.",
+  "breeding": "Nid de bulles. Le mâle garde les œufs et alevins. Reproduction possible.",
   "notes": "Potamodrome Qui migre exclusivement dans les cours d'eau douce.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/b/b0/Belont_hasselt_100523-1755_sap.JPG"

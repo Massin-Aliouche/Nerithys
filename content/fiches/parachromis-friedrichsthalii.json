@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 30,
-  "behavior": "Zone: Centrale",
-  "compatibility": "Zone centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "behavior": "Paisible, grégaire, vit en banc de 6 minimum. Nage en pleine eau.",
+  "compatibility": "Excellent en communautaire avec des espèces paisibles.",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers de vase, nourriture congelée variée.",
+  "breeding": "Ovipare. Reproduction variable selon l'espèce.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Yellowjacket_Cichlids_%28Parachromis_friedrichsthalii%29_-_Carwash_Cenote_QR.jpg/960px-Yellowjacket_Cichlids_%28Parachromis_friedrichsthalii%29_-_Carwash_Cenote_QR.jpg"

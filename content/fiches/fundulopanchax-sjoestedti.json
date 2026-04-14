@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 12,
-  "behavior": "Zone: Centrale, Supérieure",
-  "compatibility": "Zone centrale, supérieure.",
+  "behavior": "Population: 1 minimum (3 recommandé). Zone: Inférieure, Centrale. Ratio M/F: 1 / 2",
+  "compatibility": "Compatible avec des espèces calmes de taille similaire. 1 mâle pour 2-3 femelles.",
   "diet": "Micro-prédateur : artémias, daphnies, vers grindal, moustiques, nourriture vivante préférée.",
   "breeding": "Ovipare, pondeur en mousse ou tourbe. Incubation des œufs variable selon l'espèce (2-6 semaines).",
   "notes": "Eau douce et acide. Bac sombre avec plantes flottantes. Couvercle obligatoire (sauteur).",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fundulopanchax_sjostedti_%27Red_dwarf%27.jpg/800px-Fundulopanchax_sjostedti_%27Red_dwarf%27.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

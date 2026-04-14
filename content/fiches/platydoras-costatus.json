@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 22,
-  "behavior": "Zone: Fond",
-  "compatibility": "Zone fond.",
+  "behavior": "Paisible, préfère un aquarium planté avec des zones ombragées. Grégaire pour la plupart des espèces.",
+  "compatibility": "Compatible en bac communautaire amazonien avec des espèces de taille et tempérament similaires.",
   "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare. Reproduction très rare en captivité. Peut émettre des sons.",
   "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Silurus_costatus_now_in_Platydoras_sketch_of_Gronow_1754.jpg/800px-Silurus_costatus_now_in_Platydoras_sketch_of_Gronow_1754.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

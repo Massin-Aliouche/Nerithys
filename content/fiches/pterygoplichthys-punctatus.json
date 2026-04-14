@@ -16,8 +16,8 @@
   "minLengthCm": 15,
   "behavior": "Territorial, intelligent. Peut creuser le substrat et réarranger le décor.",
   "compatibility": "Compatible avec des poissons de taille adaptée. Éviter les espèces trop petites.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "diet": "Herbivore : algues, courgettes, spiruline, pastilles d'algues. Grand appétit pour les algues.",
+  "breeding": "Ovipare. Creuse un terrier dans les berges pour pondre. Reproduction très rare en aquarium.",
   "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/63402640/large.jpeg"

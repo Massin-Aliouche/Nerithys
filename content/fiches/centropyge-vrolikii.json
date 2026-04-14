@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 11,
-  "behavior": "Zone: Inférieure",
-  "compatibility": "Zone inférieure.",
-  "diet": "Algivore",
+  "behavior": "Actif, curieux, broute les algues et le biofilm. Territorial entre congénères.",
+  "compatibility": "Compatible avec la plupart des poissons récifaux. Attention : peut grignoter les coraux mous et les palétuviers.",
+  "diet": "Omnivore herbivore : spiruline, algues, artémias, mysis, paillettes marines enrichies.",
   "breeding": "Ovipare. Reproduction en aquarium très rare. Hermaphrodisme protogyne.",
   "notes": "Bac récifal mature avec algues coralliennes. Certaines espèces sont reef-safe, d'autres non.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/ae/Centropyge_vrolikii_332458558.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

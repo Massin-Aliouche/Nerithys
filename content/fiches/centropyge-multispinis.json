@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 14,
-  "behavior": "Zone: Centrale",
-  "compatibility": "Zone centrale.",
+  "behavior": "Actif, curieux, broute les algues et le biofilm. Territorial entre congénères.",
+  "compatibility": "Compatible avec la plupart des poissons récifaux. Attention : peut grignoter les coraux mous et les palétuviers.",
   "diet": "Omnivore à tendance herbivore : spiruline, algues, artémias, mysis, paillettes marines enrichies.",
   "breeding": "Ovipare. Reproduction en aquarium très rare. Hermaphrodisme protogyne.",
   "notes": "Bac récifal mature avec algues coralliennes. Certaines espèces sont reef-safe, d'autres non.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Centropyge_multispinis_R%C3%A9union.JPG/800px-Centropyge_multispinis_R%C3%A9union.JPG"
+  ],
   "gallery": [],
   "tags": [
     "marin",

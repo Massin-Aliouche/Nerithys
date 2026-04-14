@@ -15,9 +15,9 @@
   "minVolumeL": 200,
   "minLengthCm": 10,
   "behavior": "Population: 12 minimum (24 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
-  "compatibility": "Zone centrale, supérieure.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare, difficulté: Courante",
+  "compatibility": "Compatible avec des poissons actifs de taille similaire. Trop rapide pour les espèces très calmes.",
+  "diet": "Omnivore : paillettes, artémias, daphnies, moustiques, insectes de surface.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation. Reproduction facile en bac dédié.",
   "notes": "On trouve D. auropurpureus dans les eaux calmes et lentes, peu profonde, avec un fond densément végétalisé et une végétation flottante. L'eau du lac est claire, bien qu'elle puisse être localement boueuse et trouble lors de la saison des pluies, et le substrat limoneux est très fertile. La géologie locale est essentiellement karstique et le milieu est riche en carbonate de calcium. L'eau y est ...",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/e/e4/Devario_auropurpureus.jpg"

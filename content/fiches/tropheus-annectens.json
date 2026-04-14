@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 15,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale. Ratio M/F: 1 / 5",
+  "compatibility": "Compatible avec des espèces africaines de biotope et tempérament similaires. Prévoir un espace suffisant.",
   "diet": "Omnivore : paillettes pour cichlidés, artémias, mysis, spiruline.",
-  "breeding": "Ovipare",
+  "breeding": "Incubateur buccal maternel. Reproduction en colonie (groupe de 12+). Soins intensifs.",
   "notes": "Eau dure et alcaline. Décor rocheux avec de nombreux territoires.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/f/fc/Tropheus_annectens.jpg"

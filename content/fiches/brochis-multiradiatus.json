@@ -15,9 +15,9 @@
   "minVolumeL": 250,
   "minLengthCm": 12,
   "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 2 / 1",
-  "compatibility": "Zone inférieure.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible en bac communautaire amazonien avec des espèces de taille et tempérament similaires.",
+  "diet": "Omnivore : paillettes, artémias, daphnies, vers de vase, nourriture congelée variée.",
+  "breeding": "Ovipare. Mode de reproduction variable selon l'espèce (disperseur, substrat, cavité).",
   "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fish_at_Louisville_Zoo_025.jpg/960px-Fish_at_Louisville_Zoo_025.jpg"

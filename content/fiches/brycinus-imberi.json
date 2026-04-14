@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 20,
-  "behavior": "Zone: Centrale",
-  "compatibility": "Zone centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "behavior": "Population: 6 minimum (12 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
+  "compatibility": "Compatible avec des espèces africaines de biotope et tempérament similaires. Prévoir un espace suffisant.",
+  "diet": "Omnivore : paillettes pour cichlidés, artémias, mysis, spiruline, nourriture congelée.",
+  "breeding": "Incubateur buccal ou ovipare selon l'espèce. Soins parentaux développés.",
   "notes": "Eau dure et alcaline. Décor rocheux avec de nombreux territoires.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Brycinus_imberi_70328476.jpg/960px-Brycinus_imberi_70328476.jpg"

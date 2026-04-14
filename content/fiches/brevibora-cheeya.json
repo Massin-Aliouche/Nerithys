@@ -15,9 +15,9 @@
   "minVolumeL": 100,
   "minLengthCm": 6,
   "behavior": "Population: 10 minimum (20 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
-  "compatibility": "Zone centrale, supérieure.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible en communautaire avec des espèces de taille et tempérament similaires.",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers de vase, nourriture congelée variée.",
+  "breeding": "Ovipare. Reproduction variable selon l'espèce.",
   "notes": "B. cheeya fréquente les zones marécageuses et les petits affluents de rivières des forêts de bruyères côtières et des peuplements de Melaleuca poussant sur des substrats tourbeux et sableux. Les conditions de ce biotope sont faites d’eau acide (pH 4,5 en février 2009), colorée par les tanins, qui s’écoulent lentement. On privilégiera donc un bac biotope de type \"marécage forestier\", d'eau acide...",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/339339339/medium.jpeg"

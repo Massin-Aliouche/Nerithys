@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": 500,
   "minLengthCm": 12,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "behavior": "Actif, curieux, broute les algues et le biofilm. Territorial entre congénères.",
+  "compatibility": "Compatible avec la plupart des poissons récifaux. Attention : peut grignoter les coraux mous et les palétuviers.",
+  "diet": "Omnivore herbivore : spiruline, algues, artémias, mysis, paillettes marines enrichies.",
+  "breeding": "Ovipare. Reproduction en aquarium très rare. Ponte pélagique au crépuscule.",
   "notes": "Le Centropyge flavissima s'hybride avec plusieurs de ces congénères, aussi il ne doit pas être maintenu avec d'autres Centropyges.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Centropyge_flavissima.JPG/960px-Centropyge_flavissima.JPG"

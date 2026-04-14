@@ -17,9 +17,11 @@
   "behavior": "Territorial et actif. Défend vigoureusement son territoire contre les intrus.",
   "compatibility": "Compatible avec des poissons récifaux robustes. Peut harceler les nouveaux arrivants.",
   "diet": "Omnivore : paillettes marines, artémias, mysis, spiruline, algues.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare, pondeur sur substrat. Le mâle assure la garde des œufs.",
   "notes": "Robuste et coloré mais tempérament affirmé. Prévoir suffisamment de cachettes dans le récif.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/db/Pomacentrus_smithi1.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

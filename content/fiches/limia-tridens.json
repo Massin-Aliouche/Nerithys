@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 5,
-  "behavior": "Zone: Centrale, Supérieure",
-  "compatibility": "Zone centrale, supérieure.",
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
+  "compatibility": "Excellent en communautaire avec des espèces paisibles.",
   "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
   "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Limia_tridens_%281%29_%28cropped%29.jpg/800px-Limia_tridens_%281%29_%28cropped%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

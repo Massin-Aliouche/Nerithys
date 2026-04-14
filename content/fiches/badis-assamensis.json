@@ -15,9 +15,9 @@
   "minVolumeL": 100,
   "minLengthCm": 8,
   "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
-  "compatibility": "Zone inférieure.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
+  "diet": "Micro-prédateur : artémias, daphnies, vers de vase, cyclopes. Refuse souvent la nourriture sèche.",
+  "breeding": "Ovipare, pondeur en cavité. Le mâle garde les œufs dans un petit abri (roche, noix de coco).",
   "notes": "La localité du néotype était un affluent marécageux de plus de un mètre de profondeur avec une eau stagnante et brunâtre, situé dans des plaines, dans un paysage forestier, et avec des arbres près de la rive et des nénuphars dans l'eau, ainsi qu'un fond sablonneux. Cette espèce est soumise aux fluctuations saisonnières de température dans la nature et se sent à l'aise entre 15 et 25 °C, des ext...",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/262372511/large.jpeg"

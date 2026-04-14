@@ -15,9 +15,9 @@
   "minVolumeL": 80,
   "minLengthCm": 4.5,
   "behavior": "Population: 10 minimum. Zone: Centrale",
-  "compatibility": "Zone centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible avec la plupart des espèces communautaires. Trop vif pour les poissons très calmes.",
+  "diet": "Omnivore : paillettes flottantes, artémias, daphnies, vers de vase, nourriture congelée variée.",
+  "breeding": "Ovipare, disperseur d'œufs. Reproduction facile : changement d'eau et lumière du matin la déclenchent.",
   "notes": "On peut, si on le désire, essayer de reproduire le lit d'un ruisseau avec un substrat de roches et de graviers de tailles variables et quelques gros rochers usés par l'eau. Toutefois, l'ajout de plantes, s'il n'est pas obligatoire, lui servira de refuge et le mettra en confiance. Comme nous l'avons vu, son habitat varie entre courant fort et eau stagnante. Le brassage n'a donc que très peu d’im...",
   "images": [
     "https://www.b-aqua.com/photos/1/1473.jpg"

@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 12,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
+  "behavior": "Paisible, actif, nage en pleine eau. Les mâles paradent avec des couleurs spectaculaires.",
+  "compatibility": "Excellent en récifal, reef-safe. Compatible avec la plupart des poissons.",
   "diet": "Planctivore/carnivore : mysis, artémias enrichies, cyclopes, nourriture fine congelée.",
   "breeding": "Ovipare. Reproduction très rare en captivité. Hermaphrodisme protogyne.",
   "notes": "Labres magnifiques. Bac couvert (sauteur). Nourrir 2-3 fois par jour avec du vivant/congelé.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Exquisite_fairy_wrasse_%28Cirrhilabrus_exquisitus%29_%2841880841680%29.jpg/800px-Exquisite_fairy_wrasse_%28Cirrhilabrus_exquisitus%29_%2841880841680%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

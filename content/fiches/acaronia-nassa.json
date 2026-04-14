@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 16,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
+  "behavior": "Paisible, préfère un aquarium planté avec des zones ombragées. Grégaire pour la plupart des espèces.",
+  "compatibility": "Compatible en bac communautaire amazonien avec des espèces de taille et tempérament similaires.",
   "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare. Mode de reproduction variable selon l'espèce (disperseur, substrat, cavité).",
   "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://static.inaturalist.org/photos/668649/medium.JPG"

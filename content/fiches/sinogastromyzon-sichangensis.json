@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 3,
-  "behavior": "Zone: Fond",
-  "compatibility": "Zone fond.",
+  "behavior": "Actif, vit en groupe pour la plupart des espèces. Préfère un bac planté avec courant léger à modéré.",
+  "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
   "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare. Reproduction variable selon l'espèce.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/465640808/large.jpg"

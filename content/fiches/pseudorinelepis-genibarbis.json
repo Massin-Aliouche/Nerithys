@@ -17,7 +17,7 @@
   "behavior": "Territorial, intelligent. Peut creuser le substrat et réarranger le décor.",
   "compatibility": "Compatible avec des poissons de taille adaptée. Éviter les espèces trop petites.",
   "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare. Mode de reproduction variable selon l'espèce (disperseur, substrat, cavité).",
   "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://zenodo.org/record/3998522/files/figure.png"

@@ -15,9 +15,9 @@
   "minVolumeL": 120,
   "minLengthCm": 6,
   "behavior": "Population: 8 minimum. Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible avec des poissons de taille similaire. Peut être turbulent pour les espèces calmes.",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers, nourriture végétale en complément.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation. Reproduction relativement facile.",
   "notes": "Bien qu'il ne soit vraiment pas exigeant quant à sa maintenance, il est recommandé de le maintenir dans un aquarium bien planté. L'ajout de quelques plantes flottantes et de racines ou branches de bois flotté pour diffuser la lumière entrant dans l'aquarium semble également être apprécié et apporte une sensation plus naturelle. Là encore, il se montre assez adaptable, la filtration n'a pas beso...",
   "images": [
     "https://www.b-aqua.com/photos/1/3005.jpg"

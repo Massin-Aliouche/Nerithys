@@ -15,9 +15,9 @@
   "minVolumeL": 250,
   "minLengthCm": 13,
   "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure, Centrale, Supérieure. Ratio M/F: 1 / 1",
-  "compatibility": "Zone inférieure, centrale, supérieure.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible avec des poissons de taille similaire. Peut être turbulent pour les espèces calmes.",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers, nourriture végétale en complément.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation. Reproduction relativement facile.",
   "notes": "On trouve principalement Barbodes kuchingensis dans les ruisseaux forestiers peu profonds contenant de l'eau claire, parfois dans les bassins qui se forment au pied des cascades. Les substrats peuvent comprendre des roches lisses et usées par l'eau et des rochers de différentes tailles, du sable ou du gravier, souvent avec des structures ligneuses submergées, de la litière de feuilles et des pl...",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/4/4d/Puntius_kuchingensis.JPG"

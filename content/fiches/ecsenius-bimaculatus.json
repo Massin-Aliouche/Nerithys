@@ -17,9 +17,11 @@
   "behavior": "Actif, nage parmi les coraux et roches du récif.",
   "compatibility": "Compatible avec les poissons récifaux de tempérament similaire.",
   "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare, pondeur en cavité. Le mâle garde les œufs. Reproduction possible en récifal.",
   "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Twinspot_coralblenny_%28Ecsenius_bimaculatus%29_%2837139790715%29.jpg/800px-Twinspot_coralblenny_%28Ecsenius_bimaculatus%29_%2837139790715%29.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

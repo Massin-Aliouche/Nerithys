@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 8,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare",
+  "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Compatible en communautaire avec des espèces de taille et tempérament similaires.",
+  "diet": "Carnivore : escargots (essentiels pour user le bec), crevettes, vers, moules, nourriture dure.",
+  "breeding": "Ovipare. Reproduction rare en captivité. Certaines espèces pondent sur substrat.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/9/98/Tetraodonbiocellatus.jpg"

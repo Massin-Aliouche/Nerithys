@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 30,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "behavior": "Paisible, grégaire, vit en banc de 6 minimum. Nage en pleine eau.",
+  "compatibility": "Excellent en communautaire avec des espèces paisibles.",
+  "diet": "Omnivore : paillettes, artémias, daphnies, vers de vase, nourriture congelée fine.",
+  "breeding": "Ovipare. Reproduction variable selon l'espèce.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/2/27/Tinfoil_Barb_700.jpg"

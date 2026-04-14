@@ -15,9 +15,9 @@
   "minVolumeL": 40,
   "minLengthCm": 2.8,
   "behavior": "Population: 3 minimum. Zone: Centrale. Ratio M/F: 1 / 2",
-  "compatibility": "Zone centrale.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
+  "diet": "Micro-prédateur exigeant : artémias nauplies, cyclopes, micro-vers. Refuse la nourriture sèche.",
+  "breeding": "Ovipare, pondeur caché. Le mâle garde les œufs dans la mousse ou sous une feuille.",
   "notes": "En cours de mise à jour : Pour la maintenance et la reproduction et en l'absence de données précises, on se référera à celles des autres badidés",
   "images": [
     "https://zenodo.org/record/209966/files/figure.png"

@@ -15,9 +15,9 @@
   "minVolumeL": 250,
   "minLengthCm": 12,
   "behavior": "Population: 6 minimum (10 recommandé). Zone: Centrale. Ratio M/F: 1 / 1",
-  "compatibility": "Zone centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible avec des poissons de taille similaire. Peut être turbulent pour les espèces calmes.",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers, nourriture végétale en complément.",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation. Reproduction relativement facile.",
   "notes": "L'aquarium peut être agencer pour ressembler à un ruisseau ou une rivière avec un substrat de roches de taille variable, usées par l'eau, du sable, du gravier fin et peut-être quelques petits rochers. Ce substrat peut être complété par des racines ou des branches de bois flotté. Bien que son milieu naturel soit pauvre en plantes aquatiques et que celles-ci s'adapte assez difficilement à ce type...",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/c/ca/Clownbarbe_2.jpg"

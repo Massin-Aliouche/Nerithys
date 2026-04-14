@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 8,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
+  "behavior": "Comportement variable selon les espèces. Généralement actif, certaines espèces sont grégaires.",
+  "compatibility": "Compatible en communautaire avec des espèces de taille et tempérament similaires.",
   "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
-  "breeding": "Vivipare",
+  "breeding": "Ovipare. Reproduction variable selon l'espèce.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://www.b-aqua.com/photos/1/3463.jpg"

@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 7,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
+  "behavior": "Relativement calme pour un Mbuna. Les mâles défendent un territoire mais avec moins d'agressivité.",
+  "compatibility": "Bon choix pour un premier bac Malawi. Compatible avec des Mbuna modérés.",
   "diet": "Omnivore : paillettes, spiruline, artémias, mysis, petits invertébrés.",
   "breeding": "Incubateur buccal maternel. Reproduction aisée en aquarium.",
   "notes": "Classique du lac Malawi. L. caeruleus (Yellow) est l'un des cichlidés les plus populaires.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Labidochromis_lividus.jpg/800px-Labidochromis_lividus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

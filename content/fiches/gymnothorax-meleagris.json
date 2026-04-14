@@ -16,10 +16,12 @@
   "minLengthCm": 110,
   "behavior": "Nocturne, se cache dans les roches le jour. Prédateur embusqué, calme mais imprévisible.",
   "compatibility": "Uniquement avec de gros poissons qu'il ne peut pas avaler. Peut mordre les doigts !",
-  "diet": "Carnivore",
-  "breeding": "Ovipare",
+  "diet": "Omnivore marin : mysis, artémias, paillettes marines, nourriture congelée marine, algues selon l'espèce.",
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité. Ponte pélagique ou sur substrat selon l'espèce.",
   "notes": "Évasion fréquente : couvercle parfaitement hermétique obligatoire. Volume adapté à la taille adulte.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gymnothorax_meleagris.jpg/800px-Gymnothorax_meleagris.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

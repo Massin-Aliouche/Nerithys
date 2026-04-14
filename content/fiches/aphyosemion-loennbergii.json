@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 5,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare",
+  "behavior": "Calme, discret, territorial entre mâles. Nage principalement dans le tiers supérieur.",
+  "compatibility": "Compatible avec des espèces très paisibles de petite taille. Éviter les poissons vifs.",
+  "diet": "Micro-prédateur : artémias, daphnies, vers grindal, cyclopes, micro-vers. Préfère la nourriture vivante.",
+  "breeding": "Ovipare, pondeur en mousse ou tourbe. Les œufs peuvent nécessiter une diapause pour certaines espèces.",
   "notes": "Bac spécifique recommandé. Eau douce et acide. Éclairage tamisé, couvert (sauteur).",
   "images": [
     "https://static.inaturalist.org/photos/279267245/medium.png"

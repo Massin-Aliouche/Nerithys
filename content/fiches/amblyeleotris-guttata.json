@@ -15,9 +15,9 @@
   "minVolumeL": 200,
   "minLengthCm": 11,
   "behavior": "Population: 1 minimum. Zone: Fond. Ratio M/F: 1 / 1",
-  "compatibility": "Zone fond.",
-  "diet": "Omnivore",
-  "breeding": "difficulté: Impossible",
+  "compatibility": "Compatible avec les poissons récifaux de taille et tempérament similaires. Vérifier la compatibilité récifale.",
+  "diet": "Carnivore : mysis, artémias, cyclopes, nourriture congelée fine marine.",
+  "breeding": "Ovipare. Reproduction rare en captivité. Pond dans le terrier partagé avec la crevette.",
   "notes": "Introduction avec une crevette Alpheus recommandée. Substrat de sable fin pour le terrier.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amblyeleotris_guttata-Orange_Spotted_Goby.jpg/960px-Amblyeleotris_guttata-Orange_Spotted_Goby.jpg"

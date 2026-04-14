@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 12,
-  "behavior": "Zone: Centrale",
-  "compatibility": "Zone centrale.",
+  "behavior": "Adapté aux eaux saumâtres, souvent actif et robuste. Peut tolérer des variations de salinité.",
+  "compatibility": "Compatible avec les espèces tolérant les mêmes conditions saumâtres.",
   "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare. Reproduction variable selon l'espèce.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Assel-Kugelfisch_2.jpg/960px-Assel-Kugelfisch_2.jpg"

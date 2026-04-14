@@ -14,9 +14,9 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 30,
-  "behavior": "Zone: Inférieure",
-  "compatibility": "Zone inférieure.",
-  "diet": "Carnivore",
+  "behavior": "Population: 5 minimum (5 recommandé). Zone: Inférieure, Centrale",
+  "compatibility": "Compatible avec des espèces africaines de biotope et tempérament similaires. Prévoir un espace suffisant.",
+  "diet": "Carnivore : poissons, mysis, crevettes, moules, nourriture carnée de qualité.",
   "breeding": "Généralement incubateur buccal. Soins parentaux développés.",
   "notes": "Eau dure et alcaline. Décor rocheux avec de nombreux territoires.",
   "images": [

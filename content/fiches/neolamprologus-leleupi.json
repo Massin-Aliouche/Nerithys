@@ -15,11 +15,13 @@
   "minVolumeL": 200,
   "minLengthCm": 12,
   "behavior": "Population: 5 minimum. Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
+  "compatibility": "Compatible avec des espèces africaines de biotope et tempérament similaires. Prévoir un espace suffisant.",
   "diet": "Omnivore à carnivore : artémias, mysis, cyclopes, nourriture congelée, paillettes pour cichlidés.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare, pondeur sur substrat ou en coquille selon l'espèce. Soins biparentaux. Couples territoriaux.",
   "notes": "Eau dure et alcaline (pH 7.5-9). Décor de roches empilées et/ou coquilles d'escargots vides.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Neolamprologus_leleupi_Natural_History_Museum_University_of_Pisa.jpg/800px-Neolamprologus_leleupi_Natural_History_Museum_University_of_Pisa.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

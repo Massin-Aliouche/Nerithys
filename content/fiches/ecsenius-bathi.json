@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 4.5,
-  "behavior": "Zone: Inférieure",
-  "compatibility": "Zone inférieure.",
+  "behavior": "Actif, nage parmi les coraux et roches du récif.",
+  "compatibility": "Compatible avec les poissons récifaux de tempérament similaire.",
   "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare, pondeur en cavité. Le mâle garde les œufs. Reproduction possible en récifal.",
   "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blenny_komodo.jpg/960px-Blenny_komodo.jpg"

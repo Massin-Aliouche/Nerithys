@@ -15,9 +15,9 @@
   "minVolumeL": null,
   "minLengthCm": 1.2,
   "behavior": "Population: 10 minimum. Zone: Centrale",
-  "compatibility": "Zone centrale.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare",
+  "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
+  "diet": "Micro-prédateur : artémias nauplies, cyclopes, micro-vers, paramécies, nourriture très fine.",
+  "breeding": "Ovipare, disperse de minuscules œufs dans la mousse. Eau très douce et acide. Nourriture infusoirielle pour les alevins.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://zenodo.org/record/201021/files/figure.png"

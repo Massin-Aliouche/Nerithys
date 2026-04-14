@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 13,
-  "behavior": "Zone: Fond",
-  "compatibility": "Zone fond.",
+  "behavior": "Paisible, préfère un aquarium planté avec des zones ombragées. Grégaire pour la plupart des espèces.",
+  "compatibility": "Compatible en bac communautaire amazonien avec des espèces de taille et tempérament similaires.",
   "diet": "Omnivore : granulés pour cichlidés, artémias, vers de vase, nourriture congelée.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare. Pond de gros œufs sur le substrat. Les parents ne prodiguent pas de soins.",
   "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/351247361/large.jpg"

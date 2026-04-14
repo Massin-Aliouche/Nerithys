@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 5,
-  "behavior": "Zone: Centrale",
-  "compatibility": "Zone centrale.",
+  "behavior": "Population: 12 minimum (24 recommandé). Zone: Centrale, Supérieure. Ratio M/F: 1 / 1",
+  "compatibility": "Parfait en communautaire. Compatible avec la plupart des petits poissons paisibles.",
   "diet": "Omnivore : paillettes fines, artémias, daphnies, cyclopes, nourriture congelée fine.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare, disperseur d'œufs dans la végétation. Eau très douce et acide pour la reproduction.",
   "notes": "Bac planté avec espace de nage. Préfère une eau douce et légèrement colorée (tannins).",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/130339889/large.jpg"

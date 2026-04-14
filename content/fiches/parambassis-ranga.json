@@ -14,12 +14,14 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 8,
-  "behavior": "Zone: Centrale",
-  "compatibility": "Zone centrale.",
+  "behavior": "Population: 6 minimum. Zone: Inférieure, Centrale",
+  "compatibility": "Compatible avec les espèces tolérant les mêmes conditions saumâtres.",
   "diet": "Omnivore : paillettes fines, artémias, daphnies, nourriture congelée fine.",
   "breeding": "Ovipare, disperseur d'œufs dans la végétation ou la mousse.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/77/Parambassis_ranga_2.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

@@ -14,9 +14,9 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 34,
-  "behavior": "Zone: Fond",
-  "compatibility": "Zone fond.",
-  "diet": "Carnivore",
+  "behavior": "Prédateur actif, territorial, puissant. Nécessite un très grand aquarium. Nage en pleine eau.",
+  "compatibility": "Uniquement avec des poissons de grande taille qu'il ne peut pas avaler. Cohabitation délicate.",
+  "diet": "Carnivore/piscivore : poissons, gros vers, crevettes, nourriture fraîche ou congelée volumineuse.",
   "breeding": "Ovipare, pondeur sur substrat. Les deux parents gardent la ponte et les alevins.",
   "notes": "Une maintenance en aquarium est peu conseillée de par sa taille et ses tendances fortement prédatrices, c’est un poisson plutôt à réserver à un aquarium public de plusieurs mètres cubes.",
   "images": [

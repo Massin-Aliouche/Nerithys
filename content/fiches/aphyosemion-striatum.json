@@ -15,9 +15,9 @@
   "minVolumeL": 20,
   "minLengthCm": 5,
   "behavior": "Population: 2 minimum. Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible avec des espèces très paisibles de petite taille. Éviter les poissons vifs.",
+  "diet": "Micro-prédateur : artémias, daphnies, vers grindal, cyclopes, micro-vers. Préfère la nourriture vivante.",
+  "breeding": "Ovipare, pondeur en mousse ou tourbe. Les œufs peuvent nécessiter une diapause pour certaines espèces.",
   "notes": "L'aquarium doit avant tout comporter des zones de plantation dense et des morceaux de bois pour servir de couverture. L'utilisation de plantes flottantes pour diffuser davantage la lumière est également recommandée. La température d’une pièce chauffée est suffisante, soit entre 20 et 22°C. Une température plus chaude, par exemple 25°C , accélère leur métabolisme et espérance de de vie est racco...",
   "images": [
     "https://www.b-aqua.com/photos/1/408.jpg"

@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 30,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Végétarien",
-  "breeding": "Ovipare",
+  "behavior": "Territorial, intelligent. Peut creuser le substrat et réarranger le décor.",
+  "compatibility": "Compatible avec des poissons de taille adaptée. Éviter les espèces trop petites.",
+  "diet": "Omnivore : paillettes, artémias, daphnies, vers de vase, nourriture congelée variée.",
+  "breeding": "Ovipare. Mode de reproduction variable selon l'espèce (disperseur, substrat, cavité).",
   "notes": "Bac spacieux avec racines et cachettes. Substrat sableux.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Fish_fauna_%2810.3897-zookeys.875.31977%29_Figure_6.jpg/960px-Fish_fauna_%2810.3897-zookeys.875.31977%29_Figure_6.jpg"

@@ -15,9 +15,9 @@
   "minVolumeL": null,
   "minLengthCm": 6,
   "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
-  "compatibility": "Zone inférieure.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare",
+  "compatibility": "Compatible avec les tétras, Corydoras, petits Loricariidés. Éviter d'autres cichlidés nains dans un petit volume.",
+  "diet": "Omnivore à tendance carnivore : artémias, vers de vase, daphnies, cyclopes, nourriture congelée de qualité.",
+  "breeding": "Ovipare, pondeur sur substrat caché. La femelle garde les œufs et alevins dans une cavité. Soins maternels intenses.",
   "notes": "Eau douce et acide recommandée. Bac densément planté avec nombreuses cachettes (noix de coco, cavernes).",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/382789503/large.jpg"

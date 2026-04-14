@@ -16,10 +16,12 @@
   "minLengthCm": 20,
   "behavior": "Paisible, grégaire, vit en banc de 6 minimum. Nage en pleine eau.",
   "compatibility": "Excellent en communautaire avec des espèces paisibles.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers de vase, nourriture congelée variée.",
+  "breeding": "Ovipare. Reproduction variable selon l'espèce.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Etroplus_suratensis.jpg/800px-Etroplus_suratensis.jpg"
+  ],
   "gallery": [],
   "tags": [
     "saumâtre",

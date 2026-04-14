@@ -15,9 +15,9 @@
   "minVolumeL": 500,
   "minLengthCm": 15,
   "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "compatibility": "Compatible avec les poissons récifaux de taille et tempérament similaires. Vérifier la compatibilité récifale.",
+  "diet": "Omnivore marin : mysis, artémias, paillettes marines, nourriture congelée marine, algues selon l'espèce.",
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité. Ponte pélagique ou sur substrat selon l'espèce.",
   "notes": "Ctenochaetus strigosus est agressif envers les autres poissons chirurgiens, en particuliers ceux de son espèce. Il est préférable donc de le maintenir dans un volume important si on souhaite maintenir plusieurs individus. Bien qu'il s'agisse d'une espèce plutôt robuste et adaptable, il peut se montre sensible aux protozoaires.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Butterfly_Pavilion_8-23_%2820915221696%29_%28cropped%29.jpg/960px-Butterfly_Pavilion_8-23_%2820915221696%29_%28cropped%29.jpg"

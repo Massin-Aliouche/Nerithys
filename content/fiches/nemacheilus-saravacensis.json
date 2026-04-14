@@ -15,9 +15,9 @@
   "minVolumeL": 120,
   "minLengthCm": 5.5,
   "behavior": "Population: 6 minimum (12 recommandé). Zone: Inférieure. Ratio M/F: 1 / 1",
-  "compatibility": "Zone inférieure.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
+  "diet": "Omnivore : paillettes, artémias, daphnies, vers de vase, nourriture congelée fine.",
+  "breeding": "Ovipare. Reproduction variable selon l'espèce.",
   "notes": "Nemacheilus saravacensis fréquente dans les ruisseaux forestiers, généralement sur des fonds sableux avec des débris débris organiques sous forme de racines, de branches et de litière de feuilles submergées. L'eau de ces habitats se caractérise par une faible dureté minérale et un pH faible. N. saravacensis n'est pas très difficile à maintenir dans de bonnes conditions mais il est fortement rec...",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/356946467/medium.jpeg"

@@ -15,11 +15,13 @@
   "minVolumeL": 50,
   "minLengthCm": 3.5,
   "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 2",
-  "compatibility": "Zone centrale, supérieure.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible en communautaire avec des espèces de taille et tempérament similaires.",
+  "diet": "Omnivore : paillettes, granulés, artémias, vers de vase, nourriture congelée variée.",
+  "breeding": "Ovipare. Reproduction variable selon l'espèce.",
   "notes": "En cours de mise à jour : L'habitat comprend les marécages fortement végétalisés et de petits ruisseaux très lents, généralement sur de la boue (Snelson Jr., F.F., T.J. Krabbenhoft and J.M. Quattro, 2009). On pourra donc aisément maintenir ce poisson en bac libre de technologie (no tech.). Comme pour les autres espèces du genre, l'aquarium doit être très planté et l'utilisation de plantes flott...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elassoma_Gilberti_male_in_breeding_colors.jpg/800px-Elassoma_Gilberti_male_in_breeding_colors.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",

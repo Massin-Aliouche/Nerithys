@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 25,
-  "behavior": "Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "behavior": "Comportement variable selon les espèces. Généralement actif, certaines espèces sont grégaires.",
+  "compatibility": "Compatible en communautaire avec des espèces de taille et tempérament similaires.",
+  "diet": "Omnivore : granulés pour cichlidés, vers de vase, crevettes, artémias, nourriture congelée.",
+  "breeding": "Ovipare, pondeur sur substrat. Soins biparentaux. Très territorial pendant la reproduction.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://www.b-aqua.com/photos/1/304.jpg"

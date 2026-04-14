@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": 300,
   "minLengthCm": 7,
-  "behavior": "Zone: Inférieure",
-  "compatibility": "Zone inférieure.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "behavior": "Paisible, grégaire, vit en banc de 6 minimum. Nage en pleine eau.",
+  "compatibility": "Excellent en communautaire avec des espèces paisibles.",
+  "diet": "Omnivore : tamise le sable, artémias, mysis, cyclopes, nourriture congelée fine.",
+  "breeding": "Incubateur buccal biparental. Le couple se relaye pour incuber les œufs en bouche.",
   "notes": "Bac planté avec espace de nage. Eau douce et légèrement acide.",
   "images": [
     "https://www.b-aqua.com/photos/1/3417.jpg"

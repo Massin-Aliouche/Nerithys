@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 3,
-  "behavior": "Zone: Inférieure",
-  "compatibility": "Zone inférieure.",
-  "diet": "Végétarien",
-  "breeding": "Ovipare",
+  "behavior": "Paisible, vit fixé aux roches. Se déplace en se collant aux surfaces. Grégaire, préfère un groupe.",
+  "compatibility": "Compatible avec les poissons de rivière rapide. Éviter les espèces de fond territoriales.",
+  "diet": "Herbivore/périphyton : algues, biofilm, spiruline, courgettes blanchies. Courant fort nécessaire.",
+  "breeding": "Ovipare. Reproduction possible en aquarium avec fort courant et eau fraîche bien oxygénée.",
   "notes": "voir G.scitulus.",
   "images": [
     "https://www.b-aqua.com/photos/1/1673.jpg"

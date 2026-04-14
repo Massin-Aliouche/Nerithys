@@ -16,8 +16,8 @@
   "minLengthCm": 8,
   "behavior": "Territorial et actif. Défend vigoureusement son territoire contre les intrus.",
   "compatibility": "Compatible avec des poissons récifaux robustes. Peut harceler les nouveaux arrivants.",
-  "diet": "Algivore",
-  "breeding": "Ovipare",
+  "diet": "Omnivore : paillettes marines, artémias, mysis, spiruline, algues, nourriture variée.",
+  "breeding": "Ovipare, pondeur sur substrat. Le mâle assure la garde des œufs.",
   "notes": "Robuste et coloré mais tempérament affirmé. Prévoir suffisamment de cachettes dans le récif.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pomacentrus_chrysurus.jpg"

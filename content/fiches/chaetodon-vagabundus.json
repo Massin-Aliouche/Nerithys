@@ -16,10 +16,12 @@
   "minLengthCm": 15,
   "behavior": "Paisible, nage lentement et élégamment. Souvent en couple. Fouille les roches et coraux.",
   "compatibility": "Compatible avec de nombreux poissons récifaux. Attention : beaucoup d'espèces mangent les coraux (corallivores).",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "diet": "Omnivore à corallivore : artémias, mysis, moules, éponges, petits crustacés. Régime selon l'espèce.",
+  "breeding": "Ovipare. Reproduction non réalisée en aquarium. Ponte pélagique au crépuscule.",
   "notes": "Espèce souvent difficile à maintenir (régime spécialisé). Choisir les espèces réputées faciles (C. auriga, C. lunula).",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chaetodon_vagabundus.jpg/800px-Chaetodon_vagabundus.jpg"
+  ],
   "gallery": [],
   "tags": [
     "marin",

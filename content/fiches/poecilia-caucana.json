@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 6,
-  "behavior": "Zone: Centrale, Supérieure",
-  "compatibility": "Zone centrale, supérieure.",
+  "behavior": "Population: 6 minimum. Zone: Centrale, Supérieure. Ratio M/F: 1 / 3",
+  "compatibility": "Très compatible en communautaire avec petits poissons.",
   "diet": "Omnivore à tendance herbivore : paillettes, spiruline, algues, artémias, complément végétal.",
-  "breeding": "Ovovivipare",
+  "breeding": "Vivipare. Reproduction spontanée et prolifique. Gestation de 4-6 semaines. 2-3 femelles par mâle.",
   "notes": "Eau dure et alcaline préférée (pH 7-8.5). Guppy Endler, Molly, Guppy : multiples variétés.",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/3/32/Poecilia_caucana_%2816609670050%29.jpg"

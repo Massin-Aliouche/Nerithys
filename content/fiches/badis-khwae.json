@@ -15,9 +15,9 @@
   "minVolumeL": 80,
   "minLengthCm": 6.5,
   "behavior": "Population: 3 minimum. Zone: Inférieure. Ratio M/F: 1 / 2",
-  "compatibility": "Zone inférieure.",
-  "diet": "Carnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible en bac communautaire asiatique avec des espèces paisibles de taille similaire.",
+  "diet": "Micro-prédateur : artémias, daphnies, vers de vase, cyclopes. Refuse souvent la nourriture sèche.",
+  "breeding": "Ovipare, pondeur en cavité. Le mâle garde les œufs dans un petit abri (roche, noix de coco).",
   "notes": "La plupart des spécimens ont été collectés dans des cours d'eau à débit lent à modéré et aux eaux troubles ou claires selon la saison. Badis khwae fréquente de petits ruisseaux peu profond avec un fond sablonneux avec un peu de végétation aquatique, sous le couvert des arbres ou dans un ruisseau relativement grand et dans un réservoir alimenté par une source où l'eau y était très claire et froi...",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/601755485/large.jpg"

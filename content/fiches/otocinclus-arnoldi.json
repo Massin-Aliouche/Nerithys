@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": 80,
   "minLengthCm": 5,
-  "behavior": "Population: 5 minimum",
+  "behavior": "Paisible, grégaire, algavore passionné. Constamment en train de brouter les surfaces. Vit en groupe de 6 minimum.",
   "compatibility": "Parfait pour les bacs communautaires paisibles. Ne supporte pas les poissons agressifs.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "diet": "Principalement herbivore : algues, spiruline, courgettes blanchies, pastilles d'algues. Biofilm indispensable.",
+  "breeding": "Ovipare. Reproduction rare en aquarium. Pond de petits œufs adhésifs sur les feuilles.",
   "notes": "C’est un poisson pacifique qui ne pose pas de problème en aquarium communautaire.",
   "images": [
     "https://zenodo.org/record/17754070/files/figure.png"

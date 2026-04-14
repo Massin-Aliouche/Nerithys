@@ -15,8 +15,8 @@
   "minVolumeL": 450,
   "minLengthCm": 40,
   "behavior": "Population: 1 minimum. Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Carnivore",
+  "compatibility": "Compatible avec les espèces tolérant les mêmes conditions saumâtres.",
+  "diet": "Carnivore : escargots (essentiels pour user le bec), crevettes, vers, moules, nourriture dure.",
   "breeding": "Ovipare, difficulté: Difficile",
   "notes": "Ce tetraodon vit en eau douce, il n'est donc pas nécessaire d'ajouter du sel dans l'aquarium. Le décor peut être constitué d'un substrat sableux avec des roches lisses et des morceaux de bois flotté, mais on doit laisser un vaste espace de nage libre. L'aquarium peut être planté, mais ces tetraodons peuvent mordre les feuilles s'ils y repèrent de la nourriture. Cette espèce, généralement très a...",
   "images": [

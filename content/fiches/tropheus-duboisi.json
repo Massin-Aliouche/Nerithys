@@ -15,9 +15,9 @@
   "minVolumeL": 400,
   "minLengthCm": 12,
   "behavior": "Population: 8 minimum (12 recommandé). Zone: Inférieure, Centrale",
-  "compatibility": "Zone inférieure, centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare, difficulté: Possible",
+  "compatibility": "Compatible avec des espèces africaines de biotope et tempérament similaires. Prévoir un espace suffisant.",
+  "diet": "Strictement herbivore : spiruline, algues, paillettes végétales. Aucune protéine animale (risque de bloat).",
+  "breeding": "Incubateur buccal maternel. Reproduction en colonie (groupe de 12+). Soins intensifs.",
   "notes": "L'agencement de l'aquarium sera typique d'un aquarium du Tanganyika, avec des empilements de roches pour former de nombreuses structures en forme de grottes et de cachettes, entrecoupées de zones ouvertes pour la nage. Le substrat se compose de sable. Le brassage doit correctement oxygéner l'eau. Il a une réputation quelque peu douteuse de comportement agressif, mais celle-ci n'est pas méritée....",
   "images": [
     "https://www.b-aqua.com/photos/1/3371.jpg"

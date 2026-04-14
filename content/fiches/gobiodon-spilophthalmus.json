@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 3.6,
-  "behavior": "Zone: Fond",
-  "compatibility": "Zone fond.",
+  "behavior": "Actif dans le récif, nage parmi les coraux et roches. Comportement territorial variable selon les espèces.",
+  "compatibility": "Compatible avec les poissons récifaux de taille et tempérament similaires. Vérifier la compatibilité récifale.",
   "diet": "Omnivore marin : mysis, artémias, nourriture congelée marine, paillettes marines.",
-  "breeding": "Ovipare",
+  "breeding": "Ovipare, pondeur en branche de corail. Couple monogame. Reproduction possible en récifal.",
   "notes": "Bac récifal avec paramètres stables. Qualité de l'eau excellente requise.",
   "images": [
     "https://inaturalist-open-data.s3.amazonaws.com/photos/376160875/medium.jpeg"

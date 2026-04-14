@@ -15,9 +15,9 @@
   "minVolumeL": 10000,
   "minLengthCm": 50,
   "behavior": "Population: 1 minimum. Zone: Centrale",
-  "compatibility": "Zone centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "compatibility": "Compatible avec les poissons récifaux de tempérament similaire.",
+  "diet": "Omnivore marin : mysis, artémias, paillettes marines, nourriture congelée marine, algues selon l'espèce.",
+  "breeding": "Ovipare. Reproduction rarement réalisée en captivité. Ponte pélagique ou sur substrat selon l'espèce.",
   "notes": "C'est un poisson calme, se souciant peu des autres occupants de l'aquarium.",
   "images": [
     "https://www.b-aqua.com/photos/1/2706.jpg"

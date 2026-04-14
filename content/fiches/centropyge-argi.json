@@ -14,10 +14,10 @@
   "khMax": null,
   "minVolumeL": null,
   "minLengthCm": 7,
-  "behavior": "Zone: Centrale",
-  "compatibility": "Zone centrale.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "behavior": "Actif, curieux, broute les algues et le biofilm. Territorial entre congénères.",
+  "compatibility": "Compatible avec la plupart des poissons récifaux. Attention : peut grignoter les coraux mous et les palétuviers.",
+  "diet": "Omnivore herbivore : spiruline, algues, artémias, mysis, paillettes marines enrichies.",
+  "breeding": "Ovipare. Reproduction en aquarium très rare. Ponte pélagique au crépuscule.",
   "notes": "Bac récifal mature avec algues coralliennes. Certaines espèces sont reef-safe, d'autres non.",
   "images": [
     "https://images.naturalis.nl/original/csr%2FCentropyge%20argi%20Woods%20%26%20Kanazawa%201951%20-%20JT%20Williams%20-%20Saba%20Bank.png"

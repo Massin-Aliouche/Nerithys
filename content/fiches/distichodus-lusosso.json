@@ -15,11 +15,13 @@
   "minVolumeL": 300,
   "minLengthCm": 40,
   "behavior": "Population: 1 minimum. Zone: Inférieure",
-  "compatibility": "Zone inférieure.",
-  "diet": "Omnivore",
-  "breeding": "Ovipare",
+  "compatibility": "Compatible avec d'autres cichlidés africains de taille similaire.",
+  "diet": "Omnivore : paillettes pour cichlidés, artémias, mysis, spiruline, nourriture congelée.",
+  "breeding": "Incubateur buccal ou ovipare selon l'espèce. Soins parentaux développés.",
   "notes": "Le Distichodus lusosso ne peut pas être maintenu dans un aquarium planté, car il mangera la plupart des plantes vertes. L'agencement de l'aquarium sera plutot compsé de roches lisses et de branches de bois flotté, du sable ou du gravier peuvent être utilisés comme substrat. Il reste toutefois possible d'ajouter quelques plantes a feuille épaisses comme des Anubias ou des Bolbitis, car la plupar...",
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Distichodus_with_a_long_nose.jpg/800px-The_Distichodus_with_a_long_nose.jpg"
+  ],
   "gallery": [],
   "tags": [
     "eau-douce",
