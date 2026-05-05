@@ -1,0 +1,86 @@
+[
+  {
+    "file": "acanthocobitis-botia.json",
+    "sci": "Acanthocobitis botia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Nemacheilus_botia_Day_156.jpg/960px-Nemacheilus_botia_Day_156.jpg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "acanthodoras-spinosissimus.json",
+    "sci": "Acanthodoras spinosissimus",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Acanthodoras_spinosissiums.jpg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "acantopsis-dialuzona.json",
+    "sci": "Acantopsis dialuzona",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Acantopsis_dialuzona.jpg/960px-Acantopsis_dialuzona.jpg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "aequidens-tetramerus.json",
+    "sci": "Aequidens tetramerus",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aequidens_tetramerus1.jpg/960px-Aequidens_tetramerus1.jpg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "alestopetersius-caudalis.json",
+    "sci": "Alestopetersius caudalis",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Yellow_tailed_tetra.jpg/960px-Yellow_tailed_tetra.jpg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "apistogramma-allpahuayo.json",
+    "sci": "Apistogramma allpahuayo",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Apistogramma_allpahuayo_Schwarzkinn-Zwergbuntbarsch.jpg/960px-Apistogramma_allpahuayo_Schwarzkinn-Zwergbuntbarsch.jpg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "austrolebias-carvalhoi.json",
+    "sci": "Austrolebias carvalhoi",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Austrolebias_carvalhoi_-_distribuci%C3%B3n.jpg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "corydoras-elegans.json",
+    "sci": "Corydoras elegans",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Corydoras_elegans.jpg/960px-Corydoras_elegans.jpg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "fundulopanchax-gardneri-nigerianus.json",
+    "sci": "Fundulopanchax gardneri nigerianus",
+    "url": "assets/images/fundulopanchax-cover.jpg",
+    "status": -1,
+    "type": "invalid"
+  },
+  {
+    "file": "hippocampus-hippocampus.json",
+    "sci": "Hippocampus hippocampus",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hippocampus_hippocampus_%28on_Ascophyllum_nodosum%29.jpg/960px-Hippocampus_hippocampus_%28on_Ascophyllum_nodosum%29.jpg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "synchiropus-bartelsi.json",
+    "sci": "Synchiropus bartelsi",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bartels_dragonet_%28Synchiropus_bartelsi%29.jpg/960px-Bartels_dragonet_%28Synchiropus_bartelsi%29.jpg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "xiphophorus-continens.json",
+    "sci": "Xiphophorus continens",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Xiphophorus_Continens_Young_Alpha_Male_%28119157163%29.jpeg/960px-Xiphophorus_Continens_Young_Alpha_Male_%28119157163%29.jpeg",
+    "status": 429,
+    "type": "text/html; charset=utf-8"
+  }
+]

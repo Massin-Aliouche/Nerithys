@@ -20,12 +20,9 @@
   "breeding": "Ponte sur substrat, parfois utilisation de plantes fines; retirer parents si nécessaire.",
   "notes": "Préférer un bac planté avec feuilles tombées pour simuler le biotope; maintenir une bonne qualité d'eau et des changements réguliers.",
   "images": [
-    "assets/images/fundulopanchax-cover.jpg"
+    "https://inaturalist-open-data.s3.amazonaws.com/photos/80272432/medium.png"
   ],
-  "gallery": [
-    "assets/images/fundulopanchax-1.jpg",
-    "assets/images/fundulopanchax-2.jpg"
-  ],
+  "gallery": [],
   "tags": [
     "killifish",
     "petite-taille",
